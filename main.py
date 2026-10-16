@@ -32,7 +32,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from enum import Enum
 from pathlib import Path
-from typing import Any, Iterator, Optional
+from typing import Any, Optional
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
@@ -86,13 +86,14 @@ SEEN_FILE = "seen_news.json"
 DAILY_STATE_FILE = "daily_state.json"
 SEEN_LIMIT = 1500
 
-MAX_POSTS_PER_RUN = 5          # bir ishga tushishda ko'pi bilan nechta post
+MAX_POSTS_PER_RUN = 1          # bir ishga tushishda ko'pi bilan nechta post
 MAX_EVALUATE_PER_RUN = 15      # bir ishga tushishda ko'pi bilan nechta yangilik ko'rib chiqiladi (AI limiti uchun)
 ENTRIES_PER_FEED = 10
 MAX_AGE_HOURS = 24             # bundan eski RSS yozuvlari e'tiborga olinmaydi
 MAX_TELEGRAM_FAILURES = 2
 MORNING_HOURS = range(6, 9)    # 06:00 – 08:59
 POST_DELAY_SEC = 2
+MIN_POST_INTERVAL_MIN = 15     # oxirgi postdan beri shuncha daqiqa o'tmagan bo'lsa, yangi post joylanmaydi (GitHub kechikishlari uchun himoya)
 
 CAPTION_LIMIT = 1024
 CAPTION_SAFETY = 30            # emoji/entity hisobidagi farqlar uchun zaxira
@@ -328,6 +329,7 @@ class NewsItem:
     summary: str
     link: str = ""
     image_url: Optional[str] = None
+    published_ts: float = 0.0  # e'lon qilingan vaqt (unix); navbatni aniqlash uchun
 
     @property
     def dedup_keys(self) -> list[str]:
@@ -370,18 +372,20 @@ def fetch_rss_items(session: requests.Session, feed_url: str) -> list[NewsItem]:
         return []
 
     items: list[NewsItem] = []
-    for entry in feed.entries[:ENTRIES_PER_FEED]:
+    now_ts = time.time()
+    for position, entry in enumerate(feed.entries[:ENTRIES_PER_FEED]):
         title = (entry.get("title") or "").strip()
         link = entry.get("link") or ""
         uid = entry.get("id") or link
         if not title or not uid:
             continue
         published = entry.get("published_parsed") or entry.get("updated_parsed")
-        if published and time.time() - calendar.timegm(published) > MAX_AGE_HOURS * 3600:
+        published_ts = calendar.timegm(published) if published else now_ts - position * 60
+        if now_ts - published_ts > MAX_AGE_HOURS * 3600:
             continue  # eski yangilik
         summary = clean_html(entry.get("summary") or entry.get("description") or "")
         items.append(NewsItem(uid=uid, title=title, summary=summary, link=link,
-                              image_url=extract_image_url(entry)))
+                              image_url=extract_image_url(entry), published_ts=published_ts))
     return items
 
 
@@ -441,19 +445,23 @@ def fetch_gov_item(session: requests.Session) -> Optional[NewsItem]:
         if len(title) < 15:
             continue
         link = urljoin("https://gov.uz", a["href"])
-        return NewsItem(uid=link, title=title, summary="", link=link)
+        # Viloyat hokimligi xabari kanal uchun eng dolzarb — navbatda birinchi turishi uchun "hozirgi" vaqt beriladi
+        return NewsItem(uid=link, title=title, summary="", link=link, published_ts=time.time())
 
     LOG.warning("gov.uz/jizzax'da maqola havolasi topilmadi (sayt tuzilishi o'zgargan bo'lishi mumkin).")
     return None
 
 
-def iter_candidates(session: requests.Session) -> Iterator[NewsItem]:
-    """Lazy generator: limitga yetilgach keyingi manbalar so'ralmaydi."""
+def iter_candidates(session: requests.Session) -> list[NewsItem]:
+    """Barcha manbalardan yig'ib, eng yangisidan boshlab tartiblaydi (bitta sayt navbatni egallab olmasligi uchun)."""
+    items: list[NewsItem] = []
     gov = fetch_gov_item(session)
     if gov:
-        yield gov
+        items.append(gov)
     for feed_url in RSS_FEEDS:
-        yield from fetch_rss_items(session, feed_url)
+        items.extend(fetch_rss_items(session, feed_url))
+    items.sort(key=lambda it: it.published_ts, reverse=True)
+    return items
 
 
 # ──────────────────────────── AI (GROQ) ────────────────────────────
@@ -886,8 +894,18 @@ def main() -> int:
     now = datetime.now(TZ)
 
     maybe_send_morning(publisher, session, state, now)
+
+    minutes_since_last = (time.time() - float(state.get("last_post_ts", 0))) / 60
+    if minutes_since_last < MIN_POST_INTERVAL_MIN:
+        LOG.info("Oxirgi postdan %.0f daqiqa o'tdi (minimum %d) — bu safar post joylanmaydi.",
+                 minutes_since_last, MIN_POST_INTERVAL_MIN)
+        return 0
+
     posted, failures = publish_news(publisher, rewriter, session, store)
     store.save()
+    if posted:
+        state["last_post_ts"] = time.time()
+        save_json(DAILY_STATE_FILE, state)
 
     LOG.info("Yakun: %d ta post joylandi, %d ta xatolik.", posted, failures)
     return 1 if failures and not posted else 0

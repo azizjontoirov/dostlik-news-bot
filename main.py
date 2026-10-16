@@ -1,21 +1,25 @@
 #!/usr/bin/env python3
 """
-DO'STLIK BOZOR | YANGILIKLAR — Telegram yangiliklar boti.
+DO'STLIK BOZOR | YANGILIKLAR — Telegram yangiliklar boti (v3).
 
 Oqim:
-  1. (06:00-08:59 Toshkent vaqti bilan, kuniga 1 marta) ob-havo + valyuta posti.
+  1. (06:00-08:59 Toshkent vaqti, kuniga 1 marta) ob-havo + valyuta posti (rasmsiz).
   2. gov.uz/jizzax va respublika RSS manbalaridan yangi xabarlarni yig'ish.
-  3. Groq AI orqali qayta yozish (modellar zanjiri + zaxira format).
-  4. Telegram kanal(lar)ga xavfsiz joylash (HTML parse, avtomatik fallback).
+  3. Maqola sahifasidan rasm (og:image) va to'liq matnni olish.
+  4. Groq AI: O'zbekistonga aloqadorligini baholash (aks holda SKIP) + o'zbek lotin imlosida qayta yozish.
+  5. Post RASM + CAPTION (1024 belgiga sig'adigan) ko'rinishida kanal(lar)ga joylanadi.
 
 Muhit o'zgaruvchilari:
   TELEGRAM_BOT_TOKEN  (majburiy)
   TELEGRAM_CHAT_ID    (majburiy; bir nechta kanal bo'lsa vergul bilan: "@kanal1,@kanal2")
   GROQ_API_KEY        (ixtiyoriy; bo'lmasa AI'siz zaxira format ishlatiladi)
   GROQ_MODELS         (ixtiyoriy; vergul bilan, birinchisi asosiy model)
+  DEFAULT_IMAGE_URL   (ixtiyoriy; yangilikda rasm topilmasa ishlatiladigan umumiy rasm, masalan kanal logotipi)
+  REQUIRE_IMAGE       (ixtiyoriy; "0" bo'lsa rasmsiz postlarga ham ruxsat. Standart: "1")
 """
 from __future__ import annotations
 
+import calendar
 import html
 import json
 import logging
@@ -26,6 +30,7 @@ import tempfile
 import time
 from dataclasses import dataclass
 from datetime import datetime
+from enum import Enum
 from pathlib import Path
 from typing import Any, Iterator, Optional
 from urllib.parse import urljoin
@@ -47,19 +52,22 @@ TELEGRAM_CHAT_IDS = [
     c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()
 ]
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
+DEFAULT_IMAGE_URL = os.environ.get("DEFAULT_IMAGE_URL", "").strip()
+REQUIRE_IMAGE = os.environ.get("REQUIRE_IMAGE", "1").strip() != "0"
 
-# Eslatma: "llama3-8b-8192" va "mixtral-8x7b-32768" Groq'da to'xtatilgan, shu sababli
-# ular o'rniga hozirgi modellar qo'yilgan. Ro'yxatni GROQ_MODELS orqali kodsiz o'zgartirish mumkin.
+# Birinchi model asosiy. O'zbek tilidagi sifat modelga qarab farq qiladi — natijaga qarab
+# GROQ_MODELS orqali tartibni kodsiz o'zgartirishingiz mumkin. Limit tugasa/xato bo'lsa keyingisiga o'tiladi.
 DEFAULT_GROQ_MODELS = [
+    "openai/gpt-oss-120b",
     "llama-3.3-70b-versatile",
-    "llama-3.1-8b-instant",
     "openai/gpt-oss-20b",
+    "llama-3.1-8b-instant",
 ]
 GROQ_MODELS = [
     m.strip() for m in os.environ.get("GROQ_MODELS", "").split(",") if m.strip()
 ] or DEFAULT_GROQ_MODELS
 
-TZ = ZoneInfo("Asia/Tashkent")  # GitHub Actions UTC'da ishlaydi — vaqt albatta Toshkent bo'yicha olinsin
+TZ = ZoneInfo("Asia/Tashkent")  # GitHub Actions UTC'da ishlaydi
 
 RSS_FEEDS = [
     "https://kun.uz/news/rss",
@@ -76,15 +84,21 @@ WEATHER_URL = (
 
 SEEN_FILE = "seen_news.json"
 DAILY_STATE_FILE = "daily_state.json"
-SEEN_LIMIT = 1000  # fayl cheksiz o'smasligi uchun
+SEEN_LIMIT = 1500
 
-MAX_POSTS_PER_RUN = 2
-ENTRIES_PER_FEED = 6
-MAX_TELEGRAM_FAILURES = 2  # ketma-ket shuncha xato bo'lsa, ishni to'xtatamiz
-MORNING_HOURS = range(6, 9)  # 06:00 – 08:59
+MAX_POSTS_PER_RUN = 5          # bir ishga tushishda ko'pi bilan nechta post
+MAX_EVALUATE_PER_RUN = 15      # bir ishga tushishda ko'pi bilan nechta yangilik ko'rib chiqiladi (AI limiti uchun)
+ENTRIES_PER_FEED = 10
+MAX_AGE_HOURS = 24             # bundan eski RSS yozuvlari e'tiborga olinmaydi
+MAX_TELEGRAM_FAILURES = 2
+MORNING_HOURS = range(6, 9)    # 06:00 – 08:59
+POST_DELAY_SEC = 2
 
 CAPTION_LIMIT = 1024
+CAPTION_SAFETY = 30            # emoji/entity hisobidagi farqlar uchun zaxira
 MESSAGE_LIMIT = 4096
+MIN_DETAIL_CHARS = 200         # RSS matni shundan qisqa bo'lsa, maqola sahifasidan to'ldiriladi
+MAX_IMAGE_BYTES = 9_000_000
 GROQ_TIMEOUT = 30.0
 
 BROWSER_UA = (
@@ -101,16 +115,25 @@ FOOTER_HTML = (
     "👉 @azizjon_dev"
 )
 
+# AI ishlamagan holatda (zaxira rejim) O'zbekistonga aloqadorlikni taxminan aniqlash uchun (lotin + kirill)
+_LOCAL_KEYWORDS = re.compile(
+    r"o['ʻʼ’‘`]?zbek|toshkent|jizzax|do['ʻʼ’‘`]?stlik|samarqand|buxoro|farg['ʻʼ’‘`]?ona|andijon|namangan|"
+    r"qashqadaryo|surxondaryo|xorazm|navoiy|sirdaryo|qoraqalpo|prezident|mirziyoyev|hokim|vazirlar mahkamasi|"
+    r"so['ʻʼ’‘`]?m\b|ўзбек|узбек|тошкент|ташкент|жиззах|джизак|дўстлик|самарқанд|самарканд|бухоро|фарғона|"
+    r"андижон|наманган|қашқадарё|сурхондарё|хоразм|навоий|сирдарё|қорақалпоқ|президент|мирзиёев|мирзиёев|ҳоким|сўм\b",
+    re.IGNORECASE,
+)
+
+SKIP = "__SKIP__"  # AI "bu yangilik kanalga mos emas" degan signal
+
+
 # ──────────────────────────── YORDAMCHI FUNKSIYALAR ────────────────────────────
 
 
 def build_session() -> requests.Session:
-    """Retry va backoff'li HTTP sessiya (faqat GET uchun; POST takrorlanishi Telegram'da qo'lda boshqariladi)."""
+    """Retry va backoff'li HTTP sessiya (faqat GET; POST takrorlanishi Telegram'da qo'lda boshqariladi)."""
     retry = Retry(
-        total=3,
-        connect=3,
-        read=3,
-        backoff_factor=1.5,
+        total=3, connect=3, read=3, backoff_factor=1.5,
         status_forcelist=(429, 500, 502, 503, 504),
         allowed_methods=frozenset(["GET"]),
         respect_retry_after_header=True,
@@ -145,7 +168,7 @@ def load_json(path: str, default: Any) -> Any:
 
 
 def save_json(path: str, data: Any) -> bool:
-    """Atomik yozish: avval vaqtinchalik faylga, keyin os.replace — yarim yozilgan fayl qolmaydi."""
+    """Atomik yozish: vaqtinchalik faylga yozib, so'ng os.replace."""
     p = Path(path)
     tmp_name: Optional[str] = None
     try:
@@ -180,17 +203,20 @@ def strip_tags(text: str) -> str:
 
 
 def shorten(text: str, limit: int) -> str:
-    """Matnni gap oxirida (iloji bo'lsa) qisqartirish."""
+    """Matnni imkon qadar gap oxirida qisqartirish."""
+    text = text.strip()
     if len(text) <= limit:
         return text
     cut = text[:limit]
-    idx = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
-    if idx > limit * 0.5:
-        return cut[: idx + 1]
-    return cut.rsplit(" ", 1)[0] + "…"
+    ends = [m.end() for m in re.finditer(r"[.!?…](?=\s|$)", cut)]
+    if ends and ends[-1] > limit * 0.5:
+        return cut[: ends[-1]].rstrip()
+    return cut.rsplit(" ", 1)[0].rstrip(",;:- ") + "…"
 
 
-_SOURCE_NAMES = re.compile(r"#?\b(?:kun|daryo|qalampir|gazeta|gov)\.?\s?uz\b", re.IGNORECASE)
+_SOURCE_NAMES = re.compile(
+    r"(?:\b(?:manba|source|via)\s*[:\-–]\s*)?#?\b(?:kun|daryo|qalampir|gazeta|gov)\.?\s?uz\b", re.IGNORECASE
+)
 _SOURCE_LINE = re.compile(r"^\s*(?:manba|источник|source|via)\s*[:\-–].*$", re.IGNORECASE | re.MULTILINE)
 
 
@@ -201,23 +227,61 @@ def scrub_sources(text: str) -> str:
     return re.sub(r"[ \t]{2,}", " ", text)
 
 
+def normalize_apostrophes(text: str) -> str:
+    """oʻ / gʻ / ’ / ‘ / ` kabi turli apostroflarni bitta (') ga keltiradi — imlo bir xil chiqadi."""
+    return re.sub(r"[ʻʼʹ‘’`´′]", "'", text)
+
+
 _BOLD = re.compile(r"\*\*(.+?)\*\*")
 
 
 def to_telegram_html(text: str) -> str:
-    """
-    Oddiy/markdown-ga o'xshash matnni Telegram HTML'ga xavfsiz aylantiradi.
-    Eski 'Markdown' rejimidagi asosiy xato manbai shu edi: AI matnidagi `_`, `*`, `[` belgilari
-    (masalan, @Dostlik_jizzax1) 'can't parse entities' xatosini keltirib chiqarardi.
-    """
+    """Matnni Telegram HTML'ga xavfsiz aylantiradi (`**qalin**` → <b>, qolgan belgilar escape qilinadi)."""
     text = text.replace("\r\n", "\n")
-    text = re.sub(r"^\s{0,3}#{1,6}\s+", "", text, flags=re.MULTILINE)  # "### Sarlavha" -> "Sarlavha" (#xeshteg tegilmaydi)
+    text = re.sub(r"^\s{0,3}#{1,6}\s+", "", text, flags=re.MULTILINE)
     text = re.sub(r"^\s*[*\-]\s+", "• ", text, flags=re.MULTILINE)
     text = html.escape(text, quote=False)
     text = _BOLD.sub(r"<b>\1</b>", text)
     text = text.replace("*", "")
     text = re.sub(r"\n{4,}", "\n\n\n", text)
     return text.strip()
+
+
+def caption_budget() -> int:
+    """Footer'dan keyin post matni uchun qolgan belgilar soni (rasm caption'i 1024 belgi bilan cheklangan)."""
+    return CAPTION_LIMIT - len(strip_tags(FOOTER_HTML)) - CAPTION_SAFETY
+
+
+def fit_caption(body: str, budget: int) -> str:
+    """Matn caption'ga sig'maydigan bo'lsa, xeshteglarni saqlagan holda gap oxirida qisqartiradi."""
+    body = body.strip()
+
+    def plain_len(t: str) -> int:
+        return len(strip_tags(to_telegram_html(t)))
+
+    if plain_len(body) <= budget:
+        return body
+
+    lines = body.split("\n")
+    tags = ""
+    if lines and re.fullmatch(r"(?:#\S+\s*)+", lines[-1].strip()):
+        tags = lines.pop().strip()
+    main = "\n".join(lines).strip()
+
+    allowed = budget - (len(tags) + 2 if tags else 0)
+    result = body
+    for _ in range(8):
+        candidate = shorten(main, allowed)
+        result = f"{candidate}\n\n{tags}" if tags else candidate
+        if plain_len(result) <= budget:
+            return result
+        allowed -= 40
+    return result
+
+
+def looks_local(item: "NewsItem") -> bool:
+    """Zaxira rejim uchun taxminiy tekshiruv: yangilik O'zbekistonga aloqadorga o'xshaydimi."""
+    return bool(_LOCAL_KEYWORDS.search(f"{item.title} {item.summary}"))
 
 
 def get_json(session: requests.Session, url: str) -> Any:
@@ -262,6 +326,7 @@ class NewsItem:
     uid: str
     title: str
     summary: str
+    link: str = ""
     image_url: Optional[str] = None
 
     @property
@@ -291,7 +356,6 @@ def extract_image_url(entry: Any) -> Optional[str]:
 
 
 def fetch_rss_items(session: requests.Session, feed_url: str) -> list[NewsItem]:
-    """RSS'ni session orqali (timeout + retry bilan) yuklab, feedparser'ga tayyor kontent beradi."""
     LOG.info("Manba tekshirilmoqda: %s", feed_url)
     try:
         res = session.get(feed_url, timeout=15)
@@ -308,35 +372,62 @@ def fetch_rss_items(session: requests.Session, feed_url: str) -> list[NewsItem]:
     items: list[NewsItem] = []
     for entry in feed.entries[:ENTRIES_PER_FEED]:
         title = (entry.get("title") or "").strip()
-        uid = entry.get("id") or entry.get("link") or ""
+        link = entry.get("link") or ""
+        uid = entry.get("id") or link
         if not title or not uid:
             continue
+        published = entry.get("published_parsed") or entry.get("updated_parsed")
+        if published and time.time() - calendar.timegm(published) > MAX_AGE_HOURS * 3600:
+            continue  # eski yangilik
         summary = clean_html(entry.get("summary") or entry.get("description") or "")
-        items.append(NewsItem(uid=uid, title=title, summary=summary, image_url=extract_image_url(entry)))
+        items.append(NewsItem(uid=uid, title=title, summary=summary, link=link,
+                              image_url=extract_image_url(entry)))
     return items
 
 
-def _fetch_article_text(session: requests.Session, url: str) -> str:
-    """Maqola sahifasidan qisqa matn (og:description yoki paragraflar). AI uydirma qilmasligi uchun kerak."""
-    try:
-        res = session.get(url, timeout=15)
-        res.raise_for_status()
-    except requests.RequestException as exc:
-        LOG.warning("Maqola sahifasi ochilmadi (%s): %s", url, exc)
-        return ""
-    soup = BeautifulSoup(res.content, "html.parser")
-    meta = soup.find("meta", attrs={"property": "og:description"})
-    paragraphs = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
+def _find_og_image(soup: BeautifulSoup, base_url: str) -> Optional[str]:
+    for attrs in ({"property": "og:image"}, {"name": "twitter:image"}, {"property": "og:image:url"}):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content"):
+            url = urljoin(base_url, tag["content"].strip())
+            if url.startswith(("http://", "https://")):
+                return url
+    return None
+
+
+def _extract_article_text(soup: BeautifulSoup) -> str:
+    container = soup.find("article") or soup
+    paragraphs = [p.get_text(" ", strip=True) for p in container.find_all("p")]
     body = " ".join(p for p in paragraphs if len(p) > 40)
     if body:
         return re.sub(r"\s+", " ", body)[:1500]
-    if meta and meta.get("content"):
-        return clean_html(meta["content"])
-    return ""
+    meta = soup.find("meta", attrs={"property": "og:description"})
+    return clean_html(meta["content"]) if meta and meta.get("content") else ""
+
+
+def enrich_item(session: requests.Session, item: NewsItem) -> None:
+    """Rasm yo'q yoki matn qisqa bo'lsa — maqola sahifasidan og:image va to'liq matnni oladi (bitta so'rov)."""
+    need_image = not item.image_url
+    need_text = len(item.summary) < MIN_DETAIL_CHARS
+    if not item.link or not (need_image or need_text):
+        return
+    try:
+        res = session.get(item.link, timeout=15)
+        res.raise_for_status()
+    except requests.RequestException as exc:
+        LOG.warning("Maqola sahifasi ochilmadi (%s): %s", item.link, exc)
+        return
+    soup = BeautifulSoup(res.content, "html.parser")
+    if need_image:
+        item.image_url = _find_og_image(soup, item.link)
+    if need_text:
+        text = _extract_article_text(soup)
+        if len(text) > len(item.summary):
+            item.summary = text
 
 
 def fetch_gov_item(session: requests.Session) -> Optional[NewsItem]:
-    """gov.uz/jizzax bo'limidagi eng so'nggi yangilik (sarlavha + maqola matni)."""
+    """gov.uz/jizzax bo'limidagi eng so'nggi yangilik (matn va rasm keyinroq enrich_item orqali olinadi)."""
     try:
         res = session.get(GOV_NEWS_URL, timeout=15)
         res.raise_for_status()
@@ -345,20 +436,19 @@ def fetch_gov_item(session: requests.Session) -> Optional[NewsItem]:
         return None
 
     soup = BeautifulSoup(res.content, "html.parser")
-    # Bo'limning o'ziga (…/jizzax/news) emas, aynan maqolaga (…/jizzax/news/<id>) olib boruvchi havola kerak
     for a in soup.find_all("a", href=re.compile(r"/jizzax/news/[^/?#]+")):
         title = a.get_text(" ", strip=True)
         if len(title) < 15:
             continue
         link = urljoin("https://gov.uz", a["href"])
-        return NewsItem(uid=link, title=title, summary=_fetch_article_text(session, link))
+        return NewsItem(uid=link, title=title, summary="", link=link)
 
     LOG.warning("gov.uz/jizzax'da maqola havolasi topilmadi (sayt tuzilishi o'zgargan bo'lishi mumkin).")
     return None
 
 
 def iter_candidates(session: requests.Session) -> Iterator[NewsItem]:
-    """Lazy generator: limitga yetilgach keyingi manbalar umuman so'ralmaydi."""
+    """Lazy generator: limitga yetilgach keyingi manbalar so'ralmaydi."""
     gov = fetch_gov_item(session)
     if gov:
         yield gov
@@ -369,20 +459,32 @@ def iter_candidates(session: requests.Session) -> Iterator[NewsItem]:
 # ──────────────────────────── AI (GROQ) ────────────────────────────
 
 SYSTEM_PROMPT = (
-    "Siz 'DO'STLIK BOZOR | YANGILIKLAR' Telegram kanalining tajribali jurnalistisiz. "
-    "Kanal Jizzax viloyati va Do'stlik tumani aholisiga mo'ljallangan. Faqat o'zbek (lotin) tilida yozing."
+    "Siz 'DO'STLIK BOZOR | YANGILIKLAR' Telegram kanalining tajribali jurnalisti va muharririsiz. "
+    "Kanal Jizzax viloyati va Do'stlik tumani aholisiga, umuman O'zbekiston fuqarolariga mo'ljallangan. "
+    "Siz o'zbek tilini (lotin alifbosi) mukammal bilasiz va imlo hamda grammatik xatolarga yo'l qo'ymaysiz."
 )
 
-USER_PROMPT = """Quyidagi yangilik asosida Telegram uchun professional post tayyorlang.
+USER_PROMPT = """Quyidagi yangilikni baholang va Telegram uchun post tayyorlang.
 
-Qoidalar:
+1-QADAM — MOSLIGINI TEKSHIRING.
+Kanal asosan O'zbekiston hayotiga oid yangiliklarni joylaydi: O'zbekiston va uning viloyatlari, hukumat qarorlari,
+iqtisodiyot, narxlar, valyuta, ta'lim, sog'liq, transport, qurilish, qishloq xo'jaligi, ob-havo, hodisalar, madaniyat,
+sport (O'zbekiston sportchilari/jamoalari), shuningdek O'zbekiston fuqarolariga bevosita ta'sir qiladigan xorijiy yangiliklar
+(mehnat migratsiyasi, vizalar, yaqin davlatlar bilan hamkorlik va h.k.).
+Quyidagilar MOS EMAS: O'zbekistonga aloqasi yo'q xorijiy mashhurlar, avtomobil/gadjet/texnologiya yangiliklari,
+xorijdagi jinoyat va voqealar, reklama xarakteridagi materiallar.
+Agar yangilik mos bo'lmasa, javobda faqat bitta so'z yozing: SKIP
+
+2-QADAM — AGAR MOS BO'LSA, POST YOZING. Qoidalar:
 1. Hech qanday manba nomini (Kun.uz, Daryo.uz, Gazeta.uz, Qalampir.uz, Gov.uz va h.k.) yozmang.
-2. Sarlavha diqqatni tortsin, 1-2 ta mos emoji bilan; sarlavhani **qalin** qiling.
-3. Abzaslar orasida bo'sh qator qoldiring. Hajmi: taxminan 500-900 belgi.
-4. Faqat berilgan faktlardan foydalaning. Raqam, ism, sana va joy nomlarini o'zgartirmang, yangi fakt o'ylab topmang.
-5. Oxirida 2-3 ta mos xeshteg (masalan: #Jizzax #Dostlik #Yangiliklar).
-6. Markdown sarlavhalari (#), havolalar va kod bloklaridan foydalanmang.
-7. FAQAT tayyor post matnini qaytaring — izoh yoki kirish so'zlarisiz.
+2. Matn qaysi tilda yoki alifboda berilgan bo'lishidan qat'i nazar, post o'zbek tilida, LOTIN alifbosida bo'lsin.
+3. Imlo: oʻ va gʻ harflari uchun oddiy apostrof (') ishlating: o'zbek, g'oya, Do'stlik, ma'lumot. Qo'shimchalarni (-ning, -ni, -ga, -da, -dan, -lar) to'g'ri qo'llang. Gaplar sodda, ravon va grammatik to'g'ri bo'lsin. Yozib bo'lgach, matnni imlo va grammatika bo'yicha ichingizda tekshirib chiqing.
+4. Rus va ingliz so'zlarining o'zbekcha muqobili bo'lsa, o'zbekchasini ishlating. Ism, lavozim va tashkilot nomlarini aniq yozing.
+5. Faqat berilgan faktlardan foydalaning. Raqam, ism, sana va joy nomlarini o'zgartirmang, yangi fakt o'ylab topmang.
+6. Tuzilishi: diqqatni tortuvchi sarlavha (1-2 emoji bilan, **qalin**), 1-3 qisqa abzas (abzaslar orasida bo'sh qator), oxirida 2-3 ta xeshteg (masalan: #Jizzax #Dostlik #Yangiliklar).
+7. Hajmi: xeshteglar bilan jami {max_chars} belgidan OSHMASIN.
+8. Markdown sarlavhalari (#), havolalar va kod bloklaridan foydalanmang.
+9. FAQAT tayyor post matnini (yoki SKIP) qaytaring — izoh yoki kirish so'zlarisiz.
 
 Yangilik sarlavhasi: {title}
 Yangilik matni: {summary}
@@ -390,9 +492,9 @@ Yangilik matni: {summary}
 
 
 class AIRewriter:
-    """Groq orqali qayta yozish: modellar zanjiri, timeout, circuit-breaker."""
+    """Groq orqali baholash va qayta yozish: modellar zanjiri, timeout, circuit-breaker."""
 
-    MAX_FAILED_ROUNDS = 2  # ketma-ket shuncha marta barcha modellar yiqilsa, qolgan ishga tushishda AI o'chiriladi
+    MAX_FAILED_ROUNDS = 2
 
     def __init__(self, api_key: str, models: list[str]) -> None:
         self.models = models
@@ -413,35 +515,42 @@ class AIRewriter:
     @staticmethod
     def _sanitize(text: str) -> Optional[str]:
         text = re.sub(r"^```[a-zA-Z]*\n?|```$", "", (text or "").strip(), flags=re.MULTILINE).strip()
-        text = scrub_sources(text).strip()
+        if re.match(r"^\W*SKIP\b", text, re.IGNORECASE) and len(text) < 40:
+            return SKIP
+        text = normalize_apostrophes(scrub_sources(text)).strip()
         if len(text) < 40 or len(text) > 3000:
             return None
         return text
 
     def rewrite(self, item: NewsItem) -> Optional[str]:
+        """Post matni, SKIP (mos emas) yoki None (AI ishlamadi) qaytaradi."""
         if not self.available:
             return None
         summary = item.summary or "(matn mavjud emas — faqat sarlavhadan foydalaning, yangi faktlar qo'shmang)"
-        prompt = USER_PROMPT.format(title=item.title, summary=summary)
+        prompt = USER_PROMPT.format(
+            title=item.title, summary=summary, max_chars=int(caption_budget() * 0.92)
+        )
 
         for model in self.models:
             try:
+                extra = {"reasoning_effort": "low"} if "gpt-oss" in model else None
                 resp = self.client.chat.completions.create(  # type: ignore[union-attr]
                     model=model,
                     messages=[
                         {"role": "system", "content": SYSTEM_PROMPT},
                         {"role": "user", "content": prompt},
                     ],
-                    temperature=0.4,
-                    max_tokens=1200,
+                    temperature=0.3,
+                    max_tokens=2500,
+                    extra_body=extra,
                 )
                 text = self._sanitize(resp.choices[0].message.content)
                 if text:
                     self.failed_rounds = 0
-                    LOG.info("AI javobi tayyor (model: %s)", model)
+                    LOG.info("AI javobi tayyor (model: %s)%s", model, " — SKIP" if text == SKIP else "")
                     return text
                 LOG.warning("Model %s yaroqsiz (bo'sh/juda qisqa/juda uzun) javob qaytardi.", model)
-            except Exception as exc:  # noqa: BLE001 — Groq SDK turli xil xatolik sinflarini beradi
+            except Exception as exc:  # noqa: BLE001 — Groq SDK turli xatolik sinflarini beradi
                 LOG.warning("Groq model %s xatoligi [%s]: %s", model, type(exc).__name__, exc)
                 time.sleep(1.5)
 
@@ -461,7 +570,8 @@ def fallback_post_text(item: NewsItem) -> str:
 
 
 def build_final_post(item: NewsItem, ai_text: Optional[str]) -> str:
-    body = ai_text if ai_text else fallback_post_text(item)
+    body = normalize_apostrophes(ai_text if ai_text else fallback_post_text(item))
+    body = fit_caption(body, caption_budget())
     return to_telegram_html(body) + FOOTER_HTML
 
 
@@ -473,10 +583,22 @@ _ERROR_HINTS = (
     ("not enough rights", "Botda kanalga post yuborish huquqi yo'q (admin huquqlarini tekshiring)."),
     ("unauthorized", "TELEGRAM_BOT_TOKEN noto'g'ri yoki bekor qilingan."),
     ("can't parse entities", "Formatlash xatosi — matn oddiy ko'rinishda qayta yuboriladi."),
-    ("wrong file identifier", "Rasm URL'i yaroqsiz — post rasmsiz yuboriladi."),
-    ("failed to get http url content", "Telegram rasmni yuklab ola olmadi — post rasmsiz yuboriladi."),
+    ("wrong file identifier", "Rasm URL'i yaroqsiz — rasm yuklab olinib, fayl sifatida yuboriladi."),
+    ("failed to get http url content", "Telegram rasmni yuklab ola olmadi — rasm fayl sifatida yuboriladi."),
     ("message is too long", "Matn 4096 belgidan uzun."),
 )
+
+_IMAGE_ERRORS = (
+    "wrong file identifier", "failed to get http url content", "wrong type of the web page content",
+    "image_process_failed", "photo_invalid_dimensions", "photo_ext_invalid", "wrong remote file",
+    "file is too big", "photo_save_file_invalid", "wrong file",
+)
+
+
+class SendResult(Enum):
+    OK = "ok"
+    PHOTO_FAILED = "photo_failed"   # muammo rasmning o'zida (post rasmsiz yuborilmaydi)
+    FAILED = "failed"               # chat/token/tarmoq muammosi
 
 
 class TelegramPublisher:
@@ -485,16 +607,16 @@ class TelegramPublisher:
         self.chat_ids = chat_ids
         self.session = session
 
-    # -- past darajali so'rov ------------------------------------------------
     def _redact(self, text: str) -> str:
         return text.replace(self.token, "***") if self.token else text
 
-    def _call(self, method: str, payload: dict[str, Any], attempts: int = 3) -> tuple[bool, dict[str, Any]]:
+    def _call(self, method: str, payload: dict[str, Any], files: Optional[dict[str, Any]] = None,
+              attempts: int = 3) -> tuple[bool, dict[str, Any]]:
         url = f"https://api.telegram.org/bot{self.token}/{method}"
         data: dict[str, Any] = {}
         for attempt in range(1, attempts + 1):
             try:
-                res = self.session.post(url, data=payload, timeout=20)
+                res = self.session.post(url, data=payload, files=files, timeout=60 if files else 20)
             except requests.RequestException as exc:
                 LOG.warning("Telegram %s tarmoq xatosi (urinish %d/%d): %s",
                             method, attempt, attempts, self._redact(str(exc)))
@@ -512,7 +634,7 @@ class TelegramPublisher:
             code = int(data.get("error_code", res.status_code))
             desc = str(data.get("description", "noma'lum xato"))
 
-            if code == 429:  # flood limit
+            if code == 429:
                 wait = int(data.get("parameters", {}).get("retry_after", 5))
                 if wait <= 60 and attempt < attempts:
                     LOG.warning("Telegram flood limit: %d soniya kutiladi.", wait)
@@ -534,49 +656,95 @@ class TelegramPublisher:
     def _is_parse_error(data: dict[str, Any]) -> bool:
         return "can't parse entities" in str(data.get("description", "")).lower()
 
+    @staticmethod
+    def _is_image_error(data: dict[str, Any]) -> bool:
+        desc = str(data.get("description", "")).lower()
+        return any(key in desc for key in _IMAGE_ERRORS)
+
+    def _download_image(self, url: str) -> Optional[bytes]:
+        """Telegram URL'dan rasmni ola olmasa (sayt Telegram'ni bloklasa), o'zimiz yuklab, fayl sifatida yuboramiz."""
+        try:
+            res = self.session.get(url, timeout=20, headers={"Referer": url})
+            res.raise_for_status()
+        except requests.RequestException as exc:
+            LOG.warning("Rasm yuklab olinmadi (%s): %s", url, exc)
+            return None
+        ctype = res.headers.get("Content-Type", "").lower()
+        if not ctype.startswith("image/") or "svg" in ctype:
+            LOG.warning("Rasm emas yoki qo'llab-quvvatlanmaydi (%s): %s", ctype, url)
+            return None
+        if len(res.content) > MAX_IMAGE_BYTES:
+            LOG.warning("Rasm juda katta (%d bayt): %s", len(res.content), url)
+            return None
+        return res.content
+
     # -- yuborish bosqichlari ---------------------------------------------------
     def _send_text(self, chat_id: str, html_text: str) -> bool:
-        payload = {
-            "chat_id": chat_id,
-            "text": html_text,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": "true",
-        }
+        payload = {"chat_id": chat_id, "text": html_text, "parse_mode": "HTML", "disable_web_page_preview": "true"}
         ok, data = self._call("sendMessage", payload)
-        if ok:
-            return True
-        if self._is_parse_error(data):
+        if not ok and self._is_parse_error(data):
             plain = strip_tags(html_text)[:MESSAGE_LIMIT]
             ok, _ = self._call("sendMessage", {"chat_id": chat_id, "text": plain, "disable_web_page_preview": "true"})
         return ok
 
-    def _send_photo(self, chat_id: str, image_url: str, caption_html: Optional[str]) -> bool:
-        payload: dict[str, Any] = {"chat_id": chat_id, "photo": image_url}
+    def _photo_call(self, chat_id: str, image_url: Optional[str], files: Optional[dict[str, Any]],
+                    caption_html: Optional[str]) -> tuple[bool, dict[str, Any]]:
+        payload: dict[str, Any] = {"chat_id": chat_id}
+        if image_url:
+            payload["photo"] = image_url
         if caption_html:
             payload.update(caption=caption_html, parse_mode="HTML")
-        ok, data = self._call("sendPhoto", payload)
+        ok, data = self._call("sendPhoto", payload, files=files)
         if not ok and caption_html and self._is_parse_error(data):
-            ok, _ = self._call("sendPhoto", {"chat_id": chat_id, "photo": image_url,
-                                             "caption": strip_tags(caption_html)[:CAPTION_LIMIT]})
-        return ok
+            payload.pop("parse_mode", None)
+            payload["caption"] = strip_tags(caption_html)[:CAPTION_LIMIT]
+            ok, data = self._call("sendPhoto", payload, files=files)
+        return ok, data
 
-    def _send_to_chat(self, chat_id: str, html_text: str, image_url: Optional[str]) -> bool:
+    def _send_photo(self, chat_id: str, image_url: str, caption_html: Optional[str]) -> SendResult:
+        ok, data = self._photo_call(chat_id, image_url, None, caption_html)
+        if ok:
+            return SendResult.OK
+        if not self._is_image_error(data):
+            return SendResult.FAILED
+
+        blob = self._download_image(image_url)
+        if blob:
+            ok, data = self._photo_call(chat_id, None, {"photo": ("photo.jpg", blob)}, caption_html)
+            if ok:
+                return SendResult.OK
+            if not self._is_image_error(data):
+                return SendResult.FAILED
+        return SendResult.PHOTO_FAILED
+
+    def _send_to_chat(self, chat_id: str, html_text: str, image_url: Optional[str],
+                      allow_text_fallback: bool) -> SendResult:
         if image_url:
             fits = len(strip_tags(html_text)) <= CAPTION_LIMIT
-            if self._send_photo(chat_id, image_url, html_text if fits else None):
-                # Matn sig'masa: rasm alohida, matn alohida (caption kesilib, footer yo'qolmaydi)
-                return True if fits else self._send_text(chat_id, html_text)
-            LOG.warning("Rasm yuborilmadi — post rasmsiz yuboriladi.")
-        return self._send_text(chat_id, html_text)
+            result = self._send_photo(chat_id, image_url, html_text if fits else None)
+            if result is SendResult.OK:
+                if fits:
+                    return SendResult.OK
+                return SendResult.OK if self._send_text(chat_id, html_text) else SendResult.FAILED
+            if result is SendResult.PHOTO_FAILED and allow_text_fallback:
+                LOG.warning("Rasm yuborilmadi — post rasmsiz yuboriladi.")
+                return SendResult.OK if self._send_text(chat_id, html_text) else SendResult.FAILED
+            return result
+        return SendResult.OK if self._send_text(chat_id, html_text) else SendResult.FAILED
 
-    def send(self, html_text: str, image_url: Optional[str] = None) -> bool:
-        """Hech bo'lmaganda bitta kanalga muvaffaqiyatli yuborilsa True (dublikat bo'lmasligi uchun)."""
+    def send(self, html_text: str, image_url: Optional[str] = None,
+             allow_text_fallback: bool = True) -> SendResult:
+        """Hech bo'lmaganda bitta kanalga yuborilsa OK (boshqa kanalda dublikat bo'lmasligi uchun)."""
         results = []
         for chat_id in self.chat_ids:
-            ok = self._send_to_chat(chat_id, html_text, image_url)
-            LOG.info("%s Telegram [%s]", "✅ Joylandi" if ok else "❌ Joylanmadi", chat_id)
-            results.append(ok)
-        return any(results)
+            res = self._send_to_chat(chat_id, html_text, image_url, allow_text_fallback)
+            LOG.info("%s Telegram [%s]", "✅ Joylandi" if res is SendResult.OK else f"❌ {res.value}", chat_id)
+            results.append(res)
+        if SendResult.OK in results:
+            return SendResult.OK
+        if SendResult.PHOTO_FAILED in results:
+            return SendResult.PHOTO_FAILED
+        return SendResult.FAILED
 
 
 # ──────────────────────────── ERTALABKI POST ────────────────────────────
@@ -627,31 +795,68 @@ def maybe_send_morning(publisher: TelegramPublisher, session: requests.Session,
     if now.hour not in MORNING_HOURS or state.get("morning_sent_date") == today:
         return
     LOG.info("Ertalabki ob-havo va valyuta posti yuborilmoqda...")
-    if publisher.send(build_morning_post(session, now), None):
-        state["morning_sent_date"] = today  # faqat muvaffaqiyatli yuborilgandagina belgilanadi
+    if publisher.send(build_morning_post(session, now), None) is SendResult.OK:
+        state["morning_sent_date"] = today
         save_json(DAILY_STATE_FILE, state)
 
 
 # ──────────────────────────── ASOSIY OQIM ────────────────────────────
 
 
+class Outcome(Enum):
+    POSTED = "posted"
+    SKIPPED = "skipped"    # qat'iy qaror: joylanmaydi (mos emas / rasm yo'q) — qayta ko'rilmaydi
+    DEFERRED = "deferred"  # keyinroq qayta ko'riladi (masalan, AI vaqtincha ishlamayapti)
+    FAILED = "failed"      # Telegram xatosi
+
+
+def process_item(item: NewsItem, session: requests.Session, publisher: TelegramPublisher,
+                 rewriter: AIRewriter) -> Outcome:
+    enrich_item(session, item)
+
+    image = item.image_url or DEFAULT_IMAGE_URL or None
+    if not image and REQUIRE_IMAGE:
+        LOG.info("Rasm topilmadi — o'tkazib yuborildi: %s", item.title)
+        return Outcome.SKIPPED
+
+    ai_text = rewriter.rewrite(item)
+    if ai_text == SKIP:
+        LOG.info("Mavzu mos emas (AI) — o'tkazib yuborildi: %s", item.title)
+        return Outcome.SKIPPED
+    if ai_text is None and not looks_local(item):
+        LOG.info("AI ishlamayapti va yangilik O'zbekistonga aloqador ko'rinmaydi — keyinga qoldirildi: %s", item.title)
+        return Outcome.DEFERRED
+
+    post = build_final_post(item, ai_text)
+    result = publisher.send(post, image, allow_text_fallback=not REQUIRE_IMAGE)
+    if result is SendResult.OK:
+        return Outcome.POSTED
+    if result is SendResult.PHOTO_FAILED:
+        LOG.warning("Rasm yuborib bo'lmadi — o'tkazib yuborildi: %s", item.title)
+        return Outcome.SKIPPED
+    return Outcome.FAILED
+
+
 def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
                  session: requests.Session, store: SeenStore) -> tuple[int, int]:
-    posted = failures = 0
+    posted = failures = evaluated = 0
     for item in iter_candidates(session):
-        if posted >= MAX_POSTS_PER_RUN or failures >= MAX_TELEGRAM_FAILURES:
+        if posted >= MAX_POSTS_PER_RUN or failures >= MAX_TELEGRAM_FAILURES or evaluated >= MAX_EVALUATE_PER_RUN:
             break
         if store.seen(item.dedup_keys):
             continue
 
+        evaluated += 1
         LOG.info("Yangi yangilik: %s", item.title)
-        post = build_final_post(item, rewriter.rewrite(item))
+        outcome = process_item(item, session, publisher, rewriter)
 
-        if publisher.send(post, item.image_url):
+        if outcome in (Outcome.POSTED, Outcome.SKIPPED):
             store.add(item.dedup_keys)
-            store.save()  # har bir muvaffaqiyatdan keyin — keyingi xatolik dublikat keltirmasin
+            store.save()  # har bir qarordan keyin saqlaymiz — keyingi xatolik dublikat keltirmasin
+        if outcome is Outcome.POSTED:
             posted += 1
-        else:
+            time.sleep(POST_DELAY_SEC)
+        elif outcome is Outcome.FAILED:
             failures += 1
     return posted, failures
 
@@ -685,7 +890,6 @@ def main() -> int:
     store.save()
 
     LOG.info("Yakun: %d ta post joylandi, %d ta xatolik.", posted, failures)
-    # Faqat xatolik bo'lib, birorta ham post chiqmasa Actions "qizil" bo'ladi — muammo sezilib qoladi
     return 1 if failures and not posted else 0
 
 

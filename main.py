@@ -125,7 +125,15 @@ _LOCAL_KEYWORDS = re.compile(
     re.IGNORECASE,
 )
 
-SKIP = "__SKIP__"  # AI "bu yangilik kanalga mos emas" degan signal
+SKIP = "__SKIP__"            # AI: "bu yangilik kanalga mos emas"
+DUPLICATE = "__DUPLICATE__"  # AI: "bu voqea kanalda allaqachon joylangan"
+
+# Boshqa saytdagi takrorlarni aniqlash (recent_posts)
+RECENT_MAX_ITEMS = 40          # eslab qolinadigan oxirgi postlar soni
+RECENT_MAX_AGE_HOURS = 72      # shuncha soatdan eskilari unutiladi
+RECENT_IN_PROMPT = 15          # AI'ga ko'rsatiladigan oxirgi sarlavhalar soni
+DUP_MIN_SHARED = 4             # kod bilan "aniq takror" deyish uchun kamida shuncha umumiy so'z
+DUP_JACCARD = 0.7              # ...va o'xshashlik darajasi (chegaradagi holatlarni AI hal qiladi)
 
 
 # ──────────────────────────── YORDAMCHI FUNKSIYALAR ────────────────────────────
@@ -319,6 +327,72 @@ class SeenStore:
         return save_json(self.path, self._items)
 
 
+_CYR2LAT = {
+    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "yo", "ж": "j", "з": "z", "и": "i",
+    "й": "y", "к": "k", "л": "l", "м": "m", "н": "n", "о": "o", "п": "p", "р": "r", "с": "s", "т": "t",
+    "у": "u", "ф": "f", "х": "x", "ц": "ts", "ч": "ch", "ш": "sh", "щ": "sh", "ъ": "", "ы": "i", "ь": "",
+    "э": "e", "ю": "yu", "я": "ya", "ў": "o", "қ": "q", "ғ": "g", "ҳ": "h",
+}
+
+
+def title_stems(text: str) -> set[str]:
+    """Sarlavhani taqqoslash uchun: kirill -> lotin, apostrofsiz, so'zlarning dastlabki 5 harfi (qo'shimchalarga bardosh)."""
+    latin = "".join(_CYR2LAT.get(ch, ch) for ch in text.lower())
+    latin = re.sub(r"['ʻʼʹ‘’`´′]", "", latin)
+    words = re.findall(r"[a-z0-9]+", latin)
+    return {w[:5] for w in words if len(w) >= 4 or (w.isdigit() and len(w) >= 2)}
+
+
+def is_similar_title(a: str, b: str) -> bool:
+    sa, sb = title_stems(a), title_stems(b)
+    shared = len(sa & sb)
+    if shared < DUP_MIN_SHARED:
+        return False
+    return shared / len(sa | sb) >= DUP_JACCARD
+
+
+def extract_headline(body: str) -> str:
+    """Post matnining birinchi qatori (emoji va ** belgilarisiz)."""
+    for line in body.splitlines():
+        line = re.sub(r"[*_]", "", line.strip())
+        line = re.sub(r"^[^\w]+", "", line)
+        if line:
+            return line[:150]
+    return ""
+
+
+class RecentPosts:
+    """
+    Oxirgi joylangan postlar xotirasi (daily_state.json ichida). Maqsad: bir voqea turli saytlarda
+    (Kun.uz, Gazeta.uz, Daryo.uz...) chiqqanda ikkinchi marta joylanmasligi.
+    """
+
+    def __init__(self, state: dict[str, Any]) -> None:
+        self.state = state
+        cutoff = time.time() - RECENT_MAX_AGE_HOURS * 3600
+        raw = state.get("recent_posts")
+        raw = raw if isinstance(raw, list) else []
+        self.items: list[dict[str, Any]] = [
+            e for e in raw if isinstance(e, dict) and float(e.get("ts", 0)) >= cutoff
+        ]
+        state["recent_posts"] = self.items
+
+    def headlines(self, n: int = RECENT_IN_PROMPT) -> list[str]:
+        return [e["headline"] for e in self.items[-n:] if e.get("headline")]
+
+    def is_duplicate(self, title: str) -> bool:
+        return any(
+            is_similar_title(title, e.get("source_title", "")) or is_similar_title(title, e.get("headline", ""))
+            for e in self.items
+        )
+
+    def add(self, source_title: str, headline: str) -> None:
+        self.items.append({"source_title": source_title, "headline": headline, "ts": time.time()})
+        self.items = self.items[-RECENT_MAX_ITEMS:]
+        self.state["recent_posts"] = self.items
+        save_json(DAILY_STATE_FILE, self.state)
+
+
 # ──────────────────────────── MA'LUMOT MANBALARI ────────────────────────────
 
 
@@ -330,6 +404,7 @@ class NewsItem:
     link: str = ""
     image_url: Optional[str] = None
     published_ts: float = 0.0  # e'lon qilingan vaqt (unix); navbatni aniqlash uchun
+    headline: str = ""         # kanalga joylangan post sarlavhasi (takrorlarni aniqlash uchun)
 
     @property
     def dedup_keys(self) -> list[str]:
@@ -474,7 +549,7 @@ SYSTEM_PROMPT = (
 
 USER_PROMPT = """Quyidagi yangilikni baholang va Telegram uchun post tayyorlang.
 
-1-QADAM — MOSLIGINI TEKSHIRING.
+{recent_block}1-QADAM — MOSLIGINI TEKSHIRING.
 Kanal asosan O'zbekiston hayotiga oid yangiliklarni joylaydi: O'zbekiston va uning viloyatlari, hukumat qarorlari,
 iqtisodiyot, narxlar, valyuta, ta'lim, sog'liq, transport, qurilish, qishloq xo'jaligi, ob-havo, hodisalar, madaniyat,
 sport (O'zbekiston sportchilari/jamoalari), shuningdek O'zbekiston fuqarolariga bevosita ta'sir qiladigan xorijiy yangiliklar
@@ -525,18 +600,31 @@ class AIRewriter:
         text = re.sub(r"^```[a-zA-Z]*\n?|```$", "", (text or "").strip(), flags=re.MULTILINE).strip()
         if re.match(r"^\W*SKIP\b", text, re.IGNORECASE) and len(text) < 40:
             return SKIP
+        if re.match(r"^\W*DUPLICATE\b", text, re.IGNORECASE) and len(text) < 40:
+            return DUPLICATE
         text = normalize_apostrophes(scrub_sources(text)).strip()
         if len(text) < 40 or len(text) > 3000:
             return None
         return text
 
-    def rewrite(self, item: NewsItem) -> Optional[str]:
-        """Post matni, SKIP (mos emas) yoki None (AI ishlamadi) qaytaradi."""
+    def rewrite(self, item: NewsItem, recent_headlines: Optional[list[str]] = None) -> Optional[str]:
+        """Post matni, SKIP (mos emas), DUPLICATE (takror) yoki None (AI ishlamadi) qaytaradi."""
         if not self.available:
             return None
         summary = item.summary or "(matn mavjud emas — faqat sarlavhadan foydalaning, yangi faktlar qo'shmang)"
+        recent_block = ""
+        if recent_headlines:
+            listing = "\n".join(f"- {h}" for h in recent_headlines)
+            recent_block = (
+                "0-QADAM — TAKRORNI TEKSHIRING.\n"
+                f"Kanalda yaqinda joylangan yangiliklar:\n{listing}\n"
+                "Agar quyidagi yangilik ularning birining AYNAN O'ZI bo'lsa (boshqa sayt, boshqa so'zlar yoki boshqa "
+                "alifboda yozilgan bo'lsa ham — bir xil voqea), javobda faqat bitta so'z yozing: DUPLICATE\n"
+                "Yangi voqea yoki muhim yangi tafsilot bo'lsa, bu takror emas.\n\n"
+            )
         prompt = USER_PROMPT.format(
-            title=item.title, summary=summary, max_chars=int(caption_budget() * 0.92)
+            title=item.title, summary=summary, max_chars=int(caption_budget() * 0.92),
+            recent_block=recent_block,
         )
 
         for model in self.models:
@@ -555,7 +643,8 @@ class AIRewriter:
                 text = self._sanitize(resp.choices[0].message.content)
                 if text:
                     self.failed_rounds = 0
-                    LOG.info("AI javobi tayyor (model: %s)%s", model, " — SKIP" if text == SKIP else "")
+                    label = {SKIP: " — SKIP", DUPLICATE: " — DUPLICATE"}.get(text, "")
+                    LOG.info("AI javobi tayyor (model: %s)%s", model, label)
                     return text
                 LOG.warning("Model %s yaroqsiz (bo'sh/juda qisqa/juda uzun) javob qaytardi.", model)
             except Exception as exc:  # noqa: BLE001 — Groq SDK turli xatolik sinflarini beradi
@@ -819,7 +908,11 @@ class Outcome(Enum):
 
 
 def process_item(item: NewsItem, session: requests.Session, publisher: TelegramPublisher,
-                 rewriter: AIRewriter) -> Outcome:
+                 rewriter: AIRewriter, recent: RecentPosts) -> Outcome:
+    if recent.is_duplicate(item.title):
+        LOG.info("Takror (boshqa manbada allaqachon joylangan) — o'tkazib yuborildi: %s", item.title)
+        return Outcome.SKIPPED
+
     enrich_item(session, item)
 
     image = item.image_url or DEFAULT_IMAGE_URL or None
@@ -827,7 +920,10 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
         LOG.info("Rasm topilmadi — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
 
-    ai_text = rewriter.rewrite(item)
+    ai_text = rewriter.rewrite(item, recent.headlines())
+    if ai_text == DUPLICATE:
+        LOG.info("Takror (AI aniqladi) — o'tkazib yuborildi: %s", item.title)
+        return Outcome.SKIPPED
     if ai_text == SKIP:
         LOG.info("Mavzu mos emas (AI) — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
@@ -836,6 +932,7 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
         return Outcome.DEFERRED
 
     post = build_final_post(item, ai_text)
+    item.headline = extract_headline(normalize_apostrophes(ai_text if ai_text else fallback_post_text(item)))
     result = publisher.send(post, image, allow_text_fallback=not REQUIRE_IMAGE)
     if result is SendResult.OK:
         return Outcome.POSTED
@@ -846,7 +943,7 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
 
 
 def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
-                 session: requests.Session, store: SeenStore) -> tuple[int, int]:
+                 session: requests.Session, store: SeenStore, recent: RecentPosts) -> tuple[int, int]:
     posted = failures = evaluated = 0
     for item in iter_candidates(session):
         if posted >= MAX_POSTS_PER_RUN or failures >= MAX_TELEGRAM_FAILURES or evaluated >= MAX_EVALUATE_PER_RUN:
@@ -856,12 +953,13 @@ def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
 
         evaluated += 1
         LOG.info("Yangi yangilik: %s", item.title)
-        outcome = process_item(item, session, publisher, rewriter)
+        outcome = process_item(item, session, publisher, rewriter, recent)
 
         if outcome in (Outcome.POSTED, Outcome.SKIPPED):
             store.add(item.dedup_keys)
             store.save()  # har bir qarordan keyin saqlaymiz — keyingi xatolik dublikat keltirmasin
         if outcome is Outcome.POSTED:
+            recent.add(item.title, item.headline)
             posted += 1
             time.sleep(POST_DELAY_SEC)
         elif outcome is Outcome.FAILED:
@@ -891,6 +989,7 @@ def main() -> int:
     rewriter = AIRewriter(GROQ_API_KEY, GROQ_MODELS)
     store = SeenStore(SEEN_FILE)
     state = load_json(DAILY_STATE_FILE, {})
+    recent = RecentPosts(state)
     now = datetime.now(TZ)
 
     maybe_send_morning(publisher, session, state, now)
@@ -901,7 +1000,7 @@ def main() -> int:
                  minutes_since_last, MIN_POST_INTERVAL_MIN)
         return 0
 
-    posted, failures = publish_news(publisher, rewriter, session, store)
+    posted, failures = publish_news(publisher, rewriter, session, store, recent)
     store.save()
     if posted:
         state["last_post_ts"] = time.time()

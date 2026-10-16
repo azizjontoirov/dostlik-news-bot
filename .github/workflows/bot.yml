@@ -2,9 +2,7 @@ name: Dostlik News Bot Auto Run
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *'
-
+  
 permissions:
   contents: write
 

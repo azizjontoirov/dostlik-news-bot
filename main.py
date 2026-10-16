@@ -14,7 +14,7 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
 groq_client = Groq(api_key=GROQ_API_KEY)
 
-# Respublika va hududiy yangiliklar manbalari
+# Respublika yangilik manbalari
 RSS_FEEDS = [
     "https://kun.uz/news/rss",
     "https://daryo.uz/rss/",
@@ -85,7 +85,7 @@ def get_exchange_rates():
         rub = next(r for r in rates if r["Ccy"] == "RUB")["Rate"]
         return f"💵 **1 USD** = {usd} so'm\n💶 **1 EUR** = {eur} so'm\n💷 **1 RUB** = {rub} so'm"
     except Exception:
-        return None
+        return "Valyuta kursi ma'lumotlari olinmadi."
 
 def get_jizzax_weather():
     """Jizzax / Do'stlik tumani ob-havosini olish"""
@@ -99,7 +99,7 @@ def get_jizzax_weather():
         rain_info = "🌧 Yog'ingarchilik kutilmoqda" if rain > 0.5 else "☀️ Ochiq va musaffo havo"
         return f"🌡 **Harorat:** {temp_min}°C ... {temp_max}°C\n{rain_info}"
     except Exception:
-        return None
+        return "Ob-havo ma'lumoti olinmadi."
 
 def send_morning_update():
     """Toza va bo'shliqlar bilan ajratilgan rasmsiz ertalabki post"""
@@ -111,9 +111,9 @@ def send_morning_update():
         f"☀️ **Xayrli tong, aziz Do'stlik tumanliklar va Jizzaxliklar!**\n\n"
         f"📅 **Bugun:** {today_str}\n\n\n"
         f"🌦 **JIZZAX & DO'STLIK TUMANIDA OB-HAVO:**\n\n"
-        f"{weather_text if weather_text else 'Ob-havo ma'lumoti olinmadi.'}\n\n\n"
+        f"{weather_text}\n\n\n"
         f"🏛 **MARKAZIY BANK VALYUTA KURSLARI:**\n\n"
-        f"{rates_text if rates_text else 'Kurs ma'lumotlari olinmadi.'}\n\n\n"
+        f"{rates_text}\n\n\n"
         f"✨ **Kuningiz unumli va barakali o'tsin!**\n\n\n"
         f"🛒 **Bizning kanallar:**\n"
         f"📢 @dostlik_bozor2 | @Dostlik_jizzax1\n\n"
@@ -184,4 +184,30 @@ def send_telegram_post(text, image_url):
         payload = {
             "chat_id": TELEGRAM_CHAT_ID,
             "text": text,
-            "
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True
+        }
+    res = requests.post(url, data=payload)
+    return res.status_code == 200
+
+def main():
+    seen_news = set(load_json(SEEN_FILE))
+    daily_state = load_json(DAILY_STATE_FILE)
+    
+    current_hour = datetime.now().hour
+    today_str = datetime.now().strftime("%Y-%m-%d")
+
+    # Ertalabki soat 06:00 va 08:00 oralig'ida faqat 1 marta yuboriladi
+    if 6 <= current_hour <= 8 and daily_state.get("morning_sent_date") != today_str:
+        print("Ertalabki ob-havo va valyuta posti yuborilmoqda...")
+        send_morning_update()
+        daily_state["morning_sent_date"] = today_str
+        save_json(DAILY_STATE_FILE, daily_state)
+
+    new_posts_count = 0
+
+    # 1. Jizzax viloyati hokimligi (gov.uz/uz/jizzax) sayti tekshiruvi
+    gov_title, gov_link = fetch_gov_jizzax_news()
+    if gov_title and gov_link not in seen_news:
+        print(f"Jizzax hokimiyatidan yangi xabar: {gov_title}")
+        ai_post = rewrite_with_groq(gov_title, "Jizzax viloyat hokimligi rasmiy xab

@@ -93,7 +93,7 @@ MAX_AGE_HOURS = 24             # bundan eski RSS yozuvlari e'tiborga olinmaydi
 MAX_TELEGRAM_FAILURES = 2
 MORNING_HOURS = range(6, 9)    # 06:00 – 08:59
 POST_DELAY_SEC = 2
-MIN_POST_INTERVAL_MIN = 15     # oxirgi postdan beri shuncha daqiqa o'tmagan bo'lsa, yangi post joylanmaydi (GitHub kechikishlari uchun himoya)
+MIN_POST_INTERVAL_MIN = 10     # oxirgi postdan beri shuncha daqiqa o'tmagan bo'lsa, yangi post joylanmaydi (ketma-ket/kechikkan ishga tushishlardan himoya). Cron oralig'idan KICHIK bo'lishi shart
 
 CAPTION_LIMIT = 1024
 CAPTION_SAFETY = 30            # emoji/entity hisobidagi farqlar uchun zaxira

@@ -12,9 +12,15 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
-groq_client = Groq(api_key=GROQ_API_KEY)
+# Groq mijozini xavfsiz ishga tushirish
+groq_client = None
+if GROQ_API_KEY:
+    try:
+        groq_client = Groq(api_key=GROQ_API_KEY)
+    except Exception as e:
+        print(f"Groq client yaratishda xatolik: {e}")
 
-# Respublika yangilik manbalari
+# Respublika va hududiy yangiliklar manbalari
 RSS_FEEDS = [
     "https://kun.uz/news/rss",
     "https://daryo.uz/rss/",
@@ -53,6 +59,8 @@ def extract_image_url(entry):
     return None
 
 def clean_html(text):
+    if not text:
+        return ""
     soup = BeautifulSoup(text, "html.parser")
     return soup.get_text()
 
@@ -102,7 +110,7 @@ def get_jizzax_weather():
         return "Ob-havo ma'lumoti olinmadi."
 
 def send_morning_update():
-    """Toza va bo'shliqlar bilan ajratilgan rasmsiz ertalabki post"""
+    """Ertalabki matnli post"""
     today_str = datetime.now().strftime("%Y-%m-%d")
     rates_text = get_exchange_rates()
     weather_text = get_jizzax_weather()
@@ -121,17 +129,12 @@ def send_morning_update():
         f"👉 @shohrux_1308\n"
         f"👉 @azizjon_dev"
     )
-    
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": post,
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": True
-    }
-    requests.post(url, data=payload)
+    send_telegram_post(post, None)
 
 def rewrite_with_groq(title, summary):
+    if not groq_client:
+        return f"⚡️ **{title}**\n\n{summary}"
+
     prompt = f"""
 Siz "DO'STLIK BOZOR | YANGILIKLAR" Telegram kanali uchun tajribali jurnalistsiz.
 Kanalimiz Jizzax viloyati va Do'stlik tumani aholisiga mo'ljallangan.
@@ -147,7 +150,6 @@ Qoidalar:
 Yangilik sarlavhasi: {title}
 Yangilik matni: {summary}
 """
-    # Groq platformasining doimiy va juda tezkor Llama 3.3 70B modeli
     models_to_try = ["llama-3.3-70b-versatile", "llama3-8b-8192", "mixtral-8x7b-32768"]
     
     for model_name in models_to_try:
@@ -163,7 +165,6 @@ Yangilik matni: {summary}
             print(f"Model {model_name} xatoligi: {e}")
             continue
 
-    # AI ishlamay qolsa ham xabar yo'qolib ketmasligi uchun zaxira matni
     return f"⚡️ **{title}**\n\n{summary}"
 
 def build_final_post(ai_text):
@@ -178,6 +179,7 @@ def build_final_post(ai_text):
     return ai_text + footer
 
 def send_telegram_post(text, image_url):
+    """Telegram'ga xabar yuborish va natijani logda ko'rsatish"""
     if image_url:
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
         payload = {
@@ -194,8 +196,19 @@ def send_telegram_post(text, image_url):
             "parse_mode": "Markdown",
             "disable_web_page_preview": True
         }
-    res = requests.post(url, data=payload)
-    return res.status_code == 200
+    
+    try:
+        res = requests.post(url, data=payload, timeout=15)
+        res_data = res.json()
+        if res.status_code == 200 and res_data.get("ok"):
+            print("✅ Telegram kanaliga muvaffaqiyatli joylandi!")
+            return True
+        else:
+            print(f"❌ Telegram API xatoligi: {res_data}")
+            return False
+    except Exception as e:
+        print(f"❌ Telegram'ga so'rov yuborishda xatolik: {e}")
+        return False
 
 def main():
     seen_news = set(load_json(SEEN_FILE))
@@ -224,14 +237,15 @@ def main():
             seen_news.add(gov_link)
             new_posts_count += 1
 
-    # 2. Respublika RSS yangiliklari
+    # 2. Respublika dolzarb yangiliklari
     for feed_url in RSS_FEEDS:
         if new_posts_count >= 2:
             break
         print(f"Manba tekshirilmoqda: {feed_url}")
         feed = feedparser.parse(feed_url)
         
-        for entry in feed.entries[:4]:
+        # Har bir manbadan dolzarb 6 ta yangilik ko'rib chiqiladi
+        for entry in feed.entries[:6]:
             news_id = entry.get("id") or entry.get("link")
             title = entry.get("title", "").strip()
             clean_title_key = re.sub(r'\W+', '', title.lower())[:30]
@@ -243,14 +257,13 @@ def main():
             summary = clean_html(raw_summary)
             image_url = extract_image_url(entry)
 
-            print(f"Yangi yangilik topildi: {title}")
+            print(f"Yangi dolzarb yangilik topildi: {title}")
             ai_post = rewrite_with_groq(title, summary)
             final_post = build_final_post(ai_post)
             
             success = send_telegram_post(final_post, image_url)
             
             if success:
-                print("Kanalga muvaffaqiyatli joylandi!")
                 seen_news.add(news_id)
                 seen_news.add(clean_title_key)
                 new_posts_count += 1

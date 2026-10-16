@@ -210,4 +210,47 @@ def main():
     gov_title, gov_link = fetch_gov_jizzax_news()
     if gov_title and gov_link not in seen_news:
         print(f"Jizzax hokimiyatidan yangi xabar: {gov_title}")
-        ai_post = rewrite_with_groq(gov_title, "Jizzax viloyat hokimligi rasmiy xab
+        context_msg = "Jizzax viloyat hokimligi rasmiy xabari"
+        ai_post = rewrite_with_groq(gov_title, context_msg)
+        final_post = build_final_post(ai_post)
+        if send_telegram_post(final_post, None):
+            seen_news.add(gov_link)
+            new_posts_count += 1
+
+    # 2. Respublika RSS yangiliklari
+    for feed_url in RSS_FEEDS:
+        if new_posts_count >= 2:
+            break
+        print(f"Manba tekshirilmoqda: {feed_url}")
+        feed = feedparser.parse(feed_url)
+        
+        for entry in feed.entries[:4]:
+            news_id = entry.get("id") or entry.get("link")
+            title = entry.get("title", "").strip()
+            clean_title_key = re.sub(r'\W+', '', title.lower())[:30]
+            
+            if news_id in seen_news or clean_title_key in seen_news:
+                continue
+                
+            raw_summary = entry.get("summary") or entry.get("description", "")
+            summary = clean_html(raw_summary)
+            image_url = extract_image_url(entry)
+
+            print(f"Yangi yangilik topildi: {title}")
+            ai_post = rewrite_with_groq(title, summary)
+            final_post = build_final_post(ai_post)
+            
+            success = send_telegram_post(final_post, image_url)
+            
+            if success:
+                print("Kanalga muvaffaqiyatli joylandi!")
+                seen_news.add(news_id)
+                seen_news.add(clean_title_key)
+                new_posts_count += 1
+                if new_posts_count >= 2:
+                    break
+
+    save_json(SEEN_FILE, list(seen_news))
+
+if __name__ == "__main__":
+    main()

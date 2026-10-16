@@ -659,8 +659,18 @@ def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_IDS:
-        LOG.error("TELEGRAM_BOT_TOKEN va/yoki TELEGRAM_CHAT_ID sozlanmagan (GitHub Secrets'ni tekshiring).")
+    missing = [
+        name for name, value in (
+            ("TELEGRAM_BOT_TOKEN", TELEGRAM_BOT_TOKEN),
+            ("TELEGRAM_CHAT_ID", TELEGRAM_CHAT_IDS),
+        ) if not value
+    ]
+    if missing:
+        LOG.error(
+            "Quyidagi o'zgaruvchilar bo'sh yoki berilmagan: %s. Workflow'dagi `env:` blokini "
+            "va Secrets nomlarini tekshiring (qiymat bo'sh bo'lsa ham shu xato chiqadi).",
+            ", ".join(missing),
+        )
         return 1
 
     session = build_session()

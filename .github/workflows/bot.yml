@@ -3,11 +3,19 @@ name: Dostlik News Bot Auto Run
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'  # Har 30 daqiqada avtomatik tekshiradi
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsbot
+  cancel-in-progress: false
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Kodlarni yuklash
         uses: actions/checkout@v4
@@ -15,7 +23,8 @@ jobs:
       - name: Python muhitini sozlash
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
+          cache: 'pip'
 
       - name: Kutubxonalarni o'rnatish
         run: |
@@ -24,15 +33,21 @@ jobs:
 
       - name: Botni ishga tushirish
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_DB }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_DB }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY_DB }}
         run: python main.py
 
-      - name: Baza fayllarini saqlash (Git Auto-commit)
+      - name: Baza fayllarini saqlash
+        if: always()
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
-          git add seen_news.json daily_state.json || true
-          git commit -m "Auto-update database files" || true
-          git push || true
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen_news.json daily_state.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "O'zgarish yo'q."
+          else
+            git commit -m "Auto-update database files"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

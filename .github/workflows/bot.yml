@@ -1,0 +1,38 @@
+name: Dostlik News Bot Auto Run
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'  # Har 30 daqiqada avtomatik tekshiradi
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodlarni yuklash
+        uses: actions/checkout@v4
+
+      - name: Python muhitini sozlash
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Kutubxonalarni o'rnatish
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Botni ishga tushirish
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python main.py
+
+      - name: Baza fayllarini saqlash (Git Auto-commit)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add seen_news.json daily_state.json || true
+          git commit -m "Auto-update database files" || true
+          git push || true

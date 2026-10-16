@@ -147,17 +147,24 @@ Qoidalar:
 Yangilik sarlavhasi: {title}
 Yangilik matni: {summary}
 """
-    try:
-        response = groq_client.chat.completions.create(
-            model="qwen-2.5-32b",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.5,
-            max_tokens=700
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"AI qayta ishlashda xatolik: {e}")
-        return f"⚡️ **{title}**\n\n{summary}"
+    # Groq platformasining doimiy va juda tezkor Llama 3.3 70B modeli
+    models_to_try = ["llama-3.3-70b-versatile", "llama3-8b-8192", "mixtral-8x7b-32768"]
+    
+    for model_name in models_to_try:
+        try:
+            response = groq_client.chat.completions.create(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.5,
+                max_tokens=700
+            )
+            return response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"Model {model_name} xatoligi: {e}")
+            continue
+
+    # AI ishlamay qolsa ham xabar yo'qolib ketmasligi uchun zaxira matni
+    return f"⚡️ **{title}**\n\n{summary}"
 
 def build_final_post(ai_text):
     footer = (

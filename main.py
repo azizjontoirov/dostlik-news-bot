@@ -86,9 +86,7 @@ RSS_FEEDS = [
     "https://kun.uz/news/rss",
     "https://daryo.uz/rss/",
     "https://qalampir.uz/uz/rss",
-    "https://www.gazeta.uz/uz/rss/",
-    "https://uza.uz/uz/rss",
-    "https://xabar.uz/rss",
+    "https://www.gazeta.uz/uz/rss/",    
 ]
 GOV_NEWS_URL = "https://gov.uz/uz/jizzax/news"
 CBU_RATES_URL = "https://cbu.uz/uz/arkhiv-kursov-valyut/json/"

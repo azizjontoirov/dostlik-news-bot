@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792214181.5040154,
+  "last_post_ts": 1792215137.3475595,
   "recent_posts": [
-    {
-      "source_title": "АҚШ давлат котиби Марко Рубио 19 октябрь куни Самарқандга ташриф буюриши кутилмоқда",
-      "headline": "AQSH davlat kotibi Marco Rubio Samarkandga tashrif buyuradi",
-      "ts": 1792147528.689585
-    },
     {
       "source_title": "Ўзбекистон инвесторларга йирик газ ресурсларига эга 128 та нефть-газ блокларини таклиф этади",
       "headline": "O'zbekiston investorlarga yirik gaz resurslari taklifini e'lon qildi",
@@ -200,10 +195,21 @@
       "source_title": "Islom Madaminov Farg‘ona viloyati hokimi o‘rinbosari etib tayinlandi",
       "headline": "Islom Madaminov Farg'ona viloyati hokimi o'rinbosari etib tayinlandi 🚀",
       "ts": 1792214179.5010676
+    },
+    {
+      "source_title": "Oʻzbekistonga toʻqqiz oyda 10 milliondan ziyod turist keldi.",
+      "headline": "O'zbekistonga 10 milliondan ziyod turist keldi! 🌍✈️",
+      "ts": 1792215135.3447776
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 3
+    "posts_since_ad": 0,
+    "paid_index": 1,
+    "slot_no": 1,
+    "last_ad_ts": 1792215141.1753457,
+    "shown": {
+      "logoped_gulshan": 1
+    }
   }
 }

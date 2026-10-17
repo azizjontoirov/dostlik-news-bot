@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792225026.8726978,
+  "last_post_ts": 1792225946.2879975,
   "recent_posts": [
-    {
-      "source_title": "Madaniy meros agentligi Navoiy nomidagi adabiyot muzeyi binosining ta’mirlanishini to‘liq nazoratga oladi",
-      "headline": "Madaniy meros nazorati ostida!",
-      "ts": 1792158338.9769864
-    },
     {
       "source_title": "Toshkentda yana to‘rt yo‘nalishda 17,9 km avtobus yo‘laklari tashkil etiladi",
       "headline": "Toshkentda 4 yo'nalishda 17,9 km avtobus yo'laklari tashkil etiladi",
@@ -200,19 +195,25 @@
       "source_title": "Фармацевтика: ЮНИСЕФ билан янги стратегик қадамлар",
       "headline": "UNICEF bilan farmatsevtika sohasida yangi strategik qadamlar",
       "ts": 1792225024.8706846
+    },
+    {
+      "source_title": "Иқлимга чидамли экинлар ва озиқ-овқат хавфсизлиги",
+      "headline": "Iqlimga chidamli ekinlar va oziq‑ovqat xavfsizligi 🌾",
+      "ts": 1792225944.2853587
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 0,
     "paid_index": 2,
-    "slot_no": 3,
-    "last_ad_ts": 1792222303.337568,
+    "slot_no": 4,
+    "last_ad_ts": 1792225949.6557834,
     "shown": {
       "logoped_gulshan": 1,
       "ad_flour": 1,
-      "gilam_eag": 1
+      "gilam_eag": 1,
+      "ad_job": 1
     },
-    "permanent_index": 1
+    "permanent_index": 2
   }
 }

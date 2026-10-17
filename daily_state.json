@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792218712.3265822,
+  "last_post_ts": 1792219579.6876826,
   "recent_posts": [
-    {
-      "source_title": "Иккинчи ва учинчи АЭСни ҳам қуриш режаларимиз бор — Шавкат Мирзиёев",
-      "headline": "Ikkinchi va uchinchi AЭSni ham qurish rejamiz bor — Shavkat Mirziyoyev",
-      "ts": 1792152053.737282
-    },
     {
       "source_title": "Otasidan ayrilgan kunda konsert bergan, ikki bolali san’atkorga turmushga chiqqan, mehribon o‘gay ona bo‘la olgan Mavluda Asalxo‘jayeva 63 yoshda (foto, video)",
       "headline": "Mavluda Asalxo'jayeva 63‑yoshda – sahnadagi yulduz yoritadi",
@@ -200,11 +195,16 @@
       "source_title": "Surxondaryoda qo‘shnisining Spark avtomobilini haydagan 5-sinf o‘quvchisi aniqlandi",
       "headline": "Surxondaryoda 5‑sinf o'quvchisi qo'shnisining avtomobilini boshqargan 🚗⚠️",
       "ts": 1792218710.3232865
+    },
+    {
+      "source_title": "Ericsson Oʻzbekistonda 5G tarmoqlarini rivojlantirishga qiziqish bildirdi.",
+      "headline": "Ericsson O'zbekistonda 5G rivojiga qiziqish bildirdi 📡🚀",
+      "ts": 1792219577.6531942
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 1,
     "slot_no": 2,
     "last_ad_ts": 1792218716.1552203,

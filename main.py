@@ -82,6 +82,8 @@ RSS_FEEDS = [
     "https://daryo.uz/rss/",
     "https://qalampir.uz/uz/rss",
     "https://www.gazeta.uz/uz/rss/",
+    "https://uza.uz/uz/rss",
+    "https://xabar.uz/rss",
 ]
 GOV_NEWS_URL = "https://gov.uz/uz/jizzax/news"
 CBU_RATES_URL = "https://cbu.uz/uz/arkhiv-kursov-valyut/json/"
@@ -94,10 +96,10 @@ SEEN_FILE = "seen_news.json"
 DAILY_STATE_FILE = "daily_state.json"
 SEEN_LIMIT = 1500
 
-MAX_POSTS_PER_RUN = 1          # bir ishga tushishda ko'pi bilan nechta post
-MAX_EVALUATE_PER_RUN = 15      # bir ishga tushishda ko'pi bilan nechta yangilik ko'rib chiqiladi (AI limiti uchun)
-ENTRIES_PER_FEED = 10
-MAX_AGE_HOURS = 24             # bundan eski RSS yozuvlari e'tiborga olinmaydi
+MAX_POSTS_PER_RUN = 1          # bir ishga tushishda ko'pi bilan nechta post (har 15 daqiqada 1 ta)
+MAX_EVALUATE_PER_RUN = 30      # bir ishga tushishda ko'pi bilan nechta yangilik ko'rib chiqiladi (AI limiti uchun)
+ENTRIES_PER_FEED = 20          # har manbadan nechta yozuv olinadi
+MAX_AGE_HOURS = 48             # bundan eski RSS yozuvlari e'tiborga olinmaydi
 MAX_TELEGRAM_FAILURES = 2
 MORNING_HOUR = 6               # ertalabki ob-havo/valyuta posti shu soatda chiqadi (Toshkent vaqti)
 MORNING_WINDOW_MIN = 30        # 06:00–06:29 oralig'idagi birinchi ishga tushishda; 06:30 dan keyin KECH chiqmaydi
@@ -106,8 +108,8 @@ AI_BUDGET_SEC = 120            # bir ishga tushishda Groq'ka sarflanadigan umumi
 POST_DELAY_SEC = 2
 ADS_FILE = "ads.json"
 POSTS_PER_AD = 4               # reklama chiqishi uchun kamida shuncha yangilik posti bo'lishi kerak
-MIN_AD_INTERVAL_MIN = 120      # ikki reklama orasidagi minimal vaqt (daqiqa) — kuniga ~7 tadan oshmasligi uchun
-AD_HOURS = range(8, 22)        # reklama faqat 08:00–21:59 (Toshkent) oralig'ida chiqadi; kechasi o'quvchi yo'q
+MIN_AD_INTERVAL_MIN = 0        # ikki reklama orasidagi minimal vaqt (daqiqa); 0 = faqat POSTS_PER_AD bo'yicha
+AD_HOURS = range(8, 23)        # reklama faqat 08:00–22:59 (Toshkent) oralig'ida chiqadi; kechasi ham kerak bo'lsa range(0, 24)
 PAID_SLOTS_PER_PERMANENT = 1   # har 1 ta pullik reklamadan keyin 1 ta doimiy reklama (1 = navbatma-navbat; 2 = pulliklarga ko'proq)
 AD_DELAY_SEC = 3               # yangilik posti bilan reklama orasidagi pauza
 MIN_POST_INTERVAL_MIN = 10     # oxirgi postdan beri shuncha daqiqa o'tmagan bo'lsa, yangi post joylanmaydi (ketma-ket/kechikkan ishga tushishlardan himoya). Cron oralig'idan KICHIK bo'lishi shart
@@ -560,7 +562,7 @@ def iter_candidates(session: requests.Session) -> list[NewsItem]:
         except Exception:  # noqa: BLE001
             LOG.exception("RSS qayta ishlashda kutilmagan xatolik: %s", feed_url)
             got = []
-        LOG.info("  → %s: %d ta yangi (24 soat ichida) yozuv", feed_url, len(got))
+        LOG.info("  → %s: %d ta yangi (%d soat ichida) yozuv", feed_url, len(got), MAX_AGE_HOURS)
         items.extend(got)
     items.sort(key=lambda it: it.published_ts, reverse=True)
     LOG.info("Jami nomzod yangilik: %d ta", len(items))

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792224081.2016819,
+  "last_post_ts": 1792225026.8726978,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda dam olish kunlari havo harorati 27 darajagacha ko‘tariladi",
-      "headline": "O'zbekistonda dam olish kunlari harorat 27 darajagacha ko'tariladi",
-      "ts": 1792157446.2281063
-    },
     {
       "source_title": "Madaniy meros agentligi Navoiy nomidagi adabiyot muzeyi binosining ta’mirlanishini to‘liq nazoratga oladi",
       "headline": "Madaniy meros nazorati ostida!",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda mijozlar murojaatlari ulushi eng yuqori bo‘lgan 10 ta bank maʼlum qilindi",
       "headline": "Hayot Bank mijozlar murojaatlari bo'yicha birinchi o'rinda! 📈",
       "ts": 1792224079.1986225
+    },
+    {
+      "source_title": "Фармацевтика: ЮНИСЕФ билан янги стратегик қадамлар",
+      "headline": "UNICEF bilan farmatsevtika sohasida yangi strategik qadamlar",
+      "ts": 1792225024.8706846
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 3,
     "last_ad_ts": 1792222303.337568,

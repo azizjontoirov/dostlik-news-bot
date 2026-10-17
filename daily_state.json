@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792221413.0283175,
+  "last_post_ts": 1792222299.0066564,
   "recent_posts": [
-    {
-      "source_title": "Turkiy davlatlar ishtirokidagi Turk Kubogi musobaqasiga asos solinishi mumkin — OAV",
-      "headline": "Turk Kubogi – Mintaqaviy Futbol Yangi Bosqichi! 🌍",
-      "ts": 1792154736.700717
-    },
     {
       "source_title": "O‘zbekistonda dollar kursi oshdi",
       "headline": "O'zbekistonda dollar kursi oshdi",
@@ -200,17 +195,23 @@
       "source_title": "Oʻzbekistonda kuzda 140 million tup koʻchat ekiladi - mavsum qachon boshlanadi?.",
       "headline": "O'zbekistonda kuzda 140 million tup ko'chat ekiladi 🌳",
       "ts": 1792221411.0251381
+    },
+    {
+      "source_title": "Qoraqalpogʻistonda ikki kunda 200 nafardan ortiq fuqaroning murojaati tinglandi.",
+      "headline": "Qoraqalpog'istonda ikki kunda 200+ fuqaroning murojaati tinglandi 🗂️",
+      "ts": 1792222297.004027
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 3,
-    "paid_index": 1,
-    "slot_no": 2,
-    "last_ad_ts": 1792218716.1552203,
+    "posts_since_ad": 0,
+    "paid_index": 2,
+    "slot_no": 3,
+    "last_ad_ts": 1792222303.337568,
     "shown": {
       "logoped_gulshan": 1,
-      "ad_flour": 1
+      "ad_flour": 1,
+      "gilam_eag": 1
     },
     "permanent_index": 1
   }

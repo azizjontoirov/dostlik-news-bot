@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792220550.223324,
+  "last_post_ts": 1792221413.0283175,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда яна 4 та участкада BRT линияларини қуриш режалаштирилмоқда",
-      "headline": "Toshkentda BRT kengayishi!",
-      "ts": 1792153848.0000708
-    },
     {
       "source_title": "Turkiy davlatlar ishtirokidagi Turk Kubogi musobaqasiga asos solinishi mumkin — OAV",
       "headline": "Turk Kubogi – Mintaqaviy Futbol Yangi Bosqichi! 🌍",
@@ -200,11 +195,16 @@
       "source_title": "Jarqoʻrgʻonda 5-sinf oʻquvchisi qoʻshnisining «Spark»ini haydab, videosini tarmoqqa joyladi.",
       "headline": "Jarqo'rg'onda 5‑sinf o'quvchisi qo'shnisining “Spark”ini haydab, video joyladi 🚗📹",
       "ts": 1792220548.2200165
+    },
+    {
+      "source_title": "Oʻzbekistonda kuzda 140 million tup koʻchat ekiladi - mavsum qachon boshlanadi?.",
+      "headline": "O'zbekistonda kuzda 140 million tup ko'chat ekiladi 🌳",
+      "ts": 1792221411.0251381
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 1,
     "slot_no": 2,
     "last_ad_ts": 1792218716.1552203,

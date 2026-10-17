@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792242045.609374,
+  "last_post_ts": 1792243846.6436653,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Cengiz Holding boshqaruvi raisini qabul qildi",
-      "headline": "Shavkat Mirziyoyev Cengiz Holding boshqaruvi raisini qabul qildi",
-      "ts": 1792165530.924626
-    },
     {
       "source_title": "O‘zbekistonda kuzgi mavsumda 140 mln tup ko‘chat ekiladi",
       "headline": "O'zbekistonda kuzgi mavsumda 140 mln tup ko'chat ekiladi",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda bir kilogrammdan ortiq gashish sotmoqchi bo‘lgan shaxs qo‘lga olindi",
       "headline": "Toshkentda giyohvandlik savdosi bilan shug'ullangan shaxs qo'lga olindi",
       "ts": 1792240239.9438956
+    },
+    {
+      "source_title": "O‘zbekistonda maktab o‘quvchilariga insult belgilarini aniqlash o‘rgatiladi",
+      "headline": "FAST — superqahramonlar dasturi bilan insult belgilarini aniqlash o'rgatiladi 🧠📚",
+      "ts": 1792243844.105289
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792242044.769372,
@@ -230,6 +230,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-17",
-    "count": 4
+    "count": 5
   }
 }

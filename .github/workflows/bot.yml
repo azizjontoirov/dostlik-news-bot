@@ -36,6 +36,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_DB }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_DB }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY_DB }}
+          REQUIRE_IMAGE: '0'
+          # Kanal logotipi bo'lsa, quyidagi qatorni yoqing (# ni olib tashlang) va havolani qo'ying:
+          # DEFAULT_IMAGE_URL: 'https://SIZNING_RASM_HAVOLASI.jpg'
         run: python main.py
 
       - name: Baza fayllarini saqlash

@@ -16,6 +16,8 @@ Muhit o'zgaruvchilari:
   GROQ_MODELS         (ixtiyoriy; vergul bilan, birinchisi asosiy model)
   DEFAULT_IMAGE_URL   (ixtiyoriy; yangilikda rasm topilmasa ishlatiladigan umumiy rasm, masalan kanal logotipi)
   REQUIRE_IMAGE       (ixtiyoriy; "0" bo'lsa rasmsiz postlarga ham ruxsat. Standart: "1")
+  TELEGRAM_ADMIN_IDS  (ixtiyoriy; adminlarning Telegram ID'lari, vergul bilan: "123456789,987654321").
+                      Adminlar botga shaxsiy chatda /interval, /status buyruqlarini yuboradi.
 """
 from __future__ import annotations
 
@@ -60,6 +62,9 @@ TELEGRAM_CHAT_IDS = [
     c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()
 ]
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
+TELEGRAM_ADMIN_IDS = {
+    int(x) for x in re.split(r"[,\s]+", os.environ.get("TELEGRAM_ADMIN_IDS", "")) if re.fullmatch(r"[0-9]+", x)
+}
 DEFAULT_IMAGE_URL = os.environ.get("DEFAULT_IMAGE_URL", "").strip()
 REQUIRE_IMAGE = os.environ.get("REQUIRE_IMAGE", "1").strip() != "0"
 
@@ -107,12 +112,22 @@ RUN_BUDGET_SEC = 360           # bir ishga tushishning "yumshoq" vaqt chegarasi 
 AI_BUDGET_SEC = 120            # bir ishga tushishda Groq'ka sarflanadigan umumiy vaqt; oshsa AI o'chiriladi
 POST_DELAY_SEC = 2
 ADS_FILE = "ads.json"
-POSTS_PER_AD = 4               # reklama chiqishi uchun kamida shuncha yangilik posti bo'lishi kerak
-MIN_AD_INTERVAL_MIN = 0        # ikki reklama orasidagi minimal vaqt (daqiqa); 0 = faqat POSTS_PER_AD bo'yicha
-AD_HOURS = range(8, 23)        # reklama faqat 08:00–22:59 (Toshkent) oralig'ida chiqadi; kechasi ham kerak bo'lsa range(0, 24)
-PAID_SLOTS_PER_PERMANENT = 1   # har 1 ta pullik reklamadan keyin 1 ta doimiy reklama (1 = navbatma-navbat; 2 = pulliklarga ko'proq)
-AD_DELAY_SEC = 3               # yangilik posti bilan reklama orasidagi pauza
-MIN_POST_INTERVAL_MIN = 10     # oxirgi postdan beri shuncha daqiqa o'tmagan bo'lsa, yangi post joylanmaydi (ketma-ket/kechikkan ishga tushishlardan himoya). Cron oralig'idan KICHIK bo'lishi shart
+# ── Post intervali va slotlar (Toshkent vaqti) ──
+DEFAULT_POST_INTERVAL_MIN = 30   # standart interval; admin /interval buyrug'i bilan o'zgartiradi (daily_state.json)
+MIN_INTERVAL_SETTING = 15        # admin o'rnatishi mumkin bo'lgan eng kichik interval (daqiqa)
+MAX_INTERVAL_SETTING = 720       # ...va eng katta (12 soat)
+CRON_STEP_MIN = 15               # cron/tashqi cron qancha daqiqada bir ishga tushiradi (workflow bilan mos bo'lsin)
+SLOT_GRACE_MIN = 5               # cron kechikishiga bardosh: interval - 5 daqiqa o'tgan bo'lsa slot ochiladi
+SLOT_MIN_GAP_MIN = 5             # har qanday holatda ikki post orasidagi minimal vaqt
+ACTIVE_FROM_MIN = 7 * 60 + 30    # 07:30 dan boshlab yangilik/reklama zanjiri
+ACTIVE_UNTIL_MIN = 22 * 60 + 30  # 22:30 gacha (shu vaqtdan keyin kechasi post joylanmaydi)
+POSTS_PER_AD = 2                 # har 2 ta yangilikdan keyin 1 ta reklama (slot)
+PRIME_CENTERS_MIN = (8 * 60 + 30, 12 * 60 + 30, 18 * 60 + 30, 20 * 60 + 30)  # prime-time: 08:30, 12:30, 18:30, 20:30
+PRIME_RADIUS_MIN = 45            # prime-time oynasi: shu vaqtlarning ±45 daqiqasi (pullik reklamalarga ustunlik)
+PERMANENT_MAX_PER_DAY = 4        # har doimiy reklama kuniga ko'pi bilan shuncha (reklamada daily_limit bo'lsa, o'sha ustun)
+MORNING_AD_HOUR = 7              # kunni ochuvchi doimiy reklama: 07:00–07:29 oralig'ida
+MORNING_AD_FROM_MIN = 0
+MORNING_AD_UNTIL_MIN = 30
 
 CAPTION_LIMIT = 1024
 CAPTION_SAFETY = 30            # emoji/entity hisobidagi farqlar uchun zaxira
@@ -735,6 +750,7 @@ _ERROR_HINTS = (
     ("wrong file identifier", "Rasm URL'i yaroqsiz — rasm yuklab olinib, fayl sifatida yuboriladi."),
     ("failed to get http url content", "Telegram rasmni yuklab ola olmadi — rasm fayl sifatida yuboriladi."),
     ("message is too long", "Matn 4096 belgidan uzun."),
+    ("conflict", "Botga webhook o'rnatilgan — admin buyruqlari (getUpdates) ishlashi uchun deleteWebhook qiling."),
 )
 
 _IMAGE_ERRORS = (
@@ -889,6 +905,19 @@ class TelegramPublisher:
             return result
         return SendResult.OK if self._send_text(chat_id, html_text) else SendResult.FAILED
 
+    def get_updates(self, offset: int) -> Optional[list[dict[str, Any]]]:
+        """Botga kelgan yangi xabarlar (admin buyruqlari uchun). None — xatolik."""
+        payload: dict[str, Any] = {"timeout": 0, "limit": 50, "allowed_updates": json.dumps(["message"])}
+        if offset:
+            payload["offset"] = offset
+        ok, data = self._call("getUpdates", payload, attempts=2)
+        result = data.get("result") if ok else None
+        return result if isinstance(result, list) else None
+
+    def reply(self, chat_id: int, html_text: str) -> bool:
+        """Shaxsiy chatga (admin) javob yuboradi."""
+        return self._send_text(str(chat_id), html_text)
+
     def send(self, html_text: str, image_url: Optional[str] = None,
              allow_text_fallback: bool = True,
              local_image: Optional[tuple[str, bytes, str]] = None) -> SendResult:
@@ -975,8 +1004,11 @@ def maybe_send_morning(publisher: TelegramPublisher, session: requests.Session,
 #   days          — start_date'dan boshlab necha kun (expire_date o'rniga): 7 = 1 hafta, 30 = ~1 oy
 # Pullik (paid) reklamada expire_date yoki (start_date + days) majburiy. Muddati o'tgani avtomatik o'chiriladi.
 #
-# Navbat: pullik reklama bo'lsa — har PAID_SLOTS_PER_PERMANENT ta pullikdan keyin 1 ta doimiy (aralash aylanadi);
-# pullik bo'lmasa — faqat doimiylar. Hisoblagich va navbat holati daily_state.json → "ads_state" da saqlanadi.
+#   end_date      — expire_date bilan bir xil (ikkalasidan birini yozish kifoya)
+#   daily_limit   — kuniga eng ko'pi bilan necha marta chiqishi (ixtiyoriy)
+#
+# Jadval: prime-time (08:30, 12:30, 18:30, 20:30 atrofi) da pullik, qolgan vaqtda doimiy reklamalar; 07:00 da kunni doimiy reklama ochadi.
+# Har guruh ichida bugun eng kam chiqqan reklama tanlanadi (adolatli). Kunlik hisob daily_state.json → "ads_state" da.
 
 
 def _as_int(value: Any) -> int:
@@ -1042,6 +1074,10 @@ def load_ads() -> Optional[dict[str, Any]]:
         elif not isinstance(data[key], list):
             LOG.error("%s ichida \"%s\" ro'yxat [...] bo'lishi kerak — reklama o'tkazib yuboriladi.", ADS_FILE, key)
             return None
+    for key in ("permanent", "paid"):
+        for ad in data[key]:
+            if isinstance(ad, dict) and _blank(ad.get("expire_date")) and not _blank(ad.get("end_date")):
+                ad["expire_date"] = ad["end_date"]
     return data
 
 
@@ -1116,58 +1152,80 @@ def cleanup_expired_ads(today: date) -> int:
     return len(removed)
 
 
-def pick_ad(ads: dict[str, Any], ads_state: dict[str, Any], today: date) -> tuple[Optional[dict[str, Any]], str, int]:
+def _roll_day(ads_state: dict[str, Any], today: date) -> dict[str, Any]:
+    """Kun almashsa, 'bugun necha marta chiqqan' hisoblagichini nolga tushiradi."""
+    iso = today.isoformat()
+    if ads_state.get("day") != iso or not isinstance(ads_state.get("today"), dict):
+        ads_state["day"] = iso
+        ads_state["today"] = {}
+    return ads_state["today"]
+
+
+def _last_shown(ads_state: dict[str, Any]) -> dict[str, Any]:
+    if not isinstance(ads_state.get("last_shown"), dict):
+        ads_state["last_shown"] = {}
+    return ads_state["last_shown"]
+
+
+def _daily_cap(ad: dict[str, Any], kind: str) -> int:
+    """Kuniga eng ko'pi bilan necha marta chiqishi. 0 = cheklovsiz. Reklamadagi daily_limit hammasidan ustun."""
+    limit = _as_int(ad.get("daily_limit"))
+    if limit > 0:
+        return limit
+    return PERMANENT_MAX_PER_DAY if kind == "permanent" else 0
+
+
+def _eligible(pool: list[dict[str, Any]], kind: str, counts: dict[str, Any]) -> list[dict[str, Any]]:
+    """Bugungi limiti hali tugamagan reklamalar."""
+    result = []
+    for ad in pool:
+        cap = _daily_cap(ad, kind)
+        if cap and _as_int(counts.get(_ad_id(ad))) >= cap:
+            continue
+        result.append(ad)
+    return result
+
+
+def _least_shown(pool: list[dict[str, Any]], counts: dict[str, Any], last_shown: dict[str, Any]) -> dict[str, Any]:
+    """Adolatli aylantirish: bugun eng kam chiqqani, teng bo'lsa eng uzoq chiqmaganini tanlaydi."""
+    def key(pair: tuple[int, dict[str, Any]]) -> tuple[int, float, int]:
+        idx, ad = pair
+        aid = _ad_id(ad)
+        return _as_int(counts.get(aid)), _as_float(last_shown.get(aid)), idx
+    return min(enumerate(pool), key=key)[1]
+
+
+def is_prime_time(now: datetime) -> bool:
+    """Prime-time: PRIME_CENTERS_MIN dagi vaqtlarning (08:30, 12:30, 18:30, 20:30) ±PRIME_RADIUS_MIN daqiqa atrofi."""
+    minutes = now.hour * 60 + now.minute
+    return any(abs(minutes - center) <= PRIME_RADIUS_MIN for center in PRIME_CENTERS_MIN)
+
+
+def decide_ad(ads: dict[str, Any], ads_state: dict[str, Any], now: datetime) -> tuple[Optional[dict[str, Any]], str]:
     """
-    Pullik va doimiy reklamalar aralash: pullik bo'lsa har PAID_SLOTS_PER_PERMANENT ta pullikdan keyin 1 ta doimiy.
-    Faqat biri mavjud bo'lsa — o'sha. Har guruh ichida ro'yxat tartibida aylanadi.
+    Reklama slotida qaysi reklama chiqishini tanlaydi.
+      Prime-time  — avval PULLIK reklamalar (end_date va daily_limit hisobga olinadi), bo'lmasa doimiy.
+      Qolgan vaqt — avval DOIMIY reklamalar navbat bilan aylanadi, hammasi limitga yetsa pullik.
+    Qaytaradi: (reklama, "paid"/"permanent") yoki (None, "").
     """
+    today = now.date()
+    counts = _roll_day(ads_state, today)
+    last_shown = _last_shown(ads_state)
+
     paid = [a for a in ads["paid"] if _is_active(a, today, require_expiry=True)]
     permanent = [a for a in ads["permanent"] if _is_active(a, today, require_expiry=False)]
-
-    if paid and permanent:
-        cycle = PAID_SLOTS_PER_PERMANENT + 1
-        kind = "permanent" if _as_int(ads_state.get("slot_no")) % cycle == cycle - 1 else "paid"
-    elif paid:
-        kind = "paid"
-    elif permanent:
-        kind = "permanent"
-    else:
-        return None, "", 0
-
-    pool = paid if kind == "paid" else permanent
-    idx = _as_int(ads_state.get(f"{kind}_index")) % len(pool)
-    return pool[idx], kind, idx
+    pools = {"paid": _eligible(paid, "paid", counts), "permanent": _eligible(permanent, "permanent", counts)}
+    order = ("paid", "permanent") if is_prime_time(now) else ("permanent", "paid")
+    for kind in order:
+        if pools[kind]:
+            return _least_shown(pools[kind], counts, last_shown), kind
+    return None, ""
 
 
-def check_and_send_ad(publisher: TelegramPublisher, state: dict[str, Any], now: datetime) -> bool:
-    """
-    Shartlar bajarilsa 1 ta reklama yuboradi: (1) kamida POSTS_PER_AD yangilik o'tgan, (2) vaqt AD_HOURS ichida,
-    (3) oxirgi reklamadan MIN_AD_INTERVAL_MIN daqiqa o'tgan. Muvaffaqiyatsiz bo'lsa hisoblagich saqlanadi.
-    """
+def _deliver_ad(publisher: TelegramPublisher, state: dict[str, Any], ad: dict[str, Any], kind: str) -> bool:
+    """Reklamani yuboradi va hisoblagichlarni (kunlik, jami, oxirgi vaqt, yangilik zanjiri) yangilaydi."""
     ads_state = state.setdefault("ads_state", {})
-    since = _as_int(ads_state.get("posts_since_ad"))
-    if since < POSTS_PER_AD:
-        LOG.info("Reklama navbati: %d/%d yangilik.", since, POSTS_PER_AD)
-        return False
-    if now.hour not in AD_HOURS:
-        LOG.info("Reklama vaqti emas (%02d:%02d) — reklama faqat %02d:00–%02d:59 oralig'ida chiqadi.",
-                 now.hour, now.minute, AD_HOURS.start, AD_HOURS.stop - 1)
-        return False
-    minutes_since_ad = (time.time() - _as_float(ads_state.get("last_ad_ts"))) / 60
-    if minutes_since_ad < MIN_AD_INTERVAL_MIN:
-        LOG.info("Oxirgi reklamadan %.0f daqiqa o'tdi (minimum %d) — reklama keyinga qoldirildi.",
-                 minutes_since_ad, MIN_AD_INTERVAL_MIN)
-        return False
-
-    ads = load_ads()
-    if ads is None:
-        return False
-    ad, kind, idx = pick_ad(ads, ads_state, now.date())
-    if ad is None:
-        LOG.info("Chiqariladigan faol reklama yo'q (ads.json'ni tekshiring).")
-        return False
-
-    # Reklama matni yangiliklar bilan bir xil formatda yoziladi: **qalin**, oddiy matn (HTML belgilari xavfsiz o'giriladi)
+    # Reklama matni yangiliklar bilan bir xil formatda: **qalin**, oddiy matn + pastki qism (kanallar, aloqa)
     ad_html = to_telegram_html(str(ad["text"])) + AD_FOOTER_HTML
     local_image = load_local_image(str(ad.get("image_file") or "").strip())
     ad_image = None if local_image else (str(ad.get("image_url") or "").strip() or None)
@@ -1175,21 +1233,261 @@ def check_and_send_ad(publisher: TelegramPublisher, state: dict[str, Any], now: 
         LOG.warning("Reklama matni %d belgi — rasm ostiga sig'maydi (limit %d), rasm va matn ALOHIDA chiqadi. "
                     "Bitta post bo'lishi uchun qisqartiring: %s", len(strip_tags(ad_html)), CAPTION_LIMIT, _ad_id(ad))
 
-    time.sleep(AD_DELAY_SEC)
     result = publisher.send(ad_html, ad_image, local_image=local_image)
     if result is not SendResult.OK:
         LOG.warning("Reklama yuborilmadi (%s): %s", result.value, _ad_id(ad))
         return False
 
+    aid = _ad_id(ad)
+    counts = ads_state["today"] if isinstance(ads_state.get("today"), dict) else {}
+    counts[aid] = _as_int(counts.get(aid)) + 1
+    ads_state["today"] = counts
+    _last_shown(ads_state)[aid] = time.time()
     ads_state["posts_since_ad"] = 0
-    ads_state[f"{kind}_index"] = idx + 1
-    ads_state["slot_no"] = _as_int(ads_state.get("slot_no")) + 1
     ads_state["last_ad_ts"] = time.time()
     shown = ads_state.setdefault("shown", {})
-    shown[_ad_id(ad)] = _as_int(shown.get(_ad_id(ad))) + 1  # mijozga hisobot berish uchun
+    shown[aid] = _as_int(shown.get(aid)) + 1  # mijozga hisobot berish uchun (jami)
     save_json(DAILY_STATE_FILE, state)
-    LOG.info("📣 Reklama joylandi [%s]: %s (jami: %d marta)", kind, _ad_id(ad), shown[_ad_id(ad)])
+    LOG.info("📣 Reklama joylandi [%s]: %s (bugun: %d marta, jami: %d marta)", kind, aid, counts[aid], shown[aid])
     return True
+
+
+def maybe_send_morning_ad(publisher: TelegramPublisher, state: dict[str, Any], now: datetime) -> bool:
+    """07:00–07:29 oralig'idagi birinchi ishga tushishda — kunni ochuvchi DOIMIY reklama (kuniga 1 marta)."""
+    if now.hour != MORNING_AD_HOUR or not MORNING_AD_FROM_MIN <= now.minute < MORNING_AD_UNTIL_MIN:
+        return False
+    ads_state = state.setdefault("ads_state", {})
+    today_iso = now.date().isoformat()
+    if ads_state.get("morning_ad_date") == today_iso:
+        return False
+    ads = load_ads()
+    if ads is None:
+        return False
+    counts = _roll_day(ads_state, now.date())
+    permanent = [a for a in ads["permanent"] if _is_active(a, now.date(), require_expiry=False)]
+    if not permanent:
+        LOG.info("Ertalabki reklama uchun faol doimiy reklama yo'q.")
+        return False
+    ad = _least_shown(permanent, counts, _last_shown(ads_state))
+    LOG.info("Kunni ochuvchi doimiy reklama yuborilmoqda: %s", _ad_id(ad))
+    if _deliver_ad(publisher, state, ad, "permanent"):
+        ads_state["morning_ad_date"] = today_iso
+        save_json(DAILY_STATE_FILE, state)
+        return True
+    return False
+
+
+def send_scheduled_ad(publisher: TelegramPublisher, state: dict[str, Any], now: datetime) -> bool:
+    """Reklama slotida 1 ta reklama tanlab yuboradi. Chiqariladigan reklama yo'q yoki yuborilmasa — False."""
+    ads = load_ads()
+    if ads is None:
+        return False
+    ads_state = state.setdefault("ads_state", {})
+    ad, kind = decide_ad(ads, ads_state, now)
+    if ad is None:
+        LOG.info("Chiqariladigan faol reklama yo'q (ads.json, muddat va kunlik limitlarni tekshiring).")
+        return False
+    LOG.info("Reklama slot (%s): %s", "prime-time" if is_prime_time(now) else "oddiy vaqt", _ad_id(ad))
+    return _deliver_ad(publisher, state, ad, kind)
+
+
+# ──────────────────────────── POST INTERVALI VA ADMIN BOSHQARUVI ────────────────────────────
+#
+# Interval daily_state.json → "post_interval_minutes" da saqlanadi va admin tomonidan bot orqali o'zgartiriladi.
+# Bot GitHub Actions'da har 15 daqiqada qisqa vaqtga ishga tushadi (doimiy ishlamaydi), shuning uchun admin
+# buyruqlari webhook bilan emas, getUpdates (polling) orqali har ishga tushishda o'qiladi. Javob/amal kechikishi
+# — ko'pi bilan cron oralig'i (15 daqiqa). Buyruqlarni faqat TELEGRAM_ADMIN_IDS dagi shaxsiy chatdan bajaradi.
+
+ADMIN_HELP_HTML = (
+    "🛠 <b>Admin buyruqlari</b>\n\n"
+    "/interval &lt;daqiqa&gt; — postlar oralig'i (masalan: <code>/interval 30</code>, <code>/interval 60</code>)\n"
+    "/status — joriy sozlama va bugungi statistika\n"
+    "/help — shu yordam"
+)
+
+
+def get_post_interval(state: dict[str, Any]) -> int:
+    """Joriy post intervali (daqiqa). Noto'g'ri/yo'q bo'lsa — standart qiymat."""
+    value = _as_int(state.get("post_interval_minutes"))
+    return value if MIN_INTERVAL_SETTING <= value <= MAX_INTERVAL_SETTING else DEFAULT_POST_INTERVAL_MIN
+
+
+def effective_interval(interval: int) -> int:
+    """Bot faqat CRON_STEP_MIN qadamida ishga tushgani uchun, amalda interval shu qadamga yaxlitlanadi."""
+    need = max(interval - SLOT_GRACE_MIN, 1)
+    return -(-need // CRON_STEP_MIN) * CRON_STEP_MIN
+
+
+def _bump_news_count(state: dict[str, Any], today: date) -> None:
+    stats = state.get("news_stats")
+    if not isinstance(stats, dict) or stats.get("day") != today.isoformat():
+        stats = {"day": today.isoformat(), "count": 0}
+    stats["count"] = _as_int(stats.get("count")) + 1
+    state["news_stats"] = stats
+
+
+def _news_today(state: dict[str, Any], today: date) -> int:
+    stats = state.get("news_stats")
+    if isinstance(stats, dict) and stats.get("day") == today.isoformat():
+        return _as_int(stats.get("count"))
+    return 0
+
+
+def build_status_text(state: dict[str, Any], now: datetime) -> str:
+    """/status javobi: interval, faol vaqt, bugungi yangilik/reklama soni va zanjir holati."""
+    ads_state = state.get("ads_state") if isinstance(state.get("ads_state"), dict) else {}
+    counts = ads_state.get("today") if ads_state.get("day") == now.date().isoformat() else {}
+    counts = counts if isinstance(counts, dict) else {}
+    interval = get_post_interval(state)
+    effective = effective_interval(interval)
+    since_ad = _as_int(ads_state.get("posts_since_ad"))
+    next_kind = "reklama" if since_ad >= POSTS_PER_AD else "yangilik"
+
+    last_ts = _as_float(state.get("last_post_ts"))
+    if last_ts > 0:
+        last_dt = datetime.fromtimestamp(last_ts, TZ)
+        last_line = f"{last_dt.strftime('%H:%M')} ({int((time.time() - last_ts) // 60)} daqiqa oldin)"
+    else:
+        last_line = "hali yo'q"
+
+    lines = [
+        "📊 <b>Bot holati</b>",
+        "",
+        f"⏱ Interval: <b>{interval}</b> daqiqa" + (f" (amalda ~{effective})" if effective != interval else ""),
+        f"🕒 Faol vaqt: {ACTIVE_FROM_MIN // 60:02d}:{ACTIVE_FROM_MIN % 60:02d}–"
+        f"{ACTIVE_UNTIL_MIN // 60:02d}:{ACTIVE_UNTIL_MIN % 60:02d} (hozir: {now.strftime('%H:%M')})",
+        f"🔗 Zanjir: har {POSTS_PER_AD} yangilikdan keyin 1 reklama (hozir {min(since_ad, POSTS_PER_AD)}/{POSTS_PER_AD}, "
+        f"keyingi slot: <b>{next_kind}</b>)",
+        f"📰 Bugun yangilik: <b>{_news_today(state, now.date())}</b>",
+        f"📣 Bugun reklama: <b>{sum(_as_int(v) for v in counts.values())}</b>",
+    ]
+    lines += [f"   • {html.escape(str(aid))}: {_as_int(n)} marta" for aid, n in counts.items()]
+    lines += [f"📮 Oxirgi post: {last_line}"]
+    return "\n".join(lines)
+
+
+def handle_admin_command(text: str, state: dict[str, Any], now: datetime) -> str:
+    """Bitta admin buyrug'ini bajarib, javob matnini (Telegram HTML) qaytaradi."""
+    parts = text.split()
+    cmd = parts[0].split("@")[0].lower()
+
+    if cmd in ("/start", "/help"):
+        return ADMIN_HELP_HTML
+
+    if cmd == "/status":
+        return build_status_text(state, now)
+
+    if cmd == "/interval":
+        current = get_post_interval(state)
+        if len(parts) < 2:
+            return f"Hozirgi interval: <b>{current}</b> daqiqa.\nO'zgartirish: <code>/interval 30</code>"
+        if not re.fullmatch(r"[0-9]{1,4}", parts[1]):
+            return "❌ Daqiqani butun son bilan yozing. Masalan: <code>/interval 30</code>"
+        minutes = int(parts[1])
+        if not MIN_INTERVAL_SETTING <= minutes <= MAX_INTERVAL_SETTING:
+            return (f"❌ Interval {MIN_INTERVAL_SETTING} dan {MAX_INTERVAL_SETTING} daqiqagacha bo'lishi kerak "
+                    f"(60 = 1 soat).")
+        state["post_interval_minutes"] = minutes
+        save_json(DAILY_STATE_FILE, state)
+        LOG.info("Admin intervalni o'zgartirdi: %d → %d daqiqa.", current, minutes)
+        reply = f"✅ Postlar oralig'i <b>{minutes}</b> daqiqa qilib o'rnatildi (oldin: {current})."
+        effective = effective_interval(minutes)
+        if effective != minutes:
+            reply += f"\nℹ️ Bot har {CRON_STEP_MIN} daqiqada ishga tushgani uchun amalda ~{effective} daqiqa bo'ladi."
+        return reply
+
+    return "❓ Noma'lum buyruq.\n\n" + ADMIN_HELP_HTML
+
+
+def process_admin_commands(publisher: TelegramPublisher, state: dict[str, Any], now: datetime) -> int:
+    """
+    Botga yozilgan yangi xabarlarni o'qiydi va faqat TELEGRAM_ADMIN_IDS dagi adminlarning shaxsiy chatdagi
+    buyruqlarini bajaradi. Begonalarga javob berilmaydi (faqat logga yoziladi). Qaytaradi: bajarilgan buyruqlar soni.
+    """
+    if not TELEGRAM_ADMIN_IDS:
+        LOG.info("TELEGRAM_ADMIN_IDS berilmagan — admin buyruqlari o'chirilgan.")
+        return 0
+    updates = publisher.get_updates(_as_int(state.get("tg_update_offset")))
+    if not updates:
+        return 0
+
+    handled = 0
+    last_update_id = 0
+    for update in updates:
+        if not isinstance(update, dict):
+            continue
+        last_update_id = max(last_update_id, _as_int(update.get("update_id")))
+        message = update.get("message")
+        if not isinstance(message, dict):
+            continue
+        text = str(message.get("text") or "").strip()
+        if not text.startswith("/"):
+            continue
+        sender = message.get("from") if isinstance(message.get("from"), dict) else {}
+        chat = message.get("chat") if isinstance(message.get("chat"), dict) else {}
+        if chat.get("type") != "private" or _as_int(sender.get("id")) not in TELEGRAM_ADMIN_IDS:
+            LOG.warning("Ruxsatsiz buyruq urinishi (foydalanuvchi id=%s): %s", sender.get("id"), text.split()[0][:30])
+            continue
+        try:
+            reply = handle_admin_command(text, state, now)
+        except Exception:  # noqa: BLE001 — bitta buyruqdagi xato qolganlarini to'xtatmasin
+            LOG.exception("Admin buyrug'ini bajarishda xatolik: %s", text[:50])
+            reply = "⚠️ Buyruqni bajarishda xatolik yuz berdi."
+        publisher.reply(_as_int(chat.get("id")), reply)
+        handled += 1
+
+    if last_update_id:
+        state["tg_update_offset"] = last_update_id + 1  # ishlangan xabarlar qayta kelmasligi uchun tasdiqlanadi
+        save_json(DAILY_STATE_FILE, state)
+    LOG.info("Admin buyruqlari: %d ta bajarildi.", handled)
+    return handled
+
+
+# ──────────────────────────── POSTLASH SLOTI ────────────────────────────
+
+
+def within_active_hours(now: datetime) -> bool:
+    minutes = now.hour * 60 + now.minute
+    return ACTIVE_FROM_MIN <= minutes < ACTIVE_UNTIL_MIN
+
+
+def run_slot(publisher: TelegramPublisher, rewriter: AIRewriter, session: requests.Session,
+             store: SeenStore, recent: RecentPosts, state: dict[str, Any], now: datetime,
+             deadline: Optional[float]) -> tuple[int, int]:
+    """
+    Bitta post slotini bajaradi (interval o'tgan bo'lsa). Slot 1 ta post: har POSTS_PER_AD ta yangilikdan keyin
+    navbatdagi slot reklama bo'ladi (2 yangilik → 1 reklama → 2 yangilik → ...). Mos yangilik topilmasa slot
+    "yonmaydi" — keyingi ishga tushishda (15 daqiqadan keyin) qayta uriniladi. Qaytaradi: (postlar, xatoliklar).
+    """
+    if not within_active_hours(now):
+        LOG.info("Soat %s — faol vaqtdan tashqarida (%02d:%02d–%02d:%02d), post joylanmaydi.", now.strftime("%H:%M"),
+                 ACTIVE_FROM_MIN // 60, ACTIVE_FROM_MIN % 60, ACTIVE_UNTIL_MIN // 60, ACTIVE_UNTIL_MIN % 60)
+        return 0, 0
+
+    interval = get_post_interval(state)
+    min_gap = max(interval - SLOT_GRACE_MIN, SLOT_MIN_GAP_MIN)
+    minutes_since_last = (time.time() - _as_float(state.get("last_post_ts"))) / 60
+    if minutes_since_last < min_gap:
+        LOG.info("Oxirgi postdan %.0f daqiqa o'tdi (interval %d, kerak ≥ %d) — bu safar post joylanmaydi.",
+                 minutes_since_last, interval, min_gap)
+        return 0, 0
+
+    ads_state = state.setdefault("ads_state", {})
+    if _as_int(ads_state.get("posts_since_ad")) >= POSTS_PER_AD:
+        if send_scheduled_ad(publisher, state, now):
+            state["last_post_ts"] = time.time()
+            save_json(DAILY_STATE_FILE, state)
+            return 1, 0
+        LOG.info("Reklama slotida reklama chiqmadi — bu slotda yangilik joylanadi.")
+
+    posted, failures = publish_news(publisher, rewriter, session, store, recent, deadline)
+    store.save()
+    if posted:
+        state["last_post_ts"] = time.time()
+        ads_state["posts_since_ad"] = _as_int(ads_state.get("posts_since_ad")) + posted
+        _bump_news_count(state, now.date())
+        save_json(DAILY_STATE_FILE, state)
+    return posted, failures
 
 
 # ──────────────────────────── ASOSIY OQIM ────────────────────────────
@@ -1318,23 +1616,25 @@ def main() -> int:
     except Exception:  # noqa: BLE001
         LOG.exception("Reklamalarni tozalashda xatolik — davom etiladi.")
 
-    minutes_since_last = (time.time() - float(state.get("last_post_ts", 0))) / 60
-    if minutes_since_last < MIN_POST_INTERVAL_MIN:
-        LOG.info("Oxirgi postdan %.0f daqiqa o'tdi (minimum %d) — bu safar post joylanmaydi.",
-                 minutes_since_last, MIN_POST_INTERVAL_MIN)
-        return 0
+    # Admin buyruqlari (/interval, /status) avval o'qiladi — yangi interval shu ishga tushishdayoq amal qiladi
+    try:
+        process_admin_commands(publisher, state, now)
+    except Exception:  # noqa: BLE001 — admin xatosi postlashni to'xtatmasin
+        LOG.exception("Admin buyruqlarini qayta ishlashda xatolik — davom etiladi.")
 
-    posted, failures = publish_news(publisher, rewriter, session, store, recent, deadline)
-    store.save()
-    if posted:
-        state["last_post_ts"] = time.time()
-        ads_state = state.setdefault("ads_state", {})
-        ads_state["posts_since_ad"] = _as_int(ads_state.get("posts_since_ad")) + posted
-        save_json(DAILY_STATE_FILE, state)
-        try:
-            check_and_send_ad(publisher, state, now)
-        except Exception:  # noqa: BLE001 — reklama xatosi yangilik postiga ta'sir qilmasin
-            LOG.exception("Reklama yuborishda kutilmagan xatolik.")
+    # 07:00 — kunni ochuvchi doimiy reklama (yangilik bor-yo'qligidan qat'i nazar)
+    try:
+        maybe_send_morning_ad(publisher, state, now)
+    except Exception:  # noqa: BLE001
+        LOG.exception("Kunni ochuvchi reklamada xatolik — davom etiladi.")
+
+    # 07:30 dan boshlab: slot bo'yicha yangilik yoki reklama (2 yangilik → 1 reklama)
+    posted = failures = 0
+    try:
+        posted, failures = run_slot(publisher, rewriter, session, store, recent, state, now, deadline)
+    except Exception:  # noqa: BLE001
+        LOG.exception("Postlash slotida kutilmagan xatolik.")
+        failures = 1
 
     LOG.info("Yakun: %d ta post joylandi, %d ta xatolik.", posted, failures)
     return 1 if failures and not posted else 0

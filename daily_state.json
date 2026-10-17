@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792233128.420884,
+  "last_post_ts": 1792234967.4295692,
   "recent_posts": [
-    {
-      "source_title": "404 milliard soʻmlik toʻlov: \"KAPITAL SUG‘URTA\"ning uch yillik natijalari eʼlon qilindi.",
-      "headline": "KAPITAL SUG'URTA\"ning uch yillik natijalari e'lon qilindi",
-      "ts": 1792162857.2886844
-    },
     {
       "source_title": "Марказий иситишдан воз кечиб, иситиш қозонига ўтиш мумкинми? Вазирлик жавоб берди",
       "headline": "Markaziy isitishdan voz kechish mumkinmi? Vazirlik javob berdi",
@@ -200,11 +195,16 @@
       "source_title": "Namanganda 5 mlrd so‘mlik dorilar saqlanayotgan yashirin omborlar aniqlandi",
       "headline": "Namanganda 5,2 mlrd so'mlik yashirin dori ombori fosh etildi",
       "ts": 1792233126.4170227
+    },
+    {
+      "source_title": "Сабирова Мухлиса Кадамовнанинг филология фанлари доктори (DSc) диссертация иши ҳимояси ҳақида тўғрисида",
+      "headline": "Sabirova Muxlisa Kadamovnaniy filologiya fanlari doktori (DSc) dissertatsiya himoyasi 🎓📚",
+      "ts": 1792234965.4270155
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792231245.6745377,
@@ -226,6 +226,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-17",
-    "count": 1
+    "count": 2
   }
 }

@@ -3,7 +3,7 @@
 DO'STLIK BOZOR | YANGILIKLAR — Telegram yangiliklar boti (v3).
 
 Oqim:
-  1. (06:00-08:59 Toshkent vaqti, kuniga 1 marta) ob-havo + valyuta posti (rasmsiz).
+  1. (har kuni soat 06:00 da, bir marta) ob-havo + valyuta posti (rasmsiz).
   2. gov.uz/jizzax va respublika RSS manbalaridan yangi xabarlarni yig'ish.
   3. Maqola sahifasidan rasm (og:image) va to'liq matnni olish.
   4. Groq AI: O'zbekistonga aloqadorligini baholash (aks holda SKIP) + o'zbek lotin imlosida qayta yozish.
@@ -20,16 +20,18 @@ Muhit o'zgaruvchilari:
 from __future__ import annotations
 
 import calendar
+import collections
 import html
 import json
 import logging
+import mimetypes
 import os
 import re
 import sys
 import tempfile
 import time
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from enum import Enum
 from pathlib import Path
 from typing import Any, Optional
@@ -39,6 +41,7 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+import groq as groq_sdk
 from groq import Groq
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -46,6 +49,11 @@ from urllib3.util.retry import Retry
 # ──────────────────────────── SOZLAMALAR ────────────────────────────
 
 LOG = logging.getLogger("newsbot")
+
+# Groq'ga ulanish/timeout xatolari: shunda boshqa modellarni sinash befoyda (tarmoq yo'li bir xil) — darhol to'xtaymiz
+_NETWORK_ERRORS = tuple(
+    t for t in (getattr(groq_sdk, "APIConnectionError", None), getattr(groq_sdk, "APITimeoutError", None)) if t
+)
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_IDS = [
@@ -91,8 +99,17 @@ MAX_EVALUATE_PER_RUN = 15      # bir ishga tushishda ko'pi bilan nechta yangilik
 ENTRIES_PER_FEED = 10
 MAX_AGE_HOURS = 24             # bundan eski RSS yozuvlari e'tiborga olinmaydi
 MAX_TELEGRAM_FAILURES = 2
-MORNING_HOURS = range(6, 9)    # 06:00 – 08:59
+MORNING_HOUR = 6               # ertalabki ob-havo/valyuta posti shu soatda chiqadi (Toshkent vaqti)
+MORNING_WINDOW_MIN = 30        # 06:00–06:29 oralig'idagi birinchi ishga tushishda; 06:30 dan keyin KECH chiqmaydi
+RUN_BUDGET_SEC = 360           # bir ishga tushishning "yumshoq" vaqt chegarasi (workflow timeout = 10 daqiqa)
+AI_BUDGET_SEC = 120            # bir ishga tushishda Groq'ka sarflanadigan umumiy vaqt; oshsa AI o'chiriladi
 POST_DELAY_SEC = 2
+ADS_FILE = "ads.json"
+POSTS_PER_AD = 4               # reklama chiqishi uchun kamida shuncha yangilik posti bo'lishi kerak
+MIN_AD_INTERVAL_MIN = 120      # ikki reklama orasidagi minimal vaqt (daqiqa) — kuniga ~7 tadan oshmasligi uchun
+AD_HOURS = range(8, 22)        # reklama faqat 08:00–21:59 (Toshkent) oralig'ida chiqadi; kechasi o'quvchi yo'q
+PAID_SLOTS_PER_PERMANENT = 1   # har 1 ta pullik reklamadan keyin 1 ta doimiy reklama (1 = navbatma-navbat; 2 = pulliklarga ko'proq)
+AD_DELAY_SEC = 3               # yangilik posti bilan reklama orasidagi pauza
 MIN_POST_INTERVAL_MIN = 10     # oxirgi postdan beri shuncha daqiqa o'tmagan bo'lsa, yangi post joylanmaydi (ketma-ket/kechikkan ishga tushishlardan himoya). Cron oralig'idan KICHIK bo'lishi shart
 
 CAPTION_LIMIT = 1024
@@ -100,7 +117,7 @@ CAPTION_SAFETY = 30            # emoji/entity hisobidagi farqlar uchun zaxira
 MESSAGE_LIMIT = 4096
 MIN_DETAIL_CHARS = 200         # RSS matni shundan qisqa bo'lsa, maqola sahifasidan to'ldiriladi
 MAX_IMAGE_BYTES = 9_000_000
-GROQ_TIMEOUT = 30.0
+GROQ_TIMEOUT = 20.0
 
 BROWSER_UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -405,6 +422,7 @@ class NewsItem:
     image_url: Optional[str] = None
     published_ts: float = 0.0  # e'lon qilingan vaqt (unix); navbatni aniqlash uchun
     headline: str = ""         # kanalga joylangan post sarlavhasi (takrorlarni aniqlash uchun)
+    note: str = ""             # qaror sababi (log statistikasi uchun)
 
     @property
     def dedup_keys(self) -> list[str]:
@@ -530,12 +548,22 @@ def fetch_gov_item(session: requests.Session) -> Optional[NewsItem]:
 def iter_candidates(session: requests.Session) -> list[NewsItem]:
     """Barcha manbalardan yig'ib, eng yangisidan boshlab tartiblaydi (bitta sayt navbatni egallab olmasligi uchun)."""
     items: list[NewsItem] = []
-    gov = fetch_gov_item(session)
-    if gov:
-        items.append(gov)
+    try:
+        gov = fetch_gov_item(session)
+        if gov:
+            items.append(gov)
+    except Exception:  # noqa: BLE001 — bitta manba butun ishni to'xtatib qo'ymasin
+        LOG.exception("gov.uz manbasida kutilmagan xatolik")
     for feed_url in RSS_FEEDS:
-        items.extend(fetch_rss_items(session, feed_url))
+        try:
+            got = fetch_rss_items(session, feed_url)
+        except Exception:  # noqa: BLE001
+            LOG.exception("RSS qayta ishlashda kutilmagan xatolik: %s", feed_url)
+            got = []
+        LOG.info("  → %s: %d ta yangi (24 soat ichida) yozuv", feed_url, len(got))
+        items.extend(got)
     items.sort(key=lambda it: it.published_ts, reverse=True)
+    LOG.info("Jami nomzod yangilik: %d ta", len(items))
     return items
 
 
@@ -583,9 +611,10 @@ class AIRewriter:
         self.models = models
         self.client: Optional[Groq] = None
         self.failed_rounds = 0
+        self.spent_sec = 0.0
         if api_key:
             try:
-                self.client = Groq(api_key=api_key, timeout=GROQ_TIMEOUT, max_retries=2)
+                self.client = Groq(api_key=api_key, timeout=GROQ_TIMEOUT, max_retries=1)
             except Exception as exc:  # noqa: BLE001
                 LOG.error("Groq klienti yaratilmadi: %s", exc)
         else:
@@ -593,6 +622,9 @@ class AIRewriter:
 
     @property
     def available(self) -> bool:
+        if self.spent_sec >= AI_BUDGET_SEC and self.client is not None:
+            LOG.warning("Groq'ga ajratilgan vaqt (%d s) tugadi — bu ishga tushishda AI'siz davom etiladi.", AI_BUDGET_SEC)
+            return False
         return self.client is not None and self.failed_rounds < self.MAX_FAILED_ROUNDS
 
     @staticmethod
@@ -627,29 +659,36 @@ class AIRewriter:
             recent_block=recent_block,
         )
 
-        for model in self.models:
-            try:
-                extra = {"reasoning_effort": "low"} if "gpt-oss" in model else None
-                resp = self.client.chat.completions.create(  # type: ignore[union-attr]
-                    model=model,
-                    messages=[
-                        {"role": "system", "content": SYSTEM_PROMPT},
-                        {"role": "user", "content": prompt},
-                    ],
-                    temperature=0.3,
-                    max_tokens=2500,
-                    extra_body=extra,
-                )
-                text = self._sanitize(resp.choices[0].message.content)
-                if text:
-                    self.failed_rounds = 0
-                    label = {SKIP: " — SKIP", DUPLICATE: " — DUPLICATE"}.get(text, "")
-                    LOG.info("AI javobi tayyor (model: %s)%s", model, label)
-                    return text
-                LOG.warning("Model %s yaroqsiz (bo'sh/juda qisqa/juda uzun) javob qaytardi.", model)
-            except Exception as exc:  # noqa: BLE001 — Groq SDK turli xatolik sinflarini beradi
-                LOG.warning("Groq model %s xatoligi [%s]: %s", model, type(exc).__name__, exc)
-                time.sleep(1.5)
+        started = time.monotonic()
+        try:
+            for model in self.models:
+                try:
+                    extra = {"reasoning_effort": "low"} if "gpt-oss" in model else None
+                    resp = self.client.chat.completions.create(  # type: ignore[union-attr]
+                        model=model,
+                        messages=[
+                            {"role": "system", "content": SYSTEM_PROMPT},
+                            {"role": "user", "content": prompt},
+                        ],
+                        temperature=0.3,
+                        max_tokens=2500,
+                        extra_body=extra,
+                    )
+                    text = self._sanitize(resp.choices[0].message.content)
+                    if text:
+                        self.failed_rounds = 0
+                        label = {SKIP: " — SKIP", DUPLICATE: " — DUPLICATE"}.get(text, "")
+                        LOG.info("AI javobi tayyor (model: %s)%s", model, label)
+                        return text
+                    LOG.warning("Model %s yaroqsiz (bo'sh/juda qisqa/juda uzun) javob qaytardi.", model)
+                except Exception as exc:  # noqa: BLE001 — Groq SDK turli xatolik sinflarini beradi
+                    LOG.warning("Groq model %s xatoligi [%s]: %s", model, type(exc).__name__, exc)
+                    if _NETWORK_ERRORS and isinstance(exc, _NETWORK_ERRORS):
+                        LOG.warning("Groq'ga ulanib bo'lmayapti — boshqa modellar sinab ko'rilmaydi.")
+                        break
+                    time.sleep(1.5)
+        finally:
+            self.spent_sec += time.monotonic() - started
 
         self.failed_rounds += 1
         LOG.error("Barcha Groq modellari ishlamadi (%d/%d).", self.failed_rounds, self.MAX_FAILED_ROUNDS)
@@ -798,7 +837,14 @@ class TelegramPublisher:
             ok, data = self._call("sendPhoto", payload, files=files)
         return ok, data
 
-    def _send_photo(self, chat_id: str, image_url: str, caption_html: Optional[str]) -> SendResult:
+    def _send_photo(self, chat_id: str, image_url: Optional[str], caption_html: Optional[str],
+                    local_image: Optional[tuple[str, bytes, str]] = None) -> SendResult:
+        if local_image is not None:  # repo ichidagi fayl: havola ham, public repo ham kerak emas
+            ok, data = self._photo_call(chat_id, None, {"photo": local_image}, caption_html)
+            if ok:
+                return SendResult.OK
+            return SendResult.PHOTO_FAILED if self._is_image_error(data) else SendResult.FAILED
+
         ok, data = self._photo_call(chat_id, image_url, None, caption_html)
         if ok:
             return SendResult.OK
@@ -815,10 +861,11 @@ class TelegramPublisher:
         return SendResult.PHOTO_FAILED
 
     def _send_to_chat(self, chat_id: str, html_text: str, image_url: Optional[str],
-                      allow_text_fallback: bool) -> SendResult:
-        if image_url:
+                      allow_text_fallback: bool,
+                      local_image: Optional[tuple[str, bytes, str]] = None) -> SendResult:
+        if image_url or local_image:
             fits = len(strip_tags(html_text)) <= CAPTION_LIMIT
-            result = self._send_photo(chat_id, image_url, html_text if fits else None)
+            result = self._send_photo(chat_id, image_url, html_text if fits else None, local_image)
             if result is SendResult.OK:
                 if fits:
                     return SendResult.OK
@@ -830,11 +877,12 @@ class TelegramPublisher:
         return SendResult.OK if self._send_text(chat_id, html_text) else SendResult.FAILED
 
     def send(self, html_text: str, image_url: Optional[str] = None,
-             allow_text_fallback: bool = True) -> SendResult:
+             allow_text_fallback: bool = True,
+             local_image: Optional[tuple[str, bytes, str]] = None) -> SendResult:
         """Hech bo'lmaganda bitta kanalga yuborilsa OK (boshqa kanalda dublikat bo'lmasligi uchun)."""
         results = []
         for chat_id in self.chat_ids:
-            res = self._send_to_chat(chat_id, html_text, image_url, allow_text_fallback)
+            res = self._send_to_chat(chat_id, html_text, image_url, allow_text_fallback, local_image)
             LOG.info("%s Telegram [%s]", "✅ Joylandi" if res is SendResult.OK else f"❌ {res.value}", chat_id)
             results.append(res)
         if SendResult.OK in results:
@@ -889,12 +937,246 @@ def build_morning_post(session: requests.Session, now: datetime) -> str:
 def maybe_send_morning(publisher: TelegramPublisher, session: requests.Session,
                        state: dict[str, Any], now: datetime) -> None:
     today = now.strftime("%Y-%m-%d")
-    if now.hour not in MORNING_HOURS or state.get("morning_sent_date") == today:
+    in_window = now.hour == MORNING_HOUR and now.minute < MORNING_WINDOW_MIN
+    if not in_window or state.get("morning_sent_date") == today:
         return
     LOG.info("Ertalabki ob-havo va valyuta posti yuborilmoqda...")
     if publisher.send(build_morning_post(session, now), None) is SendResult.OK:
         state["morning_sent_date"] = today
         save_json(DAILY_STATE_FILE, state)
+
+
+# ──────────────────────────── REKLAMA BOSHQARUVI ────────────────────────────
+#
+# ads.json tuzilishi:
+#   {"permanent": [...doimiy reklamalar...], "paid": [...muddatli (pullik) reklamalar...]}
+#
+# Reklama maydonlari:
+#   id            — noyob nom (statistika uchun)
+#   text          — post matni (yangiliklar kabi: **qalin**; telefon va @username o'zi bosiladigan bo'ladi)
+#   image_file    — repo ichidagi rasm fayli, masalan "logoped.jpg" (private repo'da ham ishlaydi)  [tavsiya etiladi]
+#   image_url     — rasm havolasi (faqat image_file bo'lmasa; repo public bo'lishi kerak)
+#   active        — false bo'lsa vaqtincha o'chiriladi
+#   start_date    — shu kundan boshlab chiqadi (YYYY-MM-DD), ixtiyoriy
+#   expire_date   — shu kun OXIRIGACHA chiqadi (YYYY-MM-DD)
+#   days          — start_date'dan boshlab necha kun (expire_date o'rniga): 7 = 1 hafta, 30 = ~1 oy
+# Pullik (paid) reklamada expire_date yoki (start_date + days) majburiy. Muddati o'tgani avtomatik o'chiriladi.
+#
+# Navbat: pullik reklama bo'lsa — har PAID_SLOTS_PER_PERMANENT ta pullikdan keyin 1 ta doimiy (aralash aylanadi);
+# pullik bo'lmasa — faqat doimiylar. Hisoblagich va navbat holati daily_state.json → "ads_state" da saqlanadi.
+
+
+def _as_int(value: Any) -> int:
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return 0
+
+
+def _as_float(value: Any) -> float:
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _parse_date(value: Any) -> Optional[date]:
+    try:
+        return date.fromisoformat(str(value).strip())
+    except ValueError:
+        return None
+
+
+def _ad_id(ad: dict[str, Any]) -> str:
+    return str(ad.get("id") or ad.get("name") or ad.get("client") or str(ad.get("text", ""))[:20])
+
+
+def _blank(value: Any) -> bool:
+    return value is None or str(value).strip() == ""
+
+
+def _effective_expire(ad: dict[str, Any]) -> Optional[date]:
+    """Oxirgi amal qilish kuni: expire_date, yo'q bo'lsa start_date + days - 1. Noto'g'ri bo'lsa None."""
+    if not _blank(ad.get("expire_date")):
+        return _parse_date(ad["expire_date"])
+    start = _parse_date(ad.get("start_date")) if not _blank(ad.get("start_date")) else None
+    days = _as_int(ad.get("days"))
+    if start is not None and days > 0:
+        return start + timedelta(days=days - 1)
+    return None
+
+
+def load_ads() -> Optional[dict[str, Any]]:
+    """
+    ads.json'ni o'qiydi. Fayl yo'q bo'lsa — bo'sh tuzilma. Fayl buzuq bo'lsa (masalan, vergul unutilgan) —
+    None qaytaradi va faylga TEGILMAYDI: bu safar reklama chiqmaydi, lekin ma'lumotlaringiz yo'qolmaydi.
+    """
+    p = Path(ADS_FILE)
+    if not p.exists():
+        return {"permanent": [], "paid": []}
+    try:
+        data = json.loads(p.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        LOG.error("%s o'qilmadi: %s — bu safar reklama chiqmaydi (fayl o'zgartirilmadi). JSON'ni tekshiring.",
+                  ADS_FILE, exc)
+        return None
+    if not isinstance(data, dict):
+        LOG.error("%s formati noto'g'ri (obyekt {...} bo'lishi kerak) — reklama o'tkazib yuboriladi.", ADS_FILE)
+        return None
+    for key in ("permanent", "paid"):
+        if key not in data:
+            data[key] = []
+        elif not isinstance(data[key], list):
+            LOG.error("%s ichida \"%s\" ro'yxat [...] bo'lishi kerak — reklama o'tkazib yuboriladi.", ADS_FILE, key)
+            return None
+    return data
+
+
+def save_ads(ads: dict[str, Any]) -> bool:
+    """ads.json'ni atomik yozadi (yarim yozilgan fayl qolmaydi)."""
+    return save_json(ADS_FILE, ads)
+
+
+def load_local_image(path: str) -> Optional[tuple[str, bytes, str]]:
+    """Repo ichidagi rasmni o'qiydi (GitHub Actions repo'ni yuklab oladi, shuning uchun fayl mavjud)."""
+    if not path:
+        return None
+    for candidate in (Path(path), Path(__file__).resolve().parent / path):
+        if candidate.is_file():
+            try:
+                blob = candidate.read_bytes()
+            except OSError as exc:
+                LOG.warning("Rasm o'qilmadi (%s): %s", candidate, exc)
+                return None
+            if len(blob) > MAX_IMAGE_BYTES:
+                LOG.warning("Rasm juda katta (%d bayt, limit ~9 MB): %s", len(blob), path)
+                return None
+            return candidate.name, blob, mimetypes.guess_type(candidate.name)[0] or "image/jpeg"
+    LOG.warning("Rasm fayli topilmadi: %s (repo ildizida bormi? nomi harfma-harf to'g'rimi?)", path)
+    return None
+
+
+def _is_active(ad: Any, today: date, require_expiry: bool) -> bool:
+    """Reklama bugun chiqishi mumkinmi: matni bor, o'chirilmagan, boshlanish sanasi kelgan, muddati o'tmagan."""
+    if not isinstance(ad, dict) or not str(ad.get("text", "")).strip():
+        return False
+    if ad.get("active", True) is False:
+        return False
+
+    if not _blank(ad.get("start_date")):
+        start = _parse_date(ad["start_date"])
+        if start is None:
+            LOG.warning("start_date noto'g'ri (YYYY-MM-DD bo'lishi kerak) — chiqarilmaydi: %s = %r",
+                        _ad_id(ad), ad["start_date"])
+            return False
+        if today < start:
+            return False  # hali boshlanmagan
+
+    if _blank(ad.get("expire_date")) and _blank(ad.get("days")):
+        if require_expiry:
+            LOG.warning("Pullik reklamada expire_date (yoki start_date + days) yo'q — chiqarilmaydi: %s", _ad_id(ad))
+        return not require_expiry
+
+    expire = _effective_expire(ad)
+    if expire is None:
+        LOG.warning("Muddat noto'g'ri (expire_date=YYYY-MM-DD yoki start_date bilan birga days=son) — "
+                    "chiqarilmaydi: %s", _ad_id(ad))
+        return False
+    return expire >= today  # expire kuni ham kun oxirigacha amal qiladi
+
+
+def cleanup_expired_ads(today: date) -> int:
+    """Muddati o'tgan pullik reklamalarni ads.json'dan o'chiradi. Noto'g'ri sanali yozuvlarga TEGILMAYDI."""
+    ads = load_ads()
+    if ads is None:
+        return 0
+    kept, removed = [], []
+    for ad in ads["paid"]:
+        expire = _effective_expire(ad) if isinstance(ad, dict) else None
+        (removed if expire is not None and expire < today else kept).append(ad)
+    if not removed:
+        return 0
+    ads["paid"] = kept
+    if save_ads(ads):
+        for ad in removed:
+            LOG.info("Muddati o'tgan reklama o'chirildi: %s (oxirgi kun: %s)", _ad_id(ad), _effective_expire(ad))
+    return len(removed)
+
+
+def pick_ad(ads: dict[str, Any], ads_state: dict[str, Any], today: date) -> tuple[Optional[dict[str, Any]], str, int]:
+    """
+    Pullik va doimiy reklamalar aralash: pullik bo'lsa har PAID_SLOTS_PER_PERMANENT ta pullikdan keyin 1 ta doimiy.
+    Faqat biri mavjud bo'lsa — o'sha. Har guruh ichida ro'yxat tartibida aylanadi.
+    """
+    paid = [a for a in ads["paid"] if _is_active(a, today, require_expiry=True)]
+    permanent = [a for a in ads["permanent"] if _is_active(a, today, require_expiry=False)]
+
+    if paid and permanent:
+        cycle = PAID_SLOTS_PER_PERMANENT + 1
+        kind = "permanent" if _as_int(ads_state.get("slot_no")) % cycle == cycle - 1 else "paid"
+    elif paid:
+        kind = "paid"
+    elif permanent:
+        kind = "permanent"
+    else:
+        return None, "", 0
+
+    pool = paid if kind == "paid" else permanent
+    idx = _as_int(ads_state.get(f"{kind}_index")) % len(pool)
+    return pool[idx], kind, idx
+
+
+def check_and_send_ad(publisher: TelegramPublisher, state: dict[str, Any], now: datetime) -> bool:
+    """
+    Shartlar bajarilsa 1 ta reklama yuboradi: (1) kamida POSTS_PER_AD yangilik o'tgan, (2) vaqt AD_HOURS ichida,
+    (3) oxirgi reklamadan MIN_AD_INTERVAL_MIN daqiqa o'tgan. Muvaffaqiyatsiz bo'lsa hisoblagich saqlanadi.
+    """
+    ads_state = state.setdefault("ads_state", {})
+    since = _as_int(ads_state.get("posts_since_ad"))
+    if since < POSTS_PER_AD:
+        LOG.info("Reklama navbati: %d/%d yangilik.", since, POSTS_PER_AD)
+        return False
+    if now.hour not in AD_HOURS:
+        LOG.info("Reklama vaqti emas (%02d:%02d) — reklama faqat %02d:00–%02d:59 oralig'ida chiqadi.",
+                 now.hour, now.minute, AD_HOURS.start, AD_HOURS.stop - 1)
+        return False
+    minutes_since_ad = (time.time() - _as_float(ads_state.get("last_ad_ts"))) / 60
+    if minutes_since_ad < MIN_AD_INTERVAL_MIN:
+        LOG.info("Oxirgi reklamadan %.0f daqiqa o'tdi (minimum %d) — reklama keyinga qoldirildi.",
+                 minutes_since_ad, MIN_AD_INTERVAL_MIN)
+        return False
+
+    ads = load_ads()
+    if ads is None:
+        return False
+    ad, kind, idx = pick_ad(ads, ads_state, now.date())
+    if ad is None:
+        LOG.info("Chiqariladigan faol reklama yo'q (ads.json'ni tekshiring).")
+        return False
+
+    # Reklama matni yangiliklar bilan bir xil formatda yoziladi: **qalin**, oddiy matn (HTML belgilari xavfsiz o'giriladi)
+    ad_html = to_telegram_html(str(ad["text"]))
+    local_image = load_local_image(str(ad.get("image_file") or "").strip())
+    ad_image = None if local_image else (str(ad.get("image_url") or "").strip() or None)
+    if (local_image or ad_image) and len(strip_tags(ad_html)) > CAPTION_LIMIT:
+        LOG.warning("Reklama matni %d belgi — rasm ostiga sig'maydi (limit %d), rasm va matn ALOHIDA chiqadi. "
+                    "Bitta post bo'lishi uchun qisqartiring: %s", len(strip_tags(ad_html)), CAPTION_LIMIT, _ad_id(ad))
+
+    time.sleep(AD_DELAY_SEC)
+    result = publisher.send(ad_html, ad_image, local_image=local_image)
+    if result is not SendResult.OK:
+        LOG.warning("Reklama yuborilmadi (%s): %s", result.value, _ad_id(ad))
+        return False
+
+    ads_state["posts_since_ad"] = 0
+    ads_state[f"{kind}_index"] = idx + 1
+    ads_state["slot_no"] = _as_int(ads_state.get("slot_no")) + 1
+    ads_state["last_ad_ts"] = time.time()
+    shown = ads_state.setdefault("shown", {})
+    shown[_ad_id(ad)] = _as_int(shown.get(_ad_id(ad))) + 1  # mijozga hisobot berish uchun
+    save_json(DAILY_STATE_FILE, state)
+    LOG.info("📣 Reklama joylandi [%s]: %s (jami: %d marta)", kind, _ad_id(ad), shown[_ad_id(ad)])
+    return True
 
 
 # ──────────────────────────── ASOSIY OQIM ────────────────────────────
@@ -910,6 +1192,7 @@ class Outcome(Enum):
 def process_item(item: NewsItem, session: requests.Session, publisher: TelegramPublisher,
                  rewriter: AIRewriter, recent: RecentPosts) -> Outcome:
     if recent.is_duplicate(item.title):
+        item.note = "takror (sarlavha o'xshash)"
         LOG.info("Takror (boshqa manbada allaqachon joylangan) — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
 
@@ -917,17 +1200,21 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
 
     image = item.image_url or DEFAULT_IMAGE_URL or None
     if not image and REQUIRE_IMAGE:
+        item.note = "rasm topilmadi"
         LOG.info("Rasm topilmadi — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
 
     ai_text = rewriter.rewrite(item, recent.headlines())
     if ai_text == DUPLICATE:
+        item.note = "takror (AI)"
         LOG.info("Takror (AI aniqladi) — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
     if ai_text == SKIP:
+        item.note = "mavzu mos emas (AI)"
         LOG.info("Mavzu mos emas (AI) — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
     if ai_text is None and not looks_local(item):
+        item.note = "AI ishlamadi, mahalliy emas"
         LOG.info("AI ishlamayapti va yangilik O'zbekistonga aloqador ko'rinmaydi — keyinga qoldirildi: %s", item.title)
         return Outcome.DEFERRED
 
@@ -935,25 +1222,39 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
     item.headline = extract_headline(normalize_apostrophes(ai_text if ai_text else fallback_post_text(item)))
     result = publisher.send(post, image, allow_text_fallback=not REQUIRE_IMAGE)
     if result is SendResult.OK:
+        item.note = "joylandi" if ai_text else "joylandi (AI'siz)"
         return Outcome.POSTED
     if result is SendResult.PHOTO_FAILED:
+        item.note = "rasm yuborilmadi"
         LOG.warning("Rasm yuborib bo'lmadi — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
+    item.note = "Telegram xatosi"
     return Outcome.FAILED
 
 
 def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
-                 session: requests.Session, store: SeenStore, recent: RecentPosts) -> tuple[int, int]:
+                 session: requests.Session, store: SeenStore, recent: RecentPosts,
+                 deadline: Optional[float] = None) -> tuple[int, int]:
     posted = failures = evaluated = 0
+    stats: collections.Counter = collections.Counter()
     for item in iter_candidates(session):
         if posted >= MAX_POSTS_PER_RUN or failures >= MAX_TELEGRAM_FAILURES or evaluated >= MAX_EVALUATE_PER_RUN:
             break
+        if deadline is not None and time.monotonic() > deadline:
+            LOG.warning("Ishga tushish vaqt chegarasi tugadi — qolgan yangiliklar keyingi safarga qoldirildi.")
+            break
         if store.seen(item.dedup_keys):
+            stats["allaqachon ko'rilgan"] += 1
             continue
 
         evaluated += 1
         LOG.info("Yangi yangilik: %s", item.title)
-        outcome = process_item(item, session, publisher, rewriter, recent)
+        try:
+            outcome = process_item(item, session, publisher, rewriter, recent)
+        except Exception:  # noqa: BLE001 — bitta "buzuq" yangilik navbatni abadiy to'sib qo'ymasin
+            LOG.exception("Yangilikni qayta ishlashda kutilmagan xatolik — o'tkazib yuborildi: %s", item.title)
+            outcome, item.note = Outcome.SKIPPED, "kutilmagan xatolik"
+        stats[f"{outcome.value}: {item.note}"] += 1
 
         if outcome in (Outcome.POSTED, Outcome.SKIPPED):
             store.add(item.dedup_keys)
@@ -964,6 +1265,8 @@ def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
             time.sleep(POST_DELAY_SEC)
         elif outcome is Outcome.FAILED:
             failures += 1
+
+    LOG.info("Yangiliklar tahlili: %s", dict(stats) if stats else "yangi yangilik topilmadi")
     return posted, failures
 
 
@@ -991,8 +1294,16 @@ def main() -> int:
     state = load_json(DAILY_STATE_FILE, {})
     recent = RecentPosts(state)
     now = datetime.now(TZ)
+    deadline = time.monotonic() + RUN_BUDGET_SEC
 
-    maybe_send_morning(publisher, session, state, now)
+    try:
+        maybe_send_morning(publisher, session, state, now)
+    except Exception:  # noqa: BLE001 — ertalabki postdagi xato yangiliklarni to'xtatmasin
+        LOG.exception("Ertalabki postda xatolik — yangiliklar davom etadi.")
+    try:
+        cleanup_expired_ads(now.date())
+    except Exception:  # noqa: BLE001
+        LOG.exception("Reklamalarni tozalashda xatolik — davom etiladi.")
 
     minutes_since_last = (time.time() - float(state.get("last_post_ts", 0))) / 60
     if minutes_since_last < MIN_POST_INTERVAL_MIN:
@@ -1000,11 +1311,17 @@ def main() -> int:
                  minutes_since_last, MIN_POST_INTERVAL_MIN)
         return 0
 
-    posted, failures = publish_news(publisher, rewriter, session, store, recent)
+    posted, failures = publish_news(publisher, rewriter, session, store, recent, deadline)
     store.save()
     if posted:
         state["last_post_ts"] = time.time()
+        ads_state = state.setdefault("ads_state", {})
+        ads_state["posts_since_ad"] = _as_int(ads_state.get("posts_since_ad")) + posted
         save_json(DAILY_STATE_FILE, state)
+        try:
+            check_and_send_ad(publisher, state, now)
+        except Exception:  # noqa: BLE001 — reklama xatosi yangilik postiga ta'sir qilmasin
+            LOG.exception("Reklama yuborishda kutilmagan xatolik.")
 
     LOG.info("Yakun: %d ta post joylandi, %d ta xatolik.", posted, failures)
     return 1 if failures and not posted else 0

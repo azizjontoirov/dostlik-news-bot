@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792225946.2879975,
+  "last_post_ts": 1792226640.0040505,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda yana to‘rt yo‘nalishda 17,9 km avtobus yo‘laklari tashkil etiladi",
-      "headline": "Toshkentda 4 yo'nalishda 17,9 km avtobus yo'laklari tashkil etiladi",
-      "ts": 1792159255.0393941
-    },
     {
       "source_title": "Ruminiya yaqinida tanker hujumga uchradi. 7 dengizchi qidirilmoqda.",
       "headline": "Ruminiyada tanker dron hujumi – 7 dengizchi qidirilmoqda",
@@ -200,11 +195,16 @@
       "source_title": "Иқлимга чидамли экинлар ва озиқ-овқат хавфсизлиги",
       "headline": "Iqlimga chidamli ekinlar va oziq‑ovqat xavfsizligi 🌾",
       "ts": 1792225944.2853587
+    },
+    {
+      "source_title": "Туркий дунё фан академиялари ҳамкорлиги янги босқичда",
+      "headline": "Turkiy dunyo fan akademiyalari hamkorligi yangi bosqichda 🌐📚",
+      "ts": 1792226638.000928
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792225949.6557834,

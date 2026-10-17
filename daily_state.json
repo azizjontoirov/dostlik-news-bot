@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792231245.677411,
+  "last_post_ts": 1792233128.420884,
   "recent_posts": [
-    {
-      "source_title": "Bektemirda tadbirkorlar va fuqarolar bilan navbatdagi uchrashuv oʻtkazildi",
-      "headline": "Bektemirda tadbirkorlar va fuqarolar bilan uchrashuv o'tkazildi",
-      "ts": 1792161934.5942342
-    },
     {
       "source_title": "404 milliard soʻmlik toʻlov: \"KAPITAL SUG‘URTA\"ning uch yillik natijalari eʼlon qilindi.",
       "headline": "KAPITAL SUG'URTA\"ning uch yillik natijalari e'lon qilindi",
@@ -200,11 +195,16 @@
       "source_title": "Andijonda maktab o‘quvchi qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi",
       "headline": "Andijonda 6‑V sinf qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi 🚨",
       "ts": 1792229520.9976149
+    },
+    {
+      "source_title": "Namanganda 5 mlrd so‘mlik dorilar saqlanayotgan yashirin omborlar aniqlandi",
+      "headline": "Namanganda 5,2 mlrd so'mlik yashirin dori ombori fosh etildi",
+      "ts": 1792233126.4170227
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792231245.6745377,
@@ -223,5 +223,9 @@
       "ad_flour": 1792231245.6745355
     }
   },
-  "tg_update_offset": 652091511
+  "tg_update_offset": 652091511,
+  "news_stats": {
+    "day": "2026-10-17",
+    "count": 1
+  }
 }

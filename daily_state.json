@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792240241.9464595,
+  "last_post_ts": 1792242045.609374,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev Cengiz Holding boshqaruvi raisini qabul qildi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792236633.094644,
+    "last_ad_ts": 1792242044.769372,
     "shown": {
-      "logoped_gulshan": 1,
+      "logoped_gulshan": 2,
       "ad_flour": 2,
       "gilam_eag": 1,
       "ad_job": 2
@@ -218,11 +218,13 @@
     "day": "2026-10-17",
     "today": {
       "ad_flour": 1,
-      "ad_job": 1
+      "ad_job": 1,
+      "logoped_gulshan": 1
     },
     "last_shown": {
       "ad_flour": 1792231245.6745355,
-      "ad_job": 1792236633.0946414
+      "ad_job": 1792236633.0946414,
+      "logoped_gulshan": 1792242044.7693696
     }
   },
   "tg_update_offset": 652091511,

@@ -135,6 +135,17 @@ FOOTER_HTML = (
     "👉 @azizjon_dev"
 )
 
+# Reklama postlari ostiga qo'shiladigan qism
+AD_FOOTER_HTML = (
+    "\n\n━━━━━━━━━━━━━━━\n"
+    "\"Do‘stlik bozori\" kanaliga qo‘shiling: 👇\n"
+    "🛒 @dostlik_bozor2\n"
+    "📢 @Dostlik_jizzax1\n\n"
+    "👨‍💻 Reklama bo‘yicha:\n"
+    "@shohrux_1308\n"
+    "@azizjon_dev"
+)
+
 # AI ishlamagan holatda (zaxira rejim) O'zbekistonga aloqadorlikni taxminan aniqlash uchun (lotin + kirill)
 _LOCAL_KEYWORDS = re.compile(
     r"o['ʻʼ’‘`]?zbek|toshkent|jizzax|do['ʻʼ’‘`]?stlik|samarqand|buxoro|farg['ʻʼ’‘`]?ona|andijon|namangan|"
@@ -1157,7 +1168,7 @@ def check_and_send_ad(publisher: TelegramPublisher, state: dict[str, Any], now: 
         return False
 
     # Reklama matni yangiliklar bilan bir xil formatda yoziladi: **qalin**, oddiy matn (HTML belgilari xavfsiz o'giriladi)
-    ad_html = to_telegram_html(str(ad["text"]))
+    ad_html = to_telegram_html(str(ad["text"])) + AD_FOOTER_HTML
     local_image = load_local_image(str(ad.get("image_file") or "").strip())
     ad_image = None if local_image else (str(ad.get("image_url") or "").strip() or None)
     if (local_image or ad_image) and len(strip_tags(ad_html)) > CAPTION_LIMIT:

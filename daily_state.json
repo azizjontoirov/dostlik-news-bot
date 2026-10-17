@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792216929.1950052,
+  "last_post_ts": 1792217811.4116385,
   "recent_posts": [
-    {
-      "source_title": "Саида Мирзиёева бошчилигида Ёқилғи-энергетика соҳасида инвесторлар кенгаши ташкил этилади",
-      "headline": "Saida Mirziyoyeva boshchiligida yoqilg'i-energetika sohasida investitsiya kengashi tashkil etiladi",
-      "ts": 1792150239.9285252
-    },
     {
       "source_title": "TEXNOPARK 55 000 tomoshabinli stadion uchun metall konstruksiyalar ishlab chiqarmoqda",
       "headline": "TEXNOPARK 55 000 tomoshabinli stadion uchun metall konstruksiyalar ishlab chiqarmoqda",
@@ -200,11 +195,16 @@
       "source_title": "Rim papasi Putinga qoʻngʻroq qilib, oʻt ochishni toʻxtatishga chaqirdi",
       "headline": "Rim papasining Oleshki shahridagi gumanitar vaziyatga chaqiruvlari 🚨",
       "ts": 1792216927.1915317
+    },
+    {
+      "source_title": "Osiyo Futbol Konfederatsiyasi prezidenti O‘zbekistonga tashrif buyurdi",
+      "headline": "OFK prezidenti O'zbekistonga tashrif buyurdi",
+      "ts": 1792217809.4084086
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 1,
     "slot_no": 1,
     "last_ad_ts": 1792215141.1753457,

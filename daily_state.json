@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792215137.3475595,
+  "last_post_ts": 1792215977.9904835,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон инвесторларга йирик газ ресурсларига эга 128 та нефть-газ блокларини таклиф этади",
-      "headline": "O'zbekiston investorlarga yirik gaz resurslari taklifini e'lon qildi",
-      "ts": 1792148452.4841712
-    },
     {
       "source_title": "O‘zbekistonda suyultirilgan gaz yetkazib berishda davlat monopoliyasi tugatiladi",
       "headline": "Suyultirilgan gaz yetkazib berishda monopoliyaga yakun! 🚀",
@@ -200,11 +195,16 @@
       "source_title": "Oʻzbekistonga toʻqqiz oyda 10 milliondan ziyod turist keldi.",
       "headline": "O'zbekistonga 10 milliondan ziyod turist keldi! 🌍✈️",
       "ts": 1792215135.3447776
+    },
+    {
+      "source_title": "“Yana qancha odam halok boʻlishi kerak?” – Neftchilar qishlogʻida yuk mashinasi bilan bogʻliq YTHlar nega koʻp boʻladi?.",
+      "headline": "Yana qancha odam halok bo'lishi kerak? – Neftchilar qishlog'ida yuk mashinasi halokati",
+      "ts": 1792215975.9878182
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 1,
     "slot_no": 1,
     "last_ad_ts": 1792215141.1753457,

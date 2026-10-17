@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792210534.5860987,
+  "last_post_ts": 1792213252.2548332,
   "recent_posts": [
-    {
-      "source_title": "Hikaru Nakamura Javohir Sindorovga jahon chempionatiga tayyorlanishda yordam beryaptimi?",
-      "headline": "Hikaru Nakamura Javohir Sindorovga yordam berayaptimi?",
-      "ts": 1792145735.6282244
-    },
     {
       "source_title": "«Бизга алоҳида-алоҳида электр станциялари эмас, узвий боғланган энергетика тизими керак» — президент",
       "headline": "Бизга алоҳида-алоҳида электр станциялари эмас, узвий боғланган энергетика тизими керак» — президент",
@@ -200,10 +195,15 @@
       "source_title": "Surxondaryoda fuqaroning uyidan 2 kilogrammdan ortiq giyohvandlik moddasi topildi",
       "headline": "Surxondaryoda 2 kg giyohvandlik moddasi topildi 🚨",
       "ts": 1792210532.4770794
+    },
+    {
+      "source_title": "Diyora Keldiyorova Qozog‘istondagi musobaqada qatnashadi",
+      "headline": "Diyora Keldiyorova Qozog'istondagi dzyudo turnirida! 🇰🇿",
+      "ts": 1792213250.251322
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 1
+    "posts_since_ad": 2
   }
 }

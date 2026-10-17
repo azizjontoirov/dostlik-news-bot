@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792243846.6436653,
+  "last_post_ts": 1792245656.4381876,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda kuzgi mavsumda 140 mln tup ko‘chat ekiladi",
-      "headline": "O'zbekistonda kuzgi mavsumda 140 mln tup ko'chat ekiladi",
-      "ts": 1792166458.3887098
-    },
     {
       "source_title": "Vinisius: “Himoyachilar menga qarshi qoida buzadi, ammo kartochkani men olaman”",
       "headline": "Vinicius: “Himoyachilar menga qarshi qoida buzadi, ammo kartochkani men olaman” ⚽️🟥",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda maktab o‘quvchilariga insult belgilarini aniqlash o‘rgatiladi",
       "headline": "FAST — superqahramonlar dasturi bilan insult belgilarini aniqlash o'rgatiladi 🧠📚",
       "ts": 1792243844.105289
+    },
+    {
+      "source_title": "Investitsiyalar, sanoat va savdo vaziriga oʻrinbosar tayinlandi.",
+      "headline": "Saidqahhor Xolxo'jayev investitsiyalar, sanoat va savdo vazirining birinchi o'rinbosari etib tayinlandi 🚀",
+      "ts": 1792245654.4353254
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792242044.769372,
@@ -230,6 +230,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-17",
-    "count": 5
+    "count": 6
   }
 }

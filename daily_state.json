@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792234967.4295692,
+  "last_post_ts": 1792236633.097191,
   "recent_posts": [
     {
       "source_title": "Марказий иситишдан воз кечиб, иситиш қозонига ўтиш мумкинми? Вазирлик жавоб берди",
@@ -204,23 +204,25 @@
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792231245.6745377,
+    "last_ad_ts": 1792236633.094644,
     "shown": {
       "logoped_gulshan": 1,
       "ad_flour": 2,
       "gilam_eag": 1,
-      "ad_job": 1
+      "ad_job": 2
     },
     "permanent_index": 2,
     "day": "2026-10-17",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "ad_job": 1
     },
     "last_shown": {
-      "ad_flour": 1792231245.6745355
+      "ad_flour": 1792231245.6745355,
+      "ad_job": 1792236633.0946414
     }
   },
   "tg_update_offset": 652091511,

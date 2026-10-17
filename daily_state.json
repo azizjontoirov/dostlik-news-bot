@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792213252.2548332,
+  "last_post_ts": 1792214181.5040154,
   "recent_posts": [
-    {
-      "source_title": "«Бизга алоҳида-алоҳида электр станциялари эмас, узвий боғланган энергетика тизими керак» — президент",
-      "headline": "Бизга алоҳида-алоҳида электр станциялари эмас, узвий боғланган энергетика тизими керак» — президент",
-      "ts": 1792146638.862968
-    },
     {
       "source_title": "АҚШ давлат котиби Марко Рубио 19 октябрь куни Самарқандга ташриф буюриши кутилмоқда",
       "headline": "AQSH davlat kotibi Marco Rubio Samarkandga tashrif buyuradi",
@@ -200,10 +195,15 @@
       "source_title": "Diyora Keldiyorova Qozog‘istondagi musobaqada qatnashadi",
       "headline": "Diyora Keldiyorova Qozog'istondagi dzyudo turnirida! 🇰🇿",
       "ts": 1792213250.251322
+    },
+    {
+      "source_title": "Islom Madaminov Farg‘ona viloyati hokimi o‘rinbosari etib tayinlandi",
+      "headline": "Islom Madaminov Farg'ona viloyati hokimi o'rinbosari etib tayinlandi 🚀",
+      "ts": 1792214179.5010676
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2
+    "posts_since_ad": 3
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792227674.56329,
+  "last_post_ts": 1792229523.0024269,
   "recent_posts": [
-    {
-      "source_title": "Xalq banki va Asaxiy Books: kitobxonlikni rivojlantirish yo‘lidagi izchil hamkorlik",
-      "headline": "Xalq Banki va Asaxiy Books: kitobxonlikni rivojlantirish yo'lidagi izchil hamkorlik",
-      "ts": 1792161045.1469555
-    },
     {
       "source_title": "Bektemirda tadbirkorlar va fuqarolar bilan navbatdagi uchrashuv oʻtkazildi",
       "headline": "Bektemirda tadbirkorlar va fuqarolar bilan uchrashuv o'tkazildi",
@@ -200,11 +195,16 @@
       "source_title": "Диёра Келдиёрова яна татамида",
       "headline": "Diyorа Keldiёrova yana tatamiya qaytdi! 🥋",
       "ts": 1792227672.5594842
+    },
+    {
+      "source_title": "Andijonda maktab o‘quvchi qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi",
+      "headline": "Andijonda 6‑V sinf qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi 🚨",
+      "ts": 1792229520.9976149
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792225949.6557834,

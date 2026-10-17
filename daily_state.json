@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792223203.7296548,
+  "last_post_ts": 1792224081.2016819,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekistonning ikki vakili dunyoning eng kuchli 5 shaxmatchisi qatoriga qaytdi.",
-      "headline": "O'zbekiston shaxmat vakillari dunyoning eng kuchli 5 shaxmatchisi qatoriga qaytdi!",
-      "ts": 1792156532.3417766
-    },
     {
       "source_title": "O‘zbekistonda dam olish kunlari havo harorati 27 darajagacha ko‘tariladi",
       "headline": "O'zbekistonda dam olish kunlari harorat 27 darajagacha ko'tariladi",
@@ -200,11 +195,16 @@
       "source_title": "Amerika robotlariga dars berayotgan o‘zbekistonlik mutaxassis – Bobirjon Mardonov",
       "headline": "Amerika robotlariga dars berayotgan o'zbekistonlik mutaxassis – Bobirjon Mardonov 🤖",
       "ts": 1792223201.7268496
+    },
+    {
+      "source_title": "O‘zbekistonda mijozlar murojaatlari ulushi eng yuqori bo‘lgan 10 ta bank maʼlum qilindi",
+      "headline": "Hayot Bank mijozlar murojaatlari bo'yicha birinchi o'rinda! 📈",
+      "ts": 1792224079.1986225
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 3,
     "last_ad_ts": 1792222303.337568,

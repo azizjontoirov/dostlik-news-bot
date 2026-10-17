@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792226640.0040505,
+  "last_post_ts": 1792227674.56329,
   "recent_posts": [
-    {
-      "source_title": "Ruminiya yaqinida tanker hujumga uchradi. 7 dengizchi qidirilmoqda.",
-      "headline": "Ruminiyada tanker dron hujumi – 7 dengizchi qidirilmoqda",
-      "ts": 1792160134.188884
-    },
     {
       "source_title": "Xalq banki va Asaxiy Books: kitobxonlikni rivojlantirish yo‘lidagi izchil hamkorlik",
       "headline": "Xalq Banki va Asaxiy Books: kitobxonlikni rivojlantirish yo'lidagi izchil hamkorlik",
@@ -200,11 +195,16 @@
       "source_title": "Туркий дунё фан академиялари ҳамкорлиги янги босқичда",
       "headline": "Turkiy dunyo fan akademiyalari hamkorligi yangi bosqichda 🌐📚",
       "ts": 1792226638.000928
+    },
+    {
+      "source_title": "Диёра Келдиёрова яна татамида",
+      "headline": "Diyorа Keldiёrova yana tatamiya qaytdi! 🥋",
+      "ts": 1792227672.5594842
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792225949.6557834,

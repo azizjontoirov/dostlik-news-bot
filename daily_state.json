@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792229523.0024269,
+  "last_post_ts": 1792231245.677411,
   "recent_posts": [
     {
       "source_title": "Bektemirda tadbirkorlar va fuqarolar bilan navbatdagi uchrashuv oʻtkazildi",
@@ -204,17 +204,24 @@
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792225949.6557834,
+    "last_ad_ts": 1792231245.6745377,
     "shown": {
       "logoped_gulshan": 1,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "gilam_eag": 1,
       "ad_job": 1
     },
-    "permanent_index": 2
+    "permanent_index": 2,
+    "day": "2026-10-17",
+    "today": {
+      "ad_flour": 1
+    },
+    "last_shown": {
+      "ad_flour": 1792231245.6745355
+    }
   },
-  "tg_update_offset": 652091508
+  "tg_update_offset": 652091511
 }

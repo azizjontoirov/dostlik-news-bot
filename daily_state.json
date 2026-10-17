@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792222299.0066564,
+  "last_post_ts": 1792223203.7296548,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda dollar kursi oshdi",
-      "headline": "O'zbekistonda dollar kursi oshdi",
-      "ts": 1792155659.567912
-    },
     {
       "source_title": "Oʻzbekistonning ikki vakili dunyoning eng kuchli 5 shaxmatchisi qatoriga qaytdi.",
       "headline": "O'zbekiston shaxmat vakillari dunyoning eng kuchli 5 shaxmatchisi qatoriga qaytdi!",
@@ -200,11 +195,16 @@
       "source_title": "Qoraqalpogʻistonda ikki kunda 200 nafardan ortiq fuqaroning murojaati tinglandi.",
       "headline": "Qoraqalpog'istonda ikki kunda 200+ fuqaroning murojaati tinglandi 🗂️",
       "ts": 1792222297.004027
+    },
+    {
+      "source_title": "Amerika robotlariga dars berayotgan o‘zbekistonlik mutaxassis – Bobirjon Mardonov",
+      "headline": "Amerika robotlariga dars berayotgan o'zbekistonlik mutaxassis – Bobirjon Mardonov 🤖",
+      "ts": 1792223201.7268496
     }
   ],
   "morning_sent_date": "2026-10-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 3,
     "last_ad_ts": 1792222303.337568,

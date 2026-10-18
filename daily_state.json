@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792333849.186734,
+  "last_post_ts": 1792335654.7426722,
   "recent_posts": [
-    {
-      "source_title": "Osiyo Futbol Konfederatsiyasi prezidenti O‘zbekistonga tashrif buyurdi",
-      "headline": "OFK prezidenti O'zbekistonga tashrif buyurdi",
-      "ts": 1792217809.4084086
-    },
     {
       "source_title": "Surxondaryoda qo‘shnisining Spark avtomobilini haydagan 5-sinf o‘quvchisi aniqlandi",
       "headline": "Surxondaryoda 5‑sinf o'quvchisi qo'shnisining avtomobilini boshqargan 🚗⚠️",
@@ -200,11 +195,16 @@
       "source_title": "«Шаҳар одамлар учун-ку!» Президент Самарқандда янги кўприк қурилишини кўздан кечирди",
       "headline": "Samarqandda yangi ko'prik qurilishi – “Shirin” massivi bilan bog'lovchi",
       "ts": 1792333847.1826303
+    },
+    {
+      "source_title": "AQSH davlat kotibi Marko Rubio Samarqandga keldi",
+      "headline": "Marko Rubio Samarqandga keldi",
+      "ts": 1792335652.73985
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792332046.02436,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 17
+    "count": 18
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792330249.1130772,
+  "last_post_ts": 1792332046.0276453,
   "recent_posts": [
     {
       "source_title": "Rim papasi Putinga qoʻngʻroq qilib, oʻt ochishni toʻxtatishga chaqirdi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792326632.1534185,
+    "last_ad_ts": 1792332046.02436,
     "shown": {
-      "logoped_gulshan": 3,
+      "logoped_gulshan": 4,
       "ad_flour": 4,
       "gilam_eag": 3,
       "ad_job": 4,
@@ -219,7 +219,7 @@
     "day": "2026-10-18",
     "today": {
       "ad_flour": 2,
-      "logoped_gulshan": 1,
+      "logoped_gulshan": 2,
       "ad_job": 2,
       "ad_water": 2,
       "gilam_eag": 1
@@ -227,7 +227,7 @@
     "last_shown": {
       "ad_flour": 1792315833.9497242,
       "ad_job": 1792321244.621369,
-      "logoped_gulshan": 1792294231.7956629,
+      "logoped_gulshan": 1792332046.024357,
       "ad_water": 1792326632.1534162,
       "gilam_eag": 1792310444.1423285
     },

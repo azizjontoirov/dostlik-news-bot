@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792341045.3741622,
+  "last_post_ts": 1792342844.8893409,
   "recent_posts": [
     {
       "source_title": "Jarqoʻrgʻonda 5-sinf oʻquvchisi qoʻshnisining «Spark»ini haydab, videosini tarmoqqa joyladi.",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792337433.1609328,
+    "last_ad_ts": 1792342844.8854494,
     "shown": {
       "logoped_gulshan": 4,
-      "ad_flour": 4,
+      "ad_flour": 5,
       "gilam_eag": 4,
       "ad_job": 4,
       "ad_water": 3
@@ -218,14 +218,14 @@
     "permanent_index": 2,
     "day": "2026-10-18",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "logoped_gulshan": 2,
       "ad_job": 2,
       "ad_water": 2,
       "gilam_eag": 2
     },
     "last_shown": {
-      "ad_flour": 1792315833.9497242,
+      "ad_flour": 1792342844.8854473,
       "ad_job": 1792321244.621369,
       "logoped_gulshan": 1792332046.024357,
       "ad_water": 1792326632.1534162,

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792314050.9204533,
+  "last_post_ts": 1792315833.9535081,
   "recent_posts": [
     {
       "source_title": "Ўзбекистоннинг энергетика бўйича Миллий бош режаси ишлаб чиқилади",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792310444.1423314,
+    "last_ad_ts": 1792315833.9497268,
     "shown": {
       "logoped_gulshan": 3,
-      "ad_flour": 3,
+      "ad_flour": 4,
       "gilam_eag": 3,
       "ad_job": 3,
       "ad_water": 2
@@ -218,14 +218,14 @@
     "permanent_index": 2,
     "day": "2026-10-18",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "logoped_gulshan": 1,
       "ad_job": 1,
       "ad_water": 1,
       "gilam_eag": 1
     },
     "last_shown": {
-      "ad_flour": 1792288842.242388,
+      "ad_flour": 1792315833.9497242,
       "ad_job": 1792299640.426518,
       "logoped_gulshan": 1792294231.7956629,
       "ad_water": 1792305034.2013068,

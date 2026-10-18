@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792310444.1454663,
+  "last_post_ts": 1792312239.8427143,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Voltamp Energy kompaniyasi rahbarini qabul qildi",
-      "headline": "Shavkat Mirziyoyev Voltamp Energy rahbarini qabul qildi",
-      "ts": 1792178134.3437545
-    },
     {
       "source_title": "«Коинот — бу олисдаги нарса эмас». Space Fest талабалар фестивали қандай ўтди?",
       "headline": "II Space Fest – Yangi avlodning kosmik orzulari! 🌌",
@@ -200,11 +195,16 @@
       "source_title": "18−22 октябрь кунлари Самарқандга кириш ва айрим кўчаларда ҳаракатланиш вақтинча чекланади",
       "headline": "Samarkandda vaqtincha harakat cheklovi (18‑22 oktabr) 🚦",
       "ts": 1792308643.2440405
+    },
+    {
+      "source_title": "Samarqand shahriga kirish va ayrim koʻchalarda harakatlanish 5 kun davomida cheklanadi",
+      "headline": "Samarqandda harakat cheklovi – 5 kun",
+      "ts": 1792312237.8386967
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792310444.1423314,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 8
+    "count": 9
   }
 }

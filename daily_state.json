@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792326632.6849194,
+  "last_post_ts": 1792328449.1413171,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekistonga toʻqqiz oyda 10 milliondan ziyod turist keldi.",
-      "headline": "O'zbekistonga 10 milliondan ziyod turist keldi! 🌍✈️",
-      "ts": 1792215135.3447776
-    },
     {
       "source_title": "“Yana qancha odam halok boʻlishi kerak?” – Neftchilar qishlogʻida yuk mashinasi bilan bogʻliq YTHlar nega koʻp boʻladi?.",
       "headline": "Yana qancha odam halok bo'lishi kerak? – Neftchilar qishlog'ida yuk mashinasi halokati",
@@ -200,11 +195,16 @@
       "source_title": "Oblepixaning salomatlik uchun qanday foydalari bor?",
       "headline": "Chakanda (oblepixa) – sog'lom immunitetning siri 🍊💪",
       "ts": 1792324849.1783097
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Samarqandga tashrifini Imom Buxoriy maqbarasi ziyoratidan boshladi",
+      "headline": "Prezident Mirziyoyev Samarqandga tashrifini Imom Buxoriy maqbarasi ziyoratidan boshladi",
+      "ts": 1792328447.1377516
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792326632.1534185,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 14
+    "count": 15
   }
 }

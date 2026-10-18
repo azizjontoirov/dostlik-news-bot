@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792305034.2037401,
+  "last_post_ts": 1792306852.5735235,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Yoqilgʻi-energetika tarmogʻidagi investorlar kengashi doirasida uchrashuvlar oʻtkazdi.",
-      "headline": "Shavkat Mirziyoyev Yoqilg'i‑energetika investorlari kengashi yig'ilishida",
-      "ts": 1792176332.4046438
-    },
     {
       "source_title": "Shavkat Mirziyoyev Xitoyning yetakchi kompaniyalari rahbarlarini qabul qildi",
       "headline": "Shavkat Mirziyoyev Xitoyning yetakchi kompaniyalar rahbarlarini qabul qildi 🤝🇨🇳",
@@ -200,11 +195,16 @@
       "source_title": "«Погон қонунни бузиш ҳуқуқини берадими?» Тошкент ИИББ ходимларининг синфхонадаги «профилактик тадбири» қораланмоқда",
       "headline": "IIBB xodimlarining maktabdagi “profilaktik” tadbiri – savol tug'ildi! 🚨",
       "ts": 1792303246.0842175
+    },
+    {
+      "source_title": "O‘zbekistonda bolalarni giyohvandlikka jalb qilganlar 10 yilgacha qamalishi mumkin",
+      "headline": "Bolalarni giyohvandlikka jalb qilganlarga 10 yilgacha qamoq!",
+      "ts": 1792306850.5623043
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792305034.2013097,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 6
+    "count": 7
   }
 }

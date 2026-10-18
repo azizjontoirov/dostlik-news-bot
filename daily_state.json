@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792339252.0339334,
+  "last_post_ts": 1792341045.3741622,
   "recent_posts": [
-    {
-      "source_title": "Ericsson Oʻzbekistonda 5G tarmoqlarini rivojlantirishga qiziqish bildirdi.",
-      "headline": "Ericsson O'zbekistonda 5G rivojiga qiziqish bildirdi 📡🚀",
-      "ts": 1792219577.6531942
-    },
     {
       "source_title": "Jarqoʻrgʻonda 5-sinf oʻquvchisi qoʻshnisining «Spark»ini haydab, videosini tarmoqqa joyladi.",
       "headline": "Jarqo'rg'onda 5‑sinf o'quvchisi qo'shnisining “Spark”ini haydab, video joyladi 🚗📹",
@@ -200,11 +195,16 @@
       "source_title": "ЦУМ яқинидаги Brasserie Park терассаси ходим ва курьер ўртасидаги можародан сўнг демонтаж қилинди",
       "headline": "Brasserie Park terasasi demontaj qilindi",
       "ts": 1792339250.0291364
+    },
+    {
+      "source_title": "“Aral” 25 yillik tanaffusdan so‘ng Superliga yo‘llanmasiga ega chiqdi",
+      "headline": "Aral” 25 yillik tanaffusdan so'ng Superliga yo'llanmasiga ega chiqdi ⚽️🏆",
+      "ts": 1792341043.3691092
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792337433.1609328,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 19
+    "count": 20
   }
 }

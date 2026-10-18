@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792315833.9535081,
+  "last_post_ts": 1792317650.6763084,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистоннинг энергетика бўйича Миллий бош режаси ишлаб чиқилади",
-      "headline": "O'zbekiston energiya sohasida Milliy bosh reja ishlab chiqildi",
-      "ts": 1792179935.2942643
-    },
     {
       "source_title": "Surxondaryoda fuqaroning uyidan 2 kilogrammdan ortiq giyohvandlik moddasi topildi",
       "headline": "Surxondaryoda 2 kg giyohvandlik moddasi topildi 🚨",
@@ -200,11 +195,16 @@
       "source_title": "«Муносабатларни мустаҳкамлаш учун боргимиз келадиган мамлакатлар бор». АҚШ давлат котиби — «C5+1» учрашуви ҳақида",
       "headline": "Marko Rubio O'zbekistonga tashrifi – munosabatlarni mustahkamlashga yo'nalgan! 🇺🇸",
       "ts": 1792314048.9170752
+    },
+    {
+      "source_title": "Боксчи Баҳодир Жалолов Соломон Дакресни мағлуб этиб, 18-ғалабасини қўлга киритди (видео)",
+      "headline": "Bahodir Jalolov London jangida 18‑galabasini qo'lga kiritdi! 🥊",
+      "ts": 1792317648.6720939
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792315833.9497268,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 10
+    "count": 11
   }
 }

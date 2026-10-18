@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792324851.3468094,
+  "last_post_ts": 1792326632.6849194,
   "recent_posts": [
     {
       "source_title": "Oʻzbekistonga toʻqqiz oyda 10 milliondan ziyod turist keldi.",
@@ -204,16 +204,16 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792321244.621371,
+    "last_ad_ts": 1792326632.1534185,
     "shown": {
       "logoped_gulshan": 3,
       "ad_flour": 4,
       "gilam_eag": 3,
       "ad_job": 4,
-      "ad_water": 2
+      "ad_water": 3
     },
     "permanent_index": 2,
     "day": "2026-10-18",
@@ -221,14 +221,14 @@
       "ad_flour": 2,
       "logoped_gulshan": 1,
       "ad_job": 2,
-      "ad_water": 1,
+      "ad_water": 2,
       "gilam_eag": 1
     },
     "last_shown": {
       "ad_flour": 1792315833.9497242,
       "ad_job": 1792321244.621369,
       "logoped_gulshan": 1792294231.7956629,
-      "ad_water": 1792305034.2013068,
+      "ad_water": 1792326632.1534162,
       "gilam_eag": 1792310444.1423285
     },
     "morning_ad_date": "2026-10-18"

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792312239.8427143,
+  "last_post_ts": 1792314050.9204533,
   "recent_posts": [
-    {
-      "source_title": "«Коинот — бу олисдаги нарса эмас». Space Fest талабалар фестивали қандай ўтди?",
-      "headline": "II Space Fest – Yangi avlodning kosmik orzulari! 🌌",
-      "ts": 1792179049.4519207
-    },
     {
       "source_title": "Ўзбекистоннинг энергетика бўйича Миллий бош режаси ишлаб чиқилади",
       "headline": "O'zbekiston energiya sohasida Milliy bosh reja ishlab chiqildi",
@@ -200,11 +195,16 @@
       "source_title": "Samarqand shahriga kirish va ayrim koʻchalarda harakatlanish 5 kun davomida cheklanadi",
       "headline": "Samarqandda harakat cheklovi – 5 kun",
       "ts": 1792312237.8386967
+    },
+    {
+      "source_title": "«Муносабатларни мустаҳкамлаш учун боргимиз келадиган мамлакатлар бор». АҚШ давлат котиби — «C5+1» учрашуви ҳақида",
+      "headline": "Marko Rubio O'zbekistonga tashrifi – munosabatlarni mustahkamlashga yo'nalgan! 🇺🇸",
+      "ts": 1792314048.9170752
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792310444.1423314,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 9
+    "count": 10
   }
 }

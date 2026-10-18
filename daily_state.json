@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792299640.429128,
+  "last_post_ts": 1792301444.6821673,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev AQSH prezidentining Janubiy va Markaziy Osiyo boʻyicha maxsus vakilini qabul qildi",
-      "headline": "Shavkat Mirziyoyev AQSH prezidentining Janubiy va Markaziy Osiyo maxsus vakilini qabul qildi 🤝🇺🇸",
-      "ts": 1792174531.5501394
-    },
     {
       "source_title": "Prezident “Aksa Enerji” kompaniyasi rahbarini qabul qildi",
       "headline": "Prezident Aksa Enerji rahbari Jamil Kazanchini qabul qildi 🌟🤝",
@@ -200,11 +195,16 @@
       "source_title": "Sirdaryoda savdogar ayolga shahvoniy shilqimlik qilgan erkak 5 sutkaga qamaldi",
       "headline": "Sirdaryo viloyatida jinsiy shilqimlikka 5 kun qamoq",
       "ts": 1792297839.3888793
+    },
+    {
+      "source_title": "“Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” — Marko Rubio Oʻzbekistonga tashrifi haqida",
+      "headline": "Marko Rubio O'zbekistonga tashrifi – “Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” 🌍🤝",
+      "ts": 1792301442.4495418
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792299640.42652,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 4
+    "count": 5
   }
 }

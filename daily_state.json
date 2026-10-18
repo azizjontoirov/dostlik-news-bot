@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792303248.961323,
+  "last_post_ts": 1792305034.2037401,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev Yoqilgʻi-energetika tarmogʻidagi investorlar kengashi doirasida uchrashuvlar oʻtkazdi.",
@@ -204,29 +204,30 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792299640.42652,
+    "last_ad_ts": 1792305034.2013097,
     "shown": {
       "logoped_gulshan": 3,
       "ad_flour": 3,
       "gilam_eag": 2,
       "ad_job": 3,
-      "ad_water": 1
+      "ad_water": 2
     },
     "permanent_index": 2,
     "day": "2026-10-18",
     "today": {
       "ad_flour": 1,
       "logoped_gulshan": 1,
-      "ad_job": 1
+      "ad_job": 1,
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1792288842.242388,
       "ad_job": 1792299640.426518,
       "logoped_gulshan": 1792294231.7956629,
-      "ad_water": 1792247431.5684536,
+      "ad_water": 1792305034.2013068,
       "gilam_eag": 1792252843.9129262
     },
     "morning_ad_date": "2026-10-18"

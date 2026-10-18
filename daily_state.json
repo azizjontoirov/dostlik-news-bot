@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792306852.5735235,
+  "last_post_ts": 1792308645.2465465,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Xitoyning yetakchi kompaniyalari rahbarlarini qabul qildi",
-      "headline": "Shavkat Mirziyoyev Xitoyning yetakchi kompaniyalar rahbarlarini qabul qildi 🤝🇨🇳",
-      "ts": 1792177252.8348465
-    },
     {
       "source_title": "Shavkat Mirziyoyev Voltamp Energy kompaniyasi rahbarini qabul qildi",
       "headline": "Shavkat Mirziyoyev Voltamp Energy rahbarini qabul qildi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda bolalarni giyohvandlikka jalb qilganlar 10 yilgacha qamalishi mumkin",
       "headline": "Bolalarni giyohvandlikka jalb qilganlarga 10 yilgacha qamoq!",
       "ts": 1792306850.5623043
+    },
+    {
+      "source_title": "18−22 октябрь кунлари Самарқандга кириш ва айрим кўчаларда ҳаракатланиш вақтинча чекланади",
+      "headline": "Samarkandda vaqtincha harakat cheklovi (18‑22 oktabr) 🚦",
+      "ts": 1792308643.2440405
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792305034.2013097,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 7
+    "count": 8
   }
 }

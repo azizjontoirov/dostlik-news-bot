@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792296093.1110058,
+  "last_post_ts": 1792297841.3927734,
   "recent_posts": [
-    {
-      "source_title": "Superliga: “Neftchi” Farg‘ona derbisida irodali g‘alabaga erishdi, yana ikki o‘yinda durang qayd etildi",
-      "headline": "Superliga: “Neftchi” Farg'ona derbisida irodali g'alaba! ⚽️🏆",
-      "ts": 1792173655.0036716
-    },
     {
       "source_title": "Shavkat Mirziyoyev AQSH prezidentining Janubiy va Markaziy Osiyo boʻyicha maxsus vakilini qabul qildi",
       "headline": "Shavkat Mirziyoyev AQSH prezidentining Janubiy va Markaziy Osiyo maxsus vakilini qabul qildi 🤝🇺🇸",
@@ -200,11 +195,16 @@
       "source_title": "Nobel mukofoti sohibi sunʼiy intellekt mehnat bozorini yoʻq qilib yuborishidan ogohlantirdi.",
       "headline": "Nobel mukofoti sohibi sun'iy intellekt mehnat bozorini yo'q qilishi haqida ogohlantirdi 🤖⚠️",
       "ts": 1792296091.1056702
+    },
+    {
+      "source_title": "Sirdaryoda savdogar ayolga shahvoniy shilqimlik qilgan erkak 5 sutkaga qamaldi",
+      "headline": "Sirdaryo viloyatida jinsiy shilqimlikka 5 kun qamoq",
+      "ts": 1792297839.3888793
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792294231.7956657,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 3
+    "count": 4
   }
 }

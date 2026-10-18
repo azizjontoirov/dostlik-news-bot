@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792337433.1638958,
+  "last_post_ts": 1792339252.0339334,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda qo‘shnisining Spark avtomobilini haydagan 5-sinf o‘quvchisi aniqlandi",
-      "headline": "Surxondaryoda 5‑sinf o'quvchisi qo'shnisining avtomobilini boshqargan 🚗⚠️",
-      "ts": 1792218710.3232865
-    },
     {
       "source_title": "Ericsson Oʻzbekistonda 5G tarmoqlarini rivojlantirishga qiziqish bildirdi.",
       "headline": "Ericsson O'zbekistonda 5G rivojiga qiziqish bildirdi 📡🚀",
@@ -200,11 +195,16 @@
       "source_title": "AQSH davlat kotibi Marko Rubio Samarqandga keldi",
       "headline": "Marko Rubio Samarqandga keldi",
       "ts": 1792335652.73985
+    },
+    {
+      "source_title": "ЦУМ яқинидаги Brasserie Park терассаси ходим ва курьер ўртасидаги можародан сўнг демонтаж қилинди",
+      "headline": "Brasserie Park terasasi demontaj qilindi",
+      "ts": 1792339250.0291364
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792337433.1609328,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 18
+    "count": 19
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792319443.1221576,
+  "last_post_ts": 1792321244.671375,
   "recent_posts": [
     {
       "source_title": "Diyora Keldiyorova Qozog‘istondagi musobaqada qatnashadi",
@@ -204,15 +204,15 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792315833.9497268,
+    "last_ad_ts": 1792321244.621371,
     "shown": {
       "logoped_gulshan": 3,
       "ad_flour": 4,
       "gilam_eag": 3,
-      "ad_job": 3,
+      "ad_job": 4,
       "ad_water": 2
     },
     "permanent_index": 2,
@@ -220,13 +220,13 @@
     "today": {
       "ad_flour": 2,
       "logoped_gulshan": 1,
-      "ad_job": 1,
+      "ad_job": 2,
       "ad_water": 1,
       "gilam_eag": 1
     },
     "last_shown": {
       "ad_flour": 1792315833.9497242,
-      "ad_job": 1792299640.426518,
+      "ad_job": 1792321244.621369,
       "logoped_gulshan": 1792294231.7956629,
       "ad_water": 1792305034.2013068,
       "gilam_eag": 1792310444.1423285

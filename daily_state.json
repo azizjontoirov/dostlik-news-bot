@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792317650.6763084,
+  "last_post_ts": 1792319443.1221576,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda fuqaroning uyidan 2 kilogrammdan ortiq giyohvandlik moddasi topildi",
-      "headline": "Surxondaryoda 2 kg giyohvandlik moddasi topildi 🚨",
-      "ts": 1792210532.4770794
-    },
     {
       "source_title": "Diyora Keldiyorova Qozog‘istondagi musobaqada qatnashadi",
       "headline": "Diyora Keldiyorova Qozog'istondagi dzyudo turnirida! 🇰🇿",
@@ -200,11 +195,16 @@
       "source_title": "Боксчи Баҳодир Жалолов Соломон Дакресни мағлуб этиб, 18-ғалабасини қўлга киритди (видео)",
       "headline": "Bahodir Jalolov London jangida 18‑galabasini qo'lga kiritdi! 🥊",
       "ts": 1792317648.6720939
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev 2 kun davomida Samarqandda bo‘ladi",
+      "headline": "Prezident Samarqandda! 🇺🇿",
+      "ts": 1792319441.1184845
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792315833.9497268,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 11
+    "count": 12
   }
 }

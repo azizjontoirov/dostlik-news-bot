@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792321244.671375,
+  "last_post_ts": 1792323040.701815,
   "recent_posts": [
-    {
-      "source_title": "Diyora Keldiyorova Qozog‘istondagi musobaqada qatnashadi",
-      "headline": "Diyora Keldiyorova Qozog'istondagi dzyudo turnirida! 🇰🇿",
-      "ts": 1792213250.251322
-    },
     {
       "source_title": "Islom Madaminov Farg‘ona viloyati hokimi o‘rinbosari etib tayinlandi",
       "headline": "Islom Madaminov Farg'ona viloyati hokimi o'rinbosari etib tayinlandi 🚀",
@@ -200,11 +195,16 @@
       "source_title": "Shavkat Mirziyoyev 2 kun davomida Samarqandda bo‘ladi",
       "headline": "Prezident Samarqandda! 🇺🇿",
       "ts": 1792319441.1184845
+    },
+    {
+      "source_title": "Rubio Oʻzbekistonga yoʻl oldi.",
+      "headline": "Marko Rubio O'zbekistonga yo'l oldi 🇺🇸✈️",
+      "ts": 1792323038.6980069
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792321244.621371,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 12
+    "count": 13
   }
 }

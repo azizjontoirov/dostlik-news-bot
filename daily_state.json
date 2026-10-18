@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792308645.2465465,
+  "last_post_ts": 1792310444.1454663,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev Voltamp Energy kompaniyasi rahbarini qabul qildi",
@@ -204,14 +204,14 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792305034.2013097,
+    "last_ad_ts": 1792310444.1423314,
     "shown": {
       "logoped_gulshan": 3,
       "ad_flour": 3,
-      "gilam_eag": 2,
+      "gilam_eag": 3,
       "ad_job": 3,
       "ad_water": 2
     },
@@ -221,14 +221,15 @@
       "ad_flour": 1,
       "logoped_gulshan": 1,
       "ad_job": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "gilam_eag": 1
     },
     "last_shown": {
       "ad_flour": 1792288842.242388,
       "ad_job": 1792299640.426518,
       "logoped_gulshan": 1792294231.7956629,
       "ad_water": 1792305034.2013068,
-      "gilam_eag": 1792252843.9129262
+      "gilam_eag": 1792310444.1423285
     },
     "morning_ad_date": "2026-10-18"
   },

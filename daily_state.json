@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792335654.7426722,
+  "last_post_ts": 1792337433.1638958,
   "recent_posts": [
     {
       "source_title": "Surxondaryoda qo‘shnisining Spark avtomobilini haydagan 5-sinf o‘quvchisi aniqlandi",
@@ -204,14 +204,14 @@
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792332046.02436,
+    "last_ad_ts": 1792337433.1609328,
     "shown": {
       "logoped_gulshan": 4,
       "ad_flour": 4,
-      "gilam_eag": 3,
+      "gilam_eag": 4,
       "ad_job": 4,
       "ad_water": 3
     },
@@ -222,14 +222,14 @@
       "logoped_gulshan": 2,
       "ad_job": 2,
       "ad_water": 2,
-      "gilam_eag": 1
+      "gilam_eag": 2
     },
     "last_shown": {
       "ad_flour": 1792315833.9497242,
       "ad_job": 1792321244.621369,
       "logoped_gulshan": 1792332046.024357,
       "ad_water": 1792326632.1534162,
-      "gilam_eag": 1792310444.1423285
+      "gilam_eag": 1792337433.1609306
     },
     "morning_ad_date": "2026-10-18"
   },

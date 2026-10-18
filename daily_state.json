@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792323040.701815,
+  "last_post_ts": 1792324851.3468094,
   "recent_posts": [
-    {
-      "source_title": "Islom Madaminov Farg‘ona viloyati hokimi o‘rinbosari etib tayinlandi",
-      "headline": "Islom Madaminov Farg'ona viloyati hokimi o'rinbosari etib tayinlandi 🚀",
-      "ts": 1792214179.5010676
-    },
     {
       "source_title": "Oʻzbekistonga toʻqqiz oyda 10 milliondan ziyod turist keldi.",
       "headline": "O'zbekistonga 10 milliondan ziyod turist keldi! 🌍✈️",
@@ -200,11 +195,16 @@
       "source_title": "Rubio Oʻzbekistonga yoʻl oldi.",
       "headline": "Marko Rubio O'zbekistonga yo'l oldi 🇺🇸✈️",
       "ts": 1792323038.6980069
+    },
+    {
+      "source_title": "Oblepixaning salomatlik uchun qanday foydalari bor?",
+      "headline": "Chakanda (oblepixa) – sog'lom immunitetning siri 🍊💪",
+      "ts": 1792324849.1783097
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792321244.621371,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 13
+    "count": 14
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792301444.6821673,
+  "last_post_ts": 1792303248.961323,
   "recent_posts": [
-    {
-      "source_title": "Prezident “Aksa Enerji” kompaniyasi rahbarini qabul qildi",
-      "headline": "Prezident Aksa Enerji rahbari Jamil Kazanchini qabul qildi 🌟🤝",
-      "ts": 1792175448.201765
-    },
     {
       "source_title": "Shavkat Mirziyoyev Yoqilgʻi-energetika tarmogʻidagi investorlar kengashi doirasida uchrashuvlar oʻtkazdi.",
       "headline": "Shavkat Mirziyoyev Yoqilg'i‑energetika investorlari kengashi yig'ilishida",
@@ -200,11 +195,16 @@
       "source_title": "“Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” — Marko Rubio Oʻzbekistonga tashrifi haqida",
       "headline": "Marko Rubio O'zbekistonga tashrifi – “Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” 🌍🤝",
       "ts": 1792301442.4495418
+    },
+    {
+      "source_title": "«Погон қонунни бузиш ҳуқуқини берадими?» Тошкент ИИББ ходимларининг синфхонадаги «профилактик тадбири» қораланмоқда",
+      "headline": "IIBB xodimlarining maktabdagi “profilaktik” tadbiri – savol tug'ildi! 🚨",
+      "ts": 1792303246.0842175
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792299640.42652,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 5
+    "count": 6
   }
 }

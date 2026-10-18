@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792294231.798896,
+  "last_post_ts": 1792296093.1110058,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev BAA investorlarini qabul qildi",
-      "headline": "Shavkat Mirziyoyev BAA investorlarini qabul qildi",
-      "ts": 1792172738.1283767
-    },
     {
       "source_title": "Superliga: “Neftchi” Farg‘ona derbisida irodali g‘alabaga erishdi, yana ikki o‘yinda durang qayd etildi",
       "headline": "Superliga: “Neftchi” Farg'ona derbisida irodali g'alaba! ⚽️🏆",
@@ -200,11 +195,16 @@
       "source_title": "Asakada “Damas” agʻdarilib ketdi.",
       "headline": "Asaka “Damas” ag'darildi 🚗💥",
       "ts": 1792292450.405446
+    },
+    {
+      "source_title": "Nobel mukofoti sohibi sunʼiy intellekt mehnat bozorini yoʻq qilib yuborishidan ogohlantirdi.",
+      "headline": "Nobel mukofoti sohibi sun'iy intellekt mehnat bozorini yo'q qilishi haqida ogohlantirdi 🤖⚠️",
+      "ts": 1792296091.1056702
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792294231.7956657,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 2
+    "count": 3
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792290639.8123102,
+  "last_post_ts": 1792292452.4085999,
   "recent_posts": [
-    {
-      "source_title": "Suyultirilgan gaz yetkazishda yangi tartib va peshlavhaga ruxsat - mahalliy dayjest.",
-      "headline": "Suyultirilgan gaz yetkazishda yangi tartib – diqqat! 🚨",
-      "ts": 1792171847.325115
-    },
     {
       "source_title": "Shavkat Mirziyoyev BAA investorlarini qabul qildi",
       "headline": "Shavkat Mirziyoyev BAA investorlarini qabul qildi",
@@ -200,11 +195,16 @@
       "source_title": "Nokdaun va to‘liq ustunlik: Bahodir Jalolov professional boksdagi 18-g‘alabasini qo‘lga kiritdi",
       "headline": "Bahodir Jalolov 18‑g'alabasi – London “O2 Arena”da nokdaun! 🥊",
       "ts": 1792290637.8100386
+    },
+    {
+      "source_title": "Asakada “Damas” agʻdarilib ketdi.",
+      "headline": "Asaka “Damas” ag'darildi 🚗💥",
+      "ts": 1792292450.405446
     }
   ],
   "morning_sent_date": "2026-10-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792288842.2423902,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-18",
-    "count": 1
+    "count": 2
   }
 }

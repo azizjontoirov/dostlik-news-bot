@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792420256.1282606,
+  "last_post_ts": 1792422056.7095225,
   "recent_posts": [
-    {
-      "source_title": "Superliga. “Lokomotiv” “Nasaf” bilan durang o‘ynadi",
-      "headline": "Superliga: “Lokomotiv” – “Nasaf” durangi",
-      "ts": 1792251043.1095273
-    },
     {
       "source_title": "Surxondaryoda Qizil kitobga kiritilgan ayiq va toʻngʻizlarni noqonuniy ovlaganlarga nisbatan jinoyat ishi qoʻzgʻatildi.",
       "headline": "Surxondaryoda Qizil kitobga kiritilgan ayiq va to'ng'izlarni noqonuniy ovlaganlarga jinoyat ishi qo'zg'atildi 🐻⚖️",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистон ва АҚШ 12 млрд долларлик 54 та келишув имзолади",
       "headline": "12 mlrd dollarlik hamkorlik imzosi! 🚂💰",
       "ts": 1792420254.1258414
+    },
+    {
+      "source_title": "Aichi-Nagoya-2026: O‘zbekistonlik para atletlar musobaqaning birinchi kunida 21 ta medalni qo‘lga kiritdi",
+      "headline": "Aichi‑Nagoya‑2026: O'zbekistonlik para atletlar 21 ta medalga erishdi 🥇🥈🥉",
+      "ts": 1792422054.7064567
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792418444.922254,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 17
+    "count": 18
   }
 }

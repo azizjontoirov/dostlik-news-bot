@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792425651.7008467,
+  "last_post_ts": 1792427451.6416297,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston va Xitoy shaharlari o‘rtasida aviaqatnovlar ko‘paytirilishi mumkin",
-      "headline": "O'zbekiston‑Xitoy aviatsiya aloqalari kengaymoqda",
-      "ts": 1792256451.2545738
-    },
     {
       "source_title": "Nokdaun va to‘liq ustunlik: Bahodir Jalolov professional boksdagi 18-g‘alabasini qo‘lga kiritdi",
       "headline": "Bahodir Jalolov 18‑g'alabasi – London “O2 Arena”da nokdaun! 🥊",
@@ -200,11 +195,16 @@
       "source_title": "“Xavotirlanishga hech qanday asos yo‘q”. Sanepidqo‘mita Toshkentda qizamiq tarqalganini rad etdi",
       "headline": "Xavotirlanishga hech qanday asos yo'q 🚫🩺",
       "ts": 1792425649.6962416
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi",
+      "headline": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi 🤝🇺🇸",
+      "ts": 1792427449.5611737
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792423833.718666,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 19
+    "count": 20
   }
 }

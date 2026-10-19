@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792378858.310718,
+  "last_post_ts": 1792380634.8179944,
   "recent_posts": [
     {
       "source_title": "Qoraqalpogʻistonda ikki kunda 200 nafardan ortiq fuqaroning murojaati tinglandi.",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792375240.8306282,
+    "last_ad_ts": 1792380634.4718595,
     "shown": {
-      "logoped_gulshan": 4,
+      "logoped_gulshan": 5,
       "ad_flour": 5,
       "gilam_eag": 4,
       "ad_job": 5,
@@ -218,12 +218,13 @@
     "permanent_index": 2,
     "day": "2026-10-19",
     "today": {
-      "ad_job": 1
+      "ad_job": 1,
+      "logoped_gulshan": 1
     },
     "last_shown": {
       "ad_flour": 1792342844.8854473,
       "ad_job": 1792375240.8306258,
-      "logoped_gulshan": 1792332046.024357,
+      "logoped_gulshan": 1792380634.471857,
       "ad_water": 1792326632.1534162,
       "gilam_eag": 1792337433.1609306
     },

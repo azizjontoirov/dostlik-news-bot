@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792398647.5059369,
+  "last_post_ts": 1792400457.4804924,
   "recent_posts": [
-    {
-      "source_title": "Andijonda maktab o‘quvchi qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi",
-      "headline": "Andijonda 6‑V sinf qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi 🚨",
-      "ts": 1792229520.9976149
-    },
     {
       "source_title": "Namanganda 5 mlrd so‘mlik dorilar saqlanayotgan yashirin omborlar aniqlandi",
       "headline": "Namanganda 5,2 mlrd so'mlik yashirin dori ombori fosh etildi",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистон ва АҚШ Ой, Марс, кометалар ва астероидларни тадқиқ қилиш бўйича «Артемида» битимларини имзолади",
       "headline": "Ўzbekiston kosmik sohada yangi bosqichga qadam qo'ydi 🚀🌌",
       "ts": 1792398645.5024135
+    },
+    {
+      "source_title": "Нодавлат таълим ташкилотларида ички ишлар инспекторлари лавозимлари жорий этилиши мумкин",
+      "headline": "NODAVLAT TA'LIM TASHKILOTLARIDA ICHKI ISHLAR INSPEKTORLARI LAVOZIMLARI JORIY ETILISHI MUMKIN",
+      "ts": 1792400455.47824
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792396842.7177007,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 9
+    "count": 10
   }
 }

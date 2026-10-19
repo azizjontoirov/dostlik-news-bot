@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792389652.0730412,
+  "last_post_ts": 1792391261.5639038,
   "recent_posts": [
     {
       "source_title": "Иқлимга чидамли экинлар ва озиқ-овқат хавфсизлиги",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792386041.8795812,
+    "last_ad_ts": 1792391261.561495,
     "shown": {
       "logoped_gulshan": 5,
-      "ad_flour": 5,
+      "ad_flour": 6,
       "gilam_eag": 4,
       "ad_job": 5,
       "ad_water": 4
@@ -220,10 +220,11 @@
     "today": {
       "ad_job": 1,
       "logoped_gulshan": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1792342844.8854473,
+      "ad_flour": 1792391261.5614924,
       "ad_job": 1792375240.8306258,
       "logoped_gulshan": 1792380634.471857,
       "ad_water": 1792386041.879578,

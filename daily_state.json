@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792393256.7125132,
+  "last_post_ts": 1792395043.620085,
   "recent_posts": [
-    {
-      "source_title": "Туркий дунё фан академиялари ҳамкорлиги янги босқичда",
-      "headline": "Turkiy dunyo fan akademiyalari hamkorligi yangi bosqichda 🌐📚",
-      "ts": 1792226638.000928
-    },
     {
       "source_title": "Диёра Келдиёрова яна татамида",
       "headline": "Diyorа Keldiёrova yana tatamiya qaytdi! 🥋",
@@ -200,11 +195,16 @@
       "source_title": "“Hech kim g‘alaba qozonmaydi” — Marko Rubio Samarqandda turib Ukrainadagi urush haqida gapirdi",
       "headline": "Hech kim g'alaba qozonmaydi – Marko Rubio Samarqandda 🇺🇸🕊️",
       "ts": 1792393254.7098107
+    },
+    {
+      "source_title": "Тошкентда аёл қўғирчоқ ичига гашиш яшириб олиб кетаётганликда гумонланиб ушланди",
+      "headline": "Toshkentda gashishni qog'irchoq ichiga yashirib olib ketilmoqda",
+      "ts": 1792395041.6163418
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792391261.561495,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 7
+    "count": 8
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792396842.7203758,
+  "last_post_ts": 1792398647.5059369,
   "recent_posts": [
-    {
-      "source_title": "Диёра Келдиёрова яна татамида",
-      "headline": "Diyorа Keldiёrova yana tatamiya qaytdi! 🥋",
-      "ts": 1792227672.5594842
-    },
     {
       "source_title": "Andijonda maktab o‘quvchi qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi",
       "headline": "Andijonda 6‑V sinf qizlari mushtlashdi, sinf rahbari vazifasidan ozod etildi 🚨",
@@ -200,11 +195,16 @@
       "source_title": "Тошкентда аёл қўғирчоқ ичига гашиш яшириб олиб кетаётганликда гумонланиб ушланди",
       "headline": "Toshkentda gashishni qog'irchoq ichiga yashirib olib ketilmoqda",
       "ts": 1792395041.6163418
+    },
+    {
+      "source_title": "Ўзбекистон ва АҚШ Ой, Марс, кометалар ва астероидларни тадқиқ қилиш бўйича «Артемида» битимларини имзолади",
+      "headline": "Ўzbekiston kosmik sohada yangi bosqichga qadam qo'ydi 🚀🌌",
+      "ts": 1792398645.5024135
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792396842.7177007,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 8
+    "count": 9
   }
 }

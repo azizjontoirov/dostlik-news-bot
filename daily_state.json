@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792402236.1898432,
+  "last_post_ts": 1792404049.4770331,
   "recent_posts": [
-    {
-      "source_title": "Namanganda 5 mlrd so‘mlik dorilar saqlanayotgan yashirin omborlar aniqlandi",
-      "headline": "Namanganda 5,2 mlrd so'mlik yashirin dori ombori fosh etildi",
-      "ts": 1792233126.4170227
-    },
     {
       "source_title": "Сабирова Мухлиса Кадамовнанинг филология фанлари доктори (DSc) диссертация иши ҳимояси ҳақида тўғрисида",
       "headline": "Sabirova Muxlisa Kadamovnaniy filologiya fanlari doktori (DSc) dissertatsiya himoyasi 🎓📚",
@@ -200,11 +195,16 @@
       "source_title": "Нодавлат таълим ташкилотларида ички ишлар инспекторлари лавозимлари жорий этилиши мумкин",
       "headline": "NODAVLAT TA'LIM TASHKILOTLARIDA ICHKI ISHLAR INSPEKTORLARI LAVOZIMLARI JORIY ETILISHI MUMKIN",
       "ts": 1792400455.47824
+    },
+    {
+      "source_title": "Soy Bo‘yi Fest: Murad Buildings Soy Bo‘yi turar joy majmuasining ikkinchi bosqichini foydalanishga topshirdi",
+      "headline": "Soy Bo'yi Fest – Yangi Ikkilamchi Bosqichga Ochilish 🎉🏢",
+      "ts": 1792404047.4732454
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792402236.1828895,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 10
+    "count": 11
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792427451.6416297,
+  "last_post_ts": 1792429245.352863,
   "recent_posts": [
     {
       "source_title": "Nokdaun va to‘liq ustunlik: Bahodir Jalolov professional boksdagi 18-g‘alabasini qo‘lga kiritdi",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792423833.718666,
+    "last_ad_ts": 1792429245.3488872,
     "shown": {
       "logoped_gulshan": 6,
       "ad_flour": 7,
       "gilam_eag": 6,
-      "ad_job": 6,
+      "ad_job": 7,
       "ad_water": 5
     },
     "permanent_index": 2,
     "day": "2026-10-19",
     "today": {
-      "ad_job": 2,
+      "ad_job": 3,
       "logoped_gulshan": 2,
       "ad_water": 2,
       "ad_flour": 2,
@@ -226,7 +226,7 @@
     },
     "last_shown": {
       "ad_flour": 1792413034.35113,
-      "ad_job": 1792402236.1828873,
+      "ad_job": 1792429245.3488846,
       "logoped_gulshan": 1792418444.9222515,
       "ad_water": 1792407645.4426181,
       "gilam_eag": 1792423833.7186632

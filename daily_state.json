@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792382448.7929287,
+  "last_post_ts": 1792384238.6639497,
   "recent_posts": [
-    {
-      "source_title": "Amerika robotlariga dars berayotgan o‘zbekistonlik mutaxassis – Bobirjon Mardonov",
-      "headline": "Amerika robotlariga dars berayotgan o'zbekistonlik mutaxassis – Bobirjon Mardonov 🤖",
-      "ts": 1792223201.7268496
-    },
     {
       "source_title": "O‘zbekistonda mijozlar murojaatlari ulushi eng yuqori bo‘lgan 10 ta bank maʼlum qilindi",
       "headline": "Hayot Bank mijozlar murojaatlari bo'yicha birinchi o'rinda! 📈",
@@ -200,11 +195,16 @@
       "source_title": "Qibraydagi ikki konteynerdan 7 kilogramm marixuana va pnevmatik qurol topildi.",
       "headline": "Qibrayda narkotik va qurol topildi",
       "ts": 1792382446.7902987
+    },
+    {
+      "source_title": "Qibrayda ijaraga berilgan konteynerlar ichidan 7 kg marixuana va pnevmatik qurol topildi (video)",
+      "headline": "Qibrayda ijaraga berilgan konteynerlardan 7 kg marixuana va pnevmatik qurol topildi 🚨",
+      "ts": 1792384236.6606324
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792380634.4718595,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 3
+    "count": 4
   }
 }

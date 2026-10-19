@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792411254.493475,
+  "last_post_ts": 1792413034.3531332,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda maktab o‘quvchilariga insult belgilarini aniqlash o‘rgatiladi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792407645.4426205,
+    "last_ad_ts": 1792413034.3511324,
     "shown": {
       "logoped_gulshan": 5,
-      "ad_flour": 6,
+      "ad_flour": 7,
       "gilam_eag": 5,
       "ad_job": 6,
       "ad_water": 5
@@ -221,11 +221,11 @@
       "ad_job": 2,
       "logoped_gulshan": 1,
       "ad_water": 2,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "gilam_eag": 1
     },
     "last_shown": {
-      "ad_flour": 1792391261.5614924,
+      "ad_flour": 1792413034.35113,
       "ad_job": 1792402236.1828873,
       "logoped_gulshan": 1792380634.471857,
       "ad_water": 1792407645.4426181,

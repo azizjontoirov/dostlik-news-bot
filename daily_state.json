@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792418444.9246209,
+  "last_post_ts": 1792420256.1282606,
   "recent_posts": [
-    {
-      "source_title": "Janubiy Koreyada umrbodga qamalgan o‘zbekistonlik 16 yildan so‘ng ozod qilindi",
-      "headline": "Janubiy Koreyada 16 yildan so'ng o'zbek fuqarosi ozod qilindi",
-      "ts": 1792249248.140475
-    },
     {
       "source_title": "Superliga. “Lokomotiv” “Nasaf” bilan durang o‘ynadi",
       "headline": "Superliga: “Lokomotiv” – “Nasaf” durangi",
@@ -200,11 +195,16 @@
       "source_title": "Mahallalarda jamoat transporti bilan qamrov 98,8 foizga yetdi — Transport vazirligi",
       "headline": "Mahallalarda jamoat transporti qamrovi 98,8% ga yetdi 🚍📈",
       "ts": 1792416645.3547978
+    },
+    {
+      "source_title": "Ўзбекистон ва АҚШ 12 млрд долларлик 54 та келишув имзолади",
+      "headline": "12 mlrd dollarlik hamkorlik imzosi! 🚂💰",
+      "ts": 1792420254.1258414
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792418444.922254,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 16
+    "count": 17
   }
 }

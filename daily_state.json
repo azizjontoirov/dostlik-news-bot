@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792380634.8179944,
+  "last_post_ts": 1792382448.7929287,
   "recent_posts": [
-    {
-      "source_title": "Qoraqalpogʻistonda ikki kunda 200 nafardan ortiq fuqaroning murojaati tinglandi.",
-      "headline": "Qoraqalpog'istonda ikki kunda 200+ fuqaroning murojaati tinglandi 🗂️",
-      "ts": 1792222297.004027
-    },
     {
       "source_title": "Amerika robotlariga dars berayotgan o‘zbekistonlik mutaxassis – Bobirjon Mardonov",
       "headline": "Amerika robotlariga dars berayotgan o'zbekistonlik mutaxassis – Bobirjon Mardonov 🤖",
@@ -200,11 +195,16 @@
       "source_title": "“Boshoqshehir”da gʻalaba. Shomurodovda gol va assist.",
       "headline": "Boshoqshehirda g'alaba – Shomurodovda gol va assist",
       "ts": 1792378856.307637
+    },
+    {
+      "source_title": "Qibraydagi ikki konteynerdan 7 kilogramm marixuana va pnevmatik qurol topildi.",
+      "headline": "Qibrayda narkotik va qurol topildi",
+      "ts": 1792382446.7902987
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792380634.4718595,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 2
+    "count": 3
   }
 }

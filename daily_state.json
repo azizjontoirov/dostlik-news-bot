@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792342844.8893409,
+  "last_post_ts": 1792377040.4014428,
   "recent_posts": [
-    {
-      "source_title": "Jarqoʻrgʻonda 5-sinf oʻquvchisi qoʻshnisining «Spark»ini haydab, videosini tarmoqqa joyladi.",
-      "headline": "Jarqo'rg'onda 5‑sinf o'quvchisi qo'shnisining “Spark”ini haydab, video joyladi 🚗📹",
-      "ts": 1792220548.2200165
-    },
     {
       "source_title": "Oʻzbekistonda kuzda 140 million tup koʻchat ekiladi - mavsum qachon boshlanadi?.",
       "headline": "O'zbekistonda kuzda 140 million tup ko'chat ekiladi 🌳",
@@ -200,11 +195,16 @@
       "source_title": "“Aral” 25 yillik tanaffusdan so‘ng Superliga yo‘llanmasiga ega chiqdi",
       "headline": "Aral” 25 yillik tanaffusdan so'ng Superliga yo'llanmasiga ega chiqdi ⚽️🏆",
       "ts": 1792341043.3691092
+    },
+    {
+      "source_title": "Ўзбекистонда 19−25 октябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
+      "headline": "19‑25 oktyabrda O'zbekistonda ob-havo qanday bo'ladi? 🌡️",
+      "ts": 1792377038.3980422
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792375240.8306282,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091511,
   "news_stats": {
-    "day": "2026-10-18",
-    "count": 20
+    "day": "2026-10-19",
+    "count": 1
   }
 }

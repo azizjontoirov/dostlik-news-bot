@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792414856.8584704,
+  "last_post_ts": 1792416647.3587308,
   "recent_posts": [
-    {
-      "source_title": "Investitsiyalar, sanoat va savdo vaziriga oʻrinbosar tayinlandi.",
-      "headline": "Saidqahhor Xolxo'jayev investitsiyalar, sanoat va savdo vazirining birinchi o'rinbosari etib tayinlandi 🚀",
-      "ts": 1792245654.4353254
-    },
     {
       "source_title": "Janubiy Koreyada umrbodga qamalgan o‘zbekistonlik 16 yildan so‘ng ozod qilindi",
       "headline": "Janubiy Koreyada 16 yildan so'ng o'zbek fuqarosi ozod qilindi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda dollar kursi ketma-ket o‘n kunlik o‘sishdan so‘ng pasaydi",
       "headline": "Dollar kursi pasaydi – 20-oktyabr yangiligi",
       "ts": 1792414854.8551204
+    },
+    {
+      "source_title": "Mahallalarda jamoat transporti bilan qamrov 98,8 foizga yetdi — Transport vazirligi",
+      "headline": "Mahallalarda jamoat transporti qamrovi 98,8% ga yetdi 🚍📈",
+      "ts": 1792416645.3547978
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792413034.3511324,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 15
+    "count": 16
   }
 }

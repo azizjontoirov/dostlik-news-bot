@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792416647.3587308,
+  "last_post_ts": 1792418444.9246209,
   "recent_posts": [
     {
       "source_title": "Janubiy Koreyada umrbodga qamalgan o‘zbekistonlik 16 yildan so‘ng ozod qilindi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792413034.3511324,
+    "last_ad_ts": 1792418444.922254,
     "shown": {
-      "logoped_gulshan": 5,
+      "logoped_gulshan": 6,
       "ad_flour": 7,
       "gilam_eag": 5,
       "ad_job": 6,
@@ -219,7 +219,7 @@
     "day": "2026-10-19",
     "today": {
       "ad_job": 2,
-      "logoped_gulshan": 1,
+      "logoped_gulshan": 2,
       "ad_water": 2,
       "ad_flour": 2,
       "gilam_eag": 1
@@ -227,7 +227,7 @@
     "last_shown": {
       "ad_flour": 1792413034.35113,
       "ad_job": 1792402236.1828873,
-      "logoped_gulshan": 1792380634.471857,
+      "logoped_gulshan": 1792418444.9222515,
       "ad_water": 1792407645.4426181,
       "gilam_eag": 1792396842.717698
     },

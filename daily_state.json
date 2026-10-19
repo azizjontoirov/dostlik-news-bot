@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792409442.0963924,
+  "last_post_ts": 1792411254.493475,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda bir kilogrammdan ortiq gashish sotmoqchi bo‘lgan shaxs qo‘lga olindi",
-      "headline": "Toshkentda giyohvandlik savdosi bilan shug'ullangan shaxs qo'lga olindi",
-      "ts": 1792240239.9438956
-    },
     {
       "source_title": "O‘zbekistonda maktab o‘quvchilariga insult belgilarini aniqlash o‘rgatiladi",
       "headline": "FAST — superqahramonlar dasturi bilan insult belgilarini aniqlash o'rgatiladi 🧠📚",
@@ -200,11 +195,16 @@
       "source_title": "VEON Ўзбекистондаги Perfectum мобил операторининг 100 фоизини 207 млн долларга сотиб олишга келишиб олди",
       "headline": "VEON Perfectum'ning 100% ulushini 207 mln dollarga sotib oladi 📱💰",
       "ts": 1792409440.0917826
+    },
+    {
+      "source_title": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi (video)",
+      "headline": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi 🎓👏",
+      "ts": 1792411252.489721
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792407645.4426205,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 13
+    "count": 14
   }
 }

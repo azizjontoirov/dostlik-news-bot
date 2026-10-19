@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792423833.7210357,
+  "last_post_ts": 1792425651.7008467,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda Qizil kitobga kiritilgan ayiq va toʻngʻizlarni noqonuniy ovlaganlarga nisbatan jinoyat ishi qoʻzgʻatildi.",
-      "headline": "Surxondaryoda Qizil kitobga kiritilgan ayiq va to'ng'izlarni noqonuniy ovlaganlarga jinoyat ishi qo'zg'atildi 🐻⚖️",
-      "ts": 1792254645.3002603
-    },
     {
       "source_title": "O‘zbekiston va Xitoy shaharlari o‘rtasida aviaqatnovlar ko‘paytirilishi mumkin",
       "headline": "O'zbekiston‑Xitoy aviatsiya aloqalari kengaymoqda",
@@ -200,11 +195,16 @@
       "source_title": "Aichi-Nagoya-2026: O‘zbekistonlik para atletlar musobaqaning birinchi kunida 21 ta medalni qo‘lga kiritdi",
       "headline": "Aichi‑Nagoya‑2026: O'zbekistonlik para atletlar 21 ta medalga erishdi 🥇🥈🥉",
       "ts": 1792422054.7064567
+    },
+    {
+      "source_title": "“Xavotirlanishga hech qanday asos yo‘q”. Sanepidqo‘mita Toshkentda qizamiq tarqalganini rad etdi",
+      "headline": "Xavotirlanishga hech qanday asos yo'q 🚫🩺",
+      "ts": 1792425649.6962416
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792423833.718666,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 18
+    "count": 19
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792400457.4804924,
+  "last_post_ts": 1792402236.1898432,
   "recent_posts": [
     {
       "source_title": "Namanganda 5 mlrd so‘mlik dorilar saqlanayotgan yashirin omborlar aniqlandi",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792396842.7177007,
+    "last_ad_ts": 1792402236.1828895,
     "shown": {
       "logoped_gulshan": 5,
       "ad_flour": 6,
       "gilam_eag": 5,
-      "ad_job": 5,
+      "ad_job": 6,
       "ad_water": 4
     },
     "permanent_index": 2,
     "day": "2026-10-19",
     "today": {
-      "ad_job": 1,
+      "ad_job": 2,
       "logoped_gulshan": 1,
       "ad_water": 1,
       "ad_flour": 1,
@@ -226,7 +226,7 @@
     },
     "last_shown": {
       "ad_flour": 1792391261.5614924,
-      "ad_job": 1792375240.8306258,
+      "ad_job": 1792402236.1828873,
       "logoped_gulshan": 1792380634.471857,
       "ad_water": 1792386041.879578,
       "gilam_eag": 1792396842.717698

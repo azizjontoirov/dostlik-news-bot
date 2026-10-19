@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792377040.4014428,
+  "last_post_ts": 1792378858.310718,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekistonda kuzda 140 million tup koʻchat ekiladi - mavsum qachon boshlanadi?.",
-      "headline": "O'zbekistonda kuzda 140 million tup ko'chat ekiladi 🌳",
-      "ts": 1792221411.0251381
-    },
     {
       "source_title": "Qoraqalpogʻistonda ikki kunda 200 nafardan ortiq fuqaroning murojaati tinglandi.",
       "headline": "Qoraqalpog'istonda ikki kunda 200+ fuqaroning murojaati tinglandi 🗂️",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда 19−25 октябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
       "headline": "19‑25 oktyabrda O'zbekistonda ob-havo qanday bo'ladi? 🌡️",
       "ts": 1792377038.3980422
+    },
+    {
+      "source_title": "“Boshoqshehir”da gʻalaba. Shomurodovda gol va assist.",
+      "headline": "Boshoqshehirda g'alaba – Shomurodovda gol va assist",
+      "ts": 1792378856.307637
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792375240.8306282,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 1
+    "count": 2
   }
 }

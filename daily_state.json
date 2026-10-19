@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792391261.5639038,
+  "last_post_ts": 1792393256.7125132,
   "recent_posts": [
-    {
-      "source_title": "Иқлимга чидамли экинлар ва озиқ-овқат хавфсизлиги",
-      "headline": "Iqlimga chidamli ekinlar va oziq‑ovqat xavfsizligi 🌾",
-      "ts": 1792225944.2853587
-    },
     {
       "source_title": "Туркий дунё фан академиялари ҳамкорлиги янги босқичда",
       "headline": "Turkiy dunyo fan akademiyalari hamkorligi yangi bosqichda 🌐📚",
@@ -200,11 +195,16 @@
       "source_title": "Instagram: Yettinchi marta ota bo‘ladigan Yigitali Mamajonov, “Dizayn”dan ketgan Sa’dulla Fathullayev, Ahror Qo‘shmatovning ahvoli qanday?",
       "headline": "Instagramda mashhur shaxslar hayoti: foto‑videolar yangilandi 📸✨",
       "ts": 1792389650.0687141
+    },
+    {
+      "source_title": "“Hech kim g‘alaba qozonmaydi” — Marko Rubio Samarqandda turib Ukrainadagi urush haqida gapirdi",
+      "headline": "Hech kim g'alaba qozonmaydi – Marko Rubio Samarqandda 🇺🇸🕊️",
+      "ts": 1792393254.7098107
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792391261.561495,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091511,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 6
+    "count": 7
   }
 }

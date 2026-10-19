@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792413034.3531332,
+  "last_post_ts": 1792414856.8584704,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda maktab o‘quvchilariga insult belgilarini aniqlash o‘rgatiladi",
-      "headline": "FAST — superqahramonlar dasturi bilan insult belgilarini aniqlash o'rgatiladi 🧠📚",
-      "ts": 1792243844.105289
-    },
     {
       "source_title": "Investitsiyalar, sanoat va savdo vaziriga oʻrinbosar tayinlandi.",
       "headline": "Saidqahhor Xolxo'jayev investitsiyalar, sanoat va savdo vazirining birinchi o'rinbosari etib tayinlandi 🚀",
@@ -200,11 +195,16 @@
       "source_title": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi (video)",
       "headline": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi 🎓👏",
       "ts": 1792411252.489721
+    },
+    {
+      "source_title": "O‘zbekistonda dollar kursi ketma-ket o‘n kunlik o‘sishdan so‘ng pasaydi",
+      "headline": "Dollar kursi pasaydi – 20-oktyabr yangiligi",
+      "ts": 1792414854.8551204
     }
   ],
   "morning_sent_date": "2026-10-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792413034.3511324,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-19",
-    "count": 14
+    "count": 15
   }
 }

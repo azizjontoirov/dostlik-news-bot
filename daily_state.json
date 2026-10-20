@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792501253.9444132,
+  "last_post_ts": 1792503048.8708065,
   "recent_posts": [
-    {
-      "source_title": "Samarqand markazini “Shirin” massivi bilan bogʻlovchi zamonaviy koʻprik qurilmoqda.",
-      "headline": "Samarqandda “Shirin” massivi bilan bog'lovchi zamonaviy ko'prik qurilmoqda 🌉🚗",
-      "ts": 1792330247.1095424
-    },
     {
       "source_title": "«Шаҳар одамлар учун-ку!» Президент Самарқандда янги кўприк қурилишини кўздан кечирди",
       "headline": "Samarqandda yangi ko'prik qurilishi – “Shirin” massivi bilan bog'lovchi",
@@ -200,11 +195,16 @@
       "source_title": "“Yulduz Usmonovaning nazariga tushish orzum edi”. Raqqosa Iroda Ismoilova mashhur raqsining yaralish tarixi va farzandlariga yaxshi ona bo‘lolmagani haqida",
       "headline": "Yulduz Usmonovaning nazariga tushish orzusi – Iroda Ismoilovaning “Tovus” raqsi tarixi 💃✨",
       "ts": 1792501251.9405265
+    },
+    {
+      "source_title": "Fargʻona tajribasi asosida iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
+      "headline": "Farg'ona tajribasiga asoslangan iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
+      "ts": 1792503046.8670945
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792499432.7491105,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 15
+    "count": 16
   }
 }

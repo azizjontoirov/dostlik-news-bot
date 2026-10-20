@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792468881.9307535,
+  "last_post_ts": 1792470638.6774297,
   "recent_posts": [
-    {
-      "source_title": "Sirdaryoda savdogar ayolga shahvoniy shilqimlik qilgan erkak 5 sutkaga qamaldi",
-      "headline": "Sirdaryo viloyatida jinsiy shilqimlikka 5 kun qamoq",
-      "ts": 1792297839.3888793
-    },
     {
       "source_title": "“Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” — Marko Rubio Oʻzbekistonga tashrifi haqida",
       "headline": "Marko Rubio O'zbekistonga tashrifi – “Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” 🌍🤝",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda 17 yoshli kuryer bilan janjallashib, unga qo‘pollik qilgan restoran haydovchisi besh sutkaga qamaldi",
       "headline": "Toshkentda 17 yoshli kuryerga qo'pollik qilgan restoran xodimiga 5 sutka ma'muriy qamoq 🏛️🚔",
       "ts": 1792468879.9280403
+    },
+    {
+      "source_title": "O‘zbekiston do‘konlarida 70 dan ortiq sifatsiz mahsulot sotilayotgani ma’lum bo‘ldi",
+      "headline": "70+ sifatsiz mahsulot savdo nuqtalarida aniqlandi ⚠️",
+      "ts": 1792470636.6745305
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792467033.8564532,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 3
+    "count": 4
   }
 }

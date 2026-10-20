@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792481443.3016644,
+  "last_post_ts": 1792483245.4739625,
   "recent_posts": [
     {
       "source_title": "Samarqand shahriga kirish va ayrim koʻchalarda harakatlanish 5 kun davomida cheklanadi",
@@ -204,14 +204,14 @@
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792477834.265382,
+    "last_ad_ts": 1792483245.4657772,
     "shown": {
       "logoped_gulshan": 7,
       "ad_flour": 8,
-      "gilam_eag": 6,
+      "gilam_eag": 7,
       "ad_job": 8,
       "ad_water": 6
     },
@@ -221,14 +221,15 @@
       "ad_water": 1,
       "logoped_gulshan": 1,
       "ad_flour": 1,
-      "ad_job": 1
+      "ad_job": 1,
+      "gilam_eag": 1
     },
     "last_shown": {
       "ad_flour": 1792472443.463009,
       "ad_job": 1792477834.2653797,
       "logoped_gulshan": 1792467033.8564496,
       "ad_water": 1792461644.528536,
-      "gilam_eag": 1792423833.7186632
+      "gilam_eag": 1792483245.465775
     },
     "morning_ad_date": "2026-10-20"
   },

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792429245.352863,
+  "last_post_ts": 1792463445.2731438,
   "recent_posts": [
-    {
-      "source_title": "Nokdaun va to‘liq ustunlik: Bahodir Jalolov professional boksdagi 18-g‘alabasini qo‘lga kiritdi",
-      "headline": "Bahodir Jalolov 18‑g'alabasi – London “O2 Arena”da nokdaun! 🥊",
-      "ts": 1792290637.8100386
-    },
     {
       "source_title": "Asakada “Damas” agʻdarilib ketdi.",
       "headline": "Asaka “Damas” ag'darildi 🚗💥",
@@ -200,11 +195,16 @@
       "source_title": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi",
       "headline": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi 🤝🇺🇸",
       "ts": 1792427449.5611737
+    },
+    {
+      "source_title": "12 milliard dollarlik 54 ta kelishuv: Shavkat Mirziyoyev Amerika — O‘zbekiston iqtisodiy hamkorligining yangi ustuvor yo‘nalishlarini belgilab berdi",
+      "headline": "Amerika‑O'zbekiston iqtisodiy hamkorligi yangi bosqichga ko'tarildi",
+      "ts": 1792463443.268532
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792461644.5285387,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091513,
   "news_stats": {
-    "day": "2026-10-19",
-    "count": 20
+    "day": "2026-10-20",
+    "count": 1
   }
 }

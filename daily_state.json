@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792479545.8584888,
+  "last_post_ts": 1792481443.3016644,
   "recent_posts": [
-    {
-      "source_title": "18−22 октябрь кунлари Самарқандга кириш ва айрим кўчаларда ҳаракатланиш вақтинча чекланади",
-      "headline": "Samarkandda vaqtincha harakat cheklovi (18‑22 oktabr) 🚦",
-      "ts": 1792308643.2440405
-    },
     {
       "source_title": "Samarqand shahriga kirish va ayrim koʻchalarda harakatlanish 5 kun davomida cheklanadi",
       "headline": "Samarqandda harakat cheklovi – 5 kun",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda Tibbiyot xodimlari kuni endi farmatsevtlar bayrami sifatida ham nishonlanadi",
       "headline": "Tibbiyot va farmatsevtika xodimlari kuni nishonlanadi 🩺💊",
       "ts": 1792479543.8542275
+    },
+    {
+      "source_title": "O‘zbekistonda 21-oktyabr kuni ob-havo qanday bo‘lishi maʼlum qilindi",
+      "headline": "21-oktyabr ob-havo prognozi",
+      "ts": 1792481441.297911
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792477834.265382,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 7
+    "count": 8
   }
 }

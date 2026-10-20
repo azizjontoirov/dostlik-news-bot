@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792463445.2731438,
+  "last_post_ts": 1792465256.3722546,
   "recent_posts": [
-    {
-      "source_title": "Asakada “Damas” agʻdarilib ketdi.",
-      "headline": "Asaka “Damas” ag'darildi 🚗💥",
-      "ts": 1792292450.405446
-    },
     {
       "source_title": "Nobel mukofoti sohibi sunʼiy intellekt mehnat bozorini yoʻq qilib yuborishidan ogohlantirdi.",
       "headline": "Nobel mukofoti sohibi sun'iy intellekt mehnat bozorini yo'q qilishi haqida ogohlantirdi 🤖⚠️",
@@ -200,11 +195,16 @@
       "source_title": "12 milliard dollarlik 54 ta kelishuv: Shavkat Mirziyoyev Amerika — O‘zbekiston iqtisodiy hamkorligining yangi ustuvor yo‘nalishlarini belgilab berdi",
       "headline": "Amerika‑O'zbekiston iqtisodiy hamkorligi yangi bosqichga ko'tarildi",
       "ts": 1792463443.268532
+    },
+    {
+      "source_title": "O‘zbekistonda 2,8 mln kishi o‘ziga kredit olishni taqiqladi",
+      "headline": "O'zbekistonda 2,8 mln kishi kredit olishni taqiqladi 📈",
+      "ts": 1792465254.369285
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792461644.5285387,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 1
+    "count": 2
   }
 }

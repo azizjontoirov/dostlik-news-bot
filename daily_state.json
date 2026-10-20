@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792470638.6774297,
+  "last_post_ts": 1792472443.4700148,
   "recent_posts": [
     {
       "source_title": "“Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” — Marko Rubio Oʻzbekistonga tashrifi haqida",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792467033.8564532,
+    "last_ad_ts": 1792472443.463011,
     "shown": {
       "logoped_gulshan": 7,
-      "ad_flour": 7,
+      "ad_flour": 8,
       "gilam_eag": 6,
       "ad_job": 7,
       "ad_water": 6
@@ -219,10 +219,11 @@
     "day": "2026-10-20",
     "today": {
       "ad_water": 1,
-      "logoped_gulshan": 1
+      "logoped_gulshan": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1792413034.35113,
+      "ad_flour": 1792472443.463009,
       "ad_job": 1792429245.3488846,
       "logoped_gulshan": 1792467033.8564496,
       "ad_water": 1792461644.528536,

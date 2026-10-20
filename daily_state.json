@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792504850.5784934,
+  "last_post_ts": 1792506650.974766,
   "recent_posts": [
-    {
-      "source_title": "«Шаҳар одамлар учун-ку!» Президент Самарқандда янги кўприк қурилишини кўздан кечирди",
-      "headline": "Samarqandda yangi ko'prik qurilishi – “Shirin” massivi bilan bog'lovchi",
-      "ts": 1792333847.1826303
-    },
     {
       "source_title": "AQSH davlat kotibi Marko Rubio Samarqandga keldi",
       "headline": "Marko Rubio Samarqandga keldi",
@@ -200,11 +195,16 @@
       "source_title": "Fargʻona tajribasi asosida iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
       "headline": "Farg'ona tajribasiga asoslangan iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
       "ts": 1792503046.8670945
+    },
+    {
+      "source_title": "Qashqadaryoda o‘gay onasini o‘ldirgan yigit 13,5 yilga qamaldi",
+      "headline": "Qashqadaryoda o'gay onasini o'ldirgan yigit 13,5 yilga qamaldi",
+      "ts": 1792506648.9716399
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792504850.5762107,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 16
+    "count": 17
   }
 }

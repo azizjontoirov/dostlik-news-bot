@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792472443.4700148,
+  "last_post_ts": 1792474237.223601,
   "recent_posts": [
-    {
-      "source_title": "“Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” — Marko Rubio Oʻzbekistonga tashrifi haqida",
-      "headline": "Marko Rubio O'zbekistonga tashrifi – “Shunday davlatlar borki, munosabatlarni rivojlantirishni istaysiz” 🌍🤝",
-      "ts": 1792301442.4495418
-    },
     {
       "source_title": "«Погон қонунни бузиш ҳуқуқини берадими?» Тошкент ИИББ ходимларининг синфхонадаги «профилактик тадбири» қораланмоқда",
       "headline": "IIBB xodimlarining maktabdagi “profilaktik” tadbiri – savol tug'ildi! 🚨",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekiston do‘konlarida 70 dan ortiq sifatsiz mahsulot sotilayotgani ma’lum bo‘ldi",
       "headline": "70+ sifatsiz mahsulot savdo nuqtalarida aniqlandi ⚠️",
       "ts": 1792470636.6745305
+    },
+    {
+      "source_title": "Xitoy kompaniyasi O‘zbekiston taksi bozoriga kirib kelishni rejalashtirmoqda",
+      "headline": "Xitoy kompaniyasi O'zbekistondagi taksi bozoriga kiradi",
+      "ts": 1792474235.2193255
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792472443.463011,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 4
+    "count": 5
   }
 }

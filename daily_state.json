@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792499432.751586,
+  "last_post_ts": 1792501253.9444132,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Samarqandga tashrifini Imom Buxoriy maqbarasi ziyoratidan boshladi",
-      "headline": "Prezident Mirziyoyev Samarqandga tashrifini Imom Buxoriy maqbarasi ziyoratidan boshladi",
-      "ts": 1792328447.1377516
-    },
     {
       "source_title": "Samarqand markazini “Shirin” massivi bilan bogʻlovchi zamonaviy koʻprik qurilmoqda.",
       "headline": "Samarqandda “Shirin” massivi bilan bog'lovchi zamonaviy ko'prik qurilmoqda 🌉🚗",
@@ -200,11 +195,16 @@
       "source_title": "«Жуда оғриқли масала». Тошкентда 720 дан ортиқ ноқонуний қурилган кўп қаватли уй аниқланди",
       "headline": "Жуда оғriqli masala – Tashkentda 720 dan ortiq noqonuniy ko'p qavatli uy aniqlandi",
       "ts": 1792497654.492032
+    },
+    {
+      "source_title": "“Yulduz Usmonovaning nazariga tushish orzum edi”. Raqqosa Iroda Ismoilova mashhur raqsining yaralish tarixi va farzandlariga yaxshi ona bo‘lolmagani haqida",
+      "headline": "Yulduz Usmonovaning nazariga tushish orzusi – Iroda Ismoilovaning “Tovus” raqsi tarixi 💃✨",
+      "ts": 1792501251.9405265
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792499432.7491105,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 14
+    "count": 15
   }
 }

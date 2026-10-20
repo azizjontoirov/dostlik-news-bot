@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792512059.8543613,
+  "last_post_ts": 1792513847.6931112,
   "recent_posts": [
-    {
-      "source_title": "“Aral” 25 yillik tanaffusdan so‘ng Superliga yo‘llanmasiga ega chiqdi",
-      "headline": "Aral” 25 yillik tanaffusdan so'ng Superliga yo'llanmasiga ega chiqdi ⚽️🏆",
-      "ts": 1792341043.3691092
-    },
     {
       "source_title": "Ўзбекистонда 19−25 октябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
       "headline": "19‑25 oktyabrda O'zbekistonda ob-havo qanday bo'ladi? 🌡️",
@@ -200,11 +195,16 @@
       "source_title": "Taʼlim va ilm-fan vaziriga oʻrinbosarlar tayinlandi",
       "headline": "Ta'lim va ilm-fan vaziriga birinchi o'rinbosar tayinlandi 📚",
       "ts": 1792512057.8517973
+    },
+    {
+      "source_title": "O‘zbekiston Kubogi. “Lokomotiv” “Neftchi”ni musobaqadan chiqarib yubordi. “OKMK” va “Andijon” ham yarimfinalda",
+      "headline": "O'zbekiston Kubogi: “Lokomotiv” “Neftchi”ni chiqarib yubordi!",
+      "ts": 1792513845.6893399
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792510247.8636007,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 19
+    "count": 20
   }
 }

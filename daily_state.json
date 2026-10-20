@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792508454.5993416,
+  "last_post_ts": 1792510247.947769,
   "recent_posts": [
     {
       "source_title": "ЦУМ яқинидаги Brasserie Park терассаси ходим ва курьер ўртасидаги можародан сўнг демонтаж қилинди",
@@ -204,14 +204,14 @@
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792504850.5762107,
+    "last_ad_ts": 1792510247.8636007,
     "shown": {
       "logoped_gulshan": 8,
       "ad_flour": 9,
-      "gilam_eag": 7,
+      "gilam_eag": 8,
       "ad_job": 9,
       "ad_water": 7
     },
@@ -222,14 +222,14 @@
       "logoped_gulshan": 2,
       "ad_flour": 2,
       "ad_job": 2,
-      "gilam_eag": 1
+      "gilam_eag": 2
     },
     "last_shown": {
       "ad_flour": 1792494070.1747792,
       "ad_job": 1792499432.749108,
       "logoped_gulshan": 1792504850.5762074,
       "ad_water": 1792488631.4975228,
-      "gilam_eag": 1792483245.465775
+      "gilam_eag": 1792510247.863598
     },
     "morning_ad_date": "2026-10-20"
   },

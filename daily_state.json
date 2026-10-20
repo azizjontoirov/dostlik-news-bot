@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792495838.271574,
+  "last_post_ts": 1792497656.4958584,
   "recent_posts": [
-    {
-      "source_title": "Oblepixaning salomatlik uchun qanday foydalari bor?",
-      "headline": "Chakanda (oblepixa) – sog'lom immunitetning siri 🍊💪",
-      "ts": 1792324849.1783097
-    },
     {
       "source_title": "Shavkat Mirziyoyev Samarqandga tashrifini Imom Buxoriy maqbarasi ziyoratidan boshladi",
       "headline": "Prezident Mirziyoyev Samarqandga tashrifini Imom Buxoriy maqbarasi ziyoratidan boshladi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda kitobxonlik tanlovida sovrindor bo‘lgan harbiylarning xizmat muddati qisqartirilishi mumkin",
       "headline": "Ma'naviyat qalqoni” tanlovi g'oliblari uchun harbiy xizmat muddatini bir oyga qisqartirish! 📚🪖",
       "ts": 1792495836.2677271
+    },
+    {
+      "source_title": "«Жуда оғриқли масала». Тошкентда 720 дан ортиқ ноқонуний қурилган кўп қаватли уй аниқланди",
+      "headline": "Жуда оғriqli masala – Tashkentda 720 dan ortiq noqonuniy ko'p qavatli uy aniqlandi",
+      "ts": 1792497654.492032
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792494070.1747813,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 13
+    "count": 14
   }
 }

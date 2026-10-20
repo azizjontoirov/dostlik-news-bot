@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792488631.5001297,
+  "last_post_ts": 1792490462.933922,
   "recent_posts": [
-    {
-      "source_title": "Боксчи Баҳодир Жалолов Соломон Дакресни мағлуб этиб, 18-ғалабасини қўлга киритди (видео)",
-      "headline": "Bahodir Jalolov London jangida 18‑galabasini qo'lga kiritdi! 🥊",
-      "ts": 1792317648.6720939
-    },
     {
       "source_title": "Shavkat Mirziyoyev 2 kun davomida Samarqandda bo‘ladi",
       "headline": "Prezident Samarqandda! 🇺🇿",
@@ -200,11 +195,16 @@
       "source_title": "Футбол: Ўзбекистон ноябрда Россия билан ўртоқлик учрашуви ўтказади",
       "headline": "O'zbekiston futboli: Rossiya bilan do'stlik uchrashuvi (12‑noyabr) ⚽️",
       "ts": 1792486853.4835658
+    },
+    {
+      "source_title": "UZCARD’dan “Omad mavsumi 2.0” aksiyasining yangi g‘oliblari aniqlandi",
+      "headline": "UZCARD “Omad mavsumi 2.0” yangi g'oliblari e'lon qilindi 🎉📱",
+      "ts": 1792490460.9313562
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792488631.4975257,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 10
+    "count": 11
   }
 }

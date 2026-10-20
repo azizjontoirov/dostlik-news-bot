@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792486855.4863245,
+  "last_post_ts": 1792488631.5001297,
   "recent_posts": [
     {
       "source_title": "Боксчи Баҳодир Жалолов Соломон Дакресни мағлуб этиб, 18-ғалабасини қўлга киритди (видео)",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792483245.4657772,
+    "last_ad_ts": 1792488631.4975257,
     "shown": {
       "logoped_gulshan": 7,
       "ad_flour": 8,
       "gilam_eag": 7,
       "ad_job": 8,
-      "ad_water": 6
+      "ad_water": 7
     },
     "permanent_index": 2,
     "day": "2026-10-20",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "logoped_gulshan": 1,
       "ad_flour": 1,
       "ad_job": 1,
@@ -228,7 +228,7 @@
       "ad_flour": 1792472443.463009,
       "ad_job": 1792477834.2653797,
       "logoped_gulshan": 1792467033.8564496,
-      "ad_water": 1792461644.528536,
+      "ad_water": 1792488631.4975228,
       "gilam_eag": 1792483245.465775
     },
     "morning_ad_date": "2026-10-20"

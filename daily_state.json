@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792492238.543453,
+  "last_post_ts": 1792494070.1771684,
   "recent_posts": [
     {
       "source_title": "Rubio Oʻzbekistonga yoʻl oldi.",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792488631.4975257,
+    "last_ad_ts": 1792494070.1747813,
     "shown": {
       "logoped_gulshan": 7,
-      "ad_flour": 8,
+      "ad_flour": 9,
       "gilam_eag": 7,
       "ad_job": 8,
       "ad_water": 7
@@ -220,12 +220,12 @@
     "today": {
       "ad_water": 2,
       "logoped_gulshan": 1,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_job": 1,
       "gilam_eag": 1
     },
     "last_shown": {
-      "ad_flour": 1792472443.463009,
+      "ad_flour": 1792494070.1747792,
       "ad_job": 1792477834.2653797,
       "logoped_gulshan": 1792467033.8564496,
       "ad_water": 1792488631.4975228,

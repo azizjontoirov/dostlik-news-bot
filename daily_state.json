@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792485046.3627264,
+  "last_post_ts": 1792486855.4863245,
   "recent_posts": [
-    {
-      "source_title": "«Муносабатларни мустаҳкамлаш учун боргимиз келадиган мамлакатлар бор». АҚШ давлат котиби — «C5+1» учрашуви ҳақида",
-      "headline": "Marko Rubio O'zbekistonga tashrifi – munosabatlarni mustahkamlashga yo'nalgan! 🇺🇸",
-      "ts": 1792314048.9170752
-    },
     {
       "source_title": "Боксчи Баҳодир Жалолов Соломон Дакресни мағлуб этиб, 18-ғалабасини қўлга киритди (видео)",
       "headline": "Bahodir Jalolov London jangida 18‑galabasini qo'lga kiritdi! 🥊",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekiston terma jamoasi noyabrda Rossiyaga qarshi o‘ynaydi",
       "headline": "O'zbekiston terma jamoasi Rossiyaga qarshi o'ynaydi (12‑noyabr) 🏟️",
       "ts": 1792485044.3592346
+    },
+    {
+      "source_title": "Футбол: Ўзбекистон ноябрда Россия билан ўртоқлик учрашуви ўтказади",
+      "headline": "O'zbekiston futboli: Rossiya bilan do'stlik uchrashuvi (12‑noyabr) ⚽️",
+      "ts": 1792486853.4835658
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792483245.4657772,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 9
+    "count": 10
   }
 }

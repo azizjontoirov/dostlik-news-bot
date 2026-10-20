@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792483245.4739625,
+  "last_post_ts": 1792485046.3627264,
   "recent_posts": [
-    {
-      "source_title": "Samarqand shahriga kirish va ayrim koʻchalarda harakatlanish 5 kun davomida cheklanadi",
-      "headline": "Samarqandda harakat cheklovi – 5 kun",
-      "ts": 1792312237.8386967
-    },
     {
       "source_title": "«Муносабатларни мустаҳкамлаш учун боргимиз келадиган мамлакатлар бор». АҚШ давлат котиби — «C5+1» учрашуви ҳақида",
       "headline": "Marko Rubio O'zbekistonga tashrifi – munosabatlarni mustahkamlashga yo'nalgan! 🇺🇸",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda 21-oktyabr kuni ob-havo qanday bo‘lishi maʼlum qilindi",
       "headline": "21-oktyabr ob-havo prognozi",
       "ts": 1792481441.297911
+    },
+    {
+      "source_title": "O‘zbekiston terma jamoasi noyabrda Rossiyaga qarshi o‘ynaydi",
+      "headline": "O'zbekiston terma jamoasi Rossiyaga qarshi o'ynaydi (12‑noyabr) 🏟️",
+      "ts": 1792485044.3592346
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792483245.4657772,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 8
+    "count": 9
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792506650.974766,
+  "last_post_ts": 1792508454.5993416,
   "recent_posts": [
-    {
-      "source_title": "AQSH davlat kotibi Marko Rubio Samarqandga keldi",
-      "headline": "Marko Rubio Samarqandga keldi",
-      "ts": 1792335652.73985
-    },
     {
       "source_title": "ЦУМ яқинидаги Brasserie Park терассаси ходим ва курьер ўртасидаги можародан сўнг демонтаж қилинди",
       "headline": "Brasserie Park terasasi demontaj qilindi",
@@ -200,11 +195,16 @@
       "source_title": "Qashqadaryoda o‘gay onasini o‘ldirgan yigit 13,5 yilga qamaldi",
       "headline": "Qashqadaryoda o'gay onasini o'ldirgan yigit 13,5 yilga qamaldi",
       "ts": 1792506648.9716399
+    },
+    {
+      "source_title": "Navoiyda 350 gramm marixuanani 28 mln so‘mga sotayotgan ikki kishi ushlandi",
+      "headline": "Navoiyda katta narkotik operatsiya – 1,55 kg marixuana va 8 ta kannabis o'simligi aniqlandi",
+      "ts": 1792508452.5955715
     }
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792504850.5762107,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-20",
-    "count": 17
+    "count": 18
   }
 }

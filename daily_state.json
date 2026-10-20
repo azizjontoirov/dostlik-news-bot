@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792513847.6931112,
+  "last_post_ts": 1792515648.8254645,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда 19−25 октябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792510247.8636007,
+    "last_ad_ts": 1792515648.823633,
     "shown": {
       "logoped_gulshan": 8,
       "ad_flour": 9,
       "gilam_eag": 8,
       "ad_job": 9,
-      "ad_water": 7
+      "ad_water": 8
     },
     "permanent_index": 2,
     "day": "2026-10-20",
     "today": {
-      "ad_water": 2,
+      "ad_water": 3,
       "logoped_gulshan": 2,
       "ad_flour": 2,
       "ad_job": 2,
@@ -228,7 +228,7 @@
       "ad_flour": 1792494070.1747792,
       "ad_job": 1792499432.749108,
       "logoped_gulshan": 1792504850.5762074,
-      "ad_water": 1792488631.4975228,
+      "ad_water": 1792515648.8236303,
       "gilam_eag": 1792510247.863598
     },
     "morning_ad_date": "2026-10-20"

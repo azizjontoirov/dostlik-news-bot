@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792571445.248009,
+  "last_post_ts": 1792573260.00813,
   "recent_posts": [
-    {
-      "source_title": "Нодавлат таълим ташкилотларида ички ишлар инспекторлари лавозимлари жорий этилиши мумкин",
-      "headline": "NODAVLAT TA'LIM TASHKILOTLARIDA ICHKI ISHLAR INSPEKTORLARI LAVOZIMLARI JORIY ETILISHI MUMKIN",
-      "ts": 1792400455.47824
-    },
     {
       "source_title": "Soy Bo‘yi Fest: Murad Buildings Soy Bo‘yi turar joy majmuasining ikkinchi bosqichini foydalanishga topshirdi",
       "headline": "Soy Bo'yi Fest – Yangi Ikkilamchi Bosqichga Ochilish 🎉🏢",
@@ -200,11 +195,16 @@
       "source_title": "Har bir buyurtmadan foyda: EVOS kompaniyasi EVOS Rewards’ni ishga tushirdi",
       "headline": "Har bir buyurtmadan foyda! 🎉🍽️",
       "ts": 1792571443.2440522
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Qashqadaryodagi qiymati 54 mln dollarlik yangi fabrikada bo’ldi",
+      "headline": "Qashqadaryoda 54 mln dollarlik yangi mato fabrikasi ochildi",
+      "ts": 1792573258.0028288
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792569648.655213,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 9
+    "count": 10
   }
 }

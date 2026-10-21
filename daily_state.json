@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792553435.1724362,
+  "last_post_ts": 1792555268.556716,
   "recent_posts": [
-    {
-      "source_title": "Qibraydagi ikki konteynerdan 7 kilogramm marixuana va pnevmatik qurol topildi.",
-      "headline": "Qibrayda narkotik va qurol topildi",
-      "ts": 1792382446.7902987
-    },
     {
       "source_title": "Qibrayda ijaraga berilgan konteynerlar ichidan 7 kg marixuana va pnevmatik qurol topildi (video)",
       "headline": "Qibrayda ijaraga berilgan konteynerlardan 7 kg marixuana va pnevmatik qurol topildi 🚨",
@@ -200,11 +195,16 @@
       "source_title": "«Биз сизга чинакамига ишлайдиган механизмни ваъда қиламиз». Ўзбекистон — АҚШ бизнесига",
       "headline": "O'zbekistondan AQSh biznesiga barqaror sharoitlar va'dasi",
       "ts": 1792551655.8436584
+    },
+    {
+      "source_title": "O‘zbekistonda 200 km avtomobil yo‘li qurilishi va rekonstruksiya qilinishi rejalashtirilmoqda",
+      "headline": "O'zbekiston yo'l‑xo'jaligida 200 km avtomobil yo'li qurilishi rejalashtirilmoqda 🚧🚗",
+      "ts": 1792555266.5527139
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792553435.1701627,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 2
+    "count": 3
   }
 }

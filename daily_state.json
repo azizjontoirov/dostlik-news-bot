@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792549846.1466882,
+  "last_post_ts": 1792551657.8466003,
   "recent_posts": [
-    {
-      "source_title": "“Boshoqshehir”da gʻalaba. Shomurodovda gol va assist.",
-      "headline": "Boshoqshehirda g'alaba – Shomurodovda gol va assist",
-      "ts": 1792378856.307637
-    },
     {
       "source_title": "Qibraydagi ikki konteynerdan 7 kilogramm marixuana va pnevmatik qurol topildi.",
       "headline": "Qibrayda narkotik va qurol topildi",
@@ -200,11 +195,16 @@
       "source_title": "YCHL. Husanov to‘liq o‘ynagan bahsda “Manchester Siti” “AEK” darvozasiga 5 ta gol urdi",
       "headline": "Husanovning ajoyib goli – “Manchester City”ga 5 ta urdi!",
       "ts": 1792549844.144218
+    },
+    {
+      "source_title": "«Биз сизга чинакамига ишлайдиган механизмни ваъда қиламиз». Ўзбекистон — АҚШ бизнесига",
+      "headline": "O'zbekistondan AQSh biznesiga barqaror sharoitlar va'dasi",
+      "ts": 1792551655.8436584
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792548045.665899,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 1
+    "count": 2
   }
 }

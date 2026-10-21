@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792569648.662194,
+  "last_post_ts": 1792571445.248009,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон ва АҚШ Ой, Марс, кометалар ва астероидларни тадқиқ қилиш бўйича «Артемида» битимларини имзолади",
-      "headline": "Ўzbekiston kosmik sohada yangi bosqichga qadam qo'ydi 🚀🌌",
-      "ts": 1792398645.5024135
-    },
     {
       "source_title": "Нодавлат таълим ташкилотларида ички ишлар инспекторлари лавозимлари жорий этилиши мумкин",
       "headline": "NODAVLAT TA'LIM TASHKILOTLARIDA ICHKI ISHLAR INSPEKTORLARI LAVOZIMLARI JORIY ETILISHI MUMKIN",
@@ -200,11 +195,16 @@
       "source_title": "АҚШ Ўзбекистонга кичик ядровий реакторлар технологиясини таклиф этмоқда",
       "headline": "Amerika kichik yadro reaktorlarini taklif qilyapti!",
       "ts": 1792567844.8846743
+    },
+    {
+      "source_title": "Har bir buyurtmadan foyda: EVOS kompaniyasi EVOS Rewards’ni ishga tushirdi",
+      "headline": "Har bir buyurtmadan foyda! 🎉🍽️",
+      "ts": 1792571443.2440522
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792569648.655213,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 8
+    "count": 9
   }
 }

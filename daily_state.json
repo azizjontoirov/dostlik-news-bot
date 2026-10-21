@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792588464.225142,
+  "last_post_ts": 1792590342.629081,
   "recent_posts": [
-    {
-      "source_title": "Mahallalarda jamoat transporti bilan qamrov 98,8 foizga yetdi — Transport vazirligi",
-      "headline": "Mahallalarda jamoat transporti qamrovi 98,8% ga yetdi 🚍📈",
-      "ts": 1792416645.3547978
-    },
     {
       "source_title": "Ўзбекистон ва АҚШ 12 млрд долларлик 54 та келишув имзолади",
       "headline": "12 mlrd dollarlik hamkorlik imzosi! 🚂💰",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda Ilmiy-amaliy forum 2026 bo‘lib o‘tdi",
       "headline": "Ilmiy‑amaliy forum 2026 Toshkentda o'tdi",
       "ts": 1792588462.2224424
+    },
+    {
+      "source_title": "O‘zbekistonda to‘lovga qobiliyatsizlik jarayonidagi tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
+      "headline": "Tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
+      "ts": 1792590340.625431
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792586732.5431037,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 15
+    "count": 16
   }
 }

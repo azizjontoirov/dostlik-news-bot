@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792567846.8886926,
+  "last_post_ts": 1792569648.662194,
   "recent_posts": [
     {
       "source_title": "Ўзбекистон ва АҚШ Ой, Марс, кометалар ва астероидларни тадқиқ қилиш бўйича «Артемида» битимларини имзолади",
@@ -204,14 +204,14 @@
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792564238.102904,
+    "last_ad_ts": 1792569648.655213,
     "shown": {
       "logoped_gulshan": 9,
       "ad_flour": 10,
-      "gilam_eag": 8,
+      "gilam_eag": 9,
       "ad_job": 10,
       "ad_water": 9
     },
@@ -221,14 +221,15 @@
       "ad_flour": 1,
       "logoped_gulshan": 1,
       "ad_job": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "gilam_eag": 1
     },
     "last_shown": {
       "ad_flour": 1792548045.665897,
       "ad_job": 1792558844.8035662,
       "logoped_gulshan": 1792553435.1701605,
       "ad_water": 1792564238.1029012,
-      "gilam_eag": 1792510247.863598
+      "gilam_eag": 1792569648.6552103
     },
     "morning_ad_date": "2026-10-21"
   },

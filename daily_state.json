@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792551657.8466003,
+  "last_post_ts": 1792553435.1724362,
   "recent_posts": [
     {
       "source_title": "Qibraydagi ikki konteynerdan 7 kilogramm marixuana va pnevmatik qurol topildi.",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792548045.665899,
+    "last_ad_ts": 1792553435.1701627,
     "shown": {
-      "logoped_gulshan": 8,
+      "logoped_gulshan": 9,
       "ad_flour": 10,
       "gilam_eag": 8,
       "ad_job": 9,
@@ -218,12 +218,13 @@
     "permanent_index": 2,
     "day": "2026-10-21",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "logoped_gulshan": 1
     },
     "last_shown": {
       "ad_flour": 1792548045.665897,
       "ad_job": 1792499432.749108,
-      "logoped_gulshan": 1792504850.5762074,
+      "logoped_gulshan": 1792553435.1701605,
       "ad_water": 1792515648.8236303,
       "gilam_eag": 1792510247.863598
     },

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792586732.545918,
+  "last_post_ts": 1792588464.225142,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda dollar kursi ketma-ket o‘n kunlik o‘sishdan so‘ng pasaydi",
-      "headline": "Dollar kursi pasaydi – 20-oktyabr yangiligi",
-      "ts": 1792414854.8551204
-    },
     {
       "source_title": "Mahallalarda jamoat transporti bilan qamrov 98,8 foizga yetdi — Transport vazirligi",
       "headline": "Mahallalarda jamoat transporti qamrovi 98,8% ga yetdi 🚍📈",
@@ -200,11 +195,16 @@
       "source_title": "Bogʻot tumanida bir oilaning 4 aʼzosi zaharlanib vafot etdi.",
       "headline": "Bog'ot tumanida oilaviy zaharlash hodisasi",
       "ts": 1792584936.6355662
+    },
+    {
+      "source_title": "Toshkentda Ilmiy-amaliy forum 2026 bo‘lib o‘tdi",
+      "headline": "Ilmiy‑amaliy forum 2026 Toshkentda o'tdi",
+      "ts": 1792588462.2224424
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792586732.5431037,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 14
+    "count": 15
   }
 }

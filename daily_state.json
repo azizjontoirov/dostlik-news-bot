@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792584938.6385047,
+  "last_post_ts": 1792586732.545918,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda dollar kursi ketma-ket o‘n kunlik o‘sishdan so‘ng pasaydi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792581326.1402895,
+    "last_ad_ts": 1792586732.5431037,
     "shown": {
-      "logoped_gulshan": 9,
+      "logoped_gulshan": 10,
       "ad_flour": 11,
       "gilam_eag": 9,
       "ad_job": 11,
@@ -219,7 +219,7 @@
     "day": "2026-10-21",
     "today": {
       "ad_flour": 2,
-      "logoped_gulshan": 1,
+      "logoped_gulshan": 2,
       "ad_job": 2,
       "ad_water": 1,
       "gilam_eag": 1
@@ -227,7 +227,7 @@
     "last_shown": {
       "ad_flour": 1792575036.0883648,
       "ad_job": 1792581326.140287,
-      "logoped_gulshan": 1792553435.1701605,
+      "logoped_gulshan": 1792586732.5431018,
       "ad_water": 1792564238.1029012,
       "gilam_eag": 1792569648.6552103
     },

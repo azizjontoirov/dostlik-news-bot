@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792595742.265566,
+  "last_post_ts": 1792597525.1982226,
   "recent_posts": [
     {
       "source_title": "“Xavotirlanishga hech qanday asos yo‘q”. Sanepidqo‘mita Toshkentda qizamiq tarqalganini rad etdi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792592135.0659585,
+    "last_ad_ts": 1792597525.196061,
     "shown": {
-      "logoped_gulshan": 10,
+      "logoped_gulshan": 11,
       "ad_flour": 11,
       "gilam_eag": 10,
       "ad_job": 11,
@@ -219,7 +219,7 @@
     "day": "2026-10-21",
     "today": {
       "ad_flour": 2,
-      "logoped_gulshan": 2,
+      "logoped_gulshan": 3,
       "ad_job": 2,
       "ad_water": 1,
       "gilam_eag": 2
@@ -227,7 +227,7 @@
     "last_shown": {
       "ad_flour": 1792575036.0883648,
       "ad_job": 1792581326.140287,
-      "logoped_gulshan": 1792586732.5431018,
+      "logoped_gulshan": 1792597525.1960585,
       "ad_water": 1792564238.1029012,
       "gilam_eag": 1792592135.0659568
     },

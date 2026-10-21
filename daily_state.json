@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792592135.0680785,
+  "last_post_ts": 1792593942.100686,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон ва АҚШ 12 млрд долларлик 54 та келишув имзолади",
-      "headline": "12 mlrd dollarlik hamkorlik imzosi! 🚂💰",
-      "ts": 1792420254.1258414
-    },
     {
       "source_title": "Aichi-Nagoya-2026: O‘zbekistonlik para atletlar musobaqaning birinchi kunida 21 ta medalni qo‘lga kiritdi",
       "headline": "Aichi‑Nagoya‑2026: O'zbekistonlik para atletlar 21 ta medalga erishdi 🥇🥈🥉",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda to‘lovga qobiliyatsizlik jarayonidagi tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
       "headline": "Tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
       "ts": 1792590340.625431
+    },
+    {
+      "source_title": "Тилнинг ривожланиши фуқаролар фикрини аниқ ифода этиши ва расмий ҳужжатларни осон тушунишида намоён бўлади — президент",
+      "headline": "Til rivojlanishi – fuqarolarning aniq ifodasi va rasmiy hujjatlarni oson tushunishi",
+      "ts": 1792593940.0378988
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792592135.0659585,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 16
+    "count": 17
   }
 }

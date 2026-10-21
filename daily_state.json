@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792573260.00813,
+  "last_post_ts": 1792575036.0911276,
   "recent_posts": [
     {
       "source_title": "Soy Bo‘yi Fest: Murad Buildings Soy Bo‘yi turar joy majmuasining ikkinchi bosqichini foydalanishga topshirdi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792569648.655213,
+    "last_ad_ts": 1792575036.088368,
     "shown": {
       "logoped_gulshan": 9,
-      "ad_flour": 10,
+      "ad_flour": 11,
       "gilam_eag": 9,
       "ad_job": 10,
       "ad_water": 9
@@ -218,14 +218,14 @@
     "permanent_index": 2,
     "day": "2026-10-21",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "logoped_gulshan": 1,
       "ad_job": 1,
       "ad_water": 1,
       "gilam_eag": 1
     },
     "last_shown": {
-      "ad_flour": 1792548045.665897,
+      "ad_flour": 1792575036.0883648,
       "ad_job": 1792558844.8035662,
       "logoped_gulshan": 1792553435.1701605,
       "ad_water": 1792564238.1029012,

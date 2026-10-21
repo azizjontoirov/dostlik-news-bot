@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792599335.8951576,
+  "last_post_ts": 1792601139.9510078,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi",
-      "headline": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi 🤝🇺🇸",
-      "ts": 1792427449.5611737
-    },
     {
       "source_title": "12 milliard dollarlik 54 ta kelishuv: Shavkat Mirziyoyev Amerika — O‘zbekiston iqtisodiy hamkorligining yangi ustuvor yo‘nalishlarini belgilab berdi",
       "headline": "Amerika‑O'zbekiston iqtisodiy hamkorligi yangi bosqichga ko'tarildi",
@@ -200,11 +195,16 @@
       "source_title": "Absolute Energyva Weicha O‘zbekistonda hamkorlik to‘g‘risida bitim imzoladi",
       "headline": "Absolute Energy va Weicha O'zbekistonda hamkorlik bitimini imzoladi 🤝⚡",
       "ts": 1792599333.7929173
+    },
+    {
+      "source_title": "Пара Осиё ўйинлари: Учинчи кунда Ўзбекистон 12 та олтин, 9 та кумуш ва 12 та бронза медалини қўлга киритди",
+      "headline": "Para Osiyo o'yinlari: 12 ta oltin, 9 ta kumush, 12 ta bronza! 🏅",
+      "ts": 1792601137.9466276
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792597525.196061,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 19
+    "count": 20
   }
 }

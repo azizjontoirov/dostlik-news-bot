@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792560645.9769115,
+  "last_post_ts": 1792562454.407737,
   "recent_posts": [
-    {
-      "source_title": "Instagram: Yettinchi marta ota bo‘ladigan Yigitali Mamajonov, “Dizayn”dan ketgan Sa’dulla Fathullayev, Ahror Qo‘shmatovning ahvoli qanday?",
-      "headline": "Instagramda mashhur shaxslar hayoti: foto‑videolar yangilandi 📸✨",
-      "ts": 1792389650.0687141
-    },
     {
       "source_title": "“Hech kim g‘alaba qozonmaydi” — Marko Rubio Samarqandda turib Ukrainadagi urush haqida gapirdi",
       "headline": "Hech kim g'alaba qozonmaydi – Marko Rubio Samarqandda 🇺🇸🕊️",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekiston raqamli reklama bozorida “Excel davri” yakun topmoqda",
       "headline": "O'zbekiston reklama bozorida “Excel davri” yakun topmoqda 📊🚀",
       "ts": 1792560643.9725282
+    },
+    {
+      "source_title": "O‘zbekistonlik ayol va uning mehribonlik uyidagi farzandi Rossiyadan vatanga qaytarildi",
+      "headline": "O'zbekistonlik ayol va farzandi Rossiyadan vatanga qaytarildi",
+      "ts": 1792562452.4029753
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792558844.803569,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 5
+    "count": 6
   }
 }

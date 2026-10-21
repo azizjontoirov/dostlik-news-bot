@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792515648.8254645,
+  "last_post_ts": 1792549846.1466882,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда 19−25 октябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
-      "headline": "19‑25 oktyabrda O'zbekistonda ob-havo qanday bo'ladi? 🌡️",
-      "ts": 1792377038.3980422
-    },
     {
       "source_title": "“Boshoqshehir”da gʻalaba. Shomurodovda gol va assist.",
       "headline": "Boshoqshehirda g'alaba – Shomurodovda gol va assist",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekiston Kubogi. “Lokomotiv” “Neftchi”ni musobaqadan chiqarib yubordi. “OKMK” va “Andijon” ham yarimfinalda",
       "headline": "O'zbekiston Kubogi: “Lokomotiv” “Neftchi”ni chiqarib yubordi!",
       "ts": 1792513845.6893399
+    },
+    {
+      "source_title": "YCHL. Husanov to‘liq o‘ynagan bahsda “Manchester Siti” “AEK” darvozasiga 5 ta gol urdi",
+      "headline": "Husanovning ajoyib goli – “Manchester City”ga 5 ta urdi!",
+      "ts": 1792549844.144218
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792548045.665899,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091513,
   "news_stats": {
-    "day": "2026-10-20",
-    "count": 20
+    "day": "2026-10-21",
+    "count": 1
   }
 }

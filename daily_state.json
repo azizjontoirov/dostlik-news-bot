@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792583140.3449333,
+  "last_post_ts": 1792584938.6385047,
   "recent_posts": [
-    {
-      "source_title": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi (video)",
-      "headline": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi 🎓👏",
-      "ts": 1792411252.489721
-    },
     {
       "source_title": "O‘zbekistonda dollar kursi ketma-ket o‘n kunlik o‘sishdan so‘ng pasaydi",
       "headline": "Dollar kursi pasaydi – 20-oktyabr yangiligi",
@@ -200,11 +195,16 @@
       "source_title": "Наманганда фуқароларни Польшага ишга юбориш эвазига $10,4 минг талаб қилган эркак ушланди",
       "headline": "Namanagandagi ishga yuborish shartnomasi – $10,4 ming talabi! 💰🚨",
       "ts": 1792583138.3419313
+    },
+    {
+      "source_title": "Bogʻot tumanida bir oilaning 4 aʼzosi zaharlanib vafot etdi.",
+      "headline": "Bog'ot tumanida oilaviy zaharlash hodisasi",
+      "ts": 1792584936.6355662
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792581326.1402895,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 13
+    "count": 14
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792575036.0911276,
+  "last_post_ts": 1792576855.8331187,
   "recent_posts": [
-    {
-      "source_title": "Soy Bo‘yi Fest: Murad Buildings Soy Bo‘yi turar joy majmuasining ikkinchi bosqichini foydalanishga topshirdi",
-      "headline": "Soy Bo'yi Fest – Yangi Ikkilamchi Bosqichga Ochilish 🎉🏢",
-      "ts": 1792404047.4732454
-    },
     {
       "source_title": "PFL TerDU klubini Proligadan chetlatdi",
       "headline": "PFL TerDU klubini Proligadan chetlatdi",
@@ -200,11 +195,16 @@
       "source_title": "Shavkat Mirziyoyev Qashqadaryodagi qiymati 54 mln dollarlik yangi fabrikada bo’ldi",
       "headline": "Qashqadaryoda 54 mln dollarlik yangi mato fabrikasi ochildi",
       "ts": 1792573258.0028288
+    },
+    {
+      "source_title": "UZCARD maktab o‘quvchilarini moliyaviy savodxonlik va UZCARD Kids imkoniyatlari bilan tanishtirmoqda",
+      "headline": "UZCARD maktab o'quvchilarini moliyaviy savodxonlikka o'rgatadi 📚💳",
+      "ts": 1792576853.8296006
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792575036.088368,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 10
+    "count": 11
   }
 }

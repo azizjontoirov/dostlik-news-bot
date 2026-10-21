@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792579535.6536863,
+  "last_post_ts": 1792581326.1423872,
   "recent_posts": [
     {
       "source_title": "VEON Ўзбекистондаги Perfectum мобил операторининг 100 фоизини 207 млн долларга сотиб олишга келишиб олди",
@@ -204,15 +204,15 @@
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792575036.088368,
+    "last_ad_ts": 1792581326.1402895,
     "shown": {
       "logoped_gulshan": 9,
       "ad_flour": 11,
       "gilam_eag": 9,
-      "ad_job": 10,
+      "ad_job": 11,
       "ad_water": 9
     },
     "permanent_index": 2,
@@ -220,13 +220,13 @@
     "today": {
       "ad_flour": 2,
       "logoped_gulshan": 1,
-      "ad_job": 1,
+      "ad_job": 2,
       "ad_water": 1,
       "gilam_eag": 1
     },
     "last_shown": {
       "ad_flour": 1792575036.0883648,
-      "ad_job": 1792558844.8035662,
+      "ad_job": 1792581326.140287,
       "logoped_gulshan": 1792553435.1701605,
       "ad_water": 1792564238.1029012,
       "gilam_eag": 1792569648.6552103

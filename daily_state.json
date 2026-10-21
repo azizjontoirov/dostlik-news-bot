@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792564238.110274,
+  "last_post_ts": 1792566058.684344,
   "recent_posts": [
-    {
-      "source_title": "“Hech kim g‘alaba qozonmaydi” — Marko Rubio Samarqandda turib Ukrainadagi urush haqida gapirdi",
-      "headline": "Hech kim g'alaba qozonmaydi – Marko Rubio Samarqandda 🇺🇸🕊️",
-      "ts": 1792393254.7098107
-    },
     {
       "source_title": "Тошкентда аёл қўғирчоқ ичига гашиш яшириб олиб кетаётганликда гумонланиб ушланди",
       "headline": "Toshkentda gashishni qog'irchoq ichiga yashirib olib ketilmoqda",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonlik ayol va uning mehribonlik uyidagi farzandi Rossiyadan vatanga qaytarildi",
       "headline": "O'zbekistonlik ayol va farzandi Rossiyadan vatanga qaytarildi",
       "ts": 1792562452.4029753
+    },
+    {
+      "source_title": "Ўзбекистонда тиббиёт ва фармацевтика ходимлари учун мажбурий давлат рўйхатидан ўтиш тартиби белгиланди",
+      "headline": "Tibbiyot va farmatsevtika xodimlari uchun majburiy davlat ro'yxatidan o'tish tartibi belgilandi",
+      "ts": 1792566056.6804183
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792564238.102904,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 6
+    "count": 7
   }
 }

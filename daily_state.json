@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792597525.1982226,
+  "last_post_ts": 1792599335.8951576,
   "recent_posts": [
-    {
-      "source_title": "“Xavotirlanishga hech qanday asos yo‘q”. Sanepidqo‘mita Toshkentda qizamiq tarqalganini rad etdi",
-      "headline": "Xavotirlanishga hech qanday asos yo'q 🚫🩺",
-      "ts": 1792425649.6962416
-    },
     {
       "source_title": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi",
       "headline": "Shavkat Mirziyoyev AQSH davlat kotibini qabul qildi 🤝🇺🇸",
@@ -200,11 +195,16 @@
       "source_title": "Samarqand va Xorazmda 5,5 kg opiy musodara qilindi",
       "headline": "Samarqand‑Xorazmda 5,5 kg opiy musodara qilindi ⚠️",
       "ts": 1792595740.2622988
+    },
+    {
+      "source_title": "Absolute Energyva Weicha O‘zbekistonda hamkorlik to‘g‘risida bitim imzoladi",
+      "headline": "Absolute Energy va Weicha O'zbekistonda hamkorlik bitimini imzoladi 🤝⚡",
+      "ts": 1792599333.7929173
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792597525.196061,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 18
+    "count": 19
   }
 }

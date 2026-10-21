@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792566058.684344,
+  "last_post_ts": 1792567846.8886926,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда аёл қўғирчоқ ичига гашиш яшириб олиб кетаётганликда гумонланиб ушланди",
-      "headline": "Toshkentda gashishni qog'irchoq ichiga yashirib olib ketilmoqda",
-      "ts": 1792395041.6163418
-    },
     {
       "source_title": "Ўзбекистон ва АҚШ Ой, Марс, кометалар ва астероидларни тадқиқ қилиш бўйича «Артемида» битимларини имзолади",
       "headline": "Ўzbekiston kosmik sohada yangi bosqichga qadam qo'ydi 🚀🌌",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда тиббиёт ва фармацевтика ходимлари учун мажбурий давлат рўйхатидан ўтиш тартиби белгиланди",
       "headline": "Tibbiyot va farmatsevtika xodimlari uchun majburiy davlat ro'yxatidan o'tish tartibi belgilandi",
       "ts": 1792566056.6804183
+    },
+    {
+      "source_title": "АҚШ Ўзбекистонга кичик ядровий реакторлар технологиясини таклиф этмоқда",
+      "headline": "Amerika kichik yadro reaktorlarini taklif qilyapti!",
+      "ts": 1792567844.8846743
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792564238.102904,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 7
+    "count": 8
   }
 }

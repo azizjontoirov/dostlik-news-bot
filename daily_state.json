@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792581326.1423872,
+  "last_post_ts": 1792583140.3449333,
   "recent_posts": [
-    {
-      "source_title": "VEON Ўзбекистондаги Perfectum мобил операторининг 100 фоизини 207 млн долларга сотиб олишга келишиб олди",
-      "headline": "VEON Perfectum'ning 100% ulushini 207 mln dollarga sotib oladi 📱💰",
-      "ts": 1792409440.0917826
-    },
     {
       "source_title": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi (video)",
       "headline": "Andijonlik ayol 68 yoshida bakalavr diplomini oldi 🎓👏",
@@ -200,11 +195,16 @@
       "source_title": "Qashqadaryoda 6 mlrd dollarlik loyihalarning ishga tushirilishi va qurilishiga start berildi",
       "headline": "Qashqadaryoda 6 mlrd dollarlik loyihalarga start berildi",
       "ts": 1792579533.6505306
+    },
+    {
+      "source_title": "Наманганда фуқароларни Польшага ишга юбориш эвазига $10,4 минг талаб қилган эркак ушланди",
+      "headline": "Namanagandagi ishga yuborish shartnomasi – $10,4 ming talabi! 💰🚨",
+      "ts": 1792583138.3419313
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792581326.1402895,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 12
+    "count": 13
   }
 }

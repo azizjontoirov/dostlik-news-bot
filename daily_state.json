@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792593942.100686,
+  "last_post_ts": 1792595742.265566,
   "recent_posts": [
-    {
-      "source_title": "Aichi-Nagoya-2026: O‘zbekistonlik para atletlar musobaqaning birinchi kunida 21 ta medalni qo‘lga kiritdi",
-      "headline": "Aichi‑Nagoya‑2026: O'zbekistonlik para atletlar 21 ta medalga erishdi 🥇🥈🥉",
-      "ts": 1792422054.7064567
-    },
     {
       "source_title": "“Xavotirlanishga hech qanday asos yo‘q”. Sanepidqo‘mita Toshkentda qizamiq tarqalganini rad etdi",
       "headline": "Xavotirlanishga hech qanday asos yo'q 🚫🩺",
@@ -200,11 +195,16 @@
       "source_title": "Тилнинг ривожланиши фуқаролар фикрини аниқ ифода этиши ва расмий ҳужжатларни осон тушунишида намоён бўлади — президент",
       "headline": "Til rivojlanishi – fuqarolarning aniq ifodasi va rasmiy hujjatlarni oson tushunishi",
       "ts": 1792593940.0378988
+    },
+    {
+      "source_title": "Samarqand va Xorazmda 5,5 kg opiy musodara qilindi",
+      "headline": "Samarqand‑Xorazmda 5,5 kg opiy musodara qilindi ⚠️",
+      "ts": 1792595740.2622988
     }
   ],
   "morning_sent_date": "2026-10-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792592135.0659585,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-21",
-    "count": 17
+    "count": 18
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792681259.5890849,
+  "last_post_ts": 1792683044.9133136,
   "recent_posts": [
     {
       "source_title": "Taʼlim va ilm-fan vaziriga oʻrinbosarlar tayinlandi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792677648.2330046,
+    "last_ad_ts": 1792683044.9106798,
     "shown": {
-      "logoped_gulshan": 12,
+      "logoped_gulshan": 13,
       "ad_flour": 13,
       "gilam_eag": 12,
       "ad_job": 13,
@@ -222,12 +222,12 @@
       "gilam_eag": 2,
       "ad_job": 2,
       "ad_water": 2,
-      "logoped_gulshan": 1
+      "logoped_gulshan": 2
     },
     "last_shown": {
       "ad_flour": 1792661439.7597966,
       "ad_job": 1792666850.0470407,
-      "logoped_gulshan": 1792656046.3628948,
+      "logoped_gulshan": 1792683044.9106772,
       "ad_water": 1792672239.3805616,
       "gilam_eag": 1792677648.2330024
     },

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792659654.0682461,
+  "last_post_ts": 1792661439.7617774,
   "recent_posts": [
     {
       "source_title": "UZCARD’dan “Omad mavsumi 2.0” aksiyasining yangi g‘oliblari aniqlandi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792656046.3628974,
+    "last_ad_ts": 1792661439.7597983,
     "shown": {
       "logoped_gulshan": 12,
-      "ad_flour": 12,
+      "ad_flour": 13,
       "gilam_eag": 11,
       "ad_job": 12,
       "ad_water": 11
@@ -218,14 +218,14 @@
     "permanent_index": 2,
     "day": "2026-10-22",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "gilam_eag": 1,
       "ad_job": 1,
       "ad_water": 1,
       "logoped_gulshan": 1
     },
     "last_shown": {
-      "ad_flour": 1792634445.7384062,
+      "ad_flour": 1792661439.7597966,
       "ad_job": 1792645244.1602852,
       "logoped_gulshan": 1792656046.3628948,
       "ad_water": 1792650636.311763,

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792663261.1815703,
+  "last_post_ts": 1792665046.2496154,
   "recent_posts": [
-    {
-      "source_title": "«Йўловчилар оқимига боғлиқ». Масъуллар — Тошкентда автобуслар интервали ва тунги рейслар ҳақида",
-      "headline": "Тунги автобуслар интервали ва йўловчилар оқимига боғлиқ таклифлар",
-      "ts": 1792492236.5385096
-    },
     {
       "source_title": "O‘zbekistonda kitobxonlik tanlovida sovrindor bo‘lgan harbiylarning xizmat muddati qisqartirilishi mumkin",
       "headline": "Ma'naviyat qalqoni” tanlovi g'oliblari uchun harbiy xizmat muddatini bir oyga qisqartirish! 📚🪖",
@@ -200,11 +195,16 @@
       "source_title": "Umami — ilk bor Yaponiyada ta’riflangan beshinchi ta’m: O‘zbekistonda “Umami oyligi” boshlandi",
       "headline": "Umami oyligi O'zbekistonda boshlandi 🍜✨",
       "ts": 1792663259.1786046
+    },
+    {
+      "source_title": "Qashqadaryo viloyati hokimligi va davlat idoralarini Yangi Qarshi shahriga ko‘chirish rejalashtirilmoqda",
+      "headline": "Yangi Qarshi shahriga ko'chirish rejalari",
+      "ts": 1792665044.2456498
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792661439.7597983,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 11
+    "count": 12
   }
 }

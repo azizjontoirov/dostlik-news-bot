@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792641655.1034985,
+  "last_post_ts": 1792643445.9562948,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston do‘konlarida 70 dan ortiq sifatsiz mahsulot sotilayotgani ma’lum bo‘ldi",
-      "headline": "70+ sifatsiz mahsulot savdo nuqtalarida aniqlandi ⚠️",
-      "ts": 1792470636.6745305
-    },
     {
       "source_title": "Xitoy kompaniyasi O‘zbekiston taksi bozoriga kirib kelishni rejalashtirmoqda",
       "headline": "Xitoy kompaniyasi O'zbekistondagi taksi bozoriga kiradi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda elektr energiyasi ishlab chiqarish 8,4 foizga oshdi, import 27,2 foizga kamaydi",
       "headline": "O'zbekistonda elektr energiyasi ishlab chiqarishi 8,4% oshdi, import 27,2% kamaydi",
       "ts": 1792641653.1009316
+    },
+    {
+      "source_title": "Хоразмда она ва уч қизи овқатдан заҳарланиб вафот этгани айтилмоқда",
+      "headline": "Хоразмда она ва уч қизи заҳарланиб вафот этди",
+      "ts": 1792643443.9509456
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792639840.1854284,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 3
+    "count": 4
   }
 }

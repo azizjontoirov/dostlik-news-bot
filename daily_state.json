@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792602930.6163125,
+  "last_post_ts": 1792636245.293931,
   "recent_posts": [
-    {
-      "source_title": "12 milliard dollarlik 54 ta kelishuv: Shavkat Mirziyoyev Amerika — O‘zbekiston iqtisodiy hamkorligining yangi ustuvor yo‘nalishlarini belgilab berdi",
-      "headline": "Amerika‑O'zbekiston iqtisodiy hamkorligi yangi bosqichga ko'tarildi",
-      "ts": 1792463443.268532
-    },
     {
       "source_title": "O‘zbekistonda 2,8 mln kishi o‘ziga kredit olishni taqiqladi",
       "headline": "O'zbekistonda 2,8 mln kishi kredit olishni taqiqladi 📈",
@@ -200,11 +195,16 @@
       "source_title": "Пара Осиё ўйинлари: Учинчи кунда Ўзбекистон 12 та олтин, 9 та кумуш ва 12 та бронза медалини қўлга киритди",
       "headline": "Para Osiyo o'yinlari: 12 ta oltin, 9 ta kumush, 12 ta bronza! 🏅",
       "ts": 1792601137.9466276
+    },
+    {
+      "source_title": "«Асосли гумон». Озодликни чеклашдан олдин суд нималарни текшириши керак?",
+      "headline": "Asosli gumon – sud qanday tekshiradi?",
+      "ts": 1792636243.2904236
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792634445.7384093,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091513,
   "news_stats": {
-    "day": "2026-10-21",
-    "count": 20
+    "day": "2026-10-22",
+    "count": 1
   }
 }

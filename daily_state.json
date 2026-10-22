@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792679459.476171,
+  "last_post_ts": 1792681259.5890849,
   "recent_posts": [
-    {
-      "source_title": "Navoiyda 350 gramm marixuanani 28 mln so‘mga sotayotgan ikki kishi ushlandi",
-      "headline": "Navoiyda katta narkotik operatsiya – 1,55 kg marixuana va 8 ta kannabis o'simligi aniqlandi",
-      "ts": 1792508452.5955715
-    },
     {
       "source_title": "Taʼlim va ilm-fan vaziriga oʻrinbosarlar tayinlandi",
       "headline": "Ta'lim va ilm-fan vaziriga birinchi o'rinbosar tayinlandi 📚",
@@ -200,11 +195,16 @@
       "source_title": "Qahramonjon Olimov odam o‘g‘irlash bo‘yicha ayblovlarni rad etib, ta’qibga uchrayotganini bildirdi",
       "headline": "Qahramonjon Olimov ayblovlarni rad etdi, ta'qibga duch keldi 🚨",
       "ts": 1792679457.4733832
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi",
+      "headline": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi 🤝🌍",
+      "ts": 1792681257.5855026
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792677648.2330046,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 17
+    "count": 18
   }
 }

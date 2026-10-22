@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792675848.8695638,
+  "last_post_ts": 1792677648.2392967,
   "recent_posts": [
     {
       "source_title": "Qashqadaryoda o‘gay onasini o‘ldirgan yigit 13,5 yilga qamaldi",
@@ -204,14 +204,14 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792672239.3805645,
+    "last_ad_ts": 1792677648.2330046,
     "shown": {
       "logoped_gulshan": 12,
       "ad_flour": 13,
-      "gilam_eag": 11,
+      "gilam_eag": 12,
       "ad_job": 13,
       "ad_water": 12
     },
@@ -219,7 +219,7 @@
     "day": "2026-10-22",
     "today": {
       "ad_flour": 2,
-      "gilam_eag": 1,
+      "gilam_eag": 2,
       "ad_job": 2,
       "ad_water": 2,
       "logoped_gulshan": 1
@@ -229,7 +229,7 @@
       "ad_job": 1792666850.0470407,
       "logoped_gulshan": 1792656046.3628948,
       "ad_water": 1792672239.3805616,
-      "gilam_eag": 1792639840.1854258
+      "gilam_eag": 1792677648.2330024
     },
     "morning_ad_date": "2026-10-22"
   },

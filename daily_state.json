@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792674062.9287887,
+  "last_post_ts": 1792675848.8695638,
   "recent_posts": [
-    {
-      "source_title": "Fargʻona tajribasi asosida iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
-      "headline": "Farg'ona tajribasiga asoslangan iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
-      "ts": 1792503046.8670945
-    },
     {
       "source_title": "Qashqadaryoda o‘gay onasini o‘ldirgan yigit 13,5 yilga qamaldi",
       "headline": "Qashqadaryoda o'gay onasini o'ldirgan yigit 13,5 yilga qamaldi",
@@ -200,11 +195,16 @@
       "source_title": "«Янгилик қилиб, Америка очиш керак эмас». Таълим вазири — иш режалари ҳақида",
       "headline": "Ta'lim vaziri: Yangi qonunlar kerak emas, intizom yetarli 📚",
       "ts": 1792674060.876567
+    },
+    {
+      "source_title": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni qo‘rqitib, zo‘rlab kelgani ma’lum bo‘ldi",
+      "headline": "Toshkentda profilaktika inspektori voyaga yetmagan qizni zo'rladi",
+      "ts": 1792675846.8659449
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792672239.3805645,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 15
+    "count": 16
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792684862.7550168,
+  "last_post_ts": 1792686648.022266,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston Kubogi. “Lokomotiv” “Neftchi”ni musobaqadan chiqarib yubordi. “OKMK” va “Andijon” ham yarimfinalda",
-      "headline": "O'zbekiston Kubogi: “Lokomotiv” “Neftchi”ni chiqarib yubordi!",
-      "ts": 1792513845.6893399
-    },
     {
       "source_title": "YCHL. Husanov to‘liq o‘ynagan bahsda “Manchester Siti” “AEK” darvozasiga 5 ta gol urdi",
       "headline": "Husanovning ajoyib goli – “Manchester City”ga 5 ta urdi!",
@@ -200,11 +195,16 @@
       "source_title": "“Yetti yil oldin davlat tashkilotlarining oʻzbek tilida ish yuritish darajasi 50 foizga ham yetmasdi” — Nodir Jonuzoq",
       "headline": "Yetti yil ichida davlat tilida ish yuritish 50%dan oshdi! 📈",
       "ts": 1792684860.7512667
+    },
+    {
+      "source_title": "Samarqandda 150 o‘rinli “Imkon” reabilitatsiya markazi ochildi",
+      "headline": "Samarqandda “Imkon” reabilitatsiya markazi ochildi",
+      "ts": 1792686646.0191183
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792683044.9106798,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 19
+    "count": 20
   }
 }

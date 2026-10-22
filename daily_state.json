@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792661439.7617774,
+  "last_post_ts": 1792663261.1815703,
   "recent_posts": [
-    {
-      "source_title": "UZCARD’dan “Omad mavsumi 2.0” aksiyasining yangi g‘oliblari aniqlandi",
-      "headline": "UZCARD “Omad mavsumi 2.0” yangi g'oliblari e'lon qilindi 🎉📱",
-      "ts": 1792490460.9313562
-    },
     {
       "source_title": "«Йўловчилар оқимига боғлиқ». Масъуллар — Тошкентда автобуслар интервали ва тунги рейслар ҳақида",
       "headline": "Тунги автобуслар интервали ва йўловчилар оқимига боғлиқ таклифлар",
@@ -200,11 +195,16 @@
       "source_title": "Central Asian University O‘zbekistonda yangi tartib bo‘yicha kompleks davlat akkreditatsiyasidan o‘tgan birinchi oliy ta’lim muassasasi bo‘ldi",
       "headline": "Central Asian University davlat akkreditatsiyasidan o'tgan birinchi oliy ta'lim muassasasi bo'ldi",
       "ts": 1792659652.0645905
+    },
+    {
+      "source_title": "Umami — ilk bor Yaponiyada ta’riflangan beshinchi ta’m: O‘zbekistonda “Umami oyligi” boshlandi",
+      "headline": "Umami oyligi O'zbekistonda boshlandi 🍜✨",
+      "ts": 1792663259.1786046
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792661439.7597983,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 10
+    "count": 11
   }
 }

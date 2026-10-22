@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792652454.7215855,
+  "last_post_ts": 1792654245.6498415,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 21-oktyabr kuni ob-havo qanday bo‘lishi maʼlum qilindi",
-      "headline": "21-oktyabr ob-havo prognozi",
-      "ts": 1792481441.297911
-    },
     {
       "source_title": "O‘zbekiston terma jamoasi noyabrda Rossiyaga qarshi o‘ynaydi",
       "headline": "O'zbekiston terma jamoasi Rossiyaga qarshi o'ynaydi (12‑noyabr) 🏟️",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonlik taekvondochilar Qatar Open turnirida 6 ta medal qoʻlga kiritdi",
       "headline": "O'zbekistonlik taekvondochilar Qatar Open'da 6 ta medal qo'lda! 🥈",
       "ts": 1792652452.7155075
+    },
+    {
+      "source_title": "Ўзбек тилининг келажаги болага аталган китобдан бошланади — Саида Рашидова",
+      "headline": "O'zbek tilining kelajagi bolaga atalgan kitobdan boshlanadi",
+      "ts": 1792654243.6386182
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792650636.3117654,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 7
+    "count": 8
   }
 }

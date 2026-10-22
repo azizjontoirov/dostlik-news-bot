@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792672239.383033,
+  "last_post_ts": 1792674062.9287887,
   "recent_posts": [
-    {
-      "source_title": "“Yulduz Usmonovaning nazariga tushish orzum edi”. Raqqosa Iroda Ismoilova mashhur raqsining yaralish tarixi va farzandlariga yaxshi ona bo‘lolmagani haqida",
-      "headline": "Yulduz Usmonovaning nazariga tushish orzusi – Iroda Ismoilovaning “Tovus” raqsi tarixi 💃✨",
-      "ts": 1792501251.9405265
-    },
     {
       "source_title": "Fargʻona tajribasi asosida iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
       "headline": "Farg'ona tajribasiga asoslangan iOS dasturchilarini tayyorlash markazlari tashkil etiladi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda chet el fuqarolarini taqdirlash uchun yangi ordenlar ta’sis etilishi mumkin",
       "headline": "O'zbekiston ehtiromi ordenlari tasis etilishi taklifi 🤝",
       "ts": 1792670453.7651615
+    },
+    {
+      "source_title": "«Янгилик қилиб, Америка очиш керак эмас». Таълим вазири — иш режалари ҳақида",
+      "headline": "Ta'lim vaziri: Yangi qonunlar kerak emas, intizom yetarli 📚",
+      "ts": 1792674060.876567
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792672239.3805645,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 14
+    "count": 15
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792643445.9562948,
+  "last_post_ts": 1792645244.1623347,
   "recent_posts": [
     {
       "source_title": "Xitoy kompaniyasi O‘zbekiston taksi bozoriga kirib kelishni rejalashtirmoqda",
@@ -204,26 +204,27 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792639840.1854284,
+    "last_ad_ts": 1792645244.1602874,
     "shown": {
       "logoped_gulshan": 11,
       "ad_flour": 12,
       "gilam_eag": 11,
-      "ad_job": 11,
+      "ad_job": 12,
       "ad_water": 10
     },
     "permanent_index": 2,
     "day": "2026-10-22",
     "today": {
       "ad_flour": 1,
-      "gilam_eag": 1
+      "gilam_eag": 1,
+      "ad_job": 1
     },
     "last_shown": {
       "ad_flour": 1792634445.7384062,
-      "ad_job": 1792581326.140287,
+      "ad_job": 1792645244.1602852,
       "logoped_gulshan": 1792597525.1960585,
       "ad_water": 1792602930.5621347,
       "gilam_eag": 1792639840.1854258

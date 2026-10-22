@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792666850.0490015,
+  "last_post_ts": 1792668646.9089766,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda kitobxonlik tanlovida sovrindor bo‘lgan harbiylarning xizmat muddati qisqartirilishi mumkin",
-      "headline": "Ma'naviyat qalqoni” tanlovi g'oliblari uchun harbiy xizmat muddatini bir oyga qisqartirish! 📚🪖",
-      "ts": 1792495836.2677271
-    },
     {
       "source_title": "«Жуда оғриқли масала». Тошкентда 720 дан ортиқ ноқонуний қурилган кўп қаватли уй аниқланди",
       "headline": "Жуда оғriqli masala – Tashkentda 720 dan ortiq noqonuniy ko'p qavatli uy aniqlandi",
@@ -200,11 +195,16 @@
       "source_title": "Qashqadaryo viloyati hokimligi va davlat idoralarini Yangi Qarshi shahriga ko‘chirish rejalashtirilmoqda",
       "headline": "Yangi Qarshi shahriga ko'chirish rejalari",
       "ts": 1792665044.2456498
+    },
+    {
+      "source_title": "InfinBANK: kredit summasi 5 mlrd so‘mgacha oshirildi, stavka 7 yilga 18,99 foiz",
+      "headline": "InfinBANK: Kredit summasi 5 mlrd so'mgacha oshirildi, yillik stavka 18,99 %",
+      "ts": 1792668644.9062192
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792666850.0470428,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 12
+    "count": 13
   }
 }

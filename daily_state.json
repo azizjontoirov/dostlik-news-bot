@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792683044.9133136,
+  "last_post_ts": 1792684862.7550168,
   "recent_posts": [
-    {
-      "source_title": "Taʼlim va ilm-fan vaziriga oʻrinbosarlar tayinlandi",
-      "headline": "Ta'lim va ilm-fan vaziriga birinchi o'rinbosar tayinlandi 📚",
-      "ts": 1792512057.8517973
-    },
     {
       "source_title": "O‘zbekiston Kubogi. “Lokomotiv” “Neftchi”ni musobaqadan chiqarib yubordi. “OKMK” va “Andijon” ham yarimfinalda",
       "headline": "O'zbekiston Kubogi: “Lokomotiv” “Neftchi”ni chiqarib yubordi!",
@@ -200,11 +195,16 @@
       "source_title": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi",
       "headline": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi 🤝🌍",
       "ts": 1792681257.5855026
+    },
+    {
+      "source_title": "“Yetti yil oldin davlat tashkilotlarining oʻzbek tilida ish yuritish darajasi 50 foizga ham yetmasdi” — Nodir Jonuzoq",
+      "headline": "Yetti yil ichida davlat tilida ish yuritish 50%dan oshdi! 📈",
+      "ts": 1792684860.7512667
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792683044.9106798,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 18
+    "count": 19
   }
 }

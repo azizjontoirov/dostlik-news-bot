@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792677648.2392967,
+  "last_post_ts": 1792679459.476171,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda o‘gay onasini o‘ldirgan yigit 13,5 yilga qamaldi",
-      "headline": "Qashqadaryoda o'gay onasini o'ldirgan yigit 13,5 yilga qamaldi",
-      "ts": 1792506648.9716399
-    },
     {
       "source_title": "Navoiyda 350 gramm marixuanani 28 mln so‘mga sotayotgan ikki kishi ushlandi",
       "headline": "Navoiyda katta narkotik operatsiya – 1,55 kg marixuana va 8 ta kannabis o'simligi aniqlandi",
@@ -200,11 +195,16 @@
       "source_title": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni qo‘rqitib, zo‘rlab kelgani ma’lum bo‘ldi",
       "headline": "Toshkentda profilaktika inspektori voyaga yetmagan qizni zo'rladi",
       "ts": 1792675846.8659449
+    },
+    {
+      "source_title": "Qahramonjon Olimov odam o‘g‘irlash bo‘yicha ayblovlarni rad etib, ta’qibga uchrayotganini bildirdi",
+      "headline": "Qahramonjon Olimov ayblovlarni rad etdi, ta'qibga duch keldi 🚨",
+      "ts": 1792679457.4733832
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792677648.2330046,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 16
+    "count": 17
   }
 }

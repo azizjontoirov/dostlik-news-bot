@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792654245.6498415,
+  "last_post_ts": 1792656046.3812487,
   "recent_posts": [
     {
       "source_title": "O‘zbekiston terma jamoasi noyabrda Rossiyaga qarshi o‘ynaydi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792650636.3117654,
+    "last_ad_ts": 1792656046.3628974,
     "shown": {
-      "logoped_gulshan": 11,
+      "logoped_gulshan": 12,
       "ad_flour": 12,
       "gilam_eag": 11,
       "ad_job": 12,
@@ -221,12 +221,13 @@
       "ad_flour": 1,
       "gilam_eag": 1,
       "ad_job": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "logoped_gulshan": 1
     },
     "last_shown": {
       "ad_flour": 1792634445.7384062,
       "ad_job": 1792645244.1602852,
-      "logoped_gulshan": 1792597525.1960585,
+      "logoped_gulshan": 1792656046.3628948,
       "ad_water": 1792650636.311763,
       "gilam_eag": 1792639840.1854258
     },

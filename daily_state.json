@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792647039.8504803,
+  "last_post_ts": 1792648853.479343,
   "recent_posts": [
-    {
-      "source_title": "Beeline Uzbekistan эгаси бир қатор шартлар билан Perfectum’ни сотиб олишга рухсат олди",
-      "headline": "Beeline Uzbekistan Perfectum'ni 207 mln dollarga sotib oldi 📱💰",
-      "ts": 1792476048.890713
-    },
     {
       "source_title": "O‘zbekistonda Tibbiyot xodimlari kuni endi farmatsevtlar bayrami sifatida ham nishonlanadi",
       "headline": "Tibbiyot va farmatsevtika xodimlari kuni nishonlanadi 🩺💊",
@@ -200,11 +195,16 @@
       "source_title": "Депутатлар давлат харидларининг янги қоидаларида коррупция хавфларига эътибор қаратди. Қонун лойиҳаси такомиллаштириш учун қайтарилди",
       "headline": "Deputatlar davlat xaridlaridagi korrupsiya xavflariga e'tibor qaratdi",
       "ts": 1792647037.845663
+    },
+    {
+      "source_title": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo‘yicha maslahatchisi o‘rinbosari etib tayinlandi",
+      "headline": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo'yicha maslahatchisi o'rinbosari etib tayinlandi 📢",
+      "ts": 1792648851.4760985
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792645244.1602874,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 5
+    "count": 6
   }
 }

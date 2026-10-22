@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792639840.188303,
+  "last_post_ts": 1792641655.1034985,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda 17 yoshli kuryer bilan janjallashib, unga qo‘pollik qilgan restoran haydovchisi besh sutkaga qamaldi",
-      "headline": "Toshkentda 17 yoshli kuryerga qo'pollik qilgan restoran xodimiga 5 sutka ma'muriy qamoq 🏛️🚔",
-      "ts": 1792468879.9280403
-    },
     {
       "source_title": "O‘zbekiston do‘konlarida 70 dan ortiq sifatsiz mahsulot sotilayotgani ma’lum bo‘ldi",
       "headline": "70+ sifatsiz mahsulot savdo nuqtalarida aniqlandi ⚠️",
@@ -200,11 +195,16 @@
       "source_title": "“Oltin to‘p”: mukofotni eng ko‘p qaysi davlat vakillari qo‘lga kiritgan?",
       "headline": "Oltin to'p” g'olibi kim bo'ladi? 🏆",
       "ts": 1792638053.8564208
+    },
+    {
+      "source_title": "O‘zbekistonda elektr energiyasi ishlab chiqarish 8,4 foizga oshdi, import 27,2 foizga kamaydi",
+      "headline": "O'zbekistonda elektr energiyasi ishlab chiqarishi 8,4% oshdi, import 27,2% kamaydi",
+      "ts": 1792641653.1009316
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792639840.1854284,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 2
+    "count": 3
   }
 }

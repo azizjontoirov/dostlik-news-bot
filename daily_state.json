@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792650636.3143554,
+  "last_post_ts": 1792652454.7215855,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda Tibbiyot xodimlari kuni endi farmatsevtlar bayrami sifatida ham nishonlanadi",
-      "headline": "Tibbiyot va farmatsevtika xodimlari kuni nishonlanadi 🩺💊",
-      "ts": 1792479543.8542275
-    },
     {
       "source_title": "O‘zbekistonda 21-oktyabr kuni ob-havo qanday bo‘lishi maʼlum qilindi",
       "headline": "21-oktyabr ob-havo prognozi",
@@ -200,11 +195,16 @@
       "source_title": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo‘yicha maslahatchisi o‘rinbosari etib tayinlandi",
       "headline": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo'yicha maslahatchisi o'rinbosari etib tayinlandi 📢",
       "ts": 1792648851.4760985
+    },
+    {
+      "source_title": "O‘zbekistonlik taekvondochilar Qatar Open turnirida 6 ta medal qoʻlga kiritdi",
+      "headline": "O'zbekistonlik taekvondochilar Qatar Open'da 6 ta medal qo'lda! 🥈",
+      "ts": 1792652452.7155075
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792650636.3117654,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 6
+    "count": 7
   }
 }

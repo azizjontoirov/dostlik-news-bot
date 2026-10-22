@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792645244.1623347,
+  "last_post_ts": 1792647039.8504803,
   "recent_posts": [
-    {
-      "source_title": "Xitoy kompaniyasi O‘zbekiston taksi bozoriga kirib kelishni rejalashtirmoqda",
-      "headline": "Xitoy kompaniyasi O'zbekistondagi taksi bozoriga kiradi",
-      "ts": 1792474235.2193255
-    },
     {
       "source_title": "Beeline Uzbekistan эгаси бир қатор шартлар билан Perfectum’ни сотиб олишга рухсат олди",
       "headline": "Beeline Uzbekistan Perfectum'ni 207 mln dollarga sotib oldi 📱💰",
@@ -200,11 +195,16 @@
       "source_title": "Хоразмда она ва уч қизи овқатдан заҳарланиб вафот этгани айтилмоқда",
       "headline": "Хоразмда она ва уч қизи заҳарланиб вафот этди",
       "ts": 1792643443.9509456
+    },
+    {
+      "source_title": "Депутатлар давлат харидларининг янги қоидаларида коррупция хавфларига эътибор қаратди. Қонун лойиҳаси такомиллаштириш учун қайтарилди",
+      "headline": "Deputatlar davlat xaridlaridagi korrupsiya xavflariga e'tibor qaratdi",
+      "ts": 1792647037.845663
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792645244.1602874,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 4
+    "count": 5
   }
 }

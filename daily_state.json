@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792686648.022266,
+  "last_post_ts": 1792688457.4705215,
   "recent_posts": [
     {
       "source_title": "YCHL. Husanov to‘liq o‘ynagan bahsda “Manchester Siti” “AEK” darvozasiga 5 ta gol urdi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792683044.9106798,
+    "last_ad_ts": 1792688457.468356,
     "shown": {
       "logoped_gulshan": 13,
-      "ad_flour": 13,
+      "ad_flour": 14,
       "gilam_eag": 12,
       "ad_job": 13,
       "ad_water": 12
@@ -218,14 +218,14 @@
     "permanent_index": 2,
     "day": "2026-10-22",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "gilam_eag": 2,
       "ad_job": 2,
       "ad_water": 2,
       "logoped_gulshan": 2
     },
     "last_shown": {
-      "ad_flour": 1792661439.7597966,
+      "ad_flour": 1792688457.4683533,
       "ad_job": 1792666850.0470407,
       "logoped_gulshan": 1792683044.9106772,
       "ad_water": 1792672239.3805616,

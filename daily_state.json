@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792668646.9089766,
+  "last_post_ts": 1792670455.7933176,
   "recent_posts": [
-    {
-      "source_title": "«Жуда оғриқли масала». Тошкентда 720 дан ортиқ ноқонуний қурилган кўп қаватли уй аниқланди",
-      "headline": "Жуда оғriqli masala – Tashkentda 720 dan ortiq noqonuniy ko'p qavatli uy aniqlandi",
-      "ts": 1792497654.492032
-    },
     {
       "source_title": "“Yulduz Usmonovaning nazariga tushish orzum edi”. Raqqosa Iroda Ismoilova mashhur raqsining yaralish tarixi va farzandlariga yaxshi ona bo‘lolmagani haqida",
       "headline": "Yulduz Usmonovaning nazariga tushish orzusi – Iroda Ismoilovaning “Tovus” raqsi tarixi 💃✨",
@@ -200,11 +195,16 @@
       "source_title": "InfinBANK: kredit summasi 5 mlrd so‘mgacha oshirildi, stavka 7 yilga 18,99 foiz",
       "headline": "InfinBANK: Kredit summasi 5 mlrd so'mgacha oshirildi, yillik stavka 18,99 %",
       "ts": 1792668644.9062192
+    },
+    {
+      "source_title": "O‘zbekistonda chet el fuqarolarini taqdirlash uchun yangi ordenlar ta’sis etilishi mumkin",
+      "headline": "O'zbekiston ehtiromi ordenlari tasis etilishi taklifi 🤝",
+      "ts": 1792670453.7651615
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792666850.0470428,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 13
+    "count": 14
   }
 }

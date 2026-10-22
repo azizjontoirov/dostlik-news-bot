@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792665046.2496154,
+  "last_post_ts": 1792666850.0490015,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda kitobxonlik tanlovida sovrindor bo‘lgan harbiylarning xizmat muddati qisqartirilishi mumkin",
@@ -204,15 +204,15 @@
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792661439.7597983,
+    "last_ad_ts": 1792666850.0470428,
     "shown": {
       "logoped_gulshan": 12,
       "ad_flour": 13,
       "gilam_eag": 11,
-      "ad_job": 12,
+      "ad_job": 13,
       "ad_water": 11
     },
     "permanent_index": 2,
@@ -220,13 +220,13 @@
     "today": {
       "ad_flour": 2,
       "gilam_eag": 1,
-      "ad_job": 1,
+      "ad_job": 2,
       "ad_water": 1,
       "logoped_gulshan": 1
     },
     "last_shown": {
       "ad_flour": 1792661439.7597966,
-      "ad_job": 1792645244.1602852,
+      "ad_job": 1792666850.0470407,
       "logoped_gulshan": 1792656046.3628948,
       "ad_water": 1792650636.311763,
       "gilam_eag": 1792639840.1854258

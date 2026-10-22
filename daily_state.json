@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792636245.293931,
+  "last_post_ts": 1792638055.8597612,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 2,8 mln kishi o‘ziga kredit olishni taqiqladi",
-      "headline": "O'zbekistonda 2,8 mln kishi kredit olishni taqiqladi 📈",
-      "ts": 1792465254.369285
-    },
     {
       "source_title": "Toshkentda 17 yoshli kuryer bilan janjallashib, unga qo‘pollik qilgan restoran haydovchisi besh sutkaga qamaldi",
       "headline": "Toshkentda 17 yoshli kuryerga qo'pollik qilgan restoran xodimiga 5 sutka ma'muriy qamoq 🏛️🚔",
@@ -200,11 +195,16 @@
       "source_title": "«Асосли гумон». Озодликни чеклашдан олдин суд нималарни текшириши керак?",
       "headline": "Asosli gumon – sud qanday tekshiradi?",
       "ts": 1792636243.2904236
+    },
+    {
+      "source_title": "“Oltin to‘p”: mukofotni eng ko‘p qaysi davlat vakillari qo‘lga kiritgan?",
+      "headline": "Oltin to'p” g'olibi kim bo'ladi? 🏆",
+      "ts": 1792638053.8564208
     }
   ],
   "morning_sent_date": "2026-10-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792634445.7384093,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-22",
-    "count": 1
+    "count": 2
   }
 }

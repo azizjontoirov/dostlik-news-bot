@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792731649.919568,
+  "last_post_ts": 1792733450.5715034,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston raqamli reklama bozorida “Excel davri” yakun topmoqda",
-      "headline": "O'zbekiston reklama bozorida “Excel davri” yakun topmoqda 📊🚀",
-      "ts": 1792560643.9725282
-    },
     {
       "source_title": "O‘zbekistonlik ayol va uning mehribonlik uyidagi farzandi Rossiyadan vatanga qaytarildi",
       "headline": "O'zbekistonlik ayol va farzandi Rossiyadan vatanga qaytarildi",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentdagi bozor va savdo komplekslari xatlovdan o‘tkaziladi",
       "headline": "Toshkentda bozor va savdo komplekslari xatlovdan o'tkaziladi 🏬✅",
       "ts": 1792729847.5945194
+    },
+    {
+      "source_title": "Кераксиз дориларни мажбуран сотиш: Рақобат қўмитаси дистрибьюторлар устидан шикоятларни ўрганмоқда",
+      "headline": "KERAKSIZ DORILARNI MAJBURAN SOTISH: Raqobat qo'mitasi tekshiruvda",
+      "ts": 1792733448.5682588
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792731649.9154572,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 4
+    "count": 5
   }
 }

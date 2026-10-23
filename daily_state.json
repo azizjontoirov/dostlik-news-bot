@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792765850.4325728,
+  "last_post_ts": 1792767660.9127295,
   "recent_posts": [
-    {
-      "source_title": "Samarqand va Xorazmda 5,5 kg opiy musodara qilindi",
-      "headline": "Samarqand‑Xorazmda 5,5 kg opiy musodara qilindi ⚠️",
-      "ts": 1792595740.2622988
-    },
     {
       "source_title": "Absolute Energyva Weicha O‘zbekistonda hamkorlik to‘g‘risida bitim imzoladi",
       "headline": "Absolute Energy va Weicha O'zbekistonda hamkorlik bitimini imzoladi 🤝⚡",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda 24-oktyabrga o‘tar kechasi havo sifati yomonlashishi kutilmoqda",
       "headline": "Toshkentda 24-oktyabrga o'tar kechasi havo sifati yomonlashishi kutilmoqda",
       "ts": 1792765848.429432
+    },
+    {
+      "source_title": "ANORBANK’dan tezkor rasmiylashtiriladigan bolalar kartasi — UZCARD KIDS Moment",
+      "headline": "ANORBANK'da tezkor bolalar kartasi – UZCARD KIDS Moment 🚀💳",
+      "ts": 1792767658.9076748
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792764054.4116395,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 17
+    "count": 18
   }
 }

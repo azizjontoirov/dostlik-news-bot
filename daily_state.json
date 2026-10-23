@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792756856.1012993,
+  "last_post_ts": 1792758640.205693,
   "recent_posts": [
     {
       "source_title": "Toshkentda Ilmiy-amaliy forum 2026 bo‘lib o‘tdi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792753265.1759527,
+    "last_ad_ts": 1792758640.1983442,
     "shown": {
       "logoped_gulshan": 14,
-      "ad_flour": 15,
+      "ad_flour": 16,
       "gilam_eag": 13,
       "ad_job": 15,
       "ad_water": 14
@@ -221,11 +221,11 @@
       "ad_job": 2,
       "gilam_eag": 1,
       "ad_water": 2,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "logoped_gulshan": 1
     },
     "last_shown": {
-      "ad_flour": 1792737038.1426048,
+      "ad_flour": 1792758640.1983414,
       "ad_job": 1792747836.4595103,
       "logoped_gulshan": 1792742450.9110534,
       "ad_water": 1792753265.1759498,

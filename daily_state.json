@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792771269.940684,
+  "last_post_ts": 1792773047.691305,
   "recent_posts": [
-    {
-      "source_title": "Пара Осиё ўйинлари: Учинчи кунда Ўзбекистон 12 та олтин, 9 та кумуш ва 12 та бронза медалини қўлга киритди",
-      "headline": "Para Osiyo o'yinlari: 12 ta oltin, 9 ta kumush, 12 ta bronza! 🏅",
-      "ts": 1792601137.9466276
-    },
     {
       "source_title": "«Асосли гумон». Озодликни чеклашдан олдин суд нималарни текшириши керак?",
       "headline": "Asosli gumon – sud qanday tekshiradi?",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистон Пара Осиё ўйинларининг бешинчи кунида 7 та олтин, 8 та кумуш ва 10 та бронза қўлга киритди",
       "headline": "O'zbekiston Para Osiyo o'yinlarida 25 ta medallarni qo'lga kiritdi! 🥇🥈🥉",
       "ts": 1792771267.9369938
+    },
+    {
+      "source_title": "“Bolalar uchun eng yaxshi badiiy asar” respublika ijodiy tanlovi g‘oliblari taqdirlandi",
+      "headline": "Bolalar uchun eng yaxshi badiiy asarlar tanlovi g'oliblari taqdirlandi! 🌟",
+      "ts": 1792773045.6865492
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792769439.4866018,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 19
+    "count": 20
   }
 }

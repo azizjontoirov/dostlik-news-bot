@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792738855.517229,
+  "last_post_ts": 1792740649.139723,
   "recent_posts": [
-    {
-      "source_title": "АҚШ Ўзбекистонга кичик ядровий реакторлар технологиясини таклиф этмоқда",
-      "headline": "Amerika kichik yadro reaktorlarini taklif qilyapti!",
-      "ts": 1792567844.8846743
-    },
     {
       "source_title": "Har bir buyurtmadan foyda: EVOS kompaniyasi EVOS Rewards’ni ishga tushirdi",
       "headline": "Har bir buyurtmadan foyda! 🎉🍽️",
@@ -200,11 +195,16 @@
       "source_title": "«Ўзбекнефтгаз» ва CNPC ёқилғи етказиб бериш ва М-25 конидаги авария оқибатларини бартараф этишни муҳокама қилди",
       "headline": "Uzbekneftgaz va CNPC hamkorligi kengaymoqda",
       "ts": 1792738853.5134127
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev “Rosatom” atom energiyasi bo‘yicha davlat korporatsiyasi bosh direktorini qabul qildi",
+      "headline": "Shavkat Mirziyoyev “Rosatom” bosh direktorini qabul qildi 🤝⚛️",
+      "ts": 1792740647.1363413
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792737038.1426072,
@@ -235,6 +235,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 7
+    "count": 8
   }
 }

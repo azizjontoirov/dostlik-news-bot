@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792740649.139723,
+  "last_post_ts": 1792742450.9175932,
   "recent_posts": [
     {
       "source_title": "Har bir buyurtmadan foyda: EVOS kompaniyasi EVOS Rewards’ni ishga tushirdi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792737038.1426072,
+    "last_ad_ts": 1792742450.9110563,
     "shown": {
-      "logoped_gulshan": 13,
+      "logoped_gulshan": 14,
       "ad_flour": 15,
       "gilam_eag": 13,
       "ad_job": 14,
@@ -221,12 +221,13 @@
       "ad_job": 1,
       "gilam_eag": 1,
       "ad_water": 1,
-      "ad_flour": 1
+      "ad_flour": 1,
+      "logoped_gulshan": 1
     },
     "last_shown": {
       "ad_flour": 1792737038.1426048,
       "ad_job": 1792720848.6167006,
-      "logoped_gulshan": 1792683044.9106772,
+      "logoped_gulshan": 1792742450.9110534,
       "ad_water": 1792731649.9154549,
       "gilam_eag": 1792726242.1739056
     },

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792735250.9664505,
+  "last_post_ts": 1792737038.144993,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда тиббиёт ва фармацевтика ходимлари учун мажбурий давлат рўйхатидан ўтиш тартиби белгиланди",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792731649.9154572,
+    "last_ad_ts": 1792737038.1426072,
     "shown": {
       "logoped_gulshan": 13,
-      "ad_flour": 14,
+      "ad_flour": 15,
       "gilam_eag": 13,
       "ad_job": 14,
       "ad_water": 13
@@ -220,10 +220,11 @@
     "today": {
       "ad_job": 1,
       "gilam_eag": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1792688457.4683533,
+      "ad_flour": 1792737038.1426048,
       "ad_job": 1792720848.6167006,
       "logoped_gulshan": 1792683044.9106772,
       "ad_water": 1792731649.9154549,

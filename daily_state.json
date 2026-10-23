@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792764054.4136832,
+  "last_post_ts": 1792765850.4325728,
   "recent_posts": [
-    {
-      "source_title": "Тилнинг ривожланиши фуқаролар фикрини аниқ ифода этиши ва расмий ҳужжатларни осон тушунишида намоён бўлади — президент",
-      "headline": "Til rivojlanishi – fuqarolarning aniq ifodasi va rasmiy hujjatlarni oson tushunishi",
-      "ts": 1792593940.0378988
-    },
     {
       "source_title": "Samarqand va Xorazmda 5,5 kg opiy musodara qilindi",
       "headline": "Samarqand‑Xorazmda 5,5 kg opiy musodara qilindi ⚠️",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda qurilish loyihalarini tayyorlash uchun 30 foiz oldindan to‘lov belgilanmoqda",
       "headline": "30% oldindan to'lov – qurilish loyihalarida yangi tartib",
       "ts": 1792762251.6601157
+    },
+    {
+      "source_title": "Toshkentda 24-oktyabrga o‘tar kechasi havo sifati yomonlashishi kutilmoqda",
+      "headline": "Toshkentda 24-oktyabrga o'tar kechasi havo sifati yomonlashishi kutilmoqda",
+      "ts": 1792765848.429432
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792764054.4116395,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 16
+    "count": 17
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792767660.9127295,
+  "last_post_ts": 1792769439.4884887,
   "recent_posts": [
     {
       "source_title": "Absolute Energyva Weicha O‘zbekistonda hamkorlik to‘g‘risida bitim imzoladi",
@@ -204,12 +204,12 @@
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792764054.4116395,
+    "last_ad_ts": 1792769439.4866018,
     "shown": {
-      "logoped_gulshan": 14,
+      "logoped_gulshan": 15,
       "ad_flour": 16,
       "gilam_eag": 14,
       "ad_job": 15,
@@ -222,12 +222,12 @@
       "gilam_eag": 2,
       "ad_water": 2,
       "ad_flour": 2,
-      "logoped_gulshan": 1
+      "logoped_gulshan": 2
     },
     "last_shown": {
       "ad_flour": 1792758640.1983414,
       "ad_job": 1792747836.4595103,
-      "logoped_gulshan": 1792742450.9110534,
+      "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792753265.1759498,
       "gilam_eag": 1792764054.4116373
     },

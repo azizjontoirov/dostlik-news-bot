@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792728054.6970356,
+  "last_post_ts": 1792729849.5986712,
   "recent_posts": [
-    {
-      "source_title": "Moliyaviy xizmat sinovda boʻlsa, bu reklamada ham koʻrsatilishi shart.",
-      "headline": "Moliyaviy xizmat sinovda – reklamada ko'rsatilishi shart! 📢",
-      "ts": 1792557043.9053924
-    },
     {
       "source_title": "O‘zbekiston raqamli reklama bozorida “Excel davri” yakun topmoqda",
       "headline": "O'zbekiston reklama bozorida “Excel davri” yakun topmoqda 📊🚀",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda to‘qqiz oyda yo‘l qurilishida qariyb 6 mingta qoidabuzarlik aniqlandi",
       "headline": "To'qqiz oyda 6 000+ yo'l‑qurilish qoidabuzarligi aniqlandi",
       "ts": 1792728052.6943822
+    },
+    {
+      "source_title": "Toshkentdagi bozor va savdo komplekslari xatlovdan o‘tkaziladi",
+      "headline": "Toshkentda bozor va savdo komplekslari xatlovdan o'tkaziladi 🏬✅",
+      "ts": 1792729847.5945194
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792726242.173908,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 3
+    "count": 4
   }
 }

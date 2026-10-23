@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792747836.4615006,
+  "last_post_ts": 1792749661.5952976,
   "recent_posts": [
-    {
-      "source_title": "UZCARD maktab o‘quvchilarini moliyaviy savodxonlik va UZCARD Kids imkoniyatlari bilan tanishtirmoqda",
-      "headline": "UZCARD maktab o'quvchilarini moliyaviy savodxonlikka o'rgatadi 📚💳",
-      "ts": 1792576853.8296006
-    },
     {
       "source_title": "Qashqadaryoda 6 mlrd dollarlik loyihalarning ishga tushirilishi va qurilishiga start berildi",
       "headline": "Qashqadaryoda 6 mlrd dollarlik loyihalarga start berildi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonliklarning o‘qish maqsadida xorijga chiqishi 33 foizga kamaydi",
       "headline": "O'qish maqsadida xorijga chiqish 33% ga kamaydi",
       "ts": 1792746068.659714
+    },
+    {
+      "source_title": "Toshkentdagi “Botkin” qabristonida devor qulab, qabr toshlariga zarar yetdi",
+      "headline": "Toshkentda Botkin qabristonida devor qulab, qabr toshlariga zarar yetdi 🏛️⚠️",
+      "ts": 1792749659.5912812
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792747836.459512,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 10
+    "count": 11
   }
 }

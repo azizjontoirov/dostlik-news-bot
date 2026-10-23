@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792722643.8698485,
+  "last_post_ts": 1792724461.8300126,
   "recent_posts": [
-    {
-      "source_title": "«Биз сизга чинакамига ишлайдиган механизмни ваъда қиламиз». Ўзбекистон — АҚШ бизнесига",
-      "headline": "O'zbekistondan AQSh biznesiga barqaror sharoitlar va'dasi",
-      "ts": 1792551655.8436584
-    },
     {
       "source_title": "O‘zbekistonda 200 km avtomobil yo‘li qurilishi va rekonstruksiya qilinishi rejalashtirilmoqda",
       "headline": "O'zbekiston yo'l‑xo'jaligida 200 km avtomobil yo'li qurilishi rejalashtirilmoqda 🚧🚗",
@@ -200,11 +195,16 @@
       "source_title": "Самарқандда болалар фаровонлигига инвестиция киритиш тўғрисида декларация қабул қилинди",
       "headline": "Samarkandda bolalar farovonligiga investitsiya deklaratsiyasi qabul qilindi 🌟📜",
       "ts": 1792722641.8655462
+    },
+    {
+      "source_title": "Тошкент облигациялар муомаласи орқали халқаро капитал бозорига киришни кўриб чиқмоқда",
+      "headline": "Toshkent shahrida xalqaro kapital bozoriga kirish yo'li – munitsipal obligatsiyalar 🌍💰",
+      "ts": 1792724459.575437
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792720848.616703,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 1
+    "count": 2
   }
 }

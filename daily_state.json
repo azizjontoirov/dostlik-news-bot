@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792758640.205693,
+  "last_post_ts": 1792760464.8558598,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda Ilmiy-amaliy forum 2026 bo‘lib o‘tdi",
-      "headline": "Ilmiy‑amaliy forum 2026 Toshkentda o'tdi",
-      "ts": 1792588462.2224424
-    },
     {
       "source_title": "O‘zbekistonda to‘lovga qobiliyatsizlik jarayonidagi tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
       "headline": "Tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
@@ -200,11 +195,16 @@
       "source_title": "“Paxtakor” — “An-Nassr” o‘yinining eng qimmat chiptalari 3 mln so‘mdan sotuvga chiqarildi",
       "headline": "Paxtakor” – “An‑Nassr” o'yinining eng qimmat chiptalari 3 mln so'mdan!",
       "ts": 1792756854.098188
+    },
+    {
+      "source_title": "Oʻzbekiston boʻylab sayohat. Jizzax somsa, Peshagʻordagi koʻrshapalaklar bazasi va qishda muzlamaydigan tuzli koʻl haqida",
+      "headline": "Jizzax bo'ylab sayohat: somsa, ko'rshapalaklar va muzlamaydigan tuzli ko'l! 🌟",
+      "ts": 1792760462.8528943
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792758640.1983442,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 14
+    "count": 15
   }
 }

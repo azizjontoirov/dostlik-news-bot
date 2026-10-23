@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792773047.691305,
+  "last_post_ts": 1792774849.046884,
   "recent_posts": [
     {
       "source_title": "«Асосли гумон». Озодликни чеклашдан олдин суд нималарни текшириши керак?",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792769439.4866018,
+    "last_ad_ts": 1792774849.0449548,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 16,
       "gilam_eag": 14,
-      "ad_job": 15,
+      "ad_job": 16,
       "ad_water": 14
     },
     "permanent_index": 2,
     "day": "2026-10-23",
     "today": {
-      "ad_job": 2,
+      "ad_job": 3,
       "gilam_eag": 2,
       "ad_water": 2,
       "ad_flour": 2,
@@ -226,7 +226,7 @@
     },
     "last_shown": {
       "ad_flour": 1792758640.1983414,
-      "ad_job": 1792747836.4595103,
+      "ad_job": 1792774849.0449526,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792753265.1759498,
       "gilam_eag": 1792764054.4116373

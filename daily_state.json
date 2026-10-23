@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792753265.2958624,
+  "last_post_ts": 1792755048.106114,
   "recent_posts": [
-    {
-      "source_title": "Наманганда фуқароларни Польшага ишга юбориш эвазига $10,4 минг талаб қилган эркак ушланди",
-      "headline": "Namanagandagi ishga yuborish shartnomasi – $10,4 ming talabi! 💰🚨",
-      "ts": 1792583138.3419313
-    },
     {
       "source_title": "Bogʻot tumanida bir oilaning 4 aʼzosi zaharlanib vafot etdi.",
       "headline": "Bog'ot tumanida oilaviy zaharlash hodisasi",
@@ -200,11 +195,16 @@
       "source_title": "Qozog‘iston Tenge Bank bilan yanada yaqin: sayohat paytida xaridlarni to‘lang va HUMO kartalaridan naqd pul yechib oling",
       "headline": "Tenge Bank bilan sayohatda qulay to'lov! 💳",
       "ts": 1792751447.5552871
+    },
+    {
+      "source_title": "O‘zbekiston BAAning Lana Nusaybani BMT bosh kotibligiga nomzod sifatida ko‘rsatish qarorini olqishladi",
+      "headline": "O'zbekiston BAAning Lana Zaki Nusaybani BMT bosh kotibligiga nomzod sifatida ko'rsatish qarorini olqishladi 🌍🤝",
+      "ts": 1792755046.1035979
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792753265.1759527,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 12
+    "count": 13
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792733450.5715034,
+  "last_post_ts": 1792735250.9664505,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonlik ayol va uning mehribonlik uyidagi farzandi Rossiyadan vatanga qaytarildi",
-      "headline": "O'zbekistonlik ayol va farzandi Rossiyadan vatanga qaytarildi",
-      "ts": 1792562452.4029753
-    },
     {
       "source_title": "Ўзбекистонда тиббиёт ва фармацевтика ходимлари учун мажбурий давлат рўйхатидан ўтиш тартиби белгиланди",
       "headline": "Tibbiyot va farmatsevtika xodimlari uchun majburiy davlat ro'yxatidan o'tish tartibi belgilandi",
@@ -200,11 +195,16 @@
       "source_title": "Кераксиз дориларни мажбуран сотиш: Рақобат қўмитаси дистрибьюторлар устидан шикоятларни ўрганмоқда",
       "headline": "KERAKSIZ DORILARNI MAJBURAN SOTISH: Raqobat qo'mitasi tekshiruvda",
       "ts": 1792733448.5682588
+    },
+    {
+      "source_title": "HUMO Pay mobil ilovasi: bitta ilovada komissiyasiz o‘tkazmalar, 1 foiz keshbek va smartfon orqali to‘lov",
+      "headline": "HUMO Pay: bitta ilovada komissiyasiz o'tkazmalar va 1 % keshbek! 📱💸",
+      "ts": 1792735248.9639063
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792731649.9154572,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 5
+    "count": 6
   }
 }

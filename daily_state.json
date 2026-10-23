@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792688457.4705215,
+  "last_post_ts": 1792722643.8698485,
   "recent_posts": [
-    {
-      "source_title": "YCHL. Husanov to‘liq o‘ynagan bahsda “Manchester Siti” “AEK” darvozasiga 5 ta gol urdi",
-      "headline": "Husanovning ajoyib goli – “Manchester City”ga 5 ta urdi!",
-      "ts": 1792549844.144218
-    },
     {
       "source_title": "«Биз сизга чинакамига ишлайдиган механизмни ваъда қиламиз». Ўзбекистон — АҚШ бизнесига",
       "headline": "O'zbekistondan AQSh biznesiga barqaror sharoitlar va'dasi",
@@ -200,11 +195,16 @@
       "source_title": "Samarqandda 150 o‘rinli “Imkon” reabilitatsiya markazi ochildi",
       "headline": "Samarqandda “Imkon” reabilitatsiya markazi ochildi",
       "ts": 1792686646.0191183
+    },
+    {
+      "source_title": "Самарқандда болалар фаровонлигига инвестиция киритиш тўғрисида декларация қабул қилинди",
+      "headline": "Samarkandda bolalar farovonligiga investitsiya deklaratsiyasi qabul qilindi 🌟📜",
+      "ts": 1792722641.8655462
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792720848.616703,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091513,
   "news_stats": {
-    "day": "2026-10-22",
-    "count": 20
+    "day": "2026-10-23",
+    "count": 1
   }
 }

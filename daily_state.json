@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792751449.5577614,
+  "last_post_ts": 1792753265.2958624,
   "recent_posts": [
     {
       "source_title": "Наманганда фуқароларни Польшага ишга юбориш эвазига $10,4 минг талаб қилган эркак ушланди",
@@ -204,23 +204,23 @@
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792747836.459512,
+    "last_ad_ts": 1792753265.1759527,
     "shown": {
       "logoped_gulshan": 14,
       "ad_flour": 15,
       "gilam_eag": 13,
       "ad_job": 15,
-      "ad_water": 13
+      "ad_water": 14
     },
     "permanent_index": 2,
     "day": "2026-10-23",
     "today": {
       "ad_job": 2,
       "gilam_eag": 1,
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1,
       "logoped_gulshan": 1
     },
@@ -228,7 +228,7 @@
       "ad_flour": 1792737038.1426048,
       "ad_job": 1792747836.4595103,
       "logoped_gulshan": 1792742450.9110534,
-      "ad_water": 1792731649.9154549,
+      "ad_water": 1792753265.1759498,
       "gilam_eag": 1792726242.1739056
     },
     "morning_ad_date": "2026-10-23"

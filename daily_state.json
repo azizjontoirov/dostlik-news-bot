@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792769439.4884887,
+  "last_post_ts": 1792771269.940684,
   "recent_posts": [
-    {
-      "source_title": "Absolute Energyva Weicha O‘zbekistonda hamkorlik to‘g‘risida bitim imzoladi",
-      "headline": "Absolute Energy va Weicha O'zbekistonda hamkorlik bitimini imzoladi 🤝⚡",
-      "ts": 1792599333.7929173
-    },
     {
       "source_title": "Пара Осиё ўйинлари: Учинчи кунда Ўзбекистон 12 та олтин, 9 та кумуш ва 12 та бронза медалини қўлга киритди",
       "headline": "Para Osiyo o'yinlari: 12 ta oltin, 9 ta kumush, 12 ta bronza! 🏅",
@@ -200,11 +195,16 @@
       "source_title": "ANORBANK’dan tezkor rasmiylashtiriladigan bolalar kartasi — UZCARD KIDS Moment",
       "headline": "ANORBANK'da tezkor bolalar kartasi – UZCARD KIDS Moment 🚀💳",
       "ts": 1792767658.9076748
+    },
+    {
+      "source_title": "Ўзбекистон Пара Осиё ўйинларининг бешинчи кунида 7 та олтин, 8 та кумуш ва 10 та бронза қўлга киритди",
+      "headline": "O'zbekiston Para Osiyo o'yinlarida 25 ta medallarni qo'lga kiritdi! 🥇🥈🥉",
+      "ts": 1792771267.9369938
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792769439.4866018,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 18
+    "count": 19
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792744250.3961742,
+  "last_post_ts": 1792746070.6634536,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Qashqadaryodagi qiymati 54 mln dollarlik yangi fabrikada bo’ldi",
-      "headline": "Qashqadaryoda 54 mln dollarlik yangi mato fabrikasi ochildi",
-      "ts": 1792573258.0028288
-    },
     {
       "source_title": "UZCARD maktab o‘quvchilarini moliyaviy savodxonlik va UZCARD Kids imkoniyatlari bilan tanishtirmoqda",
       "headline": "UZCARD maktab o'quvchilarini moliyaviy savodxonlikka o'rgatadi 📚💳",
@@ -200,11 +195,16 @@
       "source_title": "Oʻzbekistonda oliygohlarni reyting asosida ragʻbatlantirish taklif qilindi",
       "headline": "Oliy ta'lim muassasalarini reyting asosida rag'batlantirish taklifi 📚✨",
       "ts": 1792744248.3904335
+    },
+    {
+      "source_title": "O‘zbekistonliklarning o‘qish maqsadida xorijga chiqishi 33 foizga kamaydi",
+      "headline": "O'qish maqsadida xorijga chiqish 33% ga kamaydi",
+      "ts": 1792746068.659714
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792742450.9110563,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 9
+    "count": 10
   }
 }

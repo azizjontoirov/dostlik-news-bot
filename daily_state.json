@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792749661.5952976,
+  "last_post_ts": 1792751449.5577614,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda 6 mlrd dollarlik loyihalarning ishga tushirilishi va qurilishiga start berildi",
-      "headline": "Qashqadaryoda 6 mlrd dollarlik loyihalarga start berildi",
-      "ts": 1792579533.6505306
-    },
     {
       "source_title": "Наманганда фуқароларни Польшага ишга юбориш эвазига $10,4 минг талаб қилган эркак ушланди",
       "headline": "Namanagandagi ishga yuborish shartnomasi – $10,4 ming talabi! 💰🚨",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentdagi “Botkin” qabristonida devor qulab, qabr toshlariga zarar yetdi",
       "headline": "Toshkentda Botkin qabristonida devor qulab, qabr toshlariga zarar yetdi 🏛️⚠️",
       "ts": 1792749659.5912812
+    },
+    {
+      "source_title": "Qozog‘iston Tenge Bank bilan yanada yaqin: sayohat paytida xaridlarni to‘lang va HUMO kartalaridan naqd pul yechib oling",
+      "headline": "Tenge Bank bilan sayohatda qulay to'lov! 💳",
+      "ts": 1792751447.5552871
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792747836.459512,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 11
+    "count": 12
   }
 }

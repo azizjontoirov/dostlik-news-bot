@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792760464.8558598,
+  "last_post_ts": 1792762253.7929528,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda to‘lovga qobiliyatsizlik jarayonidagi tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
-      "headline": "Tadbirkorlar uchun maxsus bank hisobvaraqlari ochiladi",
-      "ts": 1792590340.625431
-    },
     {
       "source_title": "Тилнинг ривожланиши фуқаролар фикрини аниқ ифода этиши ва расмий ҳужжатларни осон тушунишида намоён бўлади — президент",
       "headline": "Til rivojlanishi – fuqarolarning aniq ifodasi va rasmiy hujjatlarni oson tushunishi",
@@ -200,11 +195,16 @@
       "source_title": "Oʻzbekiston boʻylab sayohat. Jizzax somsa, Peshagʻordagi koʻrshapalaklar bazasi va qishda muzlamaydigan tuzli koʻl haqida",
       "headline": "Jizzax bo'ylab sayohat: somsa, ko'rshapalaklar va muzlamaydigan tuzli ko'l! 🌟",
       "ts": 1792760462.8528943
+    },
+    {
+      "source_title": "O‘zbekistonda qurilish loyihalarini tayyorlash uchun 30 foiz oldindan to‘lov belgilanmoqda",
+      "headline": "30% oldindan to'lov – qurilish loyihalarida yangi tartib",
+      "ts": 1792762251.6601157
     }
   ],
   "morning_sent_date": "2026-10-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792758640.1983442,
@@ -236,6 +236,6 @@
   "tg_update_offset": 652091513,
   "news_stats": {
     "day": "2026-10-23",
-    "count": 15
+    "count": 16
   }
 }

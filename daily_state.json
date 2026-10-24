@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792852244.2288904,
+  "last_post_ts": 1792854053.5584726,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi",
-      "headline": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi 🤝🌍",
-      "ts": 1792681257.5855026
-    },
     {
       "source_title": "“Yetti yil oldin davlat tashkilotlarining oʻzbek tilida ish yuritish darajasi 50 foizga ham yetmasdi” — Nodir Jonuzoq",
       "headline": "Yetti yil ichida davlat tilida ish yuritish 50%dan oshdi! 📈",
@@ -200,11 +195,16 @@
       "source_title": "Abduqodir Husanov “Aston Villa”ga qarshi bahsda “Manchester Siti” safida harakat qilgan eng yaxshi himoyachi bo‘ldi",
       "headline": "Abduqodir Husanov “Manchester Siti”ga qarshi eng yaxshi himoyachi bo'ldi",
       "ts": 1792852242.2253497
+    },
+    {
+      "source_title": "Эрон элчиси Самарқанднинг тарихий меросига оид баёнотлар сабаб ТИВга чақиртирилди",
+      "headline": "Эрон элчиси Самарқанд меросига оид нотаси ТИВга чақирилди 🇮🇷⚖️",
+      "ts": 1792854051.554924
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792850445.5264158,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 17
+    "count": 18
   }
 }

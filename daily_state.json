@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792837842.8688126,
+  "last_post_ts": 1792839655.4254098,
   "recent_posts": [
     {
       "source_title": "InfinBANK: kredit summasi 5 mlrd so‘mgacha oshirildi, stavka 7 yilga 18,99 foiz",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792834233.224245,
+    "last_ad_ts": 1792839655.4235754,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 18,
       "gilam_eag": 14,
       "ad_job": 18,
-      "ad_water": 16
+      "ad_water": 17
     },
     "permanent_index": 2,
     "day": "2026-10-24",
     "today": {
-      "ad_water": 2,
+      "ad_water": 3,
       "ad_flour": 2,
       "ad_job": 2
     },
@@ -226,7 +226,7 @@
       "ad_flour": 1792828838.9791243,
       "ad_job": 1792834233.2242417,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1792823436.3145928,
+      "ad_water": 1792839655.4235733,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-24"

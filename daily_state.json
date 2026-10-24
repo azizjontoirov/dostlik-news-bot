@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792841444.5329561,
+  "last_post_ts": 1792843254.8351622,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda chet el fuqarolarini taqdirlash uchun yangi ordenlar ta’sis etilishi mumkin",
-      "headline": "O'zbekiston ehtiromi ordenlari tasis etilishi taklifi 🤝",
-      "ts": 1792670453.7651615
-    },
     {
       "source_title": "«Янгилик қилиб, Америка очиш керак эмас». Таълим вазири — иш режалари ҳақида",
       "headline": "Ta'lim vaziri: Yangi qonunlar kerak emas, intizom yetarli 📚",
@@ -200,11 +195,16 @@
       "source_title": "Qoraqalpog‘istonda avtomashinaning orqa o‘rindig‘i ostidan 23 dona o‘q-dori topildi",
       "headline": "Qoraqalpog'istonda orqa o'rindig'idan 23 dona o'q‑dori topildi 🚔🔎",
       "ts": 1792841442.5278592
+    },
+    {
+      "source_title": "“Qonun qabul qilinsa, ertasigayoq barcha muammolar hal bo‘lib qolmaydi” — Sherzod Shermatov bolalarga ijtimoiy tarmoqlarni cheklash haqida",
+      "headline": "Bolalarga ijtimoiy tarmoqlarni cheklash – Sherzod Shermatovning taklifi",
+      "ts": 1792843252.7715926
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792839655.4235754,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 13
+    "count": 14
   }
 }

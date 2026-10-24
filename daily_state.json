@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792818047.1797645,
+  "last_post_ts": 1792819585.9618094,
   "recent_posts": [
-    {
-      "source_title": "Депутатлар давлат харидларининг янги қоидаларида коррупция хавфларига эътибор қаратди. Қонун лойиҳаси такомиллаштириш учун қайтарилди",
-      "headline": "Deputatlar davlat xaridlaridagi korrupsiya xavflariga e'tibor qaratdi",
-      "ts": 1792647037.845663
-    },
     {
       "source_title": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo‘yicha maslahatchisi o‘rinbosari etib tayinlandi",
       "headline": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo'yicha maslahatchisi o'rinbosari etib tayinlandi 📢",
@@ -200,11 +195,16 @@
       "source_title": "Chexiyada og‘ir moliyaviy ahvolga tushib qolgan o‘zbekistonlik vatanga qaytarildi",
       "headline": "Chexiyada moliyaviy qiyinchilikka duch kelgan o'zbeksiz qaytarildi 🇨🇿➡️🇺🇿",
       "ts": 1792816240.4515207
+    },
+    {
+      "source_title": "Нима тайёрлаймиз: иссиққина шўрвалар",
+      "headline": "Nima tayyorlaymiz: issiq shorvalar",
+      "ts": 1792819583.959238
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792818047.1722102,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 4
+    "count": 5
   }
 }

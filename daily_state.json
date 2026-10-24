@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792814448.0474558,
+  "last_post_ts": 1792816242.820366,
   "recent_posts": [
-    {
-      "source_title": "Хоразмда она ва уч қизи овқатдан заҳарланиб вафот этгани айтилмоқда",
-      "headline": "Хоразмда она ва уч қизи заҳарланиб вафот этди",
-      "ts": 1792643443.9509456
-    },
     {
       "source_title": "Депутатлар давлат харидларининг янги қоидаларида коррупция хавфларига эътибор қаратди. Қонун лойиҳаси такомиллаштириш учун қайтарилди",
       "headline": "Deputatlar davlat xaridlaridagi korrupsiya xavflariga e'tibor qaratdi",
@@ -200,11 +195,16 @@
       "source_title": "Buxoroda 2 ming so‘mlik 1516 dona qalbaki banknota topildi",
       "headline": "Buxoroda 2 000 so'mlik 1 516 dona qalbaki banknota topildi 🕵️‍♂️💰",
       "ts": 1792814446.043969
+    },
+    {
+      "source_title": "Chexiyada og‘ir moliyaviy ahvolga tushib qolgan o‘zbekistonlik vatanga qaytarildi",
+      "headline": "Chexiyada moliyaviy qiyinchilikka duch kelgan o'zbeksiz qaytarildi 🇨🇿➡️🇺🇿",
+      "ts": 1792816240.4515207
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792812641.1828964,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 3
+    "count": 4
   }
 }

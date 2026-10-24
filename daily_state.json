@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792821654.4222493,
+  "last_post_ts": 1792823436.3768282,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonlik taekvondochilar Qatar Open turnirida 6 ta medal qoʻlga kiritdi",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792818047.1722102,
+    "last_ad_ts": 1792823436.3145947,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 17,
       "gilam_eag": 14,
       "ad_job": 17,
-      "ad_water": 15
+      "ad_water": 16
     },
     "permanent_index": 2,
     "day": "2026-10-24",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1,
       "ad_job": 1
     },
@@ -226,7 +226,7 @@
       "ad_flour": 1792812641.1828933,
       "ad_job": 1792818047.172208,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1792807239.44107,
+      "ad_water": 1792823436.3145928,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-24"

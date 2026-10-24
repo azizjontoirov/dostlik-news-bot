@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792834233.2268639,
+  "last_post_ts": 1792836057.849988,
   "recent_posts": [
-    {
-      "source_title": "Umami — ilk bor Yaponiyada ta’riflangan beshinchi ta’m: O‘zbekistonda “Umami oyligi” boshlandi",
-      "headline": "Umami oyligi O'zbekistonda boshlandi 🍜✨",
-      "ts": 1792663259.1786046
-    },
     {
       "source_title": "Qashqadaryo viloyati hokimligi va davlat idoralarini Yangi Qarshi shahriga ko‘chirish rejalashtirilmoqda",
       "headline": "Yangi Qarshi shahriga ko'chirish rejalari",
@@ -200,11 +195,16 @@
       "source_title": "Yuz terisida pigment dog‘lar paydo bo‘lsa nima qilish kerak?",
       "headline": "Yuz terisida pigment dog'lari – nima qilish kerak? 🩺✨",
       "ts": 1792832450.630172
+    },
+    {
+      "source_title": "Ogʻir va hayot uchun xavfli kasalliklarga chalingan bolalarni qoʻllab-quvvatlash boʻyicha Global tarmoq tuzildi",
+      "headline": "Global tarmoq – og'ir kasalliklarga chalingan bolalarga yangi umid 🌟",
+      "ts": 1792836055.846524
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792834233.224245,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 10
+    "count": 11
   }
 }

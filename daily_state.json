@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792809044.797695,
+  "last_post_ts": 1792810852.6317883,
   "recent_posts": [
-    {
-      "source_title": "“Oltin to‘p”: mukofotni eng ko‘p qaysi davlat vakillari qo‘lga kiritgan?",
-      "headline": "Oltin to'p” g'olibi kim bo'ladi? 🏆",
-      "ts": 1792638053.8564208
-    },
     {
       "source_title": "O‘zbekistonda elektr energiyasi ishlab chiqarish 8,4 foizga oshdi, import 27,2 foizga kamaydi",
       "headline": "O'zbekistonda elektr energiyasi ishlab chiqarishi 8,4% oshdi, import 27,2% kamaydi",
@@ -200,11 +195,16 @@
       "source_title": "Аҳоли учун ажратилган минглаб газ баллонлари оширилган нархда сотишга уринилди",
       "headline": "Aholi uchun ajratilgan minglab gaz balonlari oshirgan narxda sotishga urindilar",
       "ts": 1792809042.7931094
+    },
+    {
+      "source_title": "O‘zbekistonda islomiy moliyaning “Murobaha” standartini joriy etish taklif qilindi",
+      "headline": "Islomiy moliyada “Murobaha” standartini joriy etish taklifi 📈🕌",
+      "ts": 1792810850.628533
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792807239.4410727,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 1
+    "count": 2
   }
 }

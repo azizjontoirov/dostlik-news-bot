@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792825261.7719367,
+  "last_post_ts": 1792827040.7030797,
   "recent_posts": [
-    {
-      "source_title": "Ўзбек тилининг келажаги болага аталган китобдан бошланади — Саида Рашидова",
-      "headline": "O'zbek tilining kelajagi bolaga atalgan kitobdan boshlanadi",
-      "ts": 1792654243.6386182
-    },
     {
       "source_title": "Qashqadaryoga yiliga 6 mln sayyoh jalb qilish rejalashtirilmoqda",
       "headline": "Qashqadaryoga yiliga 6 mln turist jalb qilish rejalashtirildi 🚀",
@@ -200,11 +195,16 @@
       "source_title": "“Together. For Family”: O‘zbekiston vakillari Xitoyda bo‘lib o‘tgan Chery Brand Night tadbirida ishtirok etdi",
       "headline": "Together. For Family” – O'zbekiston vakillari Xitoyda Chery Brand Night tadbirida qatnashdi 🚗🌏",
       "ts": 1792825259.7678142
+    },
+    {
+      "source_title": "Ўзбекистонда хорижий ҳамкорларидан пул ололмаган экспортчилар учун жарималар енгиллаштирилади",
+      "headline": "Eksportchilarga jazolar yengillashadi!",
+      "ts": 1792827038.700084
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792823436.3145947,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 7
+    "count": 8
   }
 }

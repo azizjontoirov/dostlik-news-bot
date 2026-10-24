@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792812641.1857643,
+  "last_post_ts": 1792814448.0474558,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda elektr energiyasi ishlab chiqarish 8,4 foizga oshdi, import 27,2 foizga kamaydi",
-      "headline": "O'zbekistonda elektr energiyasi ishlab chiqarishi 8,4% oshdi, import 27,2% kamaydi",
-      "ts": 1792641653.1009316
-    },
     {
       "source_title": "Хоразмда она ва уч қизи овқатдан заҳарланиб вафот этгани айтилмоқда",
       "headline": "Хоразмда она ва уч қизи заҳарланиб вафот этди",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda islomiy moliyaning “Murobaha” standartini joriy etish taklif qilindi",
       "headline": "Islomiy moliyada “Murobaha” standartini joriy etish taklifi 📈🕌",
       "ts": 1792810850.628533
+    },
+    {
+      "source_title": "Buxoroda 2 ming so‘mlik 1516 dona qalbaki banknota topildi",
+      "headline": "Buxoroda 2 000 so'mlik 1 516 dona qalbaki banknota topildi 🕵️‍♂️💰",
+      "ts": 1792814446.043969
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792812641.1828964,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 2
+    "count": 3
   }
 }

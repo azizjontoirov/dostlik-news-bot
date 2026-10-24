@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792819585.9618094,
+  "last_post_ts": 1792821654.4222493,
   "recent_posts": [
-    {
-      "source_title": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo‘yicha maslahatchisi o‘rinbosari etib tayinlandi",
-      "headline": "Alisher Kuchiyev prezidentning iqtisodiy siyosat bo'yicha maslahatchisi o'rinbosari etib tayinlandi 📢",
-      "ts": 1792648851.4760985
-    },
     {
       "source_title": "O‘zbekistonlik taekvondochilar Qatar Open turnirida 6 ta medal qoʻlga kiritdi",
       "headline": "O'zbekistonlik taekvondochilar Qatar Open'da 6 ta medal qo'lda! 🥈",
@@ -200,11 +195,16 @@
       "source_title": "Нима тайёрлаймиз: иссиққина шўрвалар",
       "headline": "Nima tayyorlaymiz: issiq shorvalar",
       "ts": 1792819583.959238
+    },
+    {
+      "source_title": "Qariyalar uyida yashaydigan 96 yoshli ayol TikTok’da 15 mln obunachi to‘plab, minglab dollar daromad topmoqda",
+      "headline": "96‑yoshli ayol TikTok‑yulduzi! 🌟💰",
+      "ts": 1792821652.4186654
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792818047.1722102,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792810852.6317883,
+  "last_post_ts": 1792812641.1857643,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda elektr energiyasi ishlab chiqarish 8,4 foizga oshdi, import 27,2 foizga kamaydi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792807239.4410727,
+    "last_ad_ts": 1792812641.1828964,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 16,
+      "ad_flour": 17,
       "gilam_eag": 14,
       "ad_job": 16,
       "ad_water": 15
@@ -218,10 +218,11 @@
     "permanent_index": 2,
     "day": "2026-10-24",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1792758640.1983414,
+      "ad_flour": 1792812641.1828933,
       "ad_job": 1792774849.0449526,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792807239.44107,

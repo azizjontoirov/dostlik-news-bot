@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792832452.632944,
+  "last_post_ts": 1792834233.2268639,
   "recent_posts": [
     {
       "source_title": "Umami — ilk bor Yaponiyada ta’riflangan beshinchi ta’m: O‘zbekistonda “Umami oyligi” boshlandi",
@@ -204,15 +204,15 @@
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792828838.9791265,
+    "last_ad_ts": 1792834233.224245,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 18,
       "gilam_eag": 14,
-      "ad_job": 17,
+      "ad_job": 18,
       "ad_water": 16
     },
     "permanent_index": 2,
@@ -220,11 +220,11 @@
     "today": {
       "ad_water": 2,
       "ad_flour": 2,
-      "ad_job": 1
+      "ad_job": 2
     },
     "last_shown": {
       "ad_flour": 1792828838.9791243,
-      "ad_job": 1792818047.172208,
+      "ad_job": 1792834233.2242417,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792823436.3145928,
       "gilam_eag": 1792764054.4116373

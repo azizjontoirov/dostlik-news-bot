@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792857656.0110626,
+  "last_post_ts": 1792859444.75216,
   "recent_posts": [
-    {
-      "source_title": "Samarqandda 150 o‘rinli “Imkon” reabilitatsiya markazi ochildi",
-      "headline": "Samarqandda “Imkon” reabilitatsiya markazi ochildi",
-      "ts": 1792686646.0191183
-    },
     {
       "source_title": "Самарқандда болалар фаровонлигига инвестиция киритиш тўғрисида декларация қабул қилинди",
       "headline": "Samarkandda bolalar farovonligiga investitsiya deklaratsiyasi qabul qilindi 🌟📜",
@@ -200,11 +195,16 @@
       "source_title": "Superliga. “Nasaf” o‘z maydonida “So‘g‘diyona”dan ustun keldi",
       "headline": "Nasaf “So'g'diyona”ni 2:1 g'alaba bilan yengdi ⚽️🏆",
       "ts": 1792857654.0051682
+    },
+    {
+      "source_title": "O‘zbekistonda qariyb 9 mingta ambulatoriya-poliklinika muassasasi faoliyat yuritmoqda",
+      "headline": "O'zbekistonda 9 mingta ambulatoriya‑poliklinika faoliyat yuritmoqda",
+      "ts": 1792859442.5627286
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792855832.510235,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 19
+    "count": 20
   }
 }

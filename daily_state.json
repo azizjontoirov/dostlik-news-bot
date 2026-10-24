@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792830640.215291,
+  "last_post_ts": 1792832452.632944,
   "recent_posts": [
-    {
-      "source_title": "Central Asian University O‘zbekistonda yangi tartib bo‘yicha kompleks davlat akkreditatsiyasidan o‘tgan birinchi oliy ta’lim muassasasi bo‘ldi",
-      "headline": "Central Asian University davlat akkreditatsiyasidan o'tgan birinchi oliy ta'lim muassasasi bo'ldi",
-      "ts": 1792659652.0645905
-    },
     {
       "source_title": "Umami — ilk bor Yaponiyada ta’riflangan beshinchi ta’m: O‘zbekistonda “Umami oyligi” boshlandi",
       "headline": "Umami oyligi O'zbekistonda boshlandi 🍜✨",
@@ -200,11 +195,16 @@
       "source_title": "Toshkent viloyatini poytaxt bilan bog‘lovchi uchta yangi avtobus yo‘nalishi ochilishi rejalashtirilmoqda",
       "headline": "Toshkent‑Zangiota yo'nalishida 3ta yangi avtobus marshruti ochiladi!",
       "ts": 1792830638.212333
+    },
+    {
+      "source_title": "Yuz terisida pigment dog‘lar paydo bo‘lsa nima qilish kerak?",
+      "headline": "Yuz terisida pigment dog'lari – nima qilish kerak? 🩺✨",
+      "ts": 1792832450.630172
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792828838.9791265,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 9
+    "count": 10
   }
 }

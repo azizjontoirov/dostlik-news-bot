@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792823436.3768282,
+  "last_post_ts": 1792825261.7719367,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonlik taekvondochilar Qatar Open turnirida 6 ta medal qoʻlga kiritdi",
-      "headline": "O'zbekistonlik taekvondochilar Qatar Open'da 6 ta medal qo'lda! 🥈",
-      "ts": 1792652452.7155075
-    },
     {
       "source_title": "Ўзбек тилининг келажаги болага аталган китобдан бошланади — Саида Рашидова",
       "headline": "O'zbek tilining kelajagi bolaga atalgan kitobdan boshlanadi",
@@ -200,11 +195,16 @@
       "source_title": "Qariyalar uyida yashaydigan 96 yoshli ayol TikTok’da 15 mln obunachi to‘plab, minglab dollar daromad topmoqda",
       "headline": "96‑yoshli ayol TikTok‑yulduzi! 🌟💰",
       "ts": 1792821652.4186654
+    },
+    {
+      "source_title": "“Together. For Family”: O‘zbekiston vakillari Xitoyda bo‘lib o‘tgan Chery Brand Night tadbirida ishtirok etdi",
+      "headline": "Together. For Family” – O'zbekiston vakillari Xitoyda Chery Brand Night tadbirida qatnashdi 🚗🌏",
+      "ts": 1792825259.7678142
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792823436.3145947,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 6
+    "count": 7
   }
 }

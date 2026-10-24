@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792828838.981406,
+  "last_post_ts": 1792830640.215291,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoga yiliga 6 mln sayyoh jalb qilish rejalashtirilmoqda",
-      "headline": "Qashqadaryoga yiliga 6 mln turist jalb qilish rejalashtirildi 🚀",
-      "ts": 1792657845.88821
-    },
     {
       "source_title": "Central Asian University O‘zbekistonda yangi tartib bo‘yicha kompleks davlat akkreditatsiyasidan o‘tgan birinchi oliy ta’lim muassasasi bo‘ldi",
       "headline": "Central Asian University davlat akkreditatsiyasidan o'tgan birinchi oliy ta'lim muassasasi bo'ldi",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда хорижий ҳамкорларидан пул ололмаган экспортчилар учун жарималар енгиллаштирилади",
       "headline": "Eksportchilarga jazolar yengillashadi!",
       "ts": 1792827038.700084
+    },
+    {
+      "source_title": "Toshkent viloyatini poytaxt bilan bog‘lovchi uchta yangi avtobus yo‘nalishi ochilishi rejalashtirilmoqda",
+      "headline": "Toshkent‑Zangiota yo'nalishida 3ta yangi avtobus marshruti ochiladi!",
+      "ts": 1792830638.212333
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792828838.9791265,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 8
+    "count": 9
   }
 }

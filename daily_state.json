@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792836057.849988,
+  "last_post_ts": 1792837842.8688126,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryo viloyati hokimligi va davlat idoralarini Yangi Qarshi shahriga ko‘chirish rejalashtirilmoqda",
-      "headline": "Yangi Qarshi shahriga ko'chirish rejalari",
-      "ts": 1792665044.2456498
-    },
     {
       "source_title": "InfinBANK: kredit summasi 5 mlrd so‘mgacha oshirildi, stavka 7 yilga 18,99 foiz",
       "headline": "InfinBANK: Kredit summasi 5 mlrd so'mgacha oshirildi, yillik stavka 18,99 %",
@@ -200,11 +195,16 @@
       "source_title": "Ogʻir va hayot uchun xavfli kasalliklarga chalingan bolalarni qoʻllab-quvvatlash boʻyicha Global tarmoq tuzildi",
       "headline": "Global tarmoq – og'ir kasalliklarga chalingan bolalarga yangi umid 🌟",
       "ts": 1792836055.846524
+    },
+    {
+      "source_title": "Grippning oldini oladigan C vitaminiga boy mahsulotlar",
+      "headline": "C vitamini bilan grippga qarshi kurashing! 💪",
+      "ts": 1792837840.8653665
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792834233.224245,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 11
+    "count": 12
   }
 }

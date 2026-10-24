@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792845034.7812293,
+  "last_post_ts": 1792846857.5464969,
   "recent_posts": [
-    {
-      "source_title": "«Янгилик қилиб, Америка очиш керак эмас». Таълим вазири — иш режалари ҳақида",
-      "headline": "Ta'lim vaziri: Yangi qonunlar kerak emas, intizom yetarli 📚",
-      "ts": 1792674060.876567
-    },
     {
       "source_title": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni qo‘rqitib, zo‘rlab kelgani ma’lum bo‘ldi",
       "headline": "Toshkentda profilaktika inspektori voyaga yetmagan qizni zo'rladi",
@@ -200,11 +195,16 @@
       "source_title": "“Qonun qabul qilinsa, ertasigayoq barcha muammolar hal bo‘lib qolmaydi” — Sherzod Shermatov bolalarga ijtimoiy tarmoqlarni cheklash haqida",
       "headline": "Bolalarga ijtimoiy tarmoqlarni cheklash – Sherzod Shermatovning taklifi",
       "ts": 1792843252.7715926
+    },
+    {
+      "source_title": "Toshkentda 265 o‘rinli yangi onkologiya markazi quriladi",
+      "headline": "Toshkentda yangi onkologiya markazi quriladi",
+      "ts": 1792846855.543457
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792845034.7485406,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 14
+    "count": 15
   }
 }

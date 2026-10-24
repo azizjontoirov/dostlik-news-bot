@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792846857.5464969,
+  "last_post_ts": 1792848642.7711883,
   "recent_posts": [
-    {
-      "source_title": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni qo‘rqitib, zo‘rlab kelgani ma’lum bo‘ldi",
-      "headline": "Toshkentda profilaktika inspektori voyaga yetmagan qizni zo'rladi",
-      "ts": 1792675846.8659449
-    },
     {
       "source_title": "Qahramonjon Olimov odam o‘g‘irlash bo‘yicha ayblovlarni rad etib, ta’qibga uchrayotganini bildirdi",
       "headline": "Qahramonjon Olimov ayblovlarni rad etdi, ta'qibga duch keldi 🚨",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda 265 o‘rinli yangi onkologiya markazi quriladi",
       "headline": "Toshkentda yangi onkologiya markazi quriladi",
       "ts": 1792846855.543457
+    },
+    {
+      "source_title": "O‘zbekiston Para Osiyo o‘yinlarini 3-o‘rinda yakunladi",
+      "headline": "O'zbekiston Para Osiyo o'yinlarida 3‑o'rinda! 🥉",
+      "ts": 1792848640.7681925
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792845034.7485406,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 15
+    "count": 16
   }
 }

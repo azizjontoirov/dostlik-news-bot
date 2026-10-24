@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792774849.046884,
+  "last_post_ts": 1792809044.797695,
   "recent_posts": [
-    {
-      "source_title": "«Асосли гумон». Озодликни чеклашдан олдин суд нималарни текшириши керак?",
-      "headline": "Asosli gumon – sud qanday tekshiradi?",
-      "ts": 1792636243.2904236
-    },
     {
       "source_title": "“Oltin to‘p”: mukofotni eng ko‘p qaysi davlat vakillari qo‘lga kiritgan?",
       "headline": "Oltin to'p” g'olibi kim bo'ladi? 🏆",
@@ -200,11 +195,16 @@
       "source_title": "“Bolalar uchun eng yaxshi badiiy asar” respublika ijodiy tanlovi g‘oliblari taqdirlandi",
       "headline": "Bolalar uchun eng yaxshi badiiy asarlar tanlovi g'oliblari taqdirlandi! 🌟",
       "ts": 1792773045.6865492
+    },
+    {
+      "source_title": "Аҳоли учун ажратилган минглаб газ баллонлари оширилган нархда сотишга уринилди",
+      "headline": "Aholi uchun ajratilgan minglab gaz balonlari oshirgan narxda sotishga urindilar",
+      "ts": 1792809042.7931094
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792807239.4410727,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-23",
-    "count": 20
+    "day": "2026-10-24",
+    "count": 1
   }
 }

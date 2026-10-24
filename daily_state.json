@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792854053.5584726,
+  "last_post_ts": 1792855832.515996,
   "recent_posts": [
     {
       "source_title": "“Yetti yil oldin davlat tashkilotlarining oʻzbek tilida ish yuritish darajasi 50 foizga ham yetmasdi” — Nodir Jonuzoq",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792850445.5264158,
+    "last_ad_ts": 1792855832.510235,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 19,
       "gilam_eag": 14,
       "ad_job": 19,
-      "ad_water": 17
+      "ad_water": 18
     },
     "permanent_index": 2,
     "day": "2026-10-24",
     "today": {
-      "ad_water": 3,
+      "ad_water": 4,
       "ad_flour": 3,
       "ad_job": 3
     },
@@ -226,7 +226,7 @@
       "ad_flour": 1792845034.7485375,
       "ad_job": 1792850445.526413,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1792839655.4235733,
+      "ad_water": 1792855832.510232,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-24"

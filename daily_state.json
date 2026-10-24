@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792855832.515996,
+  "last_post_ts": 1792857656.0110626,
   "recent_posts": [
-    {
-      "source_title": "“Yetti yil oldin davlat tashkilotlarining oʻzbek tilida ish yuritish darajasi 50 foizga ham yetmasdi” — Nodir Jonuzoq",
-      "headline": "Yetti yil ichida davlat tilida ish yuritish 50%dan oshdi! 📈",
-      "ts": 1792684860.7512667
-    },
     {
       "source_title": "Samarqandda 150 o‘rinli “Imkon” reabilitatsiya markazi ochildi",
       "headline": "Samarqandda “Imkon” reabilitatsiya markazi ochildi",
@@ -200,11 +195,16 @@
       "source_title": "Эрон элчиси Самарқанднинг тарихий меросига оид баёнотлар сабаб ТИВга чақиртирилди",
       "headline": "Эрон элчиси Самарқанд меросига оид нотаси ТИВга чақирилди 🇮🇷⚖️",
       "ts": 1792854051.554924
+    },
+    {
+      "source_title": "Superliga. “Nasaf” o‘z maydonida “So‘g‘diyona”dan ustun keldi",
+      "headline": "Nasaf “So'g'diyona”ni 2:1 g'alaba bilan yengdi ⚽️🏆",
+      "ts": 1792857654.0051682
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792855832.510235,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 18
+    "count": 19
   }
 }

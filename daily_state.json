@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792850445.5284598,
+  "last_post_ts": 1792852244.2288904,
   "recent_posts": [
-    {
-      "source_title": "Qahramonjon Olimov odam o‘g‘irlash bo‘yicha ayblovlarni rad etib, ta’qibga uchrayotganini bildirdi",
-      "headline": "Qahramonjon Olimov ayblovlarni rad etdi, ta'qibga duch keldi 🚨",
-      "ts": 1792679457.4733832
-    },
     {
       "source_title": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi",
       "headline": "Shavkat Mirziyoyev YXHT Parlament assambleyasi raisini qabul qildi 🤝🌍",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekiston Para Osiyo o‘yinlarini 3-o‘rinda yakunladi",
       "headline": "O'zbekiston Para Osiyo o'yinlarida 3‑o'rinda! 🥉",
       "ts": 1792848640.7681925
+    },
+    {
+      "source_title": "Abduqodir Husanov “Aston Villa”ga qarshi bahsda “Manchester Siti” safida harakat qilgan eng yaxshi himoyachi bo‘ldi",
+      "headline": "Abduqodir Husanov “Manchester Siti”ga qarshi eng yaxshi himoyachi bo'ldi",
+      "ts": 1792852242.2253497
     }
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792850445.5264158,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-24",
-    "count": 16
+    "count": 17
   }
 }

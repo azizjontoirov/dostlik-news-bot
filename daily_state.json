@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792827040.7030797,
+  "last_post_ts": 1792828838.981406,
   "recent_posts": [
     {
       "source_title": "Qashqadaryoga yiliga 6 mln sayyoh jalb qilish rejalashtirilmoqda",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792823436.3145947,
+    "last_ad_ts": 1792828838.9791265,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 17,
+      "ad_flour": 18,
       "gilam_eag": 14,
       "ad_job": 17,
       "ad_water": 16
@@ -219,11 +219,11 @@
     "day": "2026-10-24",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_job": 1
     },
     "last_shown": {
-      "ad_flour": 1792812641.1828933,
+      "ad_flour": 1792828838.9791243,
       "ad_job": 1792818047.172208,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792823436.3145928,

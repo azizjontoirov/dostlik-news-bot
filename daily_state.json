@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792940452.285485,
+  "last_post_ts": 1792942234.2631564,
   "recent_posts": [
     {
       "source_title": "Ўзбекистон Пара Осиё ўйинларининг бешинчи кунида 7 та олтин, 8 та кумуш ва 10 та бронза қўлга киритди",
@@ -204,27 +204,27 @@
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792936842.76653,
+    "last_ad_ts": 1792942234.2604482,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 23,
       "gilam_eag": 14,
-      "ad_job": 22,
+      "ad_job": 23,
       "ad_water": 21
     },
     "permanent_index": 2,
     "day": "2026-10-25",
     "today": {
-      "ad_job": 3,
+      "ad_job": 4,
       "ad_water": 3,
       "ad_flour": 3
     },
     "last_shown": {
       "ad_flour": 1792936842.7665277,
-      "ad_job": 1792926041.8373556,
+      "ad_job": 1792942234.2604458,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792931436.8118792,
       "gilam_eag": 1792764054.4116373

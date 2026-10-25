@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792936842.7690954,
+  "last_post_ts": 1792938641.9458723,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda 24-oktyabrga o‘tar kechasi havo sifati yomonlashishi kutilmoqda",
-      "headline": "Toshkentda 24-oktyabrga o'tar kechasi havo sifati yomonlashishi kutilmoqda",
-      "ts": 1792765848.429432
-    },
     {
       "source_title": "ANORBANK’dan tezkor rasmiylashtiriladigan bolalar kartasi — UZCARD KIDS Moment",
       "headline": "ANORBANK'da tezkor bolalar kartasi – UZCARD KIDS Moment 🚀💳",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda ikki tuman soliq inspeksiyasining sobiq boshliqlariga sud hukmi o‘qildi",
       "headline": "Toshkentda ikki tuman soliq inspeksiyasining sobiq boshliqlariga sud hukmi o'qildi",
       "ts": 1792935037.6983027
+    },
+    {
+      "source_title": "Superliga: “OKMK” so‘nggi daqiqalardagi gol evaziga “Qo‘qon-1912”dan ustun keldi",
+      "headline": "Superliga: “OKMK” “Qo'qon‑1912”ni mag'lub etdi!",
+      "ts": 1792938639.9417758
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792936842.76653,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 16
+    "count": 17
   }
 }

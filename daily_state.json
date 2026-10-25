@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792915246.364009,
+  "last_post_ts": 1792917047.041953,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekistonda oliygohlarni reyting asosida ragʻbatlantirish taklif qilindi",
-      "headline": "Oliy ta'lim muassasalarini reyting asosida rag'batlantirish taklifi 📚✨",
-      "ts": 1792744248.3904335
-    },
     {
       "source_title": "O‘zbekistonliklarning o‘qish maqsadida xorijga chiqishi 33 foizga kamaydi",
       "headline": "O'qish maqsadida xorijga chiqish 33% ga kamaydi",
@@ -200,11 +195,16 @@
       "source_title": "Rossiyada voyaga yetmagan qizni zo‘rlashda ayblanib qidiruvda bo‘lgan o‘zbekistonlik ushlandi",
       "headline": "Rossiyada ayblanib qidiruvda bo'lgan o'zbekistonlik ushlandi 🚨",
       "ts": 1792913438.6239424
+    },
+    {
+      "source_title": "«Хизматингиз қадри доимо баланд бўлсин». Президент ИИВ ходимларини табриклади",
+      "headline": "Xizmatingiz qadri doimo baland bo'lsin",
+      "ts": 1792917045.0389886
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792915246.3620093,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 8
+    "count": 9
   }
 }

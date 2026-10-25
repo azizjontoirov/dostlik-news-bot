@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792922453.1181395,
+  "last_post_ts": 1792924242.814831,
   "recent_posts": [
-    {
-      "source_title": "Qozog‘iston Tenge Bank bilan yanada yaqin: sayohat paytida xaridlarni to‘lang va HUMO kartalaridan naqd pul yechib oling",
-      "headline": "Tenge Bank bilan sayohatda qulay to'lov! 💳",
-      "ts": 1792751447.5552871
-    },
     {
       "source_title": "O‘zbekiston BAAning Lana Nusaybani BMT bosh kotibligiga nomzod sifatida ko‘rsatish qarorini olqishladi",
       "headline": "O'zbekiston BAAning Lana Zaki Nusaybani BMT bosh kotibligiga nomzod sifatida ko'rsatish qarorini olqishladi 🌍🤝",
@@ -200,11 +195,16 @@
       "source_title": "Xorijiy va nodavlat OTTlarga maqsadli qabul imtihonlari uchun ruxsatnomalar e’lon qilindi",
       "headline": "Xorijiy va nodavlat oliy ta'lim tashkilotlari uchun maqsadli imtihon ruxsatnomalari e'lon qilindi 📚🗓️",
       "ts": 1792922451.0970752
+    },
+    {
+      "source_title": "“Eksport rejasini bajarib berish uchun”. Bo‘ston tumani hokimining fermerlardan pul talab qilgan ikki o‘rinbosari qamaldi",
+      "headline": "Eksport rejasini bajarib berish uchun pul talab qilgan hokim o'rinbosarlari qamaldi",
+      "ts": 1792924240.8106666
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792920633.5053282,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 11
+    "count": 12
   }
 }

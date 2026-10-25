@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792927842.0464535,
+  "last_post_ts": 1792929647.9471765,
   "recent_posts": [
-    {
-      "source_title": "“Paxtakor” — “An-Nassr” o‘yinining eng qimmat chiptalari 3 mln so‘mdan sotuvga chiqarildi",
-      "headline": "Paxtakor” – “An‑Nassr” o'yinining eng qimmat chiptalari 3 mln so'mdan!",
-      "ts": 1792756854.098188
-    },
     {
       "source_title": "Oʻzbekiston boʻylab sayohat. Jizzax somsa, Peshagʻordagi koʻrshapalaklar bazasi va qishda muzlamaydigan tuzli koʻl haqida",
       "headline": "Jizzax bo'ylab sayohat: somsa, ko'rshapalaklar va muzlamaydigan tuzli ko'l! 🌟",
@@ -200,11 +195,16 @@
       "source_title": "Toshkent hokimligi tizimidagi tekshiruvlardan so‘ng 24 nafar xodim ishdan bo‘shatildi",
       "headline": "Toshkent hokimligi tizimida katta tozalash!",
       "ts": 1792927840.0393405
+    },
+    {
+      "source_title": "«Ишга кетиб, тирик қайтмаганлар». Хизмат пайтида фожиали вафот этган ички ишлар ходимлари хотирасига бағишланади",
+      "headline": "Ishga ketib, tirik qaytmaganlar",
+      "ts": 1792929645.9429839
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792926041.8373582,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 13
+    "count": 14
   }
 }

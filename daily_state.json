@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792924242.814831,
+  "last_post_ts": 1792926041.84001,
   "recent_posts": [
     {
       "source_title": "O‘zbekiston BAAning Lana Nusaybani BMT bosh kotibligiga nomzod sifatida ko‘rsatish qarorini olqishladi",
@@ -204,27 +204,27 @@
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792920633.5053282,
+    "last_ad_ts": 1792926041.8373582,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 22,
       "gilam_eag": 14,
-      "ad_job": 21,
+      "ad_job": 22,
       "ad_water": 20
     },
     "permanent_index": 2,
     "day": "2026-10-25",
     "today": {
-      "ad_job": 2,
+      "ad_job": 3,
       "ad_water": 2,
       "ad_flour": 2
     },
     "last_shown": {
       "ad_flour": 1792920633.505326,
-      "ad_job": 1792909835.3123252,
+      "ad_job": 1792926041.8373556,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792915246.3620074,
       "gilam_eag": 1792764054.4116373

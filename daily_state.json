@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792861094.1268923,
+  "last_post_ts": 1792895442.4060009,
   "recent_posts": [
-    {
-      "source_title": "Самарқандда болалар фаровонлигига инвестиция киритиш тўғрисида декларация қабул қилинди",
-      "headline": "Samarkandda bolalar farovonligiga investitsiya deklaratsiyasi qabul qilindi 🌟📜",
-      "ts": 1792722641.8655462
-    },
     {
       "source_title": "Тошкент облигациялар муомаласи орқали халқаро капитал бозорига киришни кўриб чиқмоқда",
       "headline": "Toshkent shahrida xalqaro kapital bozoriga kirish yo'li – munitsipal obligatsiyalar 🌍💰",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda qariyb 9 mingta ambulatoriya-poliklinika muassasasi faoliyat yuritmoqda",
       "headline": "O'zbekistonda 9 mingta ambulatoriya‑poliklinika faoliyat yuritmoqda",
       "ts": 1792859442.5627286
+    },
+    {
+      "source_title": "UFC. Ramazon Temirov Loner Kavanaga mag‘lub bo‘ldi",
+      "headline": "UFC 333: Ramazon Temirov Loner Kavanaga mag'lub bo'ldi 🥊🇺🇿",
+      "ts": 1792895440.4025257
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792893640.9914763,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-24",
-    "count": 20
+    "day": "2026-10-25",
+    "count": 1
   }
 }

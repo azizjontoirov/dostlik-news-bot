@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792933254.026583,
+  "last_post_ts": 1792935039.7016747,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda qurilish loyihalarini tayyorlash uchun 30 foiz oldindan to‘lov belgilanmoqda",
-      "headline": "30% oldindan to'lov – qurilish loyihalarida yangi tartib",
-      "ts": 1792762251.6601157
-    },
     {
       "source_title": "Toshkentda 24-oktyabrga o‘tar kechasi havo sifati yomonlashishi kutilmoqda",
       "headline": "Toshkentda 24-oktyabrga o'tar kechasi havo sifati yomonlashishi kutilmoqda",
@@ -200,11 +195,16 @@
       "source_title": "Shavkat Mirziyoyev Paraosiyo oʻyinlari gʻoliblari va ishtirokchilarini tabrikladi",
       "headline": "Shavkat Mirziyoyev Paraosiyo o'yinlari g'oliblari va ishtirokchilarini tabrikladi 🏅",
       "ts": 1792933252.0230954
+    },
+    {
+      "source_title": "Toshkentda ikki tuman soliq inspeksiyasining sobiq boshliqlariga sud hukmi o‘qildi",
+      "headline": "Toshkentda ikki tuman soliq inspeksiyasining sobiq boshliqlariga sud hukmi o'qildi",
+      "ts": 1792935037.6983027
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792931436.811882,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 15
+    "count": 16
   }
 }

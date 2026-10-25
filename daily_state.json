@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792904450.7060359,
+  "last_post_ts": 1792906245.9924731,
   "recent_posts": [
-    {
-      "source_title": "Кераксиз дориларни мажбуран сотиш: Рақобат қўмитаси дистрибьюторлар устидан шикоятларни ўрганмоқда",
-      "headline": "KERAKSIZ DORILARNI MAJBURAN SOTISH: Raqobat qo'mitasi tekshiruvda",
-      "ts": 1792733448.5682588
-    },
     {
       "source_title": "HUMO Pay mobil ilovasi: bitta ilovada komissiyasiz o‘tkazmalar, 1 foiz keshbek va smartfon orqali to‘lov",
       "headline": "HUMO Pay: bitta ilovada komissiyasiz o'tkazmalar va 1 % keshbek! 📱💸",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда шиша, пластик идишлар ва банкалар учун мажбурий депозит тизими жорий этилиши мумкин",
       "headline": "Majburiy depozit tizimi joriy etilishi mumkin",
       "ts": 1792902641.0751934
+    },
+    {
+      "source_title": "Namanganda voyaga yetmagan qizga shilqimlik qilgan yigit 5 sutkaga qamaldi",
+      "headline": "Namanganda voyaga yetmagan qizga shilqimlik qilgan yigit 5 sutkaga qamaldi 🕒⚖️",
+      "ts": 1792906243.9884267
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792904450.699198,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 4
+    "count": 5
   }
 }

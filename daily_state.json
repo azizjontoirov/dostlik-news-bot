@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792899041.1162524,
+  "last_post_ts": 1792900852.886352,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda to‘qqiz oyda yo‘l qurilishida qariyb 6 mingta qoidabuzarlik aniqlandi",
-      "headline": "To'qqiz oyda 6 000+ yo'l‑qurilish qoidabuzarligi aniqlandi",
-      "ts": 1792728052.6943822
-    },
     {
       "source_title": "Toshkentdagi bozor va savdo komplekslari xatlovdan o‘tkaziladi",
       "headline": "Toshkentda bozor va savdo komplekslari xatlovdan o'tkaziladi 🏬✅",
@@ -200,11 +195,16 @@
       "source_title": "Toşkentda qurilişi rejalaştirilayotgan yangi onkologiya markazi loyihasi böyiça şartnoma imzolandi.",
       "headline": "Tashkentda yangi onkologiya markazi quriladi",
       "ts": 1792897248.9869535
+    },
+    {
+      "source_title": "«Орган ходими адолатни ҳимоя қилиши керак», аммо қандай? Мавзу муҳокамаси",
+      "headline": "Орган ходими адолатни ҳимоя қилиши керак» – муҳокама 🏛️🤝",
+      "ts": 1792900850.882588
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792899041.1140168,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 2
+    "count": 3
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792902643.0777924,
+  "last_post_ts": 1792904450.7060359,
   "recent_posts": [
     {
       "source_title": "Кераксиз дориларни мажбуран сотиш: Рақобат қўмитаси дистрибьюторлар устидан шикоятларни ўрганмоқда",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792899041.1140168,
+    "last_ad_ts": 1792904450.699198,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 20,
+      "ad_flour": 21,
       "gilam_eag": 14,
       "ad_job": 20,
       "ad_water": 19
@@ -219,10 +219,11 @@
     "day": "2026-10-25",
     "today": {
       "ad_job": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1792861094.1245453,
+      "ad_flour": 1792904450.699195,
       "ad_job": 1792893640.9914749,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792899041.1140141,

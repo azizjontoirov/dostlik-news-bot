@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792909835.733839,
+  "last_post_ts": 1792911653.544369,
   "recent_posts": [
-    {
-      "source_title": "«Ўзбекнефтгаз» ва CNPC ёқилғи етказиб бериш ва М-25 конидаги авария оқибатларини бартараф этишни муҳокама қилди",
-      "headline": "Uzbekneftgaz va CNPC hamkorligi kengaymoqda",
-      "ts": 1792738853.5134127
-    },
     {
       "source_title": "Shavkat Mirziyoyev “Rosatom” atom energiyasi bo‘yicha davlat korporatsiyasi bosh direktorini qabul qildi",
       "headline": "Shavkat Mirziyoyev “Rosatom” bosh direktorini qabul qildi 🤝⚛️",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda yashash va ovqatlanish xizmatlari hajmi 173 trln so‘mdan oshdi",
       "headline": "O'zbekistonda yashash‑ovqatlanish xizmatlari hajmi 173 trln so'mdan oshdi 📈",
       "ts": 1792908053.6764064
+    },
+    {
+      "source_title": "Janubiy Koreyada o‘zbekistonlik erkak taksi haydovchisini kaltaklashda gumonlanmoqda",
+      "headline": "Janubiy Koreyada o'zbek taksi haydovchisi kaltaklashda gumonlanmoqda 🚖👊",
+      "ts": 1792911651.539913
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792909835.3123274,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 6
+    "count": 7
   }
 }

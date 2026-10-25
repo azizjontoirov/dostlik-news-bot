@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792920633.5076175,
+  "last_post_ts": 1792922453.1181395,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi “Botkin” qabristonida devor qulab, qabr toshlariga zarar yetdi",
-      "headline": "Toshkentda Botkin qabristonida devor qulab, qabr toshlariga zarar yetdi 🏛️⚠️",
-      "ts": 1792749659.5912812
-    },
     {
       "source_title": "Qozog‘iston Tenge Bank bilan yanada yaqin: sayohat paytida xaridlarni to‘lang va HUMO kartalaridan naqd pul yechib oling",
       "headline": "Tenge Bank bilan sayohatda qulay to'lov! 💳",
@@ -200,11 +195,16 @@
       "source_title": "«Siti» ilk bor yutqazdi, «Arsenal» yetib oldi.",
       "headline": "Abduqodir Husanov yutqazdi, Arsenal g'alaba qozondi",
       "ts": 1792918853.2223601
+    },
+    {
+      "source_title": "Xorijiy va nodavlat OTTlarga maqsadli qabul imtihonlari uchun ruxsatnomalar e’lon qilindi",
+      "headline": "Xorijiy va nodavlat oliy ta'lim tashkilotlari uchun maqsadli imtihon ruxsatnomalari e'lon qilindi 📚🗓️",
+      "ts": 1792922451.0970752
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792920633.5053282,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 10
+    "count": 11
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792911653.544369,
+  "last_post_ts": 1792913440.6332414,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev “Rosatom” atom energiyasi bo‘yicha davlat korporatsiyasi bosh direktorini qabul qildi",
-      "headline": "Shavkat Mirziyoyev “Rosatom” bosh direktorini qabul qildi 🤝⚛️",
-      "ts": 1792740647.1363413
-    },
     {
       "source_title": "Oʻzbekistonda oliygohlarni reyting asosida ragʻbatlantirish taklif qilindi",
       "headline": "Oliy ta'lim muassasalarini reyting asosida rag'batlantirish taklifi 📚✨",
@@ -200,11 +195,16 @@
       "source_title": "Janubiy Koreyada o‘zbekistonlik erkak taksi haydovchisini kaltaklashda gumonlanmoqda",
       "headline": "Janubiy Koreyada o'zbek taksi haydovchisi kaltaklashda gumonlanmoqda 🚖👊",
       "ts": 1792911651.539913
+    },
+    {
+      "source_title": "Rossiyada voyaga yetmagan qizni zo‘rlashda ayblanib qidiruvda bo‘lgan o‘zbekistonlik ushlandi",
+      "headline": "Rossiyada ayblanib qidiruvda bo'lgan o'zbekistonlik ushlandi 🚨",
+      "ts": 1792913438.6239424
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792909835.3123274,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 7
+    "count": 8
   }
 }

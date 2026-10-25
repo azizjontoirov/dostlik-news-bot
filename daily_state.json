@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792918855.2287443,
+  "last_post_ts": 1792920633.5076175,
   "recent_posts": [
     {
       "source_title": "Toshkentdagi “Botkin” qabristonida devor qulab, qabr toshlariga zarar yetdi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792915246.3620093,
+    "last_ad_ts": 1792920633.5053282,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 21,
+      "ad_flour": 22,
       "gilam_eag": 14,
       "ad_job": 21,
       "ad_water": 20
@@ -220,10 +220,10 @@
     "today": {
       "ad_job": 2,
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1792904450.699195,
+      "ad_flour": 1792920633.505326,
       "ad_job": 1792909835.3123252,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792915246.3620074,

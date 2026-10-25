@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792942234.2631564,
+  "last_post_ts": 1792944053.3604727,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон Пара Осиё ўйинларининг бешинчи кунида 7 та олтин, 8 та кумуш ва 10 та бронза қўлга киритди",
-      "headline": "O'zbekiston Para Osiyo o'yinlarida 25 ta medallarni qo'lga kiritdi! 🥇🥈🥉",
-      "ts": 1792771267.9369938
-    },
     {
       "source_title": "“Bolalar uchun eng yaxshi badiiy asar” respublika ijodiy tanlovi g‘oliblari taqdirlandi",
       "headline": "Bolalar uchun eng yaxshi badiiy asarlar tanlovi g'oliblari taqdirlandi! 🌟",
@@ -200,11 +195,16 @@
       "source_title": "Töqqiz oy davomida 10,6 mingdan ortiq gazballoni talon-toroj qilingani aniqlandi.",
       "headline": "Gazballon talon-torojiga qarshi qat'iy choralar! 🚨",
       "ts": 1792940450.2818449
+    },
+    {
+      "source_title": "UNICEF Termizni afg‘on bolalariga yordam yetkazishda muhim markaz deb atadi",
+      "headline": "UNICEF Termizni afg'on bolalariga yordam yetkazishda muhim markaz deb atadi 🌍🤝",
+      "ts": 1792944051.357573
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792942234.2604482,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 18
+    "count": 19
   }
 }

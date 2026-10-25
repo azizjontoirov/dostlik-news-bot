@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792917047.041953,
+  "last_post_ts": 1792918855.2287443,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonliklarning o‘qish maqsadida xorijga chiqishi 33 foizga kamaydi",
-      "headline": "O'qish maqsadida xorijga chiqish 33% ga kamaydi",
-      "ts": 1792746068.659714
-    },
     {
       "source_title": "Toshkentdagi “Botkin” qabristonida devor qulab, qabr toshlariga zarar yetdi",
       "headline": "Toshkentda Botkin qabristonida devor qulab, qabr toshlariga zarar yetdi 🏛️⚠️",
@@ -200,11 +195,16 @@
       "source_title": "«Хизматингиз қадри доимо баланд бўлсин». Президент ИИВ ходимларини табриклади",
       "headline": "Xizmatingiz qadri doimo baland bo'lsin",
       "ts": 1792917045.0389886
+    },
+    {
+      "source_title": "«Siti» ilk bor yutqazdi, «Arsenal» yetib oldi.",
+      "headline": "Abduqodir Husanov yutqazdi, Arsenal g'alaba qozondi",
+      "ts": 1792918853.2223601
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792915246.3620093,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 9
+    "count": 10
   }
 }

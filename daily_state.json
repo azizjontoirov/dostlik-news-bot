@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792931436.817144,
+  "last_post_ts": 1792933254.026583,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekiston boʻylab sayohat. Jizzax somsa, Peshagʻordagi koʻrshapalaklar bazasi va qishda muzlamaydigan tuzli koʻl haqida",
-      "headline": "Jizzax bo'ylab sayohat: somsa, ko'rshapalaklar va muzlamaydigan tuzli ko'l! 🌟",
-      "ts": 1792760462.8528943
-    },
     {
       "source_title": "O‘zbekistonda qurilish loyihalarini tayyorlash uchun 30 foiz oldindan to‘lov belgilanmoqda",
       "headline": "30% oldindan to'lov – qurilish loyihalarida yangi tartib",
@@ -200,11 +195,16 @@
       "source_title": "«Ишга кетиб, тирик қайтмаганлар». Хизмат пайтида фожиали вафот этган ички ишлар ходимлари хотирасига бағишланади",
       "headline": "Ishga ketib, tirik qaytmaganlar",
       "ts": 1792929645.9429839
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Paraosiyo oʻyinlari gʻoliblari va ishtirokchilarini tabrikladi",
+      "headline": "Shavkat Mirziyoyev Paraosiyo o'yinlari g'oliblari va ishtirokchilarini tabrikladi 🏅",
+      "ts": 1792933252.0230954
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792931436.811882,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 14
+    "count": 15
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792926041.84001,
+  "last_post_ts": 1792927842.0464535,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston BAAning Lana Nusaybani BMT bosh kotibligiga nomzod sifatida ko‘rsatish qarorini olqishladi",
-      "headline": "O'zbekiston BAAning Lana Zaki Nusaybani BMT bosh kotibligiga nomzod sifatida ko'rsatish qarorini olqishladi 🌍🤝",
-      "ts": 1792755046.1035979
-    },
     {
       "source_title": "“Paxtakor” — “An-Nassr” o‘yinining eng qimmat chiptalari 3 mln so‘mdan sotuvga chiqarildi",
       "headline": "Paxtakor” – “An‑Nassr” o'yinining eng qimmat chiptalari 3 mln so'mdan!",
@@ -200,11 +195,16 @@
       "source_title": "“Eksport rejasini bajarib berish uchun”. Bo‘ston tumani hokimining fermerlardan pul talab qilgan ikki o‘rinbosari qamaldi",
       "headline": "Eksport rejasini bajarib berish uchun pul talab qilgan hokim o'rinbosarlari qamaldi",
       "ts": 1792924240.8106666
+    },
+    {
+      "source_title": "Toshkent hokimligi tizimidagi tekshiruvlardan so‘ng 24 nafar xodim ishdan bo‘shatildi",
+      "headline": "Toshkent hokimligi tizimida katta tozalash!",
+      "ts": 1792927840.0393405
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792926041.8373582,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 12
+    "count": 13
   }
 }

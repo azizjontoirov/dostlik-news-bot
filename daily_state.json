@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792900852.886352,
+  "last_post_ts": 1792902643.0777924,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi bozor va savdo komplekslari xatlovdan o‘tkaziladi",
-      "headline": "Toshkentda bozor va savdo komplekslari xatlovdan o'tkaziladi 🏬✅",
-      "ts": 1792729847.5945194
-    },
     {
       "source_title": "Кераксиз дориларни мажбуран сотиш: Рақобат қўмитаси дистрибьюторлар устидан шикоятларни ўрганмоқда",
       "headline": "KERAKSIZ DORILARNI MAJBURAN SOTISH: Raqobat qo'mitasi tekshiruvda",
@@ -200,11 +195,16 @@
       "source_title": "«Орган ходими адолатни ҳимоя қилиши керак», аммо қандай? Мавзу муҳокамаси",
       "headline": "Орган ходими адолатни ҳимоя қилиши керак» – муҳокама 🏛️🤝",
       "ts": 1792900850.882588
+    },
+    {
+      "source_title": "Ўзбекистонда шиша, пластик идишлар ва банкалар учун мажбурий депозит тизими жорий этилиши мумкин",
+      "headline": "Majburiy depozit tizimi joriy etilishi mumkin",
+      "ts": 1792902641.0751934
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792899041.1140168,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 3
+    "count": 4
   }
 }

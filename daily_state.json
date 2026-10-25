@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792938641.9458723,
+  "last_post_ts": 1792940452.285485,
   "recent_posts": [
-    {
-      "source_title": "ANORBANK’dan tezkor rasmiylashtiriladigan bolalar kartasi — UZCARD KIDS Moment",
-      "headline": "ANORBANK'da tezkor bolalar kartasi – UZCARD KIDS Moment 🚀💳",
-      "ts": 1792767658.9076748
-    },
     {
       "source_title": "Ўзбекистон Пара Осиё ўйинларининг бешинчи кунида 7 та олтин, 8 та кумуш ва 10 та бронза қўлга киритди",
       "headline": "O'zbekiston Para Osiyo o'yinlarida 25 ta medallarni qo'lga kiritdi! 🥇🥈🥉",
@@ -200,11 +195,16 @@
       "source_title": "Superliga: “OKMK” so‘nggi daqiqalardagi gol evaziga “Qo‘qon-1912”dan ustun keldi",
       "headline": "Superliga: “OKMK” “Qo'qon‑1912”ni mag'lub etdi!",
       "ts": 1792938639.9417758
+    },
+    {
+      "source_title": "Töqqiz oy davomida 10,6 mingdan ortiq gazballoni talon-toroj qilingani aniqlandi.",
+      "headline": "Gazballon talon-torojiga qarshi qat'iy choralar! 🚨",
+      "ts": 1792940450.2818449
     }
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792936842.76653,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-25",
-    "count": 17
+    "count": 18
   }
 }

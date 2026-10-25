@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792935039.7016747,
+  "last_post_ts": 1792936842.7690954,
   "recent_posts": [
     {
       "source_title": "Toshkentda 24-oktyabrga o‘tar kechasi havo sifati yomonlashishi kutilmoqda",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792931436.811882,
+    "last_ad_ts": 1792936842.76653,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 22,
+      "ad_flour": 23,
       "gilam_eag": 14,
       "ad_job": 22,
       "ad_water": 21
@@ -220,10 +220,10 @@
     "today": {
       "ad_job": 3,
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1792920633.505326,
+      "ad_flour": 1792936842.7665277,
       "ad_job": 1792926041.8373556,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792931436.8118792,

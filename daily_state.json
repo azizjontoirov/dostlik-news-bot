@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793008852.8801928,
+  "last_post_ts": 1793010645.33193,
   "recent_posts": [
-    {
-      "source_title": "Grippning oldini oladigan C vitaminiga boy mahsulotlar",
-      "headline": "C vitamini bilan grippga qarshi kurashing! 💪",
-      "ts": 1792837840.8653665
-    },
     {
       "source_title": "Qoraqalpog‘istonda avtomashinaning orqa o‘rindig‘i ostidan 23 dona o‘q-dori topildi",
       "headline": "Qoraqalpog'istonda orqa o'rindig'idan 23 dona o'q‑dori topildi 🚔🔎",
@@ -200,11 +195,16 @@
       "source_title": "Ойбек Турсунов Perfectum бош офиси ва бошқа активларини 100 млрд сўмга яқин суммага сотиб олмоқда",
       "headline": "O'zbek Tursunov Perfectum bosh ofisini 100 mlrd so'mga sotib olmoqda",
       "ts": 1793008850.8770616
+    },
+    {
+      "source_title": "Футбол: Ўзбекистон миллий жамоасининг Осиё кубоги-2027 гуруҳ босқичидаги тақвими эълон қилинди",
+      "headline": "O'zbekiston milliy jamoasining Osiyo Kubogi-2027 guruh bosqichi jadvali e'lon qilindi",
+      "ts": 1793010643.3276336
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793007037.063308,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 11
+    "count": 12
   }
 }

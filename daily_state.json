@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793001648.9480746,
+  "last_post_ts": 1793003451.7349153,
   "recent_posts": [
-    {
-      "source_title": "Toshkent viloyatini poytaxt bilan bog‘lovchi uchta yangi avtobus yo‘nalishi ochilishi rejalashtirilmoqda",
-      "headline": "Toshkent‑Zangiota yo'nalishida 3ta yangi avtobus marshruti ochiladi!",
-      "ts": 1792830638.212333
-    },
     {
       "source_title": "Yuz terisida pigment dog‘lar paydo bo‘lsa nima qilish kerak?",
       "headline": "Yuz terisida pigment dog'lari – nima qilish kerak? 🩺✨",
@@ -200,11 +195,16 @@
       "source_title": "“Gukeshda imkoniyat ko‘proq” — Garri Kasparov jahon toji uchun bo‘lajak bahs haqida",
       "headline": "Gukeshda imkoniyat ko'proq ♟️",
       "ts": 1792999838.9938471
+    },
+    {
+      "source_title": "Toshkentda isitish mavsumi qachon boshlanishiga izoh berildi",
+      "headline": "Toshkentda isitish mavsumi qachon boshlanishi? 🔥❄️",
+      "ts": 1793003449.7307673
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793001648.9448566,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 8
+    "count": 9
   }
 }

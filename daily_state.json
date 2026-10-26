@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792996233.3072937,
+  "last_post_ts": 1792998053.25145,
   "recent_posts": [
-    {
-      "source_title": "“Together. For Family”: O‘zbekiston vakillari Xitoyda bo‘lib o‘tgan Chery Brand Night tadbirida ishtirok etdi",
-      "headline": "Together. For Family” – O'zbekiston vakillari Xitoyda Chery Brand Night tadbirida qatnashdi 🚗🌏",
-      "ts": 1792825259.7678142
-    },
     {
       "source_title": "Ўзбекистонда хорижий ҳамкорларидан пул ололмаган экспортчилар учун жарималар енгиллаштирилади",
       "headline": "Eksportchilarga jazolar yengillashadi!",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda 1,4 ming tonna suyultirilgan gaz talon-toroj qilingani aniqlandi",
       "headline": "Suyultirilgan gaz talon‑torojiga qarshi qat'iy choralar! 🚨",
       "ts": 1792994453.2963862
+    },
+    {
+      "source_title": "Özbekistonda islomiy bank faoliyati uçun ilk litsenziya berildi.",
+      "headline": "O'zbekistonda islomiy bank faoliyati uchun birinchi litsenziya berildi",
+      "ts": 1792998051.2473505
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792996233.3054295,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 6
+    "count": 7
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793023254.2251182,
+  "last_post_ts": 1793025044.098199,
   "recent_posts": [
-    {
-      "source_title": "Abduqodir Husanov “Aston Villa”ga qarshi bahsda “Manchester Siti” safida harakat qilgan eng yaxshi himoyachi bo‘ldi",
-      "headline": "Abduqodir Husanov “Manchester Siti”ga qarshi eng yaxshi himoyachi bo'ldi",
-      "ts": 1792852242.2253497
-    },
     {
       "source_title": "Эрон элчиси Самарқанднинг тарихий меросига оид баёнотлар сабаб ТИВга чақиртирилди",
       "headline": "Эрон элчиси Самарқанд меросига оид нотаси ТИВга чақирилди 🇮🇷⚖️",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekiston kino sohasi vakillari palatasi tashkil etiladi",
       "headline": "O'zbekiston kino sohasi vakillari palatasi tashkil etildi",
       "ts": 1793021443.0657837
+    },
+    {
+      "source_title": "Tom va yomg‘ir o‘rtasida: Rossiya innovatsiyalari O‘zbekistonda binolarni qanday himoya qiladi?",
+      "headline": "Tom va yomg'ir o'rtasida: Rossiya innovatsiyalari O'zbekistonda binolarni qanday himoya qiladi? 🌧️🏢",
+      "ts": 1793025042.094985
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793023254.2228136,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 16
+    "count": 17
   }
 }

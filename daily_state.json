@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792998053.25145,
+  "last_post_ts": 1792999840.999973,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда хорижий ҳамкорларидан пул ололмаган экспортчилар учун жарималар енгиллаштирилади",
-      "headline": "Eksportchilarga jazolar yengillashadi!",
-      "ts": 1792827038.700084
-    },
     {
       "source_title": "Toshkent viloyatini poytaxt bilan bog‘lovchi uchta yangi avtobus yo‘nalishi ochilishi rejalashtirilmoqda",
       "headline": "Toshkent‑Zangiota yo'nalishida 3ta yangi avtobus marshruti ochiladi!",
@@ -200,11 +195,16 @@
       "source_title": "Özbekistonda islomiy bank faoliyati uçun ilk litsenziya berildi.",
       "headline": "O'zbekistonda islomiy bank faoliyati uchun birinchi litsenziya berildi",
       "ts": 1792998051.2473505
+    },
+    {
+      "source_title": "“Gukeshda imkoniyat ko‘proq” — Garri Kasparov jahon toji uchun bo‘lajak bahs haqida",
+      "headline": "Gukeshda imkoniyat ko'proq ♟️",
+      "ts": 1792999838.9938471
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792996233.3054295,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 7
+    "count": 8
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793030456.9276881,
+  "last_post_ts": 1793032245.6625807,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda qariyb 9 mingta ambulatoriya-poliklinika muassasasi faoliyat yuritmoqda",
-      "headline": "O'zbekistonda 9 mingta ambulatoriya‑poliklinika faoliyat yuritmoqda",
-      "ts": 1792859442.5627286
-    },
     {
       "source_title": "UFC. Ramazon Temirov Loner Kavanaga mag‘lub bo‘ldi",
       "headline": "UFC 333: Ramazon Temirov Loner Kavanaga mag'lub bo'ldi 🥊🇺🇿",
@@ -200,11 +195,16 @@
       "source_title": "Elit OCHL. “Neftchi” so‘nggi daqiqalardagi gol evaziga “Al-Ittihod\"ga mag‘lub bo‘ldi",
       "headline": "Elit “Neftchi” Al‑Ittihodga mag'lub bo'ldi",
       "ts": 1793030454.924288
+    },
+    {
+      "source_title": "“ ‘Eslab-eslab’ bir gapiring qani” — prezident aktyor Farhod Abdullayevga hazil qildi",
+      "headline": "Eslab‑eslab” bir gapiring qani! 🎭",
+      "ts": 1793032243.6567872
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793028639.7096055,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 19
+    "count": 20
   }
 }

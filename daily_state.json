@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793010645.33193,
+  "last_post_ts": 1793012445.8747633,
   "recent_posts": [
     {
       "source_title": "Qoraqalpog‘istonda avtomashinaning orqa o‘rindig‘i ostidan 23 dona o‘q-dori topildi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793007037.063308,
+    "last_ad_ts": 1793012445.8727832,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 25,
+      "ad_flour": 26,
       "gilam_eag": 14,
       "ad_job": 25,
       "ad_water": 24
@@ -218,12 +218,12 @@
     "permanent_index": 2,
     "day": "2026-10-26",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_job": 2,
       "ad_water": 2
     },
     "last_shown": {
-      "ad_flour": 1792996233.3054268,
+      "ad_flour": 1793012445.8727808,
       "ad_job": 1793001648.9448547,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793007037.0633056,

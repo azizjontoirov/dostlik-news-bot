@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792981841.1813588,
+  "last_post_ts": 1792983651.9317179,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda islomiy moliyaning “Murobaha” standartini joriy etish taklif qilindi",
-      "headline": "Islomiy moliyada “Murobaha” standartini joriy etish taklifi 📈🕌",
-      "ts": 1792810850.628533
-    },
     {
       "source_title": "Buxoroda 2 ming so‘mlik 1516 dona qalbaki banknota topildi",
       "headline": "Buxoroda 2 000 so'mlik 1 516 dona qalbaki banknota topildi 🕵️‍♂️💰",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда 26 октябрь — 1 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
       "headline": "O'zbekistonda ob-havo prognozi (26 oktyabr‑1 noyabr) ☀️❄️",
       "ts": 1792981839.177519
+    },
+    {
+      "source_title": "“Manchester Yunayted” Husanovning raqobatchisini o‘z safiga qo‘shib olmoqchi",
+      "headline": "Manchester United Husanovning raqobatchisini o'z safiga qo'shmoqchi ⚽️🔁",
+      "ts": 1792983649.9286516
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792980044.5557194,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 1
+    "count": 2
   }
 }

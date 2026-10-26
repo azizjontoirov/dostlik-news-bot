@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793017836.6313396,
+  "last_post_ts": 1793019656.6166852,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda 265 o‘rinli yangi onkologiya markazi quriladi",
-      "headline": "Toshkentda yangi onkologiya markazi quriladi",
-      "ts": 1792846855.543457
-    },
     {
       "source_title": "O‘zbekiston Para Osiyo o‘yinlarini 3-o‘rinda yakunladi",
       "headline": "O'zbekiston Para Osiyo o'yinlarida 3‑o'rinda! 🥉",
@@ -200,11 +195,16 @@
       "source_title": "Kinorejissyor Zulfiqor Musoqovga prezident sovgʻasi – Yangi Toshkentdan xonadon berildi",
       "headline": "Prezident sovg'asi – Yangi Toshkentdan 3 xonali xonadon 🎁",
       "ts": 1793016049.1448333
+    },
+    {
+      "source_title": "Komissiya yo‘q: Click Koshelyok bilan komissiyasiz o‘tkazing",
+      "headline": "Click Koshelyok bilan komissiyasiz pul o'tkazing 💸",
+      "ts": 1793019654.6132956
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793017836.6297534,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 14
+    "count": 15
   }
 }

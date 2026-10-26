@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793026866.030609,
+  "last_post_ts": 1793028639.712273,
   "recent_posts": [
     {
       "source_title": "Superliga. “Nasaf” o‘z maydonida “So‘g‘diyona”dan ustun keldi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793023254.2228136,
+    "last_ad_ts": 1793028639.7096055,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 26,
+      "ad_flour": 27,
       "gilam_eag": 14,
       "ad_job": 26,
       "ad_water": 25
@@ -218,12 +218,12 @@
     "permanent_index": 2,
     "day": "2026-10-26",
     "today": {
-      "ad_flour": 3,
+      "ad_flour": 4,
       "ad_job": 3,
       "ad_water": 3
     },
     "last_shown": {
-      "ad_flour": 1793012445.8727808,
+      "ad_flour": 1793028639.7096028,
       "ad_job": 1793017836.629751,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793023254.2228112,

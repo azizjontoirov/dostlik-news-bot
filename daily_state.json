@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792947647.3657436,
+  "last_post_ts": 1792981841.1813588,
   "recent_posts": [
-    {
-      "source_title": "Аҳоли учун ажратилган минглаб газ баллонлари оширилган нархда сотишга уринилди",
-      "headline": "Aholi uchun ajratilgan minglab gaz balonlari oshirgan narxda sotishga urindilar",
-      "ts": 1792809042.7931094
-    },
     {
       "source_title": "O‘zbekistonda islomiy moliyaning “Murobaha” standartini joriy etish taklif qilindi",
       "headline": "Islomiy moliyada “Murobaha” standartini joriy etish taklifi 📈🕌",
@@ -200,11 +195,16 @@
       "source_title": "Sirdaryoda erkakning ikkinchi xotini uning ayoli va olti yoshli qizini pichoqlab o‘ldirdi",
       "headline": "Sirdaryoda qotillik: 29‑yoshli ayol 2 nafar ayol va 2 nafar qizga pichoq bilan hujum qildi",
       "ts": 1792945838.636097
+    },
+    {
+      "source_title": "Ўзбекистонда 26 октябрь — 1 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
+      "headline": "O'zbekistonda ob-havo prognozi (26 oktyabr‑1 noyabr) ☀️❄️",
+      "ts": 1792981839.177519
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792980044.5557194,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-25",
-    "count": 20
+    "day": "2026-10-26",
+    "count": 1
   }
 }

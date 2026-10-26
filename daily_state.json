@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793016051.1481872,
+  "last_post_ts": 1793017836.6313396,
   "recent_posts": [
     {
       "source_title": "Toshkentda 265 o‘rinli yangi onkologiya markazi quriladi",
@@ -204,27 +204,27 @@
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793012445.8727832,
+    "last_ad_ts": 1793017836.6297534,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 26,
       "gilam_eag": 14,
-      "ad_job": 25,
+      "ad_job": 26,
       "ad_water": 24
     },
     "permanent_index": 2,
     "day": "2026-10-26",
     "today": {
       "ad_flour": 3,
-      "ad_job": 2,
+      "ad_job": 3,
       "ad_water": 2
     },
     "last_shown": {
       "ad_flour": 1793012445.8727808,
-      "ad_job": 1793001648.9448547,
+      "ad_job": 1793017836.629751,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793007037.0633056,
       "gilam_eag": 1792764054.4116373

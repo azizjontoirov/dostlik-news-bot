@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793007037.064963,
+  "last_post_ts": 1793008852.8801928,
   "recent_posts": [
-    {
-      "source_title": "Ogʻir va hayot uchun xavfli kasalliklarga chalingan bolalarni qoʻllab-quvvatlash boʻyicha Global tarmoq tuzildi",
-      "headline": "Global tarmoq – og'ir kasalliklarga chalingan bolalarga yangi umid 🌟",
-      "ts": 1792836055.846524
-    },
     {
       "source_title": "Grippning oldini oladigan C vitaminiga boy mahsulotlar",
       "headline": "C vitamini bilan grippga qarshi kurashing! 💪",
@@ -200,11 +195,16 @@
       "source_title": "Душанба давомида Тошкентда ҳаво соғлиқ учун зарарли бўлади",
       "headline": "Toshkentda havoning sifati zararli bo'ladi (duşanba) ⚠️",
       "ts": 1793005259.4168522
+    },
+    {
+      "source_title": "Ойбек Турсунов Perfectum бош офиси ва бошқа активларини 100 млрд сўмга яқин суммага сотиб олмоқда",
+      "headline": "O'zbek Tursunov Perfectum bosh ofisini 100 mlrd so'mga sotib olmoqda",
+      "ts": 1793008850.8770616
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793007037.063308,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 10
+    "count": 11
   }
 }

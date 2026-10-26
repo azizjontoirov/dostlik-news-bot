@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793019656.6166852,
+  "last_post_ts": 1793021445.069299,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston Para Osiyo o‘yinlarini 3-o‘rinda yakunladi",
-      "headline": "O'zbekiston Para Osiyo o'yinlarida 3‑o'rinda! 🥉",
-      "ts": 1792848640.7681925
-    },
     {
       "source_title": "Abduqodir Husanov “Aston Villa”ga qarshi bahsda “Manchester Siti” safida harakat qilgan eng yaxshi himoyachi bo‘ldi",
       "headline": "Abduqodir Husanov “Manchester Siti”ga qarshi eng yaxshi himoyachi bo'ldi",
@@ -200,11 +195,16 @@
       "source_title": "Komissiya yo‘q: Click Koshelyok bilan komissiyasiz o‘tkazing",
       "headline": "Click Koshelyok bilan komissiyasiz pul o'tkazing 💸",
       "ts": 1793019654.6132956
+    },
+    {
+      "source_title": "O‘zbekiston kino sohasi vakillari palatasi tashkil etiladi",
+      "headline": "O'zbekiston kino sohasi vakillari palatasi tashkil etildi",
+      "ts": 1793021443.0657837
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793017836.6297534,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 15
+    "count": 16
   }
 }

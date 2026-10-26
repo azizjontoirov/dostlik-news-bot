@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793003451.7349153,
+  "last_post_ts": 1793005261.420226,
   "recent_posts": [
-    {
-      "source_title": "Yuz terisida pigment dog‘lar paydo bo‘lsa nima qilish kerak?",
-      "headline": "Yuz terisida pigment dog'lari – nima qilish kerak? 🩺✨",
-      "ts": 1792832450.630172
-    },
     {
       "source_title": "Ogʻir va hayot uchun xavfli kasalliklarga chalingan bolalarni qoʻllab-quvvatlash boʻyicha Global tarmoq tuzildi",
       "headline": "Global tarmoq – og'ir kasalliklarga chalingan bolalarga yangi umid 🌟",
@@ -200,11 +195,16 @@
       "source_title": "Toshkentda isitish mavsumi qachon boshlanishiga izoh berildi",
       "headline": "Toshkentda isitish mavsumi qachon boshlanishi? 🔥❄️",
       "ts": 1793003449.7307673
+    },
+    {
+      "source_title": "Душанба давомида Тошкентда ҳаво соғлиқ учун зарарли бўлади",
+      "headline": "Toshkentda havoning sifati zararli bo'ladi (duşanba) ⚠️",
+      "ts": 1793005259.4168522
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793001648.9448566,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 9
+    "count": 10
   }
 }

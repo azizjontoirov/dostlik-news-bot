@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1792983651.9317179,
+  "last_post_ts": 1792985434.7596095,
   "recent_posts": [
     {
       "source_title": "Buxoroda 2 ming so‘mlik 1516 dona qalbaki banknota topildi",
@@ -204,25 +204,26 @@
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1792980044.5557194,
+    "last_ad_ts": 1792985434.7557237,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 24,
       "gilam_eag": 14,
-      "ad_job": 23,
+      "ad_job": 24,
       "ad_water": 22
     },
     "permanent_index": 2,
     "day": "2026-10-26",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "ad_job": 1
     },
     "last_shown": {
       "ad_flour": 1792980044.5557168,
-      "ad_job": 1792942234.2604458,
+      "ad_job": 1792985434.7557213,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1792947647.3591628,
       "gilam_eag": 1792764054.4116373

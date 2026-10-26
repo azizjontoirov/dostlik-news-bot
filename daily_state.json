@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793025044.098199,
+  "last_post_ts": 1793026866.030609,
   "recent_posts": [
-    {
-      "source_title": "Эрон элчиси Самарқанднинг тарихий меросига оид баёнотлар сабаб ТИВга чақиртирилди",
-      "headline": "Эрон элчиси Самарқанд меросига оид нотаси ТИВга чақирилди 🇮🇷⚖️",
-      "ts": 1792854051.554924
-    },
     {
       "source_title": "Superliga. “Nasaf” o‘z maydonida “So‘g‘diyona”dan ustun keldi",
       "headline": "Nasaf “So'g'diyona”ni 2:1 g'alaba bilan yengdi ⚽️🏆",
@@ -200,11 +195,16 @@
       "source_title": "Tom va yomg‘ir o‘rtasida: Rossiya innovatsiyalari O‘zbekistonda binolarni qanday himoya qiladi?",
       "headline": "Tom va yomg'ir o'rtasida: Rossiya innovatsiyalari O'zbekistonda binolarni qanday himoya qiladi? 🌧️🏢",
       "ts": 1793025042.094985
+    },
+    {
+      "source_title": "Misr o‘zbekistonlik sayyohlar uchun yangi kirish talablarini joriy etishni kechiktirdi",
+      "headline": "Misr sayyohlik talablari kechiktirildi ✈️🗓️",
+      "ts": 1793026864.0266585
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793023254.2228136,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 17
+    "count": 18
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793012445.8747633,
+  "last_post_ts": 1793014246.3337212,
   "recent_posts": [
-    {
-      "source_title": "Qoraqalpog‘istonda avtomashinaning orqa o‘rindig‘i ostidan 23 dona o‘q-dori topildi",
-      "headline": "Qoraqalpog'istonda orqa o'rindig'idan 23 dona o'q‑dori topildi 🚔🔎",
-      "ts": 1792841442.5278592
-    },
     {
       "source_title": "“Qonun qabul qilinsa, ertasigayoq barcha muammolar hal bo‘lib qolmaydi” — Sherzod Shermatov bolalarga ijtimoiy tarmoqlarni cheklash haqida",
       "headline": "Bolalarga ijtimoiy tarmoqlarni cheklash – Sherzod Shermatovning taklifi",
@@ -200,11 +195,16 @@
       "source_title": "Футбол: Ўзбекистон миллий жамоасининг Осиё кубоги-2027 гуруҳ босқичидаги тақвими эълон қилинди",
       "headline": "O'zbekiston milliy jamoasining Osiyo Kubogi-2027 guruh bosqichi jadvali e'lon qilindi",
       "ts": 1793010643.3276336
+    },
+    {
+      "source_title": "O‘zbekistonning yettita hududida suyultirilgan gaz bilan bog‘liq qonunbuzilishlar aniqlandi",
+      "headline": "Suyultirilgan gazda qonunbuzilishlar aniqlandi – 7 hududda katta zarar",
+      "ts": 1793014244.3292446
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793012445.8727832,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 12
+    "count": 13
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792985434.7596095,
+  "last_post_ts": 1792987251.2686815,
   "recent_posts": [
-    {
-      "source_title": "Buxoroda 2 ming so‘mlik 1516 dona qalbaki banknota topildi",
-      "headline": "Buxoroda 2 000 so'mlik 1 516 dona qalbaki banknota topildi 🕵️‍♂️💰",
-      "ts": 1792814446.043969
-    },
     {
       "source_title": "Chexiyada og‘ir moliyaviy ahvolga tushib qolgan o‘zbekistonlik vatanga qaytarildi",
       "headline": "Chexiyada moliyaviy qiyinchilikka duch kelgan o'zbeksiz qaytarildi 🇨🇿➡️🇺🇿",
@@ -200,11 +195,16 @@
       "source_title": "“Manchester Yunayted” Husanovning raqobatchisini o‘z safiga qo‘shib olmoqchi",
       "headline": "Manchester United Husanovning raqobatchisini o'z safiga qo'shmoqchi ⚽️🔁",
       "ts": 1792983649.9286516
+    },
+    {
+      "source_title": "Asakadagi tekstil korxonasida yong‘in yuz berdi",
+      "headline": "Asaka tumanidagi tekstil korxonasida yong'in",
+      "ts": 1792987249.2653434
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792985434.7557237,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 2
+    "count": 3
   }
 }

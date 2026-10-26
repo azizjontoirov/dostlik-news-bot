@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792990841.7140577,
+  "last_post_ts": 1792992641.0248342,
   "recent_posts": [
-    {
-      "source_title": "Нима тайёрлаймиз: иссиққина шўрвалар",
-      "headline": "Nima tayyorlaymiz: issiq shorvalar",
-      "ts": 1792819583.959238
-    },
     {
       "source_title": "Qariyalar uyida yashaydigan 96 yoshli ayol TikTok’da 15 mln obunachi to‘plab, minglab dollar daromad topmoqda",
       "headline": "96‑yoshli ayol TikTok‑yulduzi! 🌟💰",
@@ -200,11 +195,16 @@
       "source_title": "Тошкентда Жанубий Корея кўмагида 265 ўринли онкология маркази қурилади",
       "headline": "Toshkentda Janubiy Koreya ko'magida 265 o'rinli onkologiya markazi quriladi",
       "ts": 1792989041.9848065
+    },
+    {
+      "source_title": "Тошкентда Onix уриб юборган пиёда шифохонада вафот этди",
+      "headline": "Onix haydovchisi piyada shifoxonada halok bo'ldi",
+      "ts": 1792992639.0222297
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792990841.712306,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 4
+    "count": 5
   }
 }

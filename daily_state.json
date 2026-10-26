@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1792992641.0248342,
+  "last_post_ts": 1792994455.30005,
   "recent_posts": [
-    {
-      "source_title": "Qariyalar uyida yashaydigan 96 yoshli ayol TikTok’da 15 mln obunachi to‘plab, minglab dollar daromad topmoqda",
-      "headline": "96‑yoshli ayol TikTok‑yulduzi! 🌟💰",
-      "ts": 1792821652.4186654
-    },
     {
       "source_title": "“Together. For Family”: O‘zbekiston vakillari Xitoyda bo‘lib o‘tgan Chery Brand Night tadbirida ishtirok etdi",
       "headline": "Together. For Family” – O'zbekiston vakillari Xitoyda Chery Brand Night tadbirida qatnashdi 🚗🌏",
@@ -200,11 +195,16 @@
       "source_title": "Тошкентда Onix уриб юборган пиёда шифохонада вафот этди",
       "headline": "Onix haydovchisi piyada shifoxonada halok bo'ldi",
       "ts": 1792992639.0222297
+    },
+    {
+      "source_title": "O‘zbekistonda 1,4 ming tonna suyultirilgan gaz talon-toroj qilingani aniqlandi",
+      "headline": "Suyultirilgan gaz talon‑torojiga qarshi qat'iy choralar! 🚨",
+      "ts": 1792994453.2963862
     }
   ],
   "morning_sent_date": "2026-10-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1792990841.712306,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-26",
-    "count": 5
+    "count": 6
   }
 }

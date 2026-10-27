@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793118644.4839644,
+  "last_post_ts": 1793120456.108477,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда 26 октябрь — 1 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793115039.0280328,
+    "last_ad_ts": 1793120456.1058507,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 30,
+      "ad_flour": 31,
       "gilam_eag": 14,
       "ad_job": 30,
       "ad_water": 29
@@ -219,11 +219,11 @@
     "day": "2026-10-27",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3,
+      "ad_flour": 4,
       "ad_job": 3
     },
     "last_shown": {
-      "ad_flour": 1793104239.2457938,
+      "ad_flour": 1793120456.105848,
       "ad_job": 1793109647.3577976,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793115039.0280302,

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793109647.360051,
+  "last_post_ts": 1793111450.7938056,
   "recent_posts": [
-    {
-      "source_title": "Superliga: “OKMK” so‘nggi daqiqalardagi gol evaziga “Qo‘qon-1912”dan ustun keldi",
-      "headline": "Superliga: “OKMK” “Qo'qon‑1912”ni mag'lub etdi!",
-      "ts": 1792938639.9417758
-    },
     {
       "source_title": "Töqqiz oy davomida 10,6 mingdan ortiq gazballoni talon-toroj qilingani aniqlandi.",
       "headline": "Gazballon talon-torojiga qarshi qat'iy choralar! 🚨",
@@ -200,11 +195,16 @@
       "source_title": "“Gukeshni mag‘lub etish imkoniyatim — 50,1 foiz” — Javohir Sindorov",
       "headline": "Gukeshni mag'lub etish imkoniyatim — 50,1% ♟️",
       "ts": 1793107847.4960408
+    },
+    {
+      "source_title": "Prezident Olimpiadasi dasturidagi sport turlari soni 35 taga yetkaziladi",
+      "headline": "Prezident Olimpiadasi sport turlari 35 taga yetdi!",
+      "ts": 1793111448.790302
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793109647.3578002,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 16
+    "count": 17
   }
 }

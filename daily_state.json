@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793102457.487696,
+  "last_post_ts": 1793104239.2477489,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev Paraosiyo oʻyinlari gʻoliblari va ishtirokchilarini tabrikladi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793098849.529268,
+    "last_ad_ts": 1793104239.2457962,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 29,
+      "ad_flour": 30,
       "gilam_eag": 14,
       "ad_job": 29,
       "ad_water": 28
@@ -219,11 +219,11 @@
     "day": "2026-10-27",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_job": 2
     },
     "last_shown": {
-      "ad_flour": 1793088040.4860265,
+      "ad_flour": 1793104239.2457938,
       "ad_job": 1793093434.577963,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793098849.5292652,

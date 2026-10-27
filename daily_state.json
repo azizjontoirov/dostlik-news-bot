@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793116864.4483757,
+  "last_post_ts": 1793118644.4839644,
   "recent_posts": [
-    {
-      "source_title": "Sirdaryoda erkakning ikkinchi xotini uning ayoli va olti yoshli qizini pichoqlab o‘ldirdi",
-      "headline": "Sirdaryoda qotillik: 29‑yoshli ayol 2 nafar ayol va 2 nafar qizga pichoq bilan hujum qildi",
-      "ts": 1792945838.636097
-    },
     {
       "source_title": "Ўзбекистонда 26 октябрь — 1 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
       "headline": "O'zbekistonda ob-havo prognozi (26 oktyabr‑1 noyabr) ☀️❄️",
@@ -200,11 +195,16 @@
       "source_title": "Мукофот пуллари оширилиши, стипендия ва ОТМларга грантлар. Президент олимпиадаси ғолибларига қандай имтиёзлар берилади?",
       "headline": "Prezident Olimpiadasi g'oliblariga yangi imtiyozlar!",
       "ts": 1793116862.4439337
+    },
+    {
+      "source_title": "“Prezident va ijod maktablari bitiruvchilarining barchasi talaba boʻlmoqda” — Sevara Shokirova",
+      "headline": "Prezident maktablari bitiruvchilari talaba bo'layapti 🎓📚",
+      "ts": 1793118642.0603788
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793115039.0280328,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 19
+    "count": 20
   }
 }

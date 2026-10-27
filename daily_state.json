@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793086243.0919957,
+  "last_post_ts": 1793088040.5148406,
   "recent_posts": [
     {
       "source_title": "«Хизматингиз қадри доимо баланд бўлсин». Президент ИИВ ходимларини табриклади",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793082637.6059356,
+    "last_ad_ts": 1793088040.4860284,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 28,
+      "ad_flour": 29,
       "gilam_eag": 14,
       "ad_job": 28,
       "ad_water": 27
@@ -219,11 +219,11 @@
     "day": "2026-10-27",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_job": 1
     },
     "last_shown": {
-      "ad_flour": 1793071841.9371502,
+      "ad_flour": 1793088040.4860265,
       "ad_job": 1793077242.2934027,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793082637.6059334,

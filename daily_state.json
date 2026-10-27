@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793080850.6977255,
+  "last_post_ts": 1793082637.6086295,
   "recent_posts": [
     {
       "source_title": "Janubiy Koreyada o‘zbekistonlik erkak taksi haydovchisini kaltaklashda gumonlanmoqda",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793077242.2934055,
+    "last_ad_ts": 1793082637.6059356,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 28,
       "gilam_eag": 14,
       "ad_job": 28,
-      "ad_water": 26
+      "ad_water": 27
     },
     "permanent_index": 2,
     "day": "2026-10-27",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1,
       "ad_job": 1
     },
@@ -226,7 +226,7 @@
       "ad_flour": 1793071841.9371502,
       "ad_job": 1793077242.2934027,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793066444.273796,
+      "ad_water": 1793082637.6059334,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-27"

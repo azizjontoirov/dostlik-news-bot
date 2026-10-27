@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793084451.7754912,
+  "last_post_ts": 1793086243.0919957,
   "recent_posts": [
-    {
-      "source_title": "Rossiyada voyaga yetmagan qizni zo‘rlashda ayblanib qidiruvda bo‘lgan o‘zbekistonlik ushlandi",
-      "headline": "Rossiyada ayblanib qidiruvda bo'lgan o'zbekistonlik ushlandi 🚨",
-      "ts": 1792913438.6239424
-    },
     {
       "source_title": "«Хизматингиз қадри доимо баланд бўлсин». Президент ИИВ ходимларини табриклади",
       "headline": "Xizmatingiz qadri doimo baland bo'lsin",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda Ibn Sino nomidagi davlat mukofoti ta’sis etiladi",
       "headline": "Ibn Sino nomidagi davlat mukofoti ta'sis etildi 🏅",
       "ts": 1793084449.771935
+    },
+    {
+      "source_title": "O‘zbekistonda tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o‘rganadi",
+      "headline": "Tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o'rganadi",
+      "ts": 1793086241.088757
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793082637.6059356,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 7
+    "count": 8
   }
 }

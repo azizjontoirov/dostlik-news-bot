@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793093434.5851834,
+  "last_post_ts": 1793095260.6857722,
   "recent_posts": [
-    {
-      "source_title": "Xorijiy va nodavlat OTTlarga maqsadli qabul imtihonlari uchun ruxsatnomalar e’lon qilindi",
-      "headline": "Xorijiy va nodavlat oliy ta'lim tashkilotlari uchun maqsadli imtihon ruxsatnomalari e'lon qilindi 📚🗓️",
-      "ts": 1792922451.0970752
-    },
     {
       "source_title": "“Eksport rejasini bajarib berish uchun”. Bo‘ston tumani hokimining fermerlardan pul talab qilgan ikki o‘rinbosari qamaldi",
       "headline": "Eksport rejasini bajarib berish uchun pul talab qilgan hokim o'rinbosarlari qamaldi",
@@ -200,11 +195,16 @@
       "source_title": "Самарқандда 7−8 ноябрь кунлари Samarkand Marathon бўлиб ўтади",
       "headline": "Samarkand Marathon 7‑8 noyabr 🏃‍♂️🌍",
       "ts": 1793091650.755542
+    },
+    {
+      "source_title": "Oʻzbekistondagi raqamli toʻlovlarda katta oʻzgarish — Apple Pay va Google Pay rasman ishga tushdi",
+      "headline": "Raqamli to'lovlarda yangi sahna – Apple Pay va Google Pay O'zbekistonda ishga tushdi!",
+      "ts": 1793095258.682181
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793093434.5779653,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 10
+    "count": 11
   }
 }

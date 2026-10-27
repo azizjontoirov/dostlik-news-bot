@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793088040.5148406,
+  "last_post_ts": 1793089844.8002033,
   "recent_posts": [
-    {
-      "source_title": "«Хизматингиз қадри доимо баланд бўлсин». Президент ИИВ ходимларини табриклади",
-      "headline": "Xizmatingiz qadri doimo baland bo'lsin",
-      "ts": 1792917045.0389886
-    },
     {
       "source_title": "«Siti» ilk bor yutqazdi, «Arsenal» yetib oldi.",
       "headline": "Abduqodir Husanov yutqazdi, Arsenal g'alaba qozondi",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistonda tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o‘rganadi",
       "headline": "Tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o'rganadi",
       "ts": 1793086241.088757
+    },
+    {
+      "source_title": "Ozon O‘zbekiston Toshkentdagi sotuvchilar uchun o‘zining ilk forumini o‘tkazadi",
+      "headline": "Ozon kompaniyasining Toshkentdagi ilk forumi – COME ON Forum 🚀",
+      "ts": 1793089842.7974987
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793088040.4860284,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 8
+    "count": 9
   }
 }

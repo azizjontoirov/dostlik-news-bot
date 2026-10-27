@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793073685.8635995,
+  "last_post_ts": 1793075442.5170236,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда шиша, пластик идишлар ва банкалар учун мажбурий депозит тизими жорий этилиши мумкин",
-      "headline": "Majburiy depozit tizimi joriy etilishi mumkin",
-      "ts": 1792902641.0751934
-    },
     {
       "source_title": "Namanganda voyaga yetmagan qizga shilqimlik qilgan yigit 5 sutkaga qamaldi",
       "headline": "Namanganda voyaga yetmagan qizga shilqimlik qilgan yigit 5 sutkaga qamaldi 🕒⚖️",
@@ -200,11 +195,16 @@
       "source_title": "Prezident tibbiy infratuzilmani 2036-yilgaça rivojlantiriş rejalari bilan tanişdi.",
       "headline": "Prezident tibbiy infratuzilmani 2036-yilgacha rivojlantirish rejalari bilan tanishtirdi 🚑🌍",
       "ts": 1793073683.8599293
+    },
+    {
+      "source_title": "Özbekiston va Afğoniston savdosi 5 milliard dollarga yetişi mumkin.",
+      "headline": "Özbekiston va Afg'oniston savdosi 5 milliard dollarga yetishi mumkin 💰🌍",
+      "ts": 1793075440.5103273
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793071841.937152,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 3
+    "count": 4
   }
 }

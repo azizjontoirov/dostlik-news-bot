@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793104239.2477489,
+  "last_post_ts": 1793106057.8966043,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Paraosiyo oʻyinlari gʻoliblari va ishtirokchilarini tabrikladi",
-      "headline": "Shavkat Mirziyoyev Paraosiyo o'yinlari g'oliblari va ishtirokchilarini tabrikladi 🏅",
-      "ts": 1792933252.0230954
-    },
     {
       "source_title": "Toshkentda ikki tuman soliq inspeksiyasining sobiq boshliqlariga sud hukmi o‘qildi",
       "headline": "Toshkentda ikki tuman soliq inspeksiyasining sobiq boshliqlariga sud hukmi o'qildi",
@@ -200,11 +195,16 @@
       "source_title": "Qashqadaryoda “Jiguli” daraxtga urildi, 20 yoshli haydovchi halok bo‘ldi",
       "headline": "Shahrisabzda avtohalokat: haydovchi halok bo'ldi",
       "ts": 1793102455.4835155
+    },
+    {
+      "source_title": "O‘zbekistonda o‘rtacha oylik ish haqi qariyb 7,3 mln so‘mga yetdi",
+      "headline": "O'rtacha oylik ish haqi 7,3 mln so'mga yetdi 💰📈",
+      "ts": 1793106055.8926866
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793104239.2457962,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 14
+    "count": 15
   }
 }

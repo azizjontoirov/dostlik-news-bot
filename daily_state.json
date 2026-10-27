@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793098849.5310934,
+  "last_post_ts": 1793100645.035007,
   "recent_posts": [
-    {
-      "source_title": "Toshkent hokimligi tizimidagi tekshiruvlardan so‘ng 24 nafar xodim ishdan bo‘shatildi",
-      "headline": "Toshkent hokimligi tizimida katta tozalash!",
-      "ts": 1792927840.0393405
-    },
     {
       "source_title": "«Ишга кетиб, тирик қайтмаганлар». Хизмат пайтида фожиали вафот этган ички ишлар ходимлари хотирасига бағишланади",
       "headline": "Ishga ketib, tirik qaytmaganlar",
@@ -200,11 +195,16 @@
       "source_title": "Шифокорлар учун ипотека имтиёзлари ва хориждан жалб этиладиган мутахассисларга 50 млн сўмгача устама белгиланди",
       "headline": "Shifokorlar uchun ipoteka imtiyozlari va xorijiy mutaxassislarga ustama!",
       "ts": 1793097046.835522
+    },
+    {
+      "source_title": "Özbekistonda Google Pay işga tuşdi: undan qanday foydalaniş mumkin?.",
+      "headline": "Google Pay O'zbekistonda ishga tushdi! 📱💳",
+      "ts": 1793100643.031197
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793098849.529268,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 12
+    "count": 13
   }
 }

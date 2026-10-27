@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793079044.5533168,
+  "last_post_ts": 1793080850.6977255,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda yashash va ovqatlanish xizmatlari hajmi 173 trln so‘mdan oshdi",
-      "headline": "O'zbekistonda yashash‑ovqatlanish xizmatlari hajmi 173 trln so'mdan oshdi 📈",
-      "ts": 1792908053.6764064
-    },
     {
       "source_title": "Janubiy Koreyada o‘zbekistonlik erkak taksi haydovchisini kaltaklashda gumonlanmoqda",
       "headline": "Janubiy Koreyada o'zbek taksi haydovchisi kaltaklashda gumonlanmoqda 🚖👊",
@@ -200,11 +195,16 @@
       "source_title": "Тошкентдаги ёнғинда ҳалок бўлган аёл қасддан ўлдирилган бўлиши мумкин",
       "headline": "Toshkentda yonqin: 26 yoshli ayol qasd bilan o'ldirilgan bo'lishi mumkin",
       "ts": 1793079042.5383916
+    },
+    {
+      "source_title": "Instagram: 100 mln oylik oladigan Dilshod Mirzamurodov, vodiydagi hovlisini ko‘rsatgan G‘ayrat Usmonov, Munisa Rizayeva bir kunda nechta to‘yga boradi?",
+      "headline": "Instagramda qiziqarli lahzalar! 📸✨",
+      "ts": 1793080848.6934001
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793077242.2934055,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 5
+    "count": 6
   }
 }

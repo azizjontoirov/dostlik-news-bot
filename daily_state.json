@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793100645.035007,
+  "last_post_ts": 1793102457.487696,
   "recent_posts": [
-    {
-      "source_title": "«Ишга кетиб, тирик қайтмаганлар». Хизмат пайтида фожиали вафот этган ички ишлар ходимлари хотирасига бағишланади",
-      "headline": "Ishga ketib, tirik qaytmaganlar",
-      "ts": 1792929645.9429839
-    },
     {
       "source_title": "Shavkat Mirziyoyev Paraosiyo oʻyinlari gʻoliblari va ishtirokchilarini tabrikladi",
       "headline": "Shavkat Mirziyoyev Paraosiyo o'yinlari g'oliblari va ishtirokchilarini tabrikladi 🏅",
@@ -200,11 +195,16 @@
       "source_title": "Özbekistonda Google Pay işga tuşdi: undan qanday foydalaniş mumkin?.",
       "headline": "Google Pay O'zbekistonda ishga tushdi! 📱💳",
       "ts": 1793100643.031197
+    },
+    {
+      "source_title": "Qashqadaryoda “Jiguli” daraxtga urildi, 20 yoshli haydovchi halok bo‘ldi",
+      "headline": "Shahrisabzda avtohalokat: haydovchi halok bo'ldi",
+      "ts": 1793102455.4835155
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793098849.529268,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 13
+    "count": 14
   }
 }

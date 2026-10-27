@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793070060.257576,
+  "last_post_ts": 1793071841.9388878,
   "recent_posts": [
     {
       "source_title": "«Орган ходими адолатни ҳимоя қилиши керак», аммо қандай? Мавзу муҳокамаси",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793066444.2737994,
+    "last_ad_ts": 1793071841.937152,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 27,
+      "ad_flour": 28,
       "gilam_eag": 14,
       "ad_job": 27,
       "ad_water": 26
@@ -218,10 +218,11 @@
     "permanent_index": 2,
     "day": "2026-10-27",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793028639.7096028,
+      "ad_flour": 1793071841.9371502,
       "ad_job": 1793034048.993992,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793066444.273796,

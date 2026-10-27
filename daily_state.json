@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793068244.1867015,
+  "last_post_ts": 1793070060.257576,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda qurilişi rejalaştirilayotgan yangi onkologiya markazi loyihasi böyiça şartnoma imzolandi.",
-      "headline": "Tashkentda yangi onkologiya markazi quriladi",
-      "ts": 1792897248.9869535
-    },
     {
       "source_title": "«Орган ходими адолатни ҳимоя қилиши керак», аммо қандай? Мавзу муҳокамаси",
       "headline": "Орган ходими адолатни ҳимоя қилиши керак» – муҳокама 🏛️🤝",
@@ -200,11 +195,16 @@
       "source_title": "Тиббиёт инфратузилмаси ягона мастер режа асосида ривожлантирилади",
       "headline": "Tibbiyot infratuzilmasi yagona master-reja asosida rivojlantiriladi 🏥📈",
       "ts": 1793068242.183037
+    },
+    {
+      "source_title": "O‘zbekistonda tibbiyot muassasalarini qurish va jihozlash bo‘yicha yagona talablarni joriy etish taklif qilindi",
+      "headline": "Tibbiyot infratuzilmasini yagona master‑reja asosida rivojlantiramiz",
+      "ts": 1793070058.2532732
     }
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793066444.2737994,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-27",
-    "count": 1
+    "count": 2
   }
 }

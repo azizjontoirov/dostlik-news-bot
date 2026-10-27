@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793113260.1426601,
+  "last_post_ts": 1793115039.0302713,
   "recent_posts": [
     {
       "source_title": "UNICEF Termizni afg‘on bolalariga yordam yetkazishda muhim markaz deb atadi",
@@ -204,21 +204,21 @@
   ],
   "morning_sent_date": "2026-10-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793109647.3578002,
+    "last_ad_ts": 1793115039.0280328,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 30,
       "gilam_eag": 14,
       "ad_job": 30,
-      "ad_water": 28
+      "ad_water": 29
     },
     "permanent_index": 2,
     "day": "2026-10-27",
     "today": {
-      "ad_water": 3,
+      "ad_water": 4,
       "ad_flour": 3,
       "ad_job": 3
     },
@@ -226,7 +226,7 @@
       "ad_flour": 1793104239.2457938,
       "ad_job": 1793109647.3577976,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793098849.5292652,
+      "ad_water": 1793115039.0280302,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-27"

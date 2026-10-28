@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793120456.108477,
+  "last_post_ts": 1793154674.75813,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда 26 октябрь — 1 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
-      "headline": "O'zbekistonda ob-havo prognozi (26 oktyabr‑1 noyabr) ☀️❄️",
-      "ts": 1792981839.177519
-    },
     {
       "source_title": "“Manchester Yunayted” Husanovning raqobatchisini o‘z safiga qo‘shib olmoqchi",
       "headline": "Manchester United Husanovning raqobatchisini o'z safiga qo'shmoqchi ⚽️🔁",
@@ -200,11 +195,16 @@
       "source_title": "“Prezident va ijod maktablari bitiruvchilarining barchasi talaba boʻlmoqda” — Sevara Shokirova",
       "headline": "Prezident maktablari bitiruvchilari talaba bo'layapti 🎓📚",
       "ts": 1793118642.0603788
+    },
+    {
+      "source_title": "O‘zbekistonda to‘qqiz oyda qariyb 56 ming fuqaroning buzilgan huquqlari tiklandi",
+      "headline": "O'ZBEKISTONDA 9‑OYDA 56 000 NAFAAR HUQUQLARI TIKLANDI",
+      "ts": 1793154672.7543988
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793152844.1721215,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-27",
-    "count": 20
+    "day": "2026-10-28",
+    "count": 1
   }
 }

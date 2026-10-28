@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793201436.677824,
+  "last_post_ts": 1793203253.4812026,
   "recent_posts": [
-    {
-      "source_title": "Elit OCHL. “Neftchi” so‘nggi daqiqalardagi gol evaziga “Al-Ittihod\"ga mag‘lub bo‘ldi",
-      "headline": "Elit “Neftchi” Al‑Ittihodga mag'lub bo'ldi",
-      "ts": 1793030454.924288
-    },
     {
       "source_title": "“ ‘Eslab-eslab’ bir gapiring qani” — prezident aktyor Farhod Abdullayevga hazil qildi",
       "headline": "Eslab‑eslab” bir gapiring qani! 🎭",
@@ -200,11 +195,16 @@
       "source_title": "Andijon—Samarqand yo‘nalishida tezyurar poyezd qatnovi yo‘lga qo‘yilishi mumkin",
       "headline": "Andijon‑Samarqand yo'nalishida tezyurar poyezd qatnovi yo'lga qo'yilishi mumkin",
       "ts": 1793199673.1688633
+    },
+    {
+      "source_title": "OCHL 2. “Nasaf” o‘z maydonida Kuvayt klubiga mag‘lub bo‘ldi",
+      "headline": "Nasaf” O'z maydonida Al‑Kuvaytga mag'lub bo'ldi",
+      "ts": 1793203251.4775913
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793201436.6703908,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 18
+    "count": 19
   }
 }

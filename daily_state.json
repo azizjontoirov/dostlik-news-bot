@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793192467.4211607,
+  "last_post_ts": 1793194254.235936,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston kino sohasi vakillari palatasi tashkil etiladi",
-      "headline": "O'zbekiston kino sohasi vakillari palatasi tashkil etildi",
-      "ts": 1793021443.0657837
-    },
     {
       "source_title": "Tom va yomg‘ir o‘rtasida: Rossiya innovatsiyalari O‘zbekistonda binolarni qanday himoya qiladi?",
       "headline": "Tom va yomg'ir o'rtasida: Rossiya innovatsiyalari O'zbekistonda binolarni qanday himoya qiladi? 🌧️🏢",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда фуқароларга ҳуқуқлари бузилишидан олдин судга мурожаат қилишга рухсат берилиши мумкин",
       "headline": "Fuqarolar huquqlarini himoya qilish uchun yangi imkoniyat",
       "ts": 1793192465.409187
+    },
+    {
+      "source_title": "Prezident huzurida soğliqni saqlaş sohasidagi yirik investitsiya loyihalari körib çiqildi",
+      "headline": "Sog'liqni saqlash sohasida yirik investitsiya loyihalari e'lon qilindi",
+      "ts": 1793194252.228371
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793190641.2591105,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 15
+    "count": 16
   }
 }

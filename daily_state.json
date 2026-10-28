@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793196050.9693468,
+  "last_post_ts": 1793197848.0265462,
   "recent_posts": [
-    {
-      "source_title": "Tom va yomg‘ir o‘rtasida: Rossiya innovatsiyalari O‘zbekistonda binolarni qanday himoya qiladi?",
-      "headline": "Tom va yomg'ir o'rtasida: Rossiya innovatsiyalari O'zbekistonda binolarni qanday himoya qiladi? 🌧️🏢",
-      "ts": 1793025042.094985
-    },
     {
       "source_title": "Misr o‘zbekistonlik sayyohlar uchun yangi kirish talablarini joriy etishni kechiktirdi",
       "headline": "Misr sayyohlik talablari kechiktirildi ✈️🗓️",
@@ -200,11 +195,16 @@
       "source_title": "Prezident huzurida soğliqni saqlaş sohasidagi yirik investitsiya loyihalari körib çiqildi",
       "headline": "Sog'liqni saqlash sohasida yirik investitsiya loyihalari e'lon qilindi",
       "ts": 1793194252.228371
+    },
+    {
+      "source_title": "Тошкент ва Фарғонада контрафакт диний китоблар чоп этган яширин босмахоналар аниқланди",
+      "headline": "Toshkent va Farg'onada kontfrakt diniy kitoblar bosma bosmaxonalari aniqlandi 📚",
+      "ts": 1793197846.0225763
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793196050.9671512,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 16
+    "count": 17
   }
 }

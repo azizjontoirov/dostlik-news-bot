@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793187045.7403147,
+  "last_post_ts": 1793188858.7699735,
   "recent_posts": [
-    {
-      "source_title": "Kinorejissyor Zulfiqor Musoqovga prezident sovgʻasi – Yangi Toshkentdan xonadon berildi",
-      "headline": "Prezident sovg'asi – Yangi Toshkentdan 3 xonali xonadon 🎁",
-      "ts": 1793016049.1448333
-    },
     {
       "source_title": "Komissiya yo‘q: Click Koshelyok bilan komissiyasiz o‘tkazing",
       "headline": "Click Koshelyok bilan komissiyasiz pul o'tkazing 💸",
@@ -200,11 +195,16 @@
       "source_title": "Dastlabki 24 soat ichida o‘zbekistonliklar Apple Pay orqali 2,8 mlrd so‘mlik to‘lovni amalga oshirdi",
       "headline": "Apple Pay O'zbekistonda 24 soat ichida 2,8 mlrd so'mlik to'lovni amalga oshirdi 📱💰",
       "ts": 1793187043.737513
+    },
+    {
+      "source_title": "Таниқли журналист Озод Ҳамидхўжаев вафот этди",
+      "headline": "Taniqli jurnalist Ozod Hamidxo'jaev vafot etdi",
+      "ts": 1793188856.7663522
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793185248.9167376,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 13
+    "count": 14
   }
 }

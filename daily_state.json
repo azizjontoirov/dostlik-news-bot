@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793176243.0527635,
+  "last_post_ts": 1793178057.035947,
   "recent_posts": [
-    {
-      "source_title": "Душанба давомида Тошкентда ҳаво соғлиқ учун зарарли бўлади",
-      "headline": "Toshkentda havoning sifati zararli bo'ladi (duşanba) ⚠️",
-      "ts": 1793005259.4168522
-    },
     {
       "source_title": "Ойбек Турсунов Perfectum бош офиси ва бошқа активларини 100 млрд сўмга яқин суммага сотиб олмоқда",
       "headline": "O'zbek Tursunov Perfectum bosh ofisini 100 mlrd so'mga sotib olmoqda",
@@ -200,11 +195,16 @@
       "source_title": "Тошкентликларга кечқурун ва тунда деразаларни ёпиқ тутиш тавсия этилди",
       "headline": "Tashkentda havoning sifati yomon – kechqurun va tunda derazalarni yopiq tuting",
       "ts": 1793176241.0488744
+    },
+    {
+      "source_title": "Suv omborlari atrofida turizm xizmatlarini tashkil etgan tadbirkorlarga soliq imtiyozlari beriladi",
+      "headline": "Suv omborlari atrofida turizmga soliq imtiyozlari 🌊🏞️",
+      "ts": 1793178055.031484
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793174447.295719,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 9
+    "count": 10
   }
 }

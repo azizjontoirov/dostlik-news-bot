@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793183445.7340837,
+  "last_post_ts": 1793185248.9192972,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonning yettita hududida suyultirilgan gaz bilan bog‘liq qonunbuzilishlar aniqlandi",
@@ -204,27 +204,27 @@
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793179836.6274314,
+    "last_ad_ts": 1793185248.9167376,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 33,
       "gilam_eag": 14,
-      "ad_job": 32,
+      "ad_job": 33,
       "ad_water": 31
     },
     "permanent_index": 2,
     "day": "2026-10-28",
     "today": {
-      "ad_job": 2,
+      "ad_job": 3,
       "ad_water": 2,
       "ad_flour": 2
     },
     "last_shown": {
       "ad_flour": 1793179836.627429,
-      "ad_job": 1793169039.1463275,
+      "ad_job": 1793185248.916735,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793174447.2957165,
       "gilam_eag": 1792764054.4116373

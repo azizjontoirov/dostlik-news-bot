@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793160055.136044,
+  "last_post_ts": 1793161853.2620897,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда Жанубий Корея кўмагида 265 ўринли онкология маркази қурилади",
-      "headline": "Toshkentda Janubiy Koreya ko'magida 265 o'rinli onkologiya markazi quriladi",
-      "ts": 1792989041.9848065
-    },
     {
       "source_title": "Тошкентда Onix уриб юборган пиёда шифохонада вафот этди",
       "headline": "Onix haydovchisi piyada shifoxonada halok bo'ldi",
@@ -200,11 +195,16 @@
       "source_title": "Mintaqaviy bog‘liqlik va savdo integratsiyasi. Toshkentda TBEC 2026 xalqaro konferensiyasi bo‘lib o‘tdi",
       "headline": "Mintaqaviy bog'liqlik va savdo integratsiyasi – TBEC 2026 🌐",
       "ts": 1793160053.1296957
+    },
+    {
+      "source_title": "Toshkentda talaba noqonuniy kriptoaktivlar oldi-sotdisi bilan shug‘ullangani aniqlandi",
+      "headline": "Toshkentda talaba noqonuniy kriptoaktivlar oldi‑sotdisi bilan shug'ullangan",
+      "ts": 1793161851.258295
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793158135.8451567,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 3
+    "count": 4
   }
 }

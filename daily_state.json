@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793179836.6304696,
+  "last_post_ts": 1793181430.8041954,
   "recent_posts": [
-    {
-      "source_title": "Ойбек Турсунов Perfectum бош офиси ва бошқа активларини 100 млрд сўмга яқин суммага сотиб олмоқда",
-      "headline": "O'zbek Tursunov Perfectum bosh ofisini 100 mlrd so'mga sotib olmoqda",
-      "ts": 1793008850.8770616
-    },
     {
       "source_title": "Футбол: Ўзбекистон миллий жамоасининг Осиё кубоги-2027 гуруҳ босқичидаги тақвими эълон қилинди",
       "headline": "O'zbekiston milliy jamoasining Osiyo Kubogi-2027 guruh bosqichi jadvali e'lon qilindi",
@@ -200,11 +195,16 @@
       "source_title": "Suv omborlari atrofida turizm xizmatlarini tashkil etgan tadbirkorlarga soliq imtiyozlari beriladi",
       "headline": "Suv omborlari atrofida turizmga soliq imtiyozlari 🌊🏞️",
       "ts": 1793178055.031484
+    },
+    {
+      "source_title": "Тошкентда қурилаётган ҳовлида олти кишининг мурдаси топилди. Улар ис газидан заҳарланган бўлиши мумкин",
+      "headline": "Toshkentda qurilayotgan hovlida is gazidan zaharlanish xavfi ⚠️",
+      "ts": 1793181428.8002443
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793179836.6274314,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 10
+    "count": 11
   }
 }

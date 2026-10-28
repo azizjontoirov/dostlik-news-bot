@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793185248.9192972,
+  "last_post_ts": 1793187045.7403147,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonning yettita hududida suyultirilgan gaz bilan bog‘liq qonunbuzilishlar aniqlandi",
-      "headline": "Suyultirilgan gazda qonunbuzilishlar aniqlandi – 7 hududda katta zarar",
-      "ts": 1793014244.3292446
-    },
     {
       "source_title": "Kinorejissyor Zulfiqor Musoqovga prezident sovgʻasi – Yangi Toshkentdan xonadon berildi",
       "headline": "Prezident sovg'asi – Yangi Toshkentdan 3 xonali xonadon 🎁",
@@ -200,11 +195,16 @@
       "source_title": "Özbekiston va Tailand vizasiz safarlar töğrisidagi bitimni imzolaşga kelişdi",
       "headline": "Uzbekistan va Tailand vizasiz safarlar bo'yicha bitim imzolashga kelishdi",
       "ts": 1793183443.7300465
+    },
+    {
+      "source_title": "Dastlabki 24 soat ichida o‘zbekistonliklar Apple Pay orqali 2,8 mlrd so‘mlik to‘lovni amalga oshirdi",
+      "headline": "Apple Pay O'zbekistonda 24 soat ichida 2,8 mlrd so'mlik to'lovni amalga oshirdi 📱💰",
+      "ts": 1793187043.737513
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793185248.9167376,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 12
+    "count": 13
   }
 }

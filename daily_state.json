@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793170859.6804764,
+  "last_post_ts": 1793172647.3477173,
   "recent_posts": [
-    {
-      "source_title": "“Gukeshda imkoniyat ko‘proq” — Garri Kasparov jahon toji uchun bo‘lajak bahs haqida",
-      "headline": "Gukeshda imkoniyat ko'proq ♟️",
-      "ts": 1792999838.9938471
-    },
     {
       "source_title": "Toshkentda isitish mavsumi qachon boshlanishiga izoh berildi",
       "headline": "Toshkentda isitish mavsumi qachon boshlanishi? 🔥❄️",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда ноябрда об-ҳаво қандай бўлади?",
       "headline": "Noyabrda ob-havo qanday bo'ladi? 🌡️☔",
       "ts": 1793170857.6771812
+    },
+    {
+      "source_title": "Noyabrning ikkinchi yarmida O‘zbekistonda havo sovishi kutilmoqda",
+      "headline": "Noyabrning ikkinchi yarmida havo sovishi kutilmoqda",
+      "ts": 1793172645.3445828
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793169039.1463299,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 7
+    "count": 8
   }
 }

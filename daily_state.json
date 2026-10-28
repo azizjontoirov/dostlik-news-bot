@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793169039.1519227,
+  "last_post_ts": 1793170859.6804764,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonda islomiy bank faoliyati uçun ilk litsenziya berildi.",
-      "headline": "O'zbekistonda islomiy bank faoliyati uchun birinchi litsenziya berildi",
-      "ts": 1792998051.2473505
-    },
     {
       "source_title": "“Gukeshda imkoniyat ko‘proq” — Garri Kasparov jahon toji uchun bo‘lajak bahs haqida",
       "headline": "Gukeshda imkoniyat ko'proq ♟️",
@@ -200,11 +195,16 @@
       "source_title": "O‘zbekistondan Qozog‘istonga yuk tashishda kafolat puli joriy etiladi",
       "headline": "Yuk tashuvchilarga yangi kafolat puli joriy etildi!",
       "ts": 1793167255.8983731
+    },
+    {
+      "source_title": "Ўзбекистонда ноябрда об-ҳаво қандай бўлади?",
+      "headline": "Noyabrda ob-havo qanday bo'ladi? 🌡️☔",
+      "ts": 1793170857.6771812
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793169039.1463299,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 6
+    "count": 7
   }
 }

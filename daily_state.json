@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793190641.2614005,
+  "last_post_ts": 1793192467.4211607,
   "recent_posts": [
-    {
-      "source_title": "Komissiya yo‘q: Click Koshelyok bilan komissiyasiz o‘tkazing",
-      "headline": "Click Koshelyok bilan komissiyasiz pul o'tkazing 💸",
-      "ts": 1793019654.6132956
-    },
     {
       "source_title": "O‘zbekiston kino sohasi vakillari palatasi tashkil etiladi",
       "headline": "O'zbekiston kino sohasi vakillari palatasi tashkil etildi",
@@ -200,11 +195,16 @@
       "source_title": "Таниқли журналист Озод Ҳамидхўжаев вафот этди",
       "headline": "Taniqli jurnalist Ozod Hamidxo'jaev vafot etdi",
       "ts": 1793188856.7663522
+    },
+    {
+      "source_title": "Ўзбекистонда фуқароларга ҳуқуқлари бузилишидан олдин судга мурожаат қилишга рухсат берилиши мумкин",
+      "headline": "Fuqarolar huquqlarini himoya qilish uchun yangi imkoniyat",
+      "ts": 1793192465.409187
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793190641.2591105,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 14
+    "count": 15
   }
 }

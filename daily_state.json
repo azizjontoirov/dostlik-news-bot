@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793197848.0265462,
+  "last_post_ts": 1793199675.174991,
   "recent_posts": [
-    {
-      "source_title": "Misr o‘zbekistonlik sayyohlar uchun yangi kirish talablarini joriy etishni kechiktirdi",
-      "headline": "Misr sayyohlik talablari kechiktirildi ✈️🗓️",
-      "ts": 1793026864.0266585
-    },
     {
       "source_title": "Elit OCHL. “Neftchi” so‘nggi daqiqalardagi gol evaziga “Al-Ittihod\"ga mag‘lub bo‘ldi",
       "headline": "Elit “Neftchi” Al‑Ittihodga mag'lub bo'ldi",
@@ -200,11 +195,16 @@
       "source_title": "Тошкент ва Фарғонада контрафакт диний китоблар чоп этган яширин босмахоналар аниқланди",
       "headline": "Toshkent va Farg'onada kontfrakt diniy kitoblar bosma bosmaxonalari aniqlandi 📚",
       "ts": 1793197846.0225763
+    },
+    {
+      "source_title": "Andijon—Samarqand yo‘nalishida tezyurar poyezd qatnovi yo‘lga qo‘yilishi mumkin",
+      "headline": "Andijon‑Samarqand yo'nalishida tezyurar poyezd qatnovi yo'lga qo'yilishi mumkin",
+      "ts": 1793199673.1688633
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793196050.9671512,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 17
+    "count": 18
   }
 }

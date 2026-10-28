@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793165446.9063566,
+  "last_post_ts": 1793167257.9020157,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 1,4 ming tonna suyultirilgan gaz talon-toroj qilingani aniqlandi",
-      "headline": "Suyultirilgan gaz talon‑torojiga qarshi qat'iy choralar! 🚨",
-      "ts": 1792994453.2963862
-    },
     {
       "source_title": "Özbekistonda islomiy bank faoliyati uçun ilk litsenziya berildi.",
       "headline": "O'zbekistonda islomiy bank faoliyati uchun birinchi litsenziya berildi",
@@ -200,11 +195,16 @@
       "source_title": "Uzcard ва Humo’ни Apple Pay’га улаш имконияти тез орада тақдим этилади — Марказий банк",
       "headline": "Apple Pay'ga Uzcard va Humo kartalari tez orada qo'shiladi 📱💳",
       "ts": 1793165444.9020197
+    },
+    {
+      "source_title": "O‘zbekistondan Qozog‘istonga yuk tashishda kafolat puli joriy etiladi",
+      "headline": "Yuk tashuvchilarga yangi kafolat puli joriy etildi!",
+      "ts": 1793167255.8983731
     }
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793163646.3237658,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-28",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793194254.235936,
+  "last_post_ts": 1793196050.9693468,
   "recent_posts": [
     {
       "source_title": "Tom va yomg‘ir o‘rtasida: Rossiya innovatsiyalari O‘zbekistonda binolarni qanday himoya qiladi?",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793190641.2591105,
+    "last_ad_ts": 1793196050.9671512,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 33,
+      "ad_flour": 34,
       "gilam_eag": 14,
       "ad_job": 33,
       "ad_water": 32
@@ -220,10 +220,10 @@
     "today": {
       "ad_job": 3,
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1793179836.627429,
+      "ad_flour": 1793196050.9671483,
       "ad_job": 1793185248.916735,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793190641.2591078,

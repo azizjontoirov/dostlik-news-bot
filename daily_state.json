@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793161853.2620897,
+  "last_post_ts": 1793163646.326333,
   "recent_posts": [
     {
       "source_title": "Тошкентда Onix уриб юборган пиёда шифохонада вафот этди",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793158135.8451567,
+    "last_ad_ts": 1793163646.3237658,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 31,
+      "ad_flour": 32,
       "gilam_eag": 14,
       "ad_job": 31,
       "ad_water": 30
@@ -219,10 +219,11 @@
     "day": "2026-10-28",
     "today": {
       "ad_job": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793120456.105848,
+      "ad_flour": 1793163646.3237634,
       "ad_job": 1793152844.172119,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793158135.8451533,

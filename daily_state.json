@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793260844.037846,
+  "last_post_ts": 1793262646.3544967,
   "recent_posts": [
-    {
-      "source_title": "Ozon O‘zbekiston Toshkentdagi sotuvchilar uchun o‘zining ilk forumini o‘tkazadi",
-      "headline": "Ozon kompaniyasining Toshkentdagi ilk forumi – COME ON Forum 🚀",
-      "ts": 1793089842.7974987
-    },
     {
       "source_title": "Самарқандда 7−8 ноябрь кунлари Samarkand Marathon бўлиб ўтади",
       "headline": "Samarkand Marathon 7‑8 noyabr 🏃‍♂️🌍",
@@ -200,11 +195,16 @@
       "source_title": "Buxoroda bir oylik chaqalog‘ini 4 ming dollarga sotgan ona va xaridor ayolning ozodligi cheklandi",
       "headline": "Buxoroda bir oylik chaqaloq 4 000 dollarga sotildi – ona va xaridor ayolning ozodligi tekshirildi",
       "ts": 1793259040.3280354
+    },
+    {
+      "source_title": "Uklon O‘zbekistonda taksi agregatorlari bozorida ustun mavqega ega deb e’tirof etildi",
+      "headline": "Uklon O'zbekistonda taksi agregatorlari bozorida ustun mavqega ega 🚖",
+      "ts": 1793262644.3509238
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793260844.035262,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 8
+    "count": 9
   }
 }

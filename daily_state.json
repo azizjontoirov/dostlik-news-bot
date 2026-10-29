@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793253658.2583494,
+  "last_post_ts": 1793255437.135457,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda Ibn Sino nomidagi davlat mukofoti ta’sis etiladi",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793250046.0606284,
+    "last_ad_ts": 1793255437.1265585,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 35,
+      "ad_flour": 36,
       "gilam_eag": 14,
       "ad_job": 35,
       "ad_water": 34
@@ -218,12 +218,12 @@
     "permanent_index": 2,
     "day": "2026-10-29",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_job": 1,
       "ad_water": 1
     },
     "last_shown": {
-      "ad_flour": 1793239243.0072663,
+      "ad_flour": 1793255437.126556,
       "ad_job": 1793244634.2822242,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793250046.0606263,

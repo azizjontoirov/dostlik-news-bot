@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793280649.3787296,
+  "last_post_ts": 1793282446.5517008,
   "recent_posts": [
     {
       "source_title": "Prezident Olimpiadasi dasturidagi sport turlari soni 35 taga yetkaziladi",
@@ -204,29 +204,29 @@
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793277038.5226233,
+    "last_ad_ts": 1793282446.5469458,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 37,
       "gilam_eag": 14,
       "ad_job": 37,
-      "ad_water": 35
+      "ad_water": 36
     },
     "permanent_index": 2,
     "day": "2026-10-29",
     "today": {
       "ad_flour": 3,
       "ad_job": 3,
-      "ad_water": 2
+      "ad_water": 3
     },
     "last_shown": {
       "ad_flour": 1793271647.3539708,
       "ad_job": 1793277038.5226207,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793266239.0478892,
+      "ad_water": 1793282446.5469425,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-29"

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793271647.356104,
+  "last_post_ts": 1793273444.4464674,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonda Google Pay işga tuşdi: undan qanday foydalaniş mumkin?.",
-      "headline": "Google Pay O'zbekistonda ishga tushdi! 📱💳",
-      "ts": 1793100643.031197
-    },
     {
       "source_title": "Qashqadaryoda “Jiguli” daraxtga urildi, 20 yoshli haydovchi halok bo‘ldi",
       "headline": "Shahrisabzda avtohalokat: haydovchi halok bo'ldi",
@@ -200,11 +195,16 @@
       "source_title": "Tishlarni nonushtadan oldin yuvgan ma’qulmi yoki keyin?",
       "headline": "Tishlarni nonushtadan oldin yoki keyin yuvish – qaysi vaqt yaxshiroq? 🦷⏰",
       "ts": 1793269843.1641312
+    },
+    {
+      "source_title": "«Дизайн код — шаҳар муҳитини ривожлантириш калити». Урбанист Дарья Коваленко Янги Тошкент дизайн коди ҳақида",
+      "headline": "Design kod — shahar muhitini rivojlantirish kaliti",
+      "ts": 1793273442.407327
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793271647.3539727,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 12
+    "count": 13
   }
 }

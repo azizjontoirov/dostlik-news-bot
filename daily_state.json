@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793269845.1668458,
+  "last_post_ts": 1793271647.356104,
   "recent_posts": [
     {
       "source_title": "Özbekistonda Google Pay işga tuşdi: undan qanday foydalaniş mumkin?.",
@@ -204,13 +204,13 @@
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793266239.0478916,
+    "last_ad_ts": 1793271647.3539727,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 36,
+      "ad_flour": 37,
       "gilam_eag": 14,
       "ad_job": 36,
       "ad_water": 35
@@ -218,12 +218,12 @@
     "permanent_index": 2,
     "day": "2026-10-29",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_job": 2,
       "ad_water": 2
     },
     "last_shown": {
-      "ad_flour": 1793255437.126556,
+      "ad_flour": 1793271647.3539708,
       "ad_job": 1793260844.0352588,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793266239.0478892,

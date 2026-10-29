@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793246452.3878598,
+  "last_post_ts": 1793248243.8490362,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston va Afğoniston savdosi 5 milliard dollarga yetişi mumkin.",
-      "headline": "Özbekiston va Afg'oniston savdosi 5 milliard dollarga yetishi mumkin 💰🌍",
-      "ts": 1793075440.5103273
-    },
     {
       "source_title": "Тошкентдаги ёнғинда ҳалок бўлган аёл қасддан ўлдирилган бўлиши мумкин",
       "headline": "Toshkentda yonqin: 26 yoshli ayol qasd bilan o'ldirilgan bo'lishi mumkin",
@@ -200,11 +195,16 @@
       "source_title": "Yer va mol-mulk soliğiga 50 foizlik imtiyoz: suv omborlari böyida turizm qöllab-quvvatlanadi",
       "headline": "Yer va mol‑mulk solig'iga 50% imtiyoz – suv omborlari atrofida turizm rivojlanadi",
       "ts": 1793246450.3846557
+    },
+    {
+      "source_title": "Самарқандда темир тўсиққа урилган Epica ҳайдовчиси ҳалок бўлди",
+      "headline": "Samarkandda temir to'siqka urilgan Epica haydovchisi halok bo'ldi",
+      "ts": 1793248241.8443618
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793244634.282226,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 3
+    "count": 4
   }
 }

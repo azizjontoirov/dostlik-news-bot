@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793257254.8821177,
+  "last_post_ts": 1793259042.331194,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o‘rganadi",
-      "headline": "Tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o'rganadi",
-      "ts": 1793086241.088757
-    },
     {
       "source_title": "Ozon O‘zbekiston Toshkentdagi sotuvchilar uchun o‘zining ilk forumini o‘tkazadi",
       "headline": "Ozon kompaniyasining Toshkentdagi ilk forumi – COME ON Forum 🚀",
@@ -200,11 +195,16 @@
       "source_title": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan, Mavluda Asalxo‘jayeva sabab tinchi buzilgan xonanda haqida (foto, video)",
       "headline": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan",
       "ts": 1793257252.8792772
+    },
+    {
+      "source_title": "Buxoroda bir oylik chaqalog‘ini 4 ming dollarga sotgan ona va xaridor ayolning ozodligi cheklandi",
+      "headline": "Buxoroda bir oylik chaqaloq 4 000 dollarga sotildi – ona va xaridor ayolning ozodligi tekshirildi",
+      "ts": 1793259040.3280354
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793255437.1265585,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 7
+    "count": 8
   }
 }

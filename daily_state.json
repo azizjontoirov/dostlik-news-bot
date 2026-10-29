@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793278925.416942,
+  "last_post_ts": 1793280649.3787296,
   "recent_posts": [
-    {
-      "source_title": "“Gukeshni mag‘lub etish imkoniyatim — 50,1 foiz” — Javohir Sindorov",
-      "headline": "Gukeshni mag'lub etish imkoniyatim — 50,1% ♟️",
-      "ts": 1793107847.4960408
-    },
     {
       "source_title": "Prezident Olimpiadasi dasturidagi sport turlari soni 35 taga yetkaziladi",
       "headline": "Prezident Olimpiadasi sport turlari 35 taga yetdi!",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистонда фуқаролар маълумотлари оммавий сизиб чиққани ҳақидаги хабарлар текширилмоқда",
       "headline": "O'zbekistonda fuqaro ma'lumotlari ommaviy sizib chiqdi",
       "ts": 1793278923.4123669
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev rafiqasi hamrohligida amaliy tashrif bilan Anqaraga bordi",
+      "headline": "Shavkat Mirziyoyev rafiqasi hamrohligida Anqara amaliy tashrifi",
+      "ts": 1793280647.3743243
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793277038.5226233,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 15
+    "count": 16
   }
 }

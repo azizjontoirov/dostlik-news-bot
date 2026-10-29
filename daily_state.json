@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793284243.746868,
+  "last_post_ts": 1793286058.6531217,
   "recent_posts": [
-    {
-      "source_title": "“Xorijda oʻqiyotgan 30 nafar talaba stipendiyadan mahrum etilgan” — “El-yurt umidi” jamgʻarmasi direktori",
-      "headline": "Xorijda o'qiyotgan 30 nafar talaba stipendiyadan mahrum etildi 🎓🚫",
-      "ts": 1793113258.1365788
-    },
     {
       "source_title": "Мукофот пуллари оширилиши, стипендия ва ОТМларга грантлар. Президент олимпиадаси ғолибларига қандай имтиёзлар берилади?",
       "headline": "Prezident Olimpiadasi g'oliblariga yangi imtiyozlar!",
@@ -200,11 +195,16 @@
       "source_title": "Oʻzbekistonda toʻqqiz oyda korxonalarga 16 trln soʻmdan ortiq QQS qaytarildi",
       "headline": "9 oyda korxonalarga 16 trln so'mdan ortiq QQS qaytarildi",
       "ts": 1793284241.7422576
+    },
+    {
+      "source_title": "OFK “Neftchi” futbolchisi Ikrom Aliboyevni 2 ta o‘yinga diskvalifikatsiya qildi",
+      "headline": "OFK “Neftchi” futbolchisi Ikrom Aliboyev 2 ta o'yinga diskvalifikatsiya qilindi",
+      "ts": 1793286056.6460953
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793282446.5469458,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 17
+    "count": 18
   }
 }

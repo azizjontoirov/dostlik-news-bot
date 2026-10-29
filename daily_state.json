@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793264455.0899396,
+  "last_post_ts": 1793266239.0502098,
   "recent_posts": [
     {
       "source_title": "Oʻzbekistondagi raqamli toʻlovlarda katta oʻzgarish — Apple Pay va Google Pay rasman ishga tushdi",
@@ -204,29 +204,29 @@
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793260844.035262,
+    "last_ad_ts": 1793266239.0478916,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 36,
       "gilam_eag": 14,
       "ad_job": 36,
-      "ad_water": 34
+      "ad_water": 35
     },
     "permanent_index": 2,
     "day": "2026-10-29",
     "today": {
       "ad_flour": 2,
       "ad_job": 2,
-      "ad_water": 1
+      "ad_water": 2
     },
     "last_shown": {
       "ad_flour": 1793255437.126556,
       "ad_job": 1793260844.0352588,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793250046.0606263,
+      "ad_water": 1793266239.0478892,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-29"

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793259042.331194,
+  "last_post_ts": 1793260844.037846,
   "recent_posts": [
     {
       "source_title": "Ozon O‘zbekiston Toshkentdagi sotuvchilar uchun o‘zining ilk forumini o‘tkazadi",
@@ -204,27 +204,27 @@
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793255437.1265585,
+    "last_ad_ts": 1793260844.035262,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 36,
       "gilam_eag": 14,
-      "ad_job": 35,
+      "ad_job": 36,
       "ad_water": 34
     },
     "permanent_index": 2,
     "day": "2026-10-29",
     "today": {
       "ad_flour": 2,
-      "ad_job": 1,
+      "ad_job": 2,
       "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1793255437.126556,
-      "ad_job": 1793244634.2822242,
+      "ad_job": 1793260844.0352588,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793250046.0606263,
       "gilam_eag": 1792764054.4116373

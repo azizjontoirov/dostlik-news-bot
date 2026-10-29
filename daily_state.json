@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793251840.9590607,
+  "last_post_ts": 1793253658.2583494,
   "recent_posts": [
-    {
-      "source_title": "Instagram: 100 mln oylik oladigan Dilshod Mirzamurodov, vodiydagi hovlisini ko‘rsatgan G‘ayrat Usmonov, Munisa Rizayeva bir kunda nechta to‘yga boradi?",
-      "headline": "Instagramda qiziqarli lahzalar! 📸✨",
-      "ts": 1793080848.6934001
-    },
     {
       "source_title": "O‘zbekistonda Ibn Sino nomidagi davlat mukofoti ta’sis etiladi",
       "headline": "Ibn Sino nomidagi davlat mukofoti ta'sis etildi 🏅",
@@ -200,11 +195,16 @@
       "source_title": "ADM Global Ўзбекистонда гибрид ва электромобиллар чиқаришни бошлайди",
       "headline": "ADM Global O'zbekistonda gibrid va elektromobillar ishlab chiqarishni boshlaydi 🚗⚡",
       "ts": 1793251838.9552867
+    },
+    {
+      "source_title": "“Salkam 80 ming kishiga 4 mln so‘mgacha ishsizlik nafaqasi to‘lanmoqda” — Bandlik vazirligi",
+      "headline": "Salkam 80 ming kishiga 4 mln so'mgacha ishsizlik nafaqasi! 💰",
+      "ts": 1793253656.252042
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793250046.0606284,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 5
+    "count": 6
   }
 }

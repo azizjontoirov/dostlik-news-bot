@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793277038.5248785,
+  "last_post_ts": 1793278925.416942,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda o‘rtacha oylik ish haqi qariyb 7,3 mln so‘mga yetdi",
-      "headline": "O'rtacha oylik ish haqi 7,3 mln so'mga yetdi 💰📈",
-      "ts": 1793106055.8926866
-    },
     {
       "source_title": "“Gukeshni mag‘lub etish imkoniyatim — 50,1 foiz” — Javohir Sindorov",
       "headline": "Gukeshni mag'lub etish imkoniyatim — 50,1% ♟️",
@@ -200,11 +195,16 @@
       "source_title": "Toşkentda iflos havo yana 10 kun saqlanib turişi mumkin",
       "headline": "TOSHKENTDA IFLOS HAVO YANA 10 KUN SAQLANIB TURISHI MUMKIN 🌫️",
       "ts": 1793275254.4098973
+    },
+    {
+      "source_title": "Ўзбекистонда фуқаролар маълумотлари оммавий сизиб чиққани ҳақидаги хабарлар текширилмоқда",
+      "headline": "O'zbekistonda fuqaro ma'lumotlari ommaviy sizib chiqdi",
+      "ts": 1793278923.4123669
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793277038.5226233,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 14
+    "count": 15
   }
 }

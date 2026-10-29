@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793241059.8727546,
+  "last_post_ts": 1793242858.3508193,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda tibbiyot muassasalarini qurish va jihozlash bo‘yicha yagona talablarni joriy etish taklif qilindi",
-      "headline": "Tibbiyot infratuzilmasini yagona master‑reja asosida rivojlantiramiz",
-      "ts": 1793070058.2532732
-    },
     {
       "source_title": "Prezident tibbiy infratuzilmani 2036-yilgaça rivojlantiriş rejalari bilan tanişdi.",
       "headline": "Prezident tibbiy infratuzilmani 2036-yilgacha rivojlantirish rejalari bilan tanishtirdi 🚑🌍",
@@ -200,11 +195,16 @@
       "source_title": "Pokiston Xitoy bilan birdamlik sifatida Tayvan samolyotlariga osmonini yopdi",
       "headline": "Pokiston Xitoy bilan birdamlikda Tayvan samolyotlariga osmonini yopdi 🚫✈️",
       "ts": 1793241057.8096325
+    },
+    {
+      "source_title": "Ekologlar Toshkentda havo ifloslanishi sababini tushuntirdi",
+      "headline": "Toshkentda havo ifloslanishi sabablari ochildi",
+      "ts": 1793242856.3470135
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793239243.007269,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 1
+    "count": 2
   }
 }

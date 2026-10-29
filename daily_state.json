@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793287838.573841,
+  "last_post_ts": 1793289658.197222,
   "recent_posts": [
-    {
-      "source_title": "Мукофот пуллари оширилиши, стипендия ва ОТМларга грантлар. Президент олимпиадаси ғолибларига қандай имтиёзлар берилади?",
-      "headline": "Prezident Olimpiadasi g'oliblariga yangi imtiyozlar!",
-      "ts": 1793116862.4439337
-    },
     {
       "source_title": "“Prezident va ijod maktablari bitiruvchilarining barchasi talaba boʻlmoqda” — Sevara Shokirova",
       "headline": "Prezident maktablari bitiruvchilari talaba bo'layapti 🎓📚",
@@ -200,11 +195,16 @@
       "source_title": "OFK “Neftchi” futbolchisi Ikrom Aliboyevni 2 ta o‘yinga diskvalifikatsiya qildi",
       "headline": "OFK “Neftchi” futbolchisi Ikrom Aliboyev 2 ta o'yinga diskvalifikatsiya qilindi",
       "ts": 1793286056.6460953
+    },
+    {
+      "source_title": "Yevropa markaziy banki rahbari muddatidan oldin lavozimini tark etmoqda",
+      "headline": "Yevropa Markaziy Banki rahbari muddatidan oldin lavozimini tark etmoqda 🏦⏳",
+      "ts": 1793289656.1940675
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793287838.5723257,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 18
+    "count": 19
   }
 }

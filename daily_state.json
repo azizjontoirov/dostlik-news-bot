@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793244634.2839305,
+  "last_post_ts": 1793246452.3878598,
   "recent_posts": [
-    {
-      "source_title": "Prezident tibbiy infratuzilmani 2036-yilgaça rivojlantiriş rejalari bilan tanişdi.",
-      "headline": "Prezident tibbiy infratuzilmani 2036-yilgacha rivojlantirish rejalari bilan tanishtirdi 🚑🌍",
-      "ts": 1793073683.8599293
-    },
     {
       "source_title": "Özbekiston va Afğoniston savdosi 5 milliard dollarga yetişi mumkin.",
       "headline": "Özbekiston va Afg'oniston savdosi 5 milliard dollarga yetishi mumkin 💰🌍",
@@ -200,11 +195,16 @@
       "source_title": "Ekologlar Toshkentda havo ifloslanishi sababini tushuntirdi",
       "headline": "Toshkentda havo ifloslanishi sabablari ochildi",
       "ts": 1793242856.3470135
+    },
+    {
+      "source_title": "Yer va mol-mulk soliğiga 50 foizlik imtiyoz: suv omborlari böyida turizm qöllab-quvvatlanadi",
+      "headline": "Yer va mol‑mulk solig'iga 50% imtiyoz – suv omborlari atrofida turizm rivojlanadi",
+      "ts": 1793246450.3846557
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793244634.282226,
@@ -233,6 +233,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 2
+    "count": 3
   }
 }

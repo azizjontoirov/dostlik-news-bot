@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793206851.2743094,
+  "last_post_ts": 1793241059.8727546,
   "recent_posts": [
-    {
-      "source_title": "Тиббиёт инфратузилмаси ягона мастер режа асосида ривожлантирилади",
-      "headline": "Tibbiyot infratuzilmasi yagona master-reja asosida rivojlantiriladi 🏥📈",
-      "ts": 1793068242.183037
-    },
     {
       "source_title": "O‘zbekistonda tibbiyot muassasalarini qurish va jihozlash bo‘yicha yagona talablarni joriy etish taklif qilindi",
       "headline": "Tibbiyot infratuzilmasini yagona master‑reja asosida rivojlantiramiz",
@@ -200,11 +195,16 @@
       "source_title": "Ўзбекистон президенти Испанияга таъзия йўллади. Мамлакатда уч кунлик мотам эълон қилинди",
       "headline": "O'zbekiston prezidenti Ispaniyaga ta'ziya yo'lladi 🇪🇸",
       "ts": 1793204803.2890956
+    },
+    {
+      "source_title": "Pokiston Xitoy bilan birdamlik sifatida Tayvan samolyotlariga osmonini yopdi",
+      "headline": "Pokiston Xitoy bilan birdamlikda Tayvan samolyotlariga osmonini yopdi 🚫✈️",
+      "ts": 1793241057.8096325
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793239243.007269,
@@ -231,7 +231,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-28",
-    "count": 20
+    "day": "2026-10-29",
+    "count": 1
   }
 }

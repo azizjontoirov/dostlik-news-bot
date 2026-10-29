@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793273444.4464674,
+  "last_post_ts": 1793275256.4149287,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda “Jiguli” daraxtga urildi, 20 yoshli haydovchi halok bo‘ldi",
-      "headline": "Shahrisabzda avtohalokat: haydovchi halok bo'ldi",
-      "ts": 1793102455.4835155
-    },
     {
       "source_title": "O‘zbekistonda o‘rtacha oylik ish haqi qariyb 7,3 mln so‘mga yetdi",
       "headline": "O'rtacha oylik ish haqi 7,3 mln so'mga yetdi 💰📈",
@@ -200,11 +195,16 @@
       "source_title": "«Дизайн код — шаҳар муҳитини ривожлантириш калити». Урбанист Дарья Коваленко Янги Тошкент дизайн коди ҳақида",
       "headline": "Design kod — shahar muhitini rivojlantirish kaliti",
       "ts": 1793273442.407327
+    },
+    {
+      "source_title": "Toşkentda iflos havo yana 10 kun saqlanib turişi mumkin",
+      "headline": "TOSHKENTDA IFLOS HAVO YANA 10 KUN SAQLANIB TURISHI MUMKIN 🌫️",
+      "ts": 1793275254.4098973
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793271647.3539727,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 13
+    "count": 14
   }
 }

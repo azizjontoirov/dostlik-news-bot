@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793268061.725306,
+  "last_post_ts": 1793269845.1668458,
   "recent_posts": [
-    {
-      "source_title": "Шифокорлар учун ипотека имтиёзлари ва хориждан жалб этиладиган мутахассисларга 50 млн сўмгача устама белгиланди",
-      "headline": "Shifokorlar uchun ipoteka imtiyozlari va xorijiy mutaxassislarga ustama!",
-      "ts": 1793097046.835522
-    },
     {
       "source_title": "Özbekistonda Google Pay işga tuşdi: undan qanday foydalaniş mumkin?.",
       "headline": "Google Pay O'zbekistonda ishga tushdi! 📱💳",
@@ -200,11 +195,16 @@
       "source_title": "Superliga darvozabonlari mavsumni qanday o‘tkazmoqda?",
       "headline": "Superliga darvozabonlari: joriy mavsum natijalari",
       "ts": 1793268059.722088
+    },
+    {
+      "source_title": "Tishlarni nonushtadan oldin yuvgan ma’qulmi yoki keyin?",
+      "headline": "Tishlarni nonushtadan oldin yoki keyin yuvish – qaysi vaqt yaxshiroq? 🦷⏰",
+      "ts": 1793269843.1641312
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793266239.0478916,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 11
+    "count": 12
   }
 }

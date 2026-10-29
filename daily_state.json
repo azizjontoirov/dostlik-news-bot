@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793266239.0502098,
+  "last_post_ts": 1793268061.725306,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekistondagi raqamli toʻlovlarda katta oʻzgarish — Apple Pay va Google Pay rasman ishga tushdi",
-      "headline": "Raqamli to'lovlarda yangi sahna – Apple Pay va Google Pay O'zbekistonda ishga tushdi!",
-      "ts": 1793095258.682181
-    },
     {
       "source_title": "Шифокорлар учун ипотека имтиёзлари ва хориждан жалб этиладиган мутахассисларга 50 млн сўмгача устама белгиланди",
       "headline": "Shifokorlar uchun ipoteka imtiyozlari va xorijiy mutaxassislarga ustama!",
@@ -200,11 +195,16 @@
       "source_title": "Toʻqqiz oyda xorijdan qaytgan 172 ming oʻzbekistonlik doimiy ishga joylashtirildi — Bandlik vazirligi",
       "headline": "To'qqiz oyda xorijdan qaytgan 172 ming o'zbek fuqarosi doimiy ishga joylashtirildi 📈",
       "ts": 1793264453.0858707
+    },
+    {
+      "source_title": "Superliga darvozabonlari mavsumni qanday o‘tkazmoqda?",
+      "headline": "Superliga darvozabonlari: joriy mavsum natijalari",
+      "ts": 1793268059.722088
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793266239.0478916,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 10
+    "count": 11
   }
 }

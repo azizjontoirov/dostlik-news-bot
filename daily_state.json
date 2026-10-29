@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793255437.135457,
+  "last_post_ts": 1793257254.8821177,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda Ibn Sino nomidagi davlat mukofoti ta’sis etiladi",
-      "headline": "Ibn Sino nomidagi davlat mukofoti ta'sis etildi 🏅",
-      "ts": 1793084449.771935
-    },
     {
       "source_title": "O‘zbekistonda tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o‘rganadi",
       "headline": "Tibbiyot talabalari haftasiga uch kun bemorlar bilan ishlashni o'rganadi",
@@ -200,11 +195,16 @@
       "source_title": "“Salkam 80 ming kishiga 4 mln so‘mgacha ishsizlik nafaqasi to‘lanmoqda” — Bandlik vazirligi",
       "headline": "Salkam 80 ming kishiga 4 mln so'mgacha ishsizlik nafaqasi! 💰",
       "ts": 1793253656.252042
+    },
+    {
+      "source_title": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan, Mavluda Asalxo‘jayeva sabab tinchi buzilgan xonanda haqida (foto, video)",
+      "headline": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan",
+      "ts": 1793257252.8792772
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793255437.1265585,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-29",
-    "count": 6
+    "count": 7
   }
 }

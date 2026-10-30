@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793372622.5592177,
+  "last_post_ts": 1793374240.7725163,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda tunda havo sifati yomonlaşişi mumkin.",
-      "headline": "Tashkentda tunda havo sifati yomonlashishi mumkin 🌫️",
-      "ts": 1793156452.7043586
-    },
     {
       "source_title": "Mintaqaviy bog‘liqlik va savdo integratsiyasi. Toshkentda TBEC 2026 xalqaro konferensiyasi bo‘lib o‘tdi",
       "headline": "Mintaqaviy bog'liqlik va savdo integratsiyasi – TBEC 2026 🌐",
@@ -200,11 +195,16 @@
       "source_title": "Tarixdagi eng yirik kriptoo‘g‘rilik: KXDR hakerlari Binance’dan 6 mlrd dollar o‘g‘irlashda gumonlandi",
       "headline": "Tarixdagi eng yirik kripto o'g'irlik: KXDR hakerlari Binance'dan 6 mlrd dollar o'g'irlashda gumonlandi 🚨",
       "ts": 1793372620.5556386
+    },
+    {
+      "source_title": "Surxondaryoda ishga olish uchun 4,5 mln so‘m pora olgan maktab direktori 2 yilga qamaldi",
+      "headline": "Surxondaryoda maktab direktoriga 2 yillik qamoq!",
+      "ts": 1793374238.7684975
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793293248.2716455,
@@ -234,6 +234,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-30",
-    "count": 1
+    "count": 2
   }
 }

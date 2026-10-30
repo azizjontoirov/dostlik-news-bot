@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793374240.7725163,
+  "last_post_ts": 1793376044.5354874,
   "recent_posts": [
     {
       "source_title": "Mintaqaviy bog‘liqlik va savdo integratsiyasi. Toshkentda TBEC 2026 xalqaro konferensiyasi bo‘lib o‘tdi",
@@ -204,29 +204,27 @@
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793293248.2716455,
+    "last_ad_ts": 1793376044.5340078,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 38,
       "gilam_eag": 14,
       "ad_job": 38,
-      "ad_water": 36
+      "ad_water": 37
     },
     "permanent_index": 2,
-    "day": "2026-10-29",
+    "day": "2026-10-30",
     "today": {
-      "ad_flour": 4,
-      "ad_job": 4,
-      "ad_water": 3
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1793287838.5723236,
       "ad_job": 1793293248.2716432,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793282446.5469425,
+      "ad_water": 1793376044.5340068,
       "gilam_eag": 1792764054.4116373
     },
     "morning_ad_date": "2026-10-29"

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793376044.5354874,
+  "last_post_ts": 1793377846.8833356,
   "recent_posts": [
-    {
-      "source_title": "Mintaqaviy bog‘liqlik va savdo integratsiyasi. Toshkentda TBEC 2026 xalqaro konferensiyasi bo‘lib o‘tdi",
-      "headline": "Mintaqaviy bog'liqlik va savdo integratsiyasi – TBEC 2026 🌐",
-      "ts": 1793160053.1296957
-    },
     {
       "source_title": "Toshkentda talaba noqonuniy kriptoaktivlar oldi-sotdisi bilan shug‘ullangani aniqlandi",
       "headline": "Toshkentda talaba noqonuniy kriptoaktivlar oldi‑sotdisi bilan shug'ullangan",
@@ -200,11 +195,16 @@
       "source_title": "Surxondaryoda ishga olish uchun 4,5 mln so‘m pora olgan maktab direktori 2 yilga qamaldi",
       "headline": "Surxondaryoda maktab direktoriga 2 yillik qamoq!",
       "ts": 1793374238.7684975
+    },
+    {
+      "source_title": "Google vitse-prezidenti O‘zbekistonda Google Pay ishga tushirilganiga munosabat bildirdi",
+      "headline": "Google Pay O'zbekistonda ishga tushdi 🚀",
+      "ts": 1793377844.8797374
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793376044.5340078,
@@ -232,6 +232,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-30",
-    "count": 2
+    "count": 3
   }
 }

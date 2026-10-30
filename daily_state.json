@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793293248.2736645,
+  "last_post_ts": 1793372622.5592177,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda to‘qqiz oyda qariyb 56 ming fuqaroning buzilgan huquqlari tiklandi",
-      "headline": "O'ZBEKISTONDA 9‑OYDA 56 000 NAFAAR HUQUQLARI TIKLANDI",
-      "ts": 1793154672.7543988
-    },
     {
       "source_title": "Toşkentda tunda havo sifati yomonlaşişi mumkin.",
       "headline": "Tashkentda tunda havo sifati yomonlashishi mumkin 🌫️",
@@ -200,11 +195,16 @@
       "source_title": "Özbekiston va Turkiya örtasida ikki tomonlama hujjatlar imzolandi",
       "headline": "O'zbekiston va Turkiya o'rtasida ikki tomonlama hujjatlar imzolandi",
       "ts": 1793291441.2341654
+    },
+    {
+      "source_title": "Tarixdagi eng yirik kriptoo‘g‘rilik: KXDR hakerlari Binance’dan 6 mlrd dollar o‘g‘irlashda gumonlandi",
+      "headline": "Tarixdagi eng yirik kripto o'g'irlik: KXDR hakerlari Binance'dan 6 mlrd dollar o'g'irlashda gumonlandi 🚨",
+      "ts": 1793372620.5556386
     }
   ],
   "morning_sent_date": "2026-10-29",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793293248.2716455,
@@ -233,7 +233,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-29",
-    "count": 20
+    "day": "2026-10-30",
+    "count": 1
   }
 }

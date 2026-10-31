@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793464241.356238,
+  "last_post_ts": 1793466043.0899408,
   "recent_posts": [
     {
       "source_title": "ADM Global Ўзбекистонда гибрид ва электромобиллар чиқаришни бошлайди",
@@ -224,13 +224,13 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793460641.4361312,
+    "last_ad_ts": 1793466043.0874867,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 40,
+      "ad_flour": 41,
       "gilam_eag": 14,
       "ad_job": 40,
       "ad_water": 39,
@@ -241,7 +241,7 @@
     "permanent_index": 2,
     "day": "2026-10-31",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "home": 2,
       "ad_job": 2,
       "ad_water": 2,
@@ -249,7 +249,7 @@
       "uchastka_sale": 1
     },
     "last_shown": {
-      "ad_flour": 1793439031.4556084,
+      "ad_flour": 1793466043.0874846,
       "ad_job": 1793444439.3217149,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793449832.888705,

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793462453.248111,
+  "last_post_ts": 1793464241.356238,
   "recent_posts": [
-    {
-      "source_title": "Самарқандда темир тўсиққа урилган Epica ҳайдовчиси ҳалок бўлди",
-      "headline": "Samarkandda temir to'siqka urilgan Epica haydovchisi halok bo'ldi",
-      "ts": 1793248241.8443618
-    },
     {
       "source_title": "ADM Global Ўзбекистонда гибрид ва электромобиллар чиқаришни бошлайди",
       "headline": "ADM Global O'zbekistonda gibrid va elektromobillar ishlab chiqarishni boshlaydi 🚗⚡",
@@ -219,11 +214,17 @@
       "headline": "Kiberxavfsizlik mutaxassislarini har ikki yilda malaka oshirish boshlandi",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/d244acf53993b5b15dfdcf210f3c74afcbc1f3bef8715ef81d4ac2ab1cc40f6c.webp",
       "ts": 1793462451.2450018
+    },
+    {
+      "source_title": "Superliga. “Navbahor” vodiy derbisida “Andijon”ni mag‘lub etdi",
+      "headline": "Navbahor “Andijon”ni mag'lub etdi! ⚽️🏆",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/0a3d8c9c86a7bd7b2b96bb0100d6b97487d7f1489bb0bbda426bbe3c68c95de6.webp",
+      "ts": 1793464239.353281
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793460641.4361312,
@@ -262,6 +263,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 19
+    "count": 20
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793431837.57973,
+  "last_post_ts": 1793433637.1497107,
   "recent_posts": [
     {
       "source_title": "Dastlabki 24 soat ichida o‘zbekistonliklar Apple Pay orqali 2,8 mlrd so‘mlik to‘lovni amalga oshirdi",
@@ -212,17 +212,18 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793428233.0148025,
+    "last_ad_ts": 1793433637.1326518,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 39,
       "gilam_eag": 14,
       "ad_job": 39,
       "ad_water": 38,
-      "home": 1
+      "home": 1,
+      "home_dom": 1
     },
     "permanent_index": 2,
     "day": "2026-10-31",
@@ -230,7 +231,8 @@
       "ad_flour": 1,
       "home": 1,
       "ad_job": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "home_dom": 1
     },
     "last_shown": {
       "ad_flour": 1793412039.5944617,
@@ -238,7 +240,8 @@
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793428233.0147998,
       "gilam_eag": 1792764054.4116373,
-      "home": 1793417434.3825028
+      "home": 1793417434.3825028,
+      "home_dom": 1793433637.13265
     },
     "morning_ad_date": "2026-10-31"
   },

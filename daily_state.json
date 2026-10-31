@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793444439.32698,
+  "last_post_ts": 1793446239.1987617,
   "recent_posts": [
-    {
-      "source_title": "Тошкент ва Фарғонада контрафакт диний китоблар чоп этган яширин босмахоналар аниқланди",
-      "headline": "Toshkent va Farg'onada kontfrakt diniy kitoblar bosma bosmaxonalari aniqlandi 📚",
-      "ts": 1793197846.0225763
-    },
     {
       "source_title": "Andijon—Samarqand yo‘nalishida tezyurar poyezd qatnovi yo‘lga qo‘yilishi mumkin",
       "headline": "Andijon‑Samarqand yo'nalishida tezyurar poyezd qatnovi yo'lga qo'yilishi mumkin",
@@ -212,11 +207,17 @@
       "headline": "O'zbekiston aeroportlarida yo'lovchilar oqimi 13% ga oshdi",
       "image": "https://storage.kun.uz/source/1/f4SgcENKFZ_YszafvqdueWGczA2-dGzx.jpg",
       "ts": 1793442640.8344786
+    },
+    {
+      "source_title": "Тошкентда 20 та автобус йўналишининг ҳаракатини соат 23:00 гача узайтириш режа қилинмоқда",
+      "headline": "Toshkentda 20 ta avtobus yo'nalishining ish vaqti 23:00 gacha uzaytiriladi",
+      "image": "https://www.gazeta.uz/media/img/2024/11/IoPAi817320000883064_b.jpg",
+      "ts": 1793446237.1927414
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793444439.3217173,
@@ -252,6 +253,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 12
+    "count": 13
   }
 }

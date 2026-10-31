@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793440849.701473,
+  "last_post_ts": 1793442642.8383787,
   "recent_posts": [
-    {
-      "source_title": "Prezident huzurida soğliqni saqlaş sohasidagi yirik investitsiya loyihalari körib çiqildi",
-      "headline": "Sog'liqni saqlash sohasida yirik investitsiya loyihalari e'lon qilindi",
-      "ts": 1793194252.228371
-    },
     {
       "source_title": "Тошкент ва Фарғонада контрафакт диний китоблар чоп этган яширин босмахоналар аниқланди",
       "headline": "Toshkent va Farg'onada kontfrakt diniy kitoblar bosma bosmaxonalari aniqlandi 📚",
@@ -211,11 +206,17 @@
       "headline": "O'zbekiston shaxmatida yuksalish! ♟️",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/579052ba24ba5aae8749c41a35580c43791234e63789d9cc875cd4dc8e54b2c7.webp",
       "ts": 1793440847.6984615
+    },
+    {
+      "source_title": "Özbekiston aeroportlarida yölovçilar oqimi 13 foizga oşdi",
+      "headline": "O'zbekiston aeroportlarida yo'lovchilar oqimi 13% ga oshdi",
+      "image": "https://storage.kun.uz/source/1/f4SgcENKFZ_YszafvqdueWGczA2-dGzx.jpg",
+      "ts": 1793442640.8344786
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793439031.4556098,
@@ -251,6 +252,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 11
+    "count": 12
   }
 }

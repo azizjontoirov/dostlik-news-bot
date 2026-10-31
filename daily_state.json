@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793426451.2176156,
+  "last_post_ts": 1793428233.018839,
   "recent_posts": [
     {
       "source_title": "Тошкентда қурилаётган ҳовлида олти кишининг мурдаси топилди. Улар ис газидан заҳарланган бўлиши мумкин",
@@ -210,16 +210,16 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793422847.7501426,
+    "last_ad_ts": 1793428233.0148025,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 39,
       "gilam_eag": 14,
       "ad_job": 39,
-      "ad_water": 37,
+      "ad_water": 38,
       "home": 1
     },
     "permanent_index": 2,
@@ -227,13 +227,14 @@
     "today": {
       "ad_flour": 1,
       "home": 1,
-      "ad_job": 1
+      "ad_job": 1,
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1793412039.5944617,
       "ad_job": 1793422847.7501395,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793376044.5340068,
+      "ad_water": 1793428233.0147998,
       "gilam_eag": 1792764054.4116373,
       "home": 1793417434.3825028
     },

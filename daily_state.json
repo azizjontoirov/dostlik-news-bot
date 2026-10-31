@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793379654.5019531,
+  "last_post_ts": 1793413841.6832683,
   "recent_posts": [
-    {
-      "source_title": "Uzcard ва Humo’ни Apple Pay’га улаш имконияти тез орада тақдим этилади — Марказий банк",
-      "headline": "Apple Pay'ga Uzcard va Humo kartalari tez orada qo'shiladi 📱💳",
-      "ts": 1793165444.9020197
-    },
     {
       "source_title": "O‘zbekistondan Qozog‘istonga yuk tashishda kafolat puli joriy etiladi",
       "headline": "Yuk tashuvchilarga yangi kafolat puli joriy etildi!",
@@ -200,11 +195,17 @@
       "source_title": "AQŞning Yaqin Şarqdagi admirali Trampga Eronga zarba beriş variantlarini taqdim etdi – OAV",
       "headline": "AQŞning Yaqin Sharqdagi admiralidan Trampga Eronga harbiy harakatlar takliflari 🚀",
       "ts": 1793379652.4987016
+    },
+    {
+      "source_title": "O‘zbekiston Afg‘onistonga yuk tashish narxlarini oshiradi",
+      "headline": "O'zbekiston temir yo'llari Afg'onistonga yuk tashish narxlarini oshiradi",
+      "image": "https://gocdn.daryo.uz/large/2026/10/30/f7c1446d872890d68ee74209a2a2e09997c53a00f8f75929254f57568153f2fc.webp",
+      "ts": 1793413839.6794815
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793412039.5944645,
@@ -231,7 +232,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-30",
-    "count": 4
+    "day": "2026-10-31",
+    "count": 1
   }
 }

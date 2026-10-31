@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793430047.8449757,
+  "last_post_ts": 1793431837.57973,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston va Tailand vizasiz safarlar töğrisidagi bitimni imzolaşga kelişdi",
-      "headline": "Uzbekistan va Tailand vizasiz safarlar bo'yicha bitim imzolashga kelishdi",
-      "ts": 1793183443.7300465
-    },
     {
       "source_title": "Dastlabki 24 soat ichida o‘zbekistonliklar Apple Pay orqali 2,8 mlrd so‘mlik to‘lovni amalga oshirdi",
       "headline": "Apple Pay O'zbekistonda 24 soat ichida 2,8 mlrd so'mlik to'lovni amalga oshirdi 📱💰",
@@ -207,11 +202,17 @@
       "headline": "Navoiyda ruxsatsiz do'lana yig'ish uchun 7,5 mln so'm jarima!",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/27034fdeaef93588dd0dc38979dfa2eee89a41ad330cac9f9b8305d756cc2318.webp",
       "ts": 1793430045.8409162
+    },
+    {
+      "source_title": "Islomiy moliya Özbekistonga nima beradi?",
+      "headline": "Islomiy moliya O'zbekistonga yangi imkoniyatlar olib keladi",
+      "image": "https://storage.kun.uz/source/1/sBK_VocF-Dm6l3tDu_m-bstGljPYyXvR.jpg",
+      "ts": 1793431835.5767195
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793428233.0148025,
@@ -244,6 +245,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 7
+    "count": 8
   }
 }

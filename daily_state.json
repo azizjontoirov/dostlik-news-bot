@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793417434.385095,
+  "last_post_ts": 1793419256.0900462,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда ноябрда об-ҳаво қандай бўлади?",
-      "headline": "Noyabrda ob-havo qanday bo'ladi? 🌡️☔",
-      "ts": 1793170857.6771812
-    },
     {
       "source_title": "Noyabrning ikkinchi yarmida O‘zbekistonda havo sovishi kutilmoqda",
       "headline": "Noyabrning ikkinchi yarmida havo sovishi kutilmoqda",
@@ -202,11 +197,17 @@
       "headline": "Suv qarzdorlariga elektr to'lovlari to'xtatiladi",
       "image": "https://storage.kun.uz/source/1/Dz2yAmmP3qhA4NlwEpRHgy8XEDYeVxbP.webp",
       "ts": 1793415649.8152964
+    },
+    {
+      "source_title": "Ekostiker pullik bölişi haqidagi xabarlar yolğonligi maʼlum qilindi",
+      "headline": "EKOSTIKER PULLIK BÖLISHI XABARLARI YOLƢONLIGI",
+      "image": "https://storage.kun.uz/source/1/tM8MSzWMGsUCx-me8HczrlRSxQG7VkML.webp",
+      "ts": 1793419254.086245
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793417434.3825054,
@@ -237,6 +238,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 2
+    "count": 3
   }
 }

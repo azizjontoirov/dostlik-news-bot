@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793415651.8195693,
+  "last_post_ts": 1793417434.385095,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда ноябрда об-ҳаво қандай бўлади?",
@@ -206,28 +206,31 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793412039.5944645,
+    "last_ad_ts": 1793417434.3825054,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 39,
       "gilam_eag": 14,
       "ad_job": 38,
-      "ad_water": 37
+      "ad_water": 37,
+      "home": 1
     },
     "permanent_index": 2,
     "day": "2026-10-31",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "home": 1
     },
     "last_shown": {
       "ad_flour": 1793412039.5944617,
       "ad_job": 1793293248.2716432,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793376044.5340068,
-      "gilam_eag": 1792764054.4116373
+      "gilam_eag": 1792764054.4116373,
+      "home": 1793417434.3825028
     },
     "morning_ad_date": "2026-10-31"
   },

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793439031.4574463,
+  "last_post_ts": 1793440849.701473,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда фуқароларга ҳуқуқлари бузилишидан олдин судга мурожаат қилишга рухсат берилиши мумкин",
-      "headline": "Fuqarolar huquqlarini himoya qilish uchun yangi imkoniyat",
-      "ts": 1793192465.409187
-    },
     {
       "source_title": "Prezident huzurida soğliqni saqlaş sohasidagi yirik investitsiya loyihalari körib çiqildi",
       "headline": "Sog'liqni saqlash sohasida yirik investitsiya loyihalari e'lon qilindi",
@@ -210,11 +205,17 @@
       "headline": "Toşkent metrosida yangi qatnov! 🚇✨",
       "image": "https://storage.kun.uz/source/1/1SkdpwRinagbt_h15PKov1fX2l8u0h0P.jpg",
       "ts": 1793437330.3303432
+    },
+    {
+      "source_title": "“Oʻzbekiston xalqaro shaxmat maydonida havas qilgulik natijalarga erishib kelmoqda” — Saida Mirziyoyeva",
+      "headline": "O'zbekiston shaxmatida yuksalish! ♟️",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/579052ba24ba5aae8749c41a35580c43791234e63789d9cc875cd4dc8e54b2c7.webp",
+      "ts": 1793440847.6984615
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793439031.4556098,
@@ -250,6 +251,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 10
+    "count": 11
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793458847.117751,
+  "last_post_ts": 1793460641.4412878,
   "recent_posts": [
     {
       "source_title": "Yer va mol-mulk soliğiga 50 foizlik imtiyoz: suv omborlari böyida turizm qöllab-quvvatlanadi",
@@ -222,17 +222,17 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793455238.9072688,
+    "last_ad_ts": 1793460641.4361312,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 40,
       "gilam_eag": 14,
       "ad_job": 40,
       "ad_water": 39,
-      "home": 1,
+      "home": 2,
       "home_dom": 1,
       "uchastka_sale": 1
     },
@@ -240,7 +240,7 @@
     "day": "2026-10-31",
     "today": {
       "ad_flour": 2,
-      "home": 1,
+      "home": 2,
       "ad_job": 2,
       "ad_water": 2,
       "home_dom": 1,
@@ -252,7 +252,7 @@
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793449832.888705,
       "gilam_eag": 1792764054.4116373,
-      "home": 1793417434.3825028,
+      "home": 1793460641.4361296,
       "home_dom": 1793433637.13265,
       "uchastka_sale": 1793455238.907267
     },

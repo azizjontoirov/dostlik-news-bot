@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793433637.1497107,
+  "last_post_ts": 1793435447.250868,
   "recent_posts": [
-    {
-      "source_title": "Dastlabki 24 soat ichida o‘zbekistonliklar Apple Pay orqali 2,8 mlrd so‘mlik to‘lovni amalga oshirdi",
-      "headline": "Apple Pay O'zbekistonda 24 soat ichida 2,8 mlrd so'mlik to'lovni amalga oshirdi 📱💰",
-      "ts": 1793187043.737513
-    },
     {
       "source_title": "Таниқли журналист Озод Ҳамидхўжаев вафот этди",
       "headline": "Taniqli jurnalist Ozod Hamidxo'jaev vafot etdi",
@@ -208,11 +203,17 @@
       "headline": "Islomiy moliya O'zbekistonga yangi imkoniyatlar olib keladi",
       "image": "https://storage.kun.uz/source/1/sBK_VocF-Dm6l3tDu_m-bstGljPYyXvR.jpg",
       "ts": 1793431835.5767195
+    },
+    {
+      "source_title": "«Imarat» örnida «Imtiyaz»: Marat Hayrullayeviç loyihalari yana mojarolar girdobida",
+      "headline": "Imarat loyihalarida yana mojarolar!",
+      "image": "https://storage.kun.uz/source/1/K36CPRrLdSULTd_rxWq8cg4BQ2MErNVt.png",
+      "ts": 1793435445.2433548
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793433637.1326518,
@@ -248,6 +249,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 8
+    "count": 9
   }
 }

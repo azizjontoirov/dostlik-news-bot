@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793446239.1987617,
+  "last_post_ts": 1793448054.0226245,
   "recent_posts": [
-    {
-      "source_title": "Andijon—Samarqand yo‘nalishida tezyurar poyezd qatnovi yo‘lga qo‘yilishi mumkin",
-      "headline": "Andijon‑Samarqand yo'nalishida tezyurar poyezd qatnovi yo'lga qo'yilishi mumkin",
-      "ts": 1793199673.1688633
-    },
     {
       "source_title": "OCHL 2. “Nasaf” o‘z maydonida Kuvayt klubiga mag‘lub bo‘ldi",
       "headline": "Nasaf” O'z maydonida Al‑Kuvaytga mag'lub bo'ldi",
@@ -213,11 +208,17 @@
       "headline": "Toshkentda 20 ta avtobus yo'nalishining ish vaqti 23:00 gacha uzaytiriladi",
       "image": "https://www.gazeta.uz/media/img/2024/11/IoPAi817320000883064_b.jpg",
       "ts": 1793446237.1927414
+    },
+    {
+      "source_title": "Buxoroda yong‘in xavfsizligi talablari buzilgan yoqilg‘i ombori faoliyati to‘xtatildi",
+      "headline": "Buxoroda yoqilg'i ombori to'xtatildi!",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/323dc36621f08ca3b6d0aec318973a156d235cc935e050caec363afe24787d31.webp",
+      "ts": 1793448052.0187852
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793444439.3217173,
@@ -253,6 +254,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 13
+    "count": 14
   }
 }

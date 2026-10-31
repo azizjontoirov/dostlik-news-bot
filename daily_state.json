@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793428233.018839,
+  "last_post_ts": 1793430047.8449757,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда қурилаётган ҳовлида олти кишининг мурдаси топилди. Улар ис газидан заҳарланган бўлиши мумкин",
-      "headline": "Toshkentda qurilayotgan hovlida is gazidan zaharlanish xavfi ⚠️",
-      "ts": 1793181428.8002443
-    },
     {
       "source_title": "Özbekiston va Tailand vizasiz safarlar töğrisidagi bitimni imzolaşga kelişdi",
       "headline": "Uzbekistan va Tailand vizasiz safarlar bo'yicha bitim imzolashga kelishdi",
@@ -206,11 +201,17 @@
       "headline": "Elektron chipta foydalanuvchilariga 20% gacha chegirma! 🎫",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/3557f5b5e8fec803d4cd8808effd61b6fc57ff3d7ab39c07281670ebb6e9843b.webp",
       "ts": 1793426449.214794
+    },
+    {
+      "source_title": "Navoiyda ruxsatsiz do‘lana tergan ikki kishi 7,5 mln so‘mga yaqin jarimaga tortildi",
+      "headline": "Navoiyda ruxsatsiz do'lana yig'ish uchun 7,5 mln so'm jarima!",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/27034fdeaef93588dd0dc38979dfa2eee89a41ad330cac9f9b8305d756cc2318.webp",
+      "ts": 1793430045.8409162
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793428233.0148025,
@@ -243,6 +244,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 6
+    "count": 7
   }
 }

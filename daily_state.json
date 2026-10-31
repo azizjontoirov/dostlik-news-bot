@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793424638.2319067,
+  "last_post_ts": 1793426451.2176156,
   "recent_posts": [
-    {
-      "source_title": "Suv omborlari atrofida turizm xizmatlarini tashkil etgan tadbirkorlarga soliq imtiyozlari beriladi",
-      "headline": "Suv omborlari atrofida turizmga soliq imtiyozlari 🌊🏞️",
-      "ts": 1793178055.031484
-    },
     {
       "source_title": "Тошкентда қурилаётган ҳовлида олти кишининг мурдаси топилди. Улар ис газидан заҳарланган бўлиши мумкин",
       "headline": "Toshkentda qurilayotgan hovlida is gazidan zaharlanish xavfi ⚠️",
@@ -205,11 +200,17 @@
       "headline": "Samarqand va Buxoroda ekspress avtobus qatnovi yo'lga qo'yilishi mumkin",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/744c15d7539aa4bb971b1f70d034ae4c83cf729cc6d4cf33ea181eee621dc8c2.webp",
       "ts": 1793424636.2276452
+    },
+    {
+      "source_title": "O‘zbekistonda elektron chipta olgan yo‘lovchilarga kamida 20 foiz chegirma berilishi mumkin",
+      "headline": "Elektron chipta foydalanuvchilariga 20% gacha chegirma! 🎫",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/3557f5b5e8fec803d4cd8808effd61b6fc57ff3d7ab39c07281670ebb6e9843b.webp",
+      "ts": 1793426449.214794
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793422847.7501426,
@@ -241,6 +242,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793421039.122099,
+  "last_post_ts": 1793422847.7524142,
   "recent_posts": [
     {
       "source_title": "Тошкентликларга кечқурун ва тунда деразаларни ёпиқ тутиш тавсия этилди",
@@ -208,15 +208,15 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793417434.3825054,
+    "last_ad_ts": 1793422847.7501426,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 39,
       "gilam_eag": 14,
-      "ad_job": 38,
+      "ad_job": 39,
       "ad_water": 37,
       "home": 1
     },
@@ -224,11 +224,12 @@
     "day": "2026-10-31",
     "today": {
       "ad_flour": 1,
-      "home": 1
+      "home": 1,
+      "ad_job": 1
     },
     "last_shown": {
       "ad_flour": 1793412039.5944617,
-      "ad_job": 1793293248.2716432,
+      "ad_job": 1793422847.7501395,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793376044.5340068,
       "gilam_eag": 1792764054.4116373,

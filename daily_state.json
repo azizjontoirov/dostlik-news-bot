@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793460641.4412878,
+  "last_post_ts": 1793462453.248111,
   "recent_posts": [
-    {
-      "source_title": "Yer va mol-mulk soliğiga 50 foizlik imtiyoz: suv omborlari böyida turizm qöllab-quvvatlanadi",
-      "headline": "Yer va mol‑mulk solig'iga 50% imtiyoz – suv omborlari atrofida turizm rivojlanadi",
-      "ts": 1793246450.3846557
-    },
     {
       "source_title": "Самарқандда темир тўсиққа урилган Epica ҳайдовчиси ҳалок бўлди",
       "headline": "Samarkandda temir to'siqka urilgan Epica haydovchisi halok bo'ldi",
@@ -218,11 +213,17 @@
       "headline": "Superliga: “Dinamo” “Mash'al”ni 3:0 yengdi, “Nasaf”‑“Surxon” derbisida durang",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/14eb185458378ac5b895e1d387eb676fc654639fa160fbb56cb6e23c80c58506.webp",
       "ts": 1793458845.1145482
+    },
+    {
+      "source_title": "O‘zbekistonda kiberxavfsizlik mutaxassislari har ikki yilda malaka oshiradigan bo‘ldi",
+      "headline": "Kiberxavfsizlik mutaxassislarini har ikki yilda malaka oshirish boshlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/d244acf53993b5b15dfdcf210f3c74afcbc1f3bef8715ef81d4ac2ab1cc40f6c.webp",
+      "ts": 1793462451.2450018
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793460641.4361312,
@@ -261,6 +262,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 18
+    "count": 19
   }
 }

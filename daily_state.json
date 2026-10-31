@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793422847.7524142,
+  "last_post_ts": 1793424638.2319067,
   "recent_posts": [
-    {
-      "source_title": "Тошкентликларга кечқурун ва тунда деразаларни ёпиқ тутиш тавсия этилди",
-      "headline": "Tashkentda havoning sifati yomon – kechqurun va tunda derazalarni yopiq tuting",
-      "ts": 1793176241.0488744
-    },
     {
       "source_title": "Suv omborlari atrofida turizm xizmatlarini tashkil etgan tadbirkorlarga soliq imtiyozlari beriladi",
       "headline": "Suv omborlari atrofida turizmga soliq imtiyozlari 🌊🏞️",
@@ -204,11 +199,17 @@
       "headline": "Andijonda 2 kg gashish 27 mln dollarga sotildi – shaxslar ushlandi",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/64d2a78dfb5c7b8d1f2469a3be5a30a1f7ac78c0715a476eab5aa74f5a169394.webp",
       "ts": 1793421037.1187477
+    },
+    {
+      "source_title": "Samarqand va Buxoroda turistlar uchun ekspress avtobuslar qatnovi yo‘lga qo‘yilishi mumkin",
+      "headline": "Samarqand va Buxoroda ekspress avtobus qatnovi yo'lga qo'yilishi mumkin",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/744c15d7539aa4bb971b1f70d034ae4c83cf729cc6d4cf33ea181eee621dc8c2.webp",
+      "ts": 1793424636.2276452
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793422847.7501426,
@@ -240,6 +241,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 4
+    "count": 5
   }
 }

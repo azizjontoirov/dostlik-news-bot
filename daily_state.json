@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793451650.663656,
+  "last_post_ts": 1793453443.563729,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон президенти Испанияга таъзия йўллади. Мамлакатда уч кунлик мотам эълон қилинди",
-      "headline": "O'zbekiston prezidenti Ispaniyaga ta'ziya yo'lladi 🇪🇸",
-      "ts": 1793204803.2890956
-    },
     {
       "source_title": "Pokiston Xitoy bilan birdamlik sifatida Tayvan samolyotlariga osmonini yopdi",
       "headline": "Pokiston Xitoy bilan birdamlikda Tayvan samolyotlariga osmonini yopdi 🚫✈️",
@@ -215,11 +210,17 @@
       "headline": "Tashkentda avtobus qatnovi soat 23:00 gacha uzaytirildi",
       "image": "https://storage.kun.uz/source/1/qIBE2LgopFx05VZPBQ6vHAeFxG5QkNsw.webp",
       "ts": 1793451648.659616
+    },
+    {
+      "source_title": "Bank garovida qolgan yuzlab uylar: Toshkentda “Rohat” TJM xaridorlari uy-joyidan ajralish xavfi ostida",
+      "headline": "Rohat” turar‑joy majmuasida uy‑joydan ajralish xavfi!",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/132eb4bd8c489b7b4ddc66a0d41b55f3f65960d5b8d9e1e1f443500bf9946c2a.webp",
+      "ts": 1793453441.5605628
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793449832.8887079,
@@ -255,6 +256,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 15
+    "count": 16
   }
 }

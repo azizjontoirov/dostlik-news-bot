@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793453443.563729,
+  "last_post_ts": 1793455238.9099152,
   "recent_posts": [
     {
       "source_title": "Pokiston Xitoy bilan birdamlik sifatida Tayvan samolyotlariga osmonini yopdi",
@@ -220,10 +220,10 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793449832.8887079,
+    "last_ad_ts": 1793455238.9072688,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 40,
@@ -231,7 +231,8 @@
       "ad_job": 40,
       "ad_water": 39,
       "home": 1,
-      "home_dom": 1
+      "home_dom": 1,
+      "uchastka_sale": 1
     },
     "permanent_index": 2,
     "day": "2026-10-31",
@@ -240,7 +241,8 @@
       "home": 1,
       "ad_job": 2,
       "ad_water": 2,
-      "home_dom": 1
+      "home_dom": 1,
+      "uchastka_sale": 1
     },
     "last_shown": {
       "ad_flour": 1793439031.4556084,
@@ -249,7 +251,8 @@
       "ad_water": 1793449832.888705,
       "gilam_eag": 1792764054.4116373,
       "home": 1793417434.3825028,
-      "home_dom": 1793433637.13265
+      "home_dom": 1793433637.13265,
+      "uchastka_sale": 1793455238.907267
     },
     "morning_ad_date": "2026-10-31"
   },

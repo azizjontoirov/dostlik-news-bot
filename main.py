@@ -5,7 +5,7 @@ DO'STLIK BOZOR | YANGILIKLAR — Telegram yangiliklar boti (v3).
 Oqim:
   1. (har kuni soat 06:00 da, bir marta) ob-havo + valyuta posti (rasmsiz).
   2. gov.uz/jizzax va respublika RSS manbalaridan yangi xabarlarni yig'ish.
-  3. Maqola sahifasidan rasm (og:image) va to'liq matnni olish.
+  3. Maqola sahifasidan rasm (og:image) va to'liq matnni olish (sayt logotipi/standart rasmlar e'tiborga olinmaydi).
   4. Groq AI: O'zbekistonga aloqadorligini baholash (aks holda SKIP) + o'zbek lotin imlosida qayta yozish.
   5. Post RASM + CAPTION (1024 belgiga sig'adigan) ko'rinishida kanal(lar)ga joylanadi.
 
@@ -14,7 +14,10 @@ Muhit o'zgaruvchilari:
   TELEGRAM_CHAT_ID    (majburiy; bir nechta kanal bo'lsa vergul bilan: "@kanal1,@kanal2")
   GROQ_API_KEY        (ixtiyoriy; bo'lmasa AI'siz zaxira format ishlatiladi)
   GROQ_MODELS         (ixtiyoriy; vergul bilan, birinchisi asosiy model)
-  DEFAULT_IMAGE_URL   (ixtiyoriy; yangilikda rasm topilmasa ishlatiladigan umumiy rasm, masalan kanal logotipi)
+  DEFAULT_IMAGE_URL   (ixtiyoriy; yangilikda rasm topilmasa ishlatiladigan umumiy rasm havolasi)
+  DEFAULT_IMAGE_FILE  (ixtiyoriy; repo ichidagi umumiy rasm fayli, masalan "logo.jpg" — private repo'da ham ishlaydi;
+                      rasmi yo'q yoki faqat sayt logotipi bor yangiliklarga qo'yiladi)
+  BAD_IMAGE_PATTERNS  (ixtiyoriy; boshqa saytlarning standart rasm nomlari uchun qo'shimcha regex, "andoza1|andoza2")
   REQUIRE_IMAGE       (ixtiyoriy; "0" bo'lsa rasmsiz postlarga ham ruxsat. Standart: "1")
   TELEGRAM_ADMIN_IDS  (ixtiyoriy; adminlarning Telegram ID'lari, vergul bilan: "123456789,987654321").
                       Adminlar botga shaxsiy chatda /interval, /status buyruqlarini yuboradi.
@@ -66,6 +69,7 @@ TELEGRAM_ADMIN_IDS = {
     int(x) for x in re.split(r"[,\s]+", os.environ.get("TELEGRAM_ADMIN_IDS", "")) if re.fullmatch(r"[0-9]+", x)
 }
 DEFAULT_IMAGE_URL = os.environ.get("DEFAULT_IMAGE_URL", "").strip()
+DEFAULT_IMAGE_FILE = os.environ.get("DEFAULT_IMAGE_FILE", "").strip()  # repo ichidagi umumiy rasm, masalan "logo.jpg"
 REQUIRE_IMAGE = os.environ.get("REQUIRE_IMAGE", "1").strip() != "0"
 
 # Birinchi model asosiy. O'zbek tilidagi sifat modelga qarab farq qiladi — natijaga qarab
@@ -86,7 +90,7 @@ RSS_FEEDS = [
     "https://kun.uz/news/rss",
     "https://daryo.uz/rss/",
     "https://qalampir.uz/uz/rss",
-    "https://www.gazeta.uz/uz/rss/",    
+    "https://www.gazeta.uz/uz/rss/",
 ]
 GOV_NEWS_URL = "https://gov.uz/uz/jizzax/news"
 CBU_RATES_URL = "https://cbu.uz/uz/arkhiv-kursov-valyut/json/"
@@ -336,6 +340,22 @@ def looks_local(item: "NewsItem") -> bool:
     return bool(_LOCAL_KEYWORDS.search(f"{item.title} {item.summary}"))
 
 
+# Saytlarning "standart" rasmlari (masalan, kun.uz/og-default.jpg): bular yangilikning haqiqiy rasmi emas
+_GENERIC_IMAGE_RE = re.compile(
+    "|".join(filter(None, [
+        r"og[-_]?default", r"default[-_]?(og|image|img|share|cover|thumb)", r"placeholder",
+        r"no[-_]?(image|photo|img)", r"[-_/]logo[-_.]", r"favicon", r"blank\.(png|jpe?g|gif)",
+        os.environ.get("BAD_IMAGE_PATTERNS", "").strip(),   # qo'shimcha andozalar (regex), "a|b" ko'rinishida
+    ])),
+    re.IGNORECASE,
+)
+
+
+def is_generic_image(url: str, recent: "RecentPosts") -> bool:
+    """Rasm sayt logotipi/standart banner bo'lsa yoki yaqinda boshqa postda ishlatilgan bo'lsa — True."""
+    return bool(_GENERIC_IMAGE_RE.search(url)) or recent.image_used(url)
+
+
 def get_json(session: requests.Session, url: str) -> Any:
     res = session.get(url, timeout=15)
     res.raise_for_status()
@@ -429,8 +449,13 @@ class RecentPosts:
             for e in self.items
         )
 
-    def add(self, source_title: str, headline: str) -> None:
-        self.items.append({"source_title": source_title, "headline": headline, "ts": time.time()})
+    def image_used(self, url: str) -> bool:
+        """Bu rasm oxirgi postlarda ishlatilganmi (haqiqiy yangilik rasmi har safar yangi bo'ladi)."""
+        return bool(url) and any(e.get("image") == url for e in self.items)
+
+    def add(self, source_title: str, headline: str, image_url: str = "") -> None:
+        self.items.append({"source_title": source_title, "headline": headline, "image": image_url,
+                           "ts": time.time()})
         self.items = self.items[-RECENT_MAX_ITEMS:]
         self.state["recent_posts"] = self.items
         save_json(DAILY_STATE_FILE, self.state)
@@ -586,7 +611,7 @@ def iter_candidates(session: requests.Session) -> list[NewsItem]:
         except Exception:  # noqa: BLE001
             LOG.exception("RSS qayta ishlashda kutilmagan xatolik: %s", feed_url)
             got = []
-        LOG.info("  → %s: %d ta yangi (%d soat ichida) yozuv", feed_url, len(got), MAX_AGE_HOURS)
+        LOG.info("  → %s: %d ta yangi (24 soat ichida) yozuv", feed_url, len(got))
         items.extend(got)
     items.sort(key=lambda it: it.published_ts, reverse=True)
     LOG.info("Jami nomzod yangilik: %d ta", len(items))
@@ -1004,6 +1029,8 @@ def maybe_send_morning(publisher: TelegramPublisher, session: requests.Session,
 #
 #   end_date      — expire_date bilan bir xil (ikkalasidan birini yozish kifoya)
 #   daily_limit   — kuniga eng ko'pi bilan necha marta chiqishi (ixtiyoriy)
+#   every_days    — har N kunda bir marta chiqadi (ixtiyoriy): 2 = ikki kunda bir marta, 3 = uch kunda bir marta.
+#                   Oxirgi ko'rsatilgan kundan N kun o'tgach navbatdagi mos reklama slotida chiqadi.
 #
 # Jadval: prime-time (08:30, 12:30, 18:30, 20:30 atrofi) da pullik, qolgan vaqtda doimiy reklamalar; 07:00 da kunni doimiy reklama ochadi.
 # Har guruh ichida bugun eng kam chiqqan reklama tanlanadi (adolatli). Kunlik hisob daily_state.json → "ads_state" da.
@@ -1173,12 +1200,27 @@ def _daily_cap(ad: dict[str, Any], kind: str) -> int:
     return PERMANENT_MAX_PER_DAY if kind == "permanent" else 0
 
 
-def _eligible(pool: list[dict[str, Any]], kind: str, counts: dict[str, Any]) -> list[dict[str, Any]]:
-    """Bugungi limiti hali tugamagan reklamalar."""
+def _due_today(ad: dict[str, Any], last_shown: dict[str, Any], today: date) -> bool:
+    """
+    every_days: N bo'lsa — oxirgi ko'rsatilgan kundan beri kamida N kalendar kun o'tgan bo'lishi kerak
+    (N=2: ikki kunda bir marta). Hali ko'rsatilmagan reklama darhol navbatga kiradi.
+    """
+    every = _as_int(ad.get("every_days") or ad.get("interval_days"))
+    last = _as_float(last_shown.get(_ad_id(ad)))
+    if every <= 1 or last <= 0:
+        return True
+    return (today - datetime.fromtimestamp(last, TZ).date()).days >= every
+
+
+def _eligible(pool: list[dict[str, Any]], kind: str, counts: dict[str, Any],
+              last_shown: dict[str, Any], today: date) -> list[dict[str, Any]]:
+    """Bugun chiqishi mumkin bo'lgan reklamalar: kunlik limiti tugamagan va every_days navbati kelgan."""
     result = []
     for ad in pool:
         cap = _daily_cap(ad, kind)
         if cap and _as_int(counts.get(_ad_id(ad))) >= cap:
+            continue
+        if not _due_today(ad, last_shown, today):
             continue
         result.append(ad)
     return result
@@ -1204,7 +1246,7 @@ def decide_ad(ads: dict[str, Any], ads_state: dict[str, Any], now: datetime) -> 
     Reklama slotida qaysi reklama chiqishini tanlaydi.
       Prime-time  — avval PULLIK reklamalar (end_date va daily_limit hisobga olinadi), bo'lmasa doimiy.
       Qolgan vaqt — avval DOIMIY reklamalar navbat bilan aylanadi, hammasi limitga yetsa pullik.
-    Qaytaradi: (reklama, "paid"/"permanent") yoki (None, "").
+    every_days belgilangan reklama faqat o'z kuni keladi. Qaytaradi: (reklama, "paid"/"permanent") yoki (None, "").
     """
     today = now.date()
     counts = _roll_day(ads_state, today)
@@ -1212,7 +1254,10 @@ def decide_ad(ads: dict[str, Any], ads_state: dict[str, Any], now: datetime) -> 
 
     paid = [a for a in ads["paid"] if _is_active(a, today, require_expiry=True)]
     permanent = [a for a in ads["permanent"] if _is_active(a, today, require_expiry=False)]
-    pools = {"paid": _eligible(paid, "paid", counts), "permanent": _eligible(permanent, "permanent", counts)}
+    pools = {
+        "paid": _eligible(paid, "paid", counts, last_shown, today),
+        "permanent": _eligible(permanent, "permanent", counts, last_shown, today),
+    }
     order = ("paid", "permanent") if is_prime_time(now) else ("permanent", "paid")
     for kind in order:
         if pools[kind]:
@@ -1262,11 +1307,13 @@ def maybe_send_morning_ad(publisher: TelegramPublisher, state: dict[str, Any], n
     if ads is None:
         return False
     counts = _roll_day(ads_state, now.date())
+    last_shown = _last_shown(ads_state)
     permanent = [a for a in ads["permanent"] if _is_active(a, now.date(), require_expiry=False)]
+    permanent = _eligible(permanent, "permanent", counts, last_shown, now.date())
     if not permanent:
         LOG.info("Ertalabki reklama uchun faol doimiy reklama yo'q.")
         return False
-    ad = _least_shown(permanent, counts, _last_shown(ads_state))
+    ad = _least_shown(permanent, counts, last_shown)
     LOG.info("Kunni ochuvchi doimiy reklama yuborilmoqda: %s", _ad_id(ad))
     if _deliver_ad(publisher, state, ad, "permanent"):
         ads_state["morning_ad_date"] = today_iso
@@ -1507,8 +1554,16 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
 
     enrich_item(session, item)
 
+    # Sayt logotipi/standart banner (masalan, kun.uz/og-default.jpg) yangilikning haqiqiy rasmi emas
+    if item.image_url and is_generic_image(item.image_url, recent):
+        LOG.info("Umumiy rasm (sayt logotipi/standart banner) — ishlatilmaydi: %s", item.image_url)
+        item.image_url = None
+
     image = item.image_url or DEFAULT_IMAGE_URL or None
-    if not image and REQUIRE_IMAGE:
+    local_image = None
+    if not image and DEFAULT_IMAGE_FILE:
+        local_image = load_local_image(DEFAULT_IMAGE_FILE)
+    if not image and not local_image and REQUIRE_IMAGE:
         item.note = "rasm topilmadi"
         LOG.info("Rasm topilmadi — o'tkazib yuborildi: %s", item.title)
         return Outcome.SKIPPED
@@ -1529,7 +1584,7 @@ def process_item(item: NewsItem, session: requests.Session, publisher: TelegramP
 
     post = build_final_post(item, ai_text)
     item.headline = extract_headline(normalize_apostrophes(ai_text if ai_text else fallback_post_text(item)))
-    result = publisher.send(post, image, allow_text_fallback=not REQUIRE_IMAGE)
+    result = publisher.send(post, image, allow_text_fallback=not REQUIRE_IMAGE, local_image=local_image)
     if result is SendResult.OK:
         item.note = "joylandi" if ai_text else "joylandi (AI'siz)"
         return Outcome.POSTED
@@ -1569,7 +1624,7 @@ def publish_news(publisher: TelegramPublisher, rewriter: AIRewriter,
             store.add(item.dedup_keys)
             store.save()  # har bir qarordan keyin saqlaymiz — keyingi xatolik dublikat keltirmasin
         if outcome is Outcome.POSTED:
-            recent.add(item.title, item.headline)
+            recent.add(item.title, item.headline, item.image_url or "")
             posted += 1
             time.sleep(POST_DELAY_SEC)
         elif outcome is Outcome.FAILED:

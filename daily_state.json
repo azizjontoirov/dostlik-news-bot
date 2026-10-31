@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793419256.0900462,
+  "last_post_ts": 1793421039.122099,
   "recent_posts": [
-    {
-      "source_title": "Noyabrning ikkinchi yarmida O‘zbekistonda havo sovishi kutilmoqda",
-      "headline": "Noyabrning ikkinchi yarmida havo sovishi kutilmoqda",
-      "ts": 1793172645.3445828
-    },
     {
       "source_title": "Тошкентликларга кечқурун ва тунда деразаларни ёпиқ тутиш тавсия этилди",
       "headline": "Tashkentda havoning sifati yomon – kechqurun va tunda derazalarni yopiq tuting",
@@ -203,11 +198,17 @@
       "headline": "EKOSTIKER PULLIK BÖLISHI XABARLARI YOLƢONLIGI",
       "image": "https://storage.kun.uz/source/1/tM8MSzWMGsUCx-me8HczrlRSxQG7VkML.webp",
       "ts": 1793419254.086245
+    },
+    {
+      "source_title": "Andijonda 2 kilo gashishni 27 ming dollarga sotayotgan shaxslar ushlandi",
+      "headline": "Andijonda 2 kg gashish 27 mln dollarga sotildi – shaxslar ushlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/64d2a78dfb5c7b8d1f2469a3be5a30a1f7ac78c0715a476eab5aa74f5a169394.webp",
+      "ts": 1793421037.1187477
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793417434.3825054,
@@ -238,6 +239,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 3
+    "count": 4
   }
 }

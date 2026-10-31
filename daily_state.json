@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793448054.0226245,
+  "last_post_ts": 1793449832.8952107,
   "recent_posts": [
     {
       "source_title": "OCHL 2. “Nasaf” o‘z maydonida Kuvayt klubiga mag‘lub bo‘ldi",
@@ -218,16 +218,16 @@
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793444439.3217173,
+    "last_ad_ts": 1793449832.8887079,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 40,
       "gilam_eag": 14,
       "ad_job": 40,
-      "ad_water": 38,
+      "ad_water": 39,
       "home": 1,
       "home_dom": 1
     },
@@ -237,14 +237,14 @@
       "ad_flour": 2,
       "home": 1,
       "ad_job": 2,
-      "ad_water": 1,
+      "ad_water": 2,
       "home_dom": 1
     },
     "last_shown": {
       "ad_flour": 1793439031.4556084,
       "ad_job": 1793444439.3217149,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793428233.0147998,
+      "ad_water": 1793449832.888705,
       "gilam_eag": 1792764054.4116373,
       "home": 1793417434.3825028,
       "home_dom": 1793433637.13265

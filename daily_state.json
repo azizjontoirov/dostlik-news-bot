@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793457041.0232449,
+  "last_post_ts": 1793458847.117751,
   "recent_posts": [
-    {
-      "source_title": "Ekologlar Toshkentda havo ifloslanishi sababini tushuntirdi",
-      "headline": "Toshkentda havo ifloslanishi sabablari ochildi",
-      "ts": 1793242856.3470135
-    },
     {
       "source_title": "Yer va mol-mulk soliğiga 50 foizlik imtiyoz: suv omborlari böyida turizm qöllab-quvvatlanadi",
       "headline": "Yer va mol‑mulk solig'iga 50% imtiyoz – suv omborlari atrofida turizm rivojlanadi",
@@ -217,11 +212,17 @@
       "headline": "GCF O'zbekiston ekologiyasiga 103,7 mln yevro ajratadi",
       "image": "https://storage.kun.uz/source/1/RWD7VgNgh7CJBnEiToXbnIUFvU2ucIwM.webp",
       "ts": 1793457039.0190983
+    },
+    {
+      "source_title": "Superliga. “Dinamo” “Mash’al”ni yirik hisobda yengdi, voha derbisida “Nasaf” “Surxon” bilan durang qayd etdi",
+      "headline": "Superliga: “Dinamo” “Mash'al”ni 3:0 yengdi, “Nasaf”‑“Surxon” derbisida durang",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/14eb185458378ac5b895e1d387eb676fc654639fa160fbb56cb6e23c80c58506.webp",
+      "ts": 1793458845.1145482
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793455238.9072688,
@@ -260,6 +261,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 17
+    "count": 18
   }
 }

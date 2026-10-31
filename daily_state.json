@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793435447.250868,
+  "last_post_ts": 1793437332.3337595,
   "recent_posts": [
-    {
-      "source_title": "Таниқли журналист Озод Ҳамидхўжаев вафот этди",
-      "headline": "Taniqli jurnalist Ozod Hamidxo'jaev vafot etdi",
-      "ts": 1793188856.7663522
-    },
     {
       "source_title": "Ўзбекистонда фуқароларга ҳуқуқлари бузилишидан олдин судга мурожаат қилишга рухсат берилиши мумкин",
       "headline": "Fuqarolar huquqlarini himoya qilish uchun yangi imkoniyat",
@@ -209,11 +204,17 @@
       "headline": "Imarat loyihalarida yana mojarolar!",
       "image": "https://storage.kun.uz/source/1/K36CPRrLdSULTd_rxWq8cg4BQ2MErNVt.png",
       "ts": 1793435445.2433548
+    },
+    {
+      "source_title": "Toşkent metrosida beş vagonli poyezdlar qatnovi rejalaştirilmoqda",
+      "headline": "Toşkent metrosida yangi qatnov! 🚇✨",
+      "image": "https://storage.kun.uz/source/1/1SkdpwRinagbt_h15PKov1fX2l8u0h0P.jpg",
+      "ts": 1793437330.3303432
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793433637.1326518,
@@ -249,6 +250,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 9
+    "count": 10
   }
 }

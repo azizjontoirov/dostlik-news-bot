@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793449832.8952107,
+  "last_post_ts": 1793451650.663656,
   "recent_posts": [
-    {
-      "source_title": "OCHL 2. “Nasaf” o‘z maydonida Kuvayt klubiga mag‘lub bo‘ldi",
-      "headline": "Nasaf” O'z maydonida Al‑Kuvaytga mag'lub bo'ldi",
-      "ts": 1793203251.4775913
-    },
     {
       "source_title": "Ўзбекистон президенти Испанияга таъзия йўллади. Мамлакатда уч кунлик мотам эълон қилинди",
       "headline": "O'zbekiston prezidenti Ispaniyaga ta'ziya yo'lladi 🇪🇸",
@@ -214,11 +209,17 @@
       "headline": "Buxoroda yoqilg'i ombori to'xtatildi!",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/323dc36621f08ca3b6d0aec318973a156d235cc935e050caec363afe24787d31.webp",
       "ts": 1793448052.0187852
+    },
+    {
+      "source_title": "Toşkentda ayrim avtobuslar harakatini soat 23:00 gaça uzaytiriş reja qilinmoqda",
+      "headline": "Tashkentda avtobus qatnovi soat 23:00 gacha uzaytirildi",
+      "image": "https://storage.kun.uz/source/1/qIBE2LgopFx05VZPBQ6vHAeFxG5QkNsw.webp",
+      "ts": 1793451648.659616
     }
   ],
   "morning_sent_date": "2026-10-31",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793449832.8887079,
@@ -254,6 +255,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-10-31",
-    "count": 14
+    "count": 15
   }
 }

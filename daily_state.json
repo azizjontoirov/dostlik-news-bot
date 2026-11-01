@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793512856.3939228,
+  "last_post_ts": 1793514634.7536955,
   "recent_posts": [
     {
       "source_title": "Superliga darvozabonlari mavsumni qanday o‘tkazmoqda?",
@@ -230,13 +230,13 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793509239.6103725,
+    "last_ad_ts": 1793514634.751131,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 41,
+      "ad_flour": 42,
       "gilam_eag": 14,
       "ad_job": 41,
       "ad_water": 40,
@@ -249,10 +249,11 @@
     "today": {
       "ad_job": 1,
       "home_dom": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793466043.0874846,
+      "ad_flour": 1793514634.7511296,
       "ad_job": 1793498440.4727857,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793509239.6103706,

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793539861.5085728,
+  "last_post_ts": 1793541640.929025,
   "recent_posts": [
     {
       "source_title": "Tarixdagi eng yirik kriptoo‘g‘rilik: KXDR hakerlari Binance’dan 6 mlrd dollar o‘g‘irlashda gumonlandi",
@@ -240,10 +240,10 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793536232.1610293,
+    "last_ad_ts": 1793541640.9264038,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 43,
@@ -251,14 +251,14 @@
       "ad_job": 42,
       "ad_water": 41,
       "home": 3,
-      "home_dom": 2,
+      "home_dom": 3,
       "uchastka_sale": 1
     },
     "permanent_index": 2,
     "day": "2026-11-01",
     "today": {
       "ad_job": 2,
-      "home_dom": 1,
+      "home_dom": 2,
       "ad_water": 2,
       "ad_flour": 2,
       "home": 1
@@ -270,7 +270,7 @@
       "ad_water": 1793530844.9091575,
       "gilam_eag": 1792764054.4116373,
       "home": 1793520039.2671232,
-      "home_dom": 1793503834.72973,
+      "home_dom": 1793541640.9264019,
       "uchastka_sale": 1793455238.907267
     },
     "morning_ad_date": "2026-11-01"

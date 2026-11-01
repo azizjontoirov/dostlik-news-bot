@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793505649.8997753,
+  "last_post_ts": 1793507438.656884,
   "recent_posts": [
-    {
-      "source_title": "Buxoroda bir oylik chaqalog‘ini 4 ming dollarga sotgan ona va xaridor ayolning ozodligi cheklandi",
-      "headline": "Buxoroda bir oylik chaqaloq 4 000 dollarga sotildi – ona va xaridor ayolning ozodligi tekshirildi",
-      "ts": 1793259040.3280354
-    },
     {
       "source_title": "Uklon O‘zbekistonda taksi agregatorlari bozorida ustun mavqega ega deb e’tirof etildi",
       "headline": "Uklon O'zbekistonda taksi agregatorlari bozorida ustun mavqega ega 🚖",
@@ -223,11 +218,17 @@
       "headline": "Toshkentda yangi qurilayotgan binoda yong'in",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/8e6492a75441e071ea5a72e7dc9046b4986671291245d9444654f12f6762319a.webp",
       "ts": 1793505647.8953185
+    },
+    {
+      "source_title": "O‘zbekistonning tashqi savdo taqchilligi to‘qqiz oyda 13,7 mlrd dollarga yetdi",
+      "headline": "O'zbekistonning tashqi savdo aylanmasi 13,7 mlrd dollarga oshdi 📈💰",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/2d722ec1aa0eba12f5fd8c7e0af97772e742e5e9309d230de7f14fb632e172a2.webp",
+      "ts": 1793507436.6530578
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793503834.7297316,
@@ -262,6 +263,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 3
+    "count": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793545252.5731778,
+  "last_post_ts": 1793547037.2735288,
   "recent_posts": [
     {
       "source_title": "Google vitse-prezidenti O‘zbekistonda Google Pay ishga tushirilganiga munosabat bildirdi",
@@ -242,17 +242,17 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793541640.9264038,
+    "last_ad_ts": 1793547037.2708857,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 43,
       "gilam_eag": 14,
       "ad_job": 42,
       "ad_water": 41,
-      "home": 3,
+      "home": 4,
       "home_dom": 3,
       "uchastka_sale": 1
     },
@@ -263,7 +263,7 @@
       "home_dom": 2,
       "ad_water": 2,
       "ad_flour": 2,
-      "home": 1
+      "home": 2
     },
     "last_shown": {
       "ad_flour": 1793536232.1610277,
@@ -271,7 +271,7 @@
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793530844.9091575,
       "gilam_eag": 1792764054.4116373,
-      "home": 1793520039.2671232,
+      "home": 1793547037.2708836,
       "home_dom": 1793541640.9264019,
       "uchastka_sale": 1793455238.907267
     },

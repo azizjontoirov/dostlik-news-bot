@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793523652.0002284,
+  "last_post_ts": 1793525433.4429438,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда фуқаролар маълумотлари оммавий сизиб чиққани ҳақидаги хабарлар текширилмоқда",
@@ -234,15 +234,15 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793520039.2671258,
+    "last_ad_ts": 1793525433.4406652,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 42,
       "gilam_eag": 14,
-      "ad_job": 41,
+      "ad_job": 42,
       "ad_water": 40,
       "home": 3,
       "home_dom": 2,
@@ -251,7 +251,7 @@
     "permanent_index": 2,
     "day": "2026-11-01",
     "today": {
-      "ad_job": 1,
+      "ad_job": 2,
       "home_dom": 1,
       "ad_water": 1,
       "ad_flour": 1,
@@ -259,7 +259,7 @@
     },
     "last_shown": {
       "ad_flour": 1793514634.7511296,
-      "ad_job": 1793498440.4727857,
+      "ad_job": 1793525433.440663,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793509239.6103706,
       "gilam_eag": 1792764054.4116373,

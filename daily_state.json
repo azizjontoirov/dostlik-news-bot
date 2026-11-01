@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793527251.5489974,
+  "last_post_ts": 1793529089.1129282,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev rafiqasi hamrohligida amaliy tashrif bilan Anqaraga bordi",
-      "headline": "Shavkat Mirziyoyev rafiqasi hamrohligida Anqara amaliy tashrifi",
-      "ts": 1793280647.3743243
-    },
     {
       "source_title": "Oʻzbekistonda toʻqqiz oyda korxonalarga 16 trln soʻmdan ortiq QQS qaytarildi",
       "headline": "9 oyda korxonalarga 16 trln so'mdan ortiq QQS qaytarildi",
@@ -231,11 +226,17 @@
       "headline": "Toshkentda favqulodda vaziyat: inspektorlar qizni qutqardi",
       "image": "https://www.gazeta.uz/media/img/2026/11/tssg4367nkvq5v2VJ5e17935266921955_209850_og.webp?r=1793526989",
       "ts": 1793527249.5451894
+    },
+    {
+      "source_title": "Tölovlarda yangi qulaylik, IMAN Invest mojarosi va oyliklar statistikasi - hafta dayjesti",
+      "headline": "Apple Pay va Google Pay O'zbekistonda nihoyat ishga tushdi! 📱💳",
+      "image": "https://storage.kun.uz/source/1/_FPngmnCMT-JYjN_rnqpz4nhObhQBg4v.jpg",
+      "ts": 1793529087.1085436
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793525433.4406652,
@@ -273,6 +274,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 11
+    "count": 12
   }
 }

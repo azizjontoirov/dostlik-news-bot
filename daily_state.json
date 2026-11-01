@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793541640.929025,
+  "last_post_ts": 1793543443.6148236,
   "recent_posts": [
-    {
-      "source_title": "Tarixdagi eng yirik kriptoo‘g‘rilik: KXDR hakerlari Binance’dan 6 mlrd dollar o‘g‘irlashda gumonlandi",
-      "headline": "Tarixdagi eng yirik kripto o'g'irlik: KXDR hakerlari Binance'dan 6 mlrd dollar o'g'irlashda gumonlandi 🚨",
-      "ts": 1793372620.5556386
-    },
     {
       "source_title": "Surxondaryoda ishga olish uchun 4,5 mln so‘m pora olgan maktab direktori 2 yilga qamaldi",
       "headline": "Surxondaryoda maktab direktoriga 2 yillik qamoq!",
@@ -236,11 +231,17 @@
       "headline": "FIDE reytingi yangilandi – Sindorov va Abdusattorov top 5da! ♟️🇺🇿",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/4308e837e2af9dea24bc4960335cefdb5e3925ec0b3ba8fc690c0291d39b25de.webp",
       "ts": 1793539859.504792
+    },
+    {
+      "source_title": "Mahmud Murodov 2 daqiqa ichida 6 raqibini nokautga uchratdi (video)",
+      "headline": "Mahmud Murodov 2 daqiqada 6 raqibini nokautga uchradi! 🥊⚡",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/b08baf159d9023129c79779c90e82f1dd503240635227eb83820f6c5e6889096.webp",
+      "ts": 1793543441.6101878
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793541640.9264038,
@@ -278,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 16
+    "count": 17
   }
 }

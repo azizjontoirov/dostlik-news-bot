@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793514634.7536955,
+  "last_post_ts": 1793516450.324528,
   "recent_posts": [
-    {
-      "source_title": "Superliga darvozabonlari mavsumni qanday o‘tkazmoqda?",
-      "headline": "Superliga darvozabonlari: joriy mavsum natijalari",
-      "ts": 1793268059.722088
-    },
     {
       "source_title": "Tishlarni nonushtadan oldin yuvgan ma’qulmi yoki keyin?",
       "headline": "Tishlarni nonushtadan oldin yoki keyin yuvish – qaysi vaqt yaxshiroq? 🦷⏰",
@@ -226,11 +221,17 @@
       "headline": "Qashqadaryo yulduzi: 11‑sinf o'quvchisi 5 ta fandan milliy sertifikat! 🌟📚",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/00b7d226e088c93578c5039ad9fa478cf48f8a470750cf64096464f64d9cd730.webp",
       "ts": 1793512854.3739731
+    },
+    {
+      "source_title": "«Шахматдан завқ олишга ҳаракат қилдим». Синдаров — тож учун кечадиган ўйин олдидан сўнгги турнир ҳақида",
+      "headline": "Shaxmatdan zavq olishga harakat qildim",
+      "image": "https://www.gazeta.uz/media/img/2026/11/p3pj9ogid7ie91vcqR517935129744590_209844_og.webp?r=1793515346",
+      "ts": 1793516448.321602
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793514634.751131,
@@ -267,6 +268,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 6
+    "count": 7
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793532644.7950149,
+  "last_post_ts": 1793534453.789315,
   "recent_posts": [
-    {
-      "source_title": "OFK “Neftchi” futbolchisi Ikrom Aliboyevni 2 ta o‘yinga diskvalifikatsiya qildi",
-      "headline": "OFK “Neftchi” futbolchisi Ikrom Aliboyev 2 ta o'yinga diskvalifikatsiya qilindi",
-      "ts": 1793286056.6460953
-    },
     {
       "source_title": "Yevropa markaziy banki rahbari muddatidan oldin lavozimini tark etmoqda",
       "headline": "Yevropa Markaziy Banki rahbari muddatidan oldin lavozimini tark etmoqda 🏦⏳",
@@ -233,11 +228,17 @@
       "headline": "An‑Nasr “Kriştianu Ronaldu”siz Tashkentda!",
       "image": "https://storage.kun.uz/source/1/c7NiLblL9DCiVr47E1FgUUws5Dls5rXv.jpg",
       "ts": 1793532642.790818
+    },
+    {
+      "source_title": "“Yana biroz kech qolganimizda suv qizni tortib ketardi” Bo‘rijarga sakragan qiz qutqarildi",
+      "headline": "Bo'rijar kanalida qiz qutqarildi! 🚨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/f51b5b965b44b09a1fc2cc0b8ff108c74faa914fb4bf7960f805eab4d45e219d.webp",
+      "ts": 1793534451.7842755
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793530844.9091597,
@@ -275,6 +276,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 13
+    "count": 14
   }
 }

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793511039.2383928,
+  "last_post_ts": 1793512856.3939228,
   "recent_posts": [
-    {
-      "source_title": "Toʻqqiz oyda xorijdan qaytgan 172 ming oʻzbekistonlik doimiy ishga joylashtirildi — Bandlik vazirligi",
-      "headline": "To'qqiz oyda xorijdan qaytgan 172 ming o'zbek fuqarosi doimiy ishga joylashtirildi 📈",
-      "ts": 1793264453.0858707
-    },
     {
       "source_title": "Superliga darvozabonlari mavsumni qanday o‘tkazmoqda?",
       "headline": "Superliga darvozabonlari: joriy mavsum natijalari",
@@ -225,11 +220,17 @@
       "headline": "To'qqiz oyda xorijda qiyin ahvolda qolgan 5 mingga yaqin o'zbekistonlik vatanga qaytarildi 🌍✈️",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/833f1a5c58999efe25988c498df501b67fcb592df8a83cab6fb1d36f86efaa7b.webp",
       "ts": 1793511037.234887
+    },
+    {
+      "source_title": "Qashqadaryoda 11-sinf o‘quvchisi 5 ta fandan milliy sertifikat olib, muddatidan avval talaba bo‘ldi",
+      "headline": "Qashqadaryo yulduzi: 11‑sinf o'quvchisi 5 ta fandan milliy sertifikat! 🌟📚",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/00b7d226e088c93578c5039ad9fa478cf48f8a470750cf64096464f64d9cd730.webp",
+      "ts": 1793512854.3739731
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793509239.6103725,
@@ -265,6 +266,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 5
+    "count": 6
   }
 }

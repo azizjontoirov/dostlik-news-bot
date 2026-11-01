@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793507438.656884,
+  "last_post_ts": 1793509239.6121817,
   "recent_posts": [
     {
       "source_title": "Uklon O‘zbekistonda taksi agregatorlari bozorida ustun mavqega ega deb e’tirof etildi",
@@ -228,16 +228,16 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793503834.7297316,
+    "last_ad_ts": 1793509239.6103725,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 41,
       "gilam_eag": 14,
       "ad_job": 41,
-      "ad_water": 39,
+      "ad_water": 40,
       "home": 2,
       "home_dom": 2,
       "uchastka_sale": 1
@@ -246,13 +246,14 @@
     "day": "2026-11-01",
     "today": {
       "ad_job": 1,
-      "home_dom": 1
+      "home_dom": 1,
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1793466043.0874846,
       "ad_job": 1793498440.4727857,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793449832.888705,
+      "ad_water": 1793509239.6103706,
       "gilam_eag": 1792764054.4116373,
       "home": 1793460641.4361296,
       "home_dom": 1793503834.72973,

@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793530844.9114466,
+  "last_post_ts": 1793532644.7950149,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekistonda toʻqqiz oyda korxonalarga 16 trln soʻmdan ortiq QQS qaytarildi",
-      "headline": "9 oyda korxonalarga 16 trln so'mdan ortiq QQS qaytarildi",
-      "ts": 1793284241.7422576
-    },
     {
       "source_title": "OFK “Neftchi” futbolchisi Ikrom Aliboyevni 2 ta o‘yinga diskvalifikatsiya qildi",
       "headline": "OFK “Neftchi” futbolchisi Ikrom Aliboyev 2 ta o'yinga diskvalifikatsiya qilindi",
@@ -232,11 +227,17 @@
       "headline": "Apple Pay va Google Pay O'zbekistonda nihoyat ishga tushdi! 📱💳",
       "image": "https://storage.kun.uz/source/1/_FPngmnCMT-JYjN_rnqpz4nhObhQBg4v.jpg",
       "ts": 1793529087.1085436
+    },
+    {
+      "source_title": "«An-Nasr» Toşkentga Kriştianu Ronaldusiz keldi",
+      "headline": "An‑Nasr “Kriştianu Ronaldu”siz Tashkentda!",
+      "image": "https://storage.kun.uz/source/1/c7NiLblL9DCiVr47E1FgUUws5Dls5rXv.jpg",
+      "ts": 1793532642.790818
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793530844.9091597,
@@ -274,6 +275,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 12
+    "count": 13
   }
 }

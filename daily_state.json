@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793550643.5166805,
+  "last_post_ts": 1793552447.8969464,
   "recent_posts": [
     {
       "source_title": "O‘zbekiston Afg‘onistonga yuk tashish narxlarini oshiradi",
@@ -244,15 +244,15 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793547037.2708857,
+    "last_ad_ts": 1793552447.8950994,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 43,
       "gilam_eag": 14,
-      "ad_job": 42,
+      "ad_job": 43,
       "ad_water": 41,
       "home": 4,
       "home_dom": 3,
@@ -261,7 +261,7 @@
     "permanent_index": 2,
     "day": "2026-11-01",
     "today": {
-      "ad_job": 2,
+      "ad_job": 3,
       "home_dom": 2,
       "ad_water": 2,
       "ad_flour": 2,
@@ -269,7 +269,7 @@
     },
     "last_shown": {
       "ad_flour": 1793536232.1610277,
-      "ad_job": 1793525433.440663,
+      "ad_job": 1793552447.8950968,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793530844.9091575,
       "gilam_eag": 1792764054.4116373,

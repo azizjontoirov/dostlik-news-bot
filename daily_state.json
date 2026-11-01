@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793502049.4268477,
+  "last_post_ts": 1793503834.7318127,
   "recent_posts": [
     {
       "source_title": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan, Mavluda Asalxo‘jayeva sabab tinchi buzilgan xonanda haqida (foto, video)",
@@ -226,10 +226,10 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793498440.4727879,
+    "last_ad_ts": 1793503834.7297316,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 41,
@@ -237,13 +237,14 @@
       "ad_job": 41,
       "ad_water": 39,
       "home": 2,
-      "home_dom": 1,
+      "home_dom": 2,
       "uchastka_sale": 1
     },
     "permanent_index": 2,
     "day": "2026-11-01",
     "today": {
-      "ad_job": 1
+      "ad_job": 1,
+      "home_dom": 1
     },
     "last_shown": {
       "ad_flour": 1793466043.0874846,
@@ -252,7 +253,7 @@
       "ad_water": 1793449832.888705,
       "gilam_eag": 1792764054.4116373,
       "home": 1793460641.4361296,
-      "home_dom": 1793433637.13265,
+      "home_dom": 1793503834.72973,
       "uchastka_sale": 1793455238.907267
     },
     "morning_ad_date": "2026-11-01"

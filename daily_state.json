@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793521839.5675187,
+  "last_post_ts": 1793523652.0002284,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda iflos havo yana 10 kun saqlanib turişi mumkin",
-      "headline": "TOSHKENTDA IFLOS HAVO YANA 10 KUN SAQLANIB TURISHI MUMKIN 🌫️",
-      "ts": 1793275254.4098973
-    },
     {
       "source_title": "Ўзбекистонда фуқаролар маълумотлари оммавий сизиб чиққани ҳақидаги хабарлар текширилмоқда",
       "headline": "O'zbekistonda fuqaro ma'lumotlari ommaviy sizib chiqdi",
@@ -229,11 +224,17 @@
       "headline": "Bu dalda meni yanada kuchli qiladi” 🥊💪",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/97aa95136f2295b895b1df60165e1f8e56effd25765eaf24b9002012c1882faf.webp",
       "ts": 1793521837.564139
+    },
+    {
+      "source_title": "Тошкентда харидорлар шикоятларидан сўнг Imarat Development раҳбариятига жиноий иш очилди. Нималар маълум?",
+      "headline": "Toshkentda Imarat Development rahbariyatiga jinoyat ishi ochildi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/rgon31hg5k0jaaUoQeX17935188623502_209848_og.webp?r=1793520673",
+      "ts": 1793523649.9810355
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793520039.2671258,
@@ -271,6 +272,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 9
+    "count": 10
   }
 }

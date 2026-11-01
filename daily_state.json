@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793516450.324528,
+  "last_post_ts": 1793518238.2601378,
   "recent_posts": [
-    {
-      "source_title": "Tishlarni nonushtadan oldin yuvgan ma’qulmi yoki keyin?",
-      "headline": "Tishlarni nonushtadan oldin yoki keyin yuvish – qaysi vaqt yaxshiroq? 🦷⏰",
-      "ts": 1793269843.1641312
-    },
     {
       "source_title": "«Дизайн код — шаҳар муҳитини ривожлантириш калити». Урбанист Дарья Коваленко Янги Тошкент дизайн коди ҳақида",
       "headline": "Design kod — shahar muhitini rivojlantirish kaliti",
@@ -227,11 +222,17 @@
       "headline": "Shaxmatdan zavq olishga harakat qildim",
       "image": "https://www.gazeta.uz/media/img/2026/11/p3pj9ogid7ie91vcqR517935129744590_209844_og.webp?r=1793515346",
       "ts": 1793516448.321602
+    },
+    {
+      "source_title": "Toshkentda Imarat Development MCHJ rahbariyatiga nisbatan jinoyat ishi qo‘zg‘atildi",
+      "headline": "Toshkentda Imarat Development MCHJ rahbariyatiga jinoyat ishi qo'zg'atildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/18fabfc9623356fb4750ee689141ac32899e461484988be18f7d8fe70a03285f.webp",
+      "ts": 1793518236.2567654
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793514634.751131,
@@ -268,6 +269,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 7
+    "count": 8
   }
 }

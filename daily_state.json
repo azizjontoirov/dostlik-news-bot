@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793547037.2735288,
+  "last_post_ts": 1793548847.825322,
   "recent_posts": [
-    {
-      "source_title": "Google vitse-prezidenti O‘zbekistonda Google Pay ishga tushirilganiga munosabat bildirdi",
-      "headline": "Google Pay O'zbekistonda ishga tushdi 🚀",
-      "ts": 1793377844.8797374
-    },
     {
       "source_title": "AQŞning Yaqin Şarqdagi admirali Trampga Eronga zarba beriş variantlarini taqdim etdi – OAV",
       "headline": "AQŞning Yaqin Sharqdagi admiralidan Trampga Eronga harbiy harakatlar takliflari 🚀",
@@ -238,11 +233,17 @@
       "headline": "Superliga: “Lokomotiv” o'z maydonida “OKMK”ga imkoniyatni boy berdi ⚽️🔥",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/f5c42eef621b4173ea6e160bd43771c7d11e24fc6a291384922b184d7b838346.webp",
       "ts": 1793545250.5693347
+    },
+    {
+      "source_title": "Ğuzorda ayol va uning 4 bolasini yoqib yuborgan erkak umrbod qamaldi",
+      "headline": "G'uzor shahrida qotillik sodir bo'ldi – jinoyatchi umrbod qamaldi",
+      "image": "https://storage.kun.uz/source/1/tjB_Om_VNxceJJ4oH_qhfKWmRF5DFtdD.jpg",
+      "ts": 1793548845.8203492
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793547037.2708857,
@@ -280,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 18
+    "count": 19
   }
 }

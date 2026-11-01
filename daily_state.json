@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793536232.1635404,
+  "last_post_ts": 1793538050.0281985,
   "recent_posts": [
-    {
-      "source_title": "Yevropa markaziy banki rahbari muddatidan oldin lavozimini tark etmoqda",
-      "headline": "Yevropa Markaziy Banki rahbari muddatidan oldin lavozimini tark etmoqda 🏦⏳",
-      "ts": 1793289656.1940675
-    },
     {
       "source_title": "Özbekiston va Turkiya örtasida ikki tomonlama hujjatlar imzolandi",
       "headline": "O'zbekiston va Turkiya o'rtasida ikki tomonlama hujjatlar imzolandi",
@@ -234,11 +229,17 @@
       "headline": "Bo'rijar kanalida qiz qutqarildi! 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/f51b5b965b44b09a1fc2cc0b8ff108c74faa914fb4bf7960f805eab4d45e219d.webp",
       "ts": 1793534451.7842755
+    },
+    {
+      "source_title": "Gruziya yil boshidan beri 500 nafarga yaqin o‘zbekistonlikni mamlakatga kiritmadi",
+      "headline": "Gruziya O'zbekistonliklarga kirish cheklovini kuchaytirdi 🇬🇪🚫",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/90ce24d9e165b9c3b0e0c8c6363cd20b1cd8c119a07e4a20bc48bbef344bcc1d.webp",
+      "ts": 1793538048.0238082
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793536232.1610293,
@@ -276,6 +277,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 14
+    "count": 15
   }
 }

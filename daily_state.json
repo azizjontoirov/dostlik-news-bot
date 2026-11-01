@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793520039.269712,
+  "last_post_ts": 1793521839.5675187,
   "recent_posts": [
-    {
-      "source_title": "«Дизайн код — шаҳар муҳитини ривожлантириш калити». Урбанист Дарья Коваленко Янги Тошкент дизайн коди ҳақида",
-      "headline": "Design kod — shahar muhitini rivojlantirish kaliti",
-      "ts": 1793273442.407327
-    },
     {
       "source_title": "Toşkentda iflos havo yana 10 kun saqlanib turişi mumkin",
       "headline": "TOSHKENTDA IFLOS HAVO YANA 10 KUN SAQLANIB TURISHI MUMKIN 🌫️",
@@ -228,11 +223,17 @@
       "headline": "Toshkentda Imarat Development MCHJ rahbariyatiga jinoyat ishi qo'zg'atildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/18fabfc9623356fb4750ee689141ac32899e461484988be18f7d8fe70a03285f.webp",
       "ts": 1793518236.2567654
+    },
+    {
+      "source_title": "“Bu dalda meni yanada kuchli qiladi” — Ramazon Temirov",
+      "headline": "Bu dalda meni yanada kuchli qiladi” 🥊💪",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/97aa95136f2295b895b1df60165e1f8e56effd25765eaf24b9002012c1882faf.webp",
+      "ts": 1793521837.564139
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793520039.2671258,
@@ -270,6 +271,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 8
+    "count": 9
   }
 }

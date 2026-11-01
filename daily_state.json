@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793525433.4429438,
+  "last_post_ts": 1793527251.5489974,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда фуқаролар маълумотлари оммавий сизиб чиққани ҳақидаги хабарлар текширилмоқда",
-      "headline": "O'zbekistonda fuqaro ma'lumotlari ommaviy sizib chiqdi",
-      "ts": 1793278923.4123669
-    },
     {
       "source_title": "Shavkat Mirziyoyev rafiqasi hamrohligida amaliy tashrif bilan Anqaraga bordi",
       "headline": "Shavkat Mirziyoyev rafiqasi hamrohligida Anqara amaliy tashrifi",
@@ -230,11 +225,17 @@
       "headline": "Toshkentda Imarat Development rahbariyatiga jinoyat ishi ochildi",
       "image": "https://www.gazeta.uz/media/img/2026/11/rgon31hg5k0jaaUoQeX17935188623502_209848_og.webp?r=1793520673",
       "ts": 1793523649.9810355
+    },
+    {
+      "source_title": "Тошкентда профилактика инспекторлари каналга ўзини ташлаган қизни қутқариб қолди",
+      "headline": "Toshkentda favqulodda vaziyat: inspektorlar qizni qutqardi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/tssg4367nkvq5v2VJ5e17935266921955_209850_og.webp?r=1793526989",
+      "ts": 1793527249.5451894
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793525433.4406652,
@@ -272,6 +273,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 10
+    "count": 11
   }
 }

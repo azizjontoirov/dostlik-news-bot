@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793534453.789315,
+  "last_post_ts": 1793536232.1635404,
   "recent_posts": [
     {
       "source_title": "Yevropa markaziy banki rahbari muddatidan oldin lavozimini tark etmoqda",
@@ -238,13 +238,13 @@
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793530844.9091597,
+    "last_ad_ts": 1793536232.1610293,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 42,
+      "ad_flour": 43,
       "gilam_eag": 14,
       "ad_job": 42,
       "ad_water": 41,
@@ -258,11 +258,11 @@
       "ad_job": 2,
       "home_dom": 1,
       "ad_water": 2,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "home": 1
     },
     "last_shown": {
-      "ad_flour": 1793514634.7511296,
+      "ad_flour": 1793536232.1610277,
       "ad_job": 1793525433.440663,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793530844.9091575,

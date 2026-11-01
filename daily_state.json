@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793466043.0899408,
+  "last_post_ts": 1793500237.7041986,
   "recent_posts": [
-    {
-      "source_title": "ADM Global Ўзбекистонда гибрид ва электромобиллар чиқаришни бошлайди",
-      "headline": "ADM Global O'zbekistonda gibrid va elektromobillar ishlab chiqarishni boshlaydi 🚗⚡",
-      "ts": 1793251838.9552867
-    },
     {
       "source_title": "“Salkam 80 ming kishiga 4 mln so‘mgacha ishsizlik nafaqasi to‘lanmoqda” — Bandlik vazirligi",
       "headline": "Salkam 80 ming kishiga 4 mln so'mgacha ishsizlik nafaqasi! 💰",
@@ -220,11 +215,17 @@
       "headline": "Navbahor “Andijon”ni mag'lub etdi! ⚽️🏆",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/0a3d8c9c86a7bd7b2b96bb0100d6b97487d7f1489bb0bbda426bbe3c68c95de6.webp",
       "ts": 1793464239.353281
+    },
+    {
+      "source_title": "Toshkentda 1-noyabr kuni havo sifati yaxshilanishi kutilmoqda",
+      "headline": "Toshkentda 1‑noyabr kuni havo sifati yaxshilanishi kutilmoqda",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/c884729ed1df08fb45ce1e452ccce531eaff7862f5a9366fee07c116d47ce089.webp",
+      "ts": 1793500235.7011569
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793498440.4727879,
@@ -257,7 +258,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-10-31",
-    "count": 20
+    "day": "2026-11-01",
+    "count": 1
   }
 }

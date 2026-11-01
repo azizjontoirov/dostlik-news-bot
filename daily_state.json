@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793500237.7041986,
+  "last_post_ts": 1793502049.4268477,
   "recent_posts": [
-    {
-      "source_title": "“Salkam 80 ming kishiga 4 mln so‘mgacha ishsizlik nafaqasi to‘lanmoqda” — Bandlik vazirligi",
-      "headline": "Salkam 80 ming kishiga 4 mln so'mgacha ishsizlik nafaqasi! 💰",
-      "ts": 1793253656.252042
-    },
     {
       "source_title": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan, Mavluda Asalxo‘jayeva sabab tinchi buzilgan xonanda haqida (foto, video)",
       "headline": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan",
@@ -221,11 +216,17 @@
       "headline": "Toshkentda 1‑noyabr kuni havo sifati yaxshilanishi kutilmoqda",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/c884729ed1df08fb45ce1e452ccce531eaff7862f5a9366fee07c116d47ce089.webp",
       "ts": 1793500235.7011569
+    },
+    {
+      "source_title": "Holand “Oltin to‘p” tadbirlarini boykot qilganmi?",
+      "headline": "Erling Holand “Oltin to'p” tadbirlarini boykot qilyapti?",
+      "image": "https://gocdn.daryo.uz/large/2026/10/31/3c78a16226cb15df66c8e9aa3a07ac9a466de50e81b45ef142e4c28bd75c2f2f.webp",
+      "ts": 1793502047.4239302
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793498440.4727879,
@@ -259,6 +260,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 1
+    "count": 2
   }
 }

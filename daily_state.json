@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793543443.6148236,
+  "last_post_ts": 1793545252.5731778,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda ishga olish uchun 4,5 mln so‘m pora olgan maktab direktori 2 yilga qamaldi",
-      "headline": "Surxondaryoda maktab direktoriga 2 yillik qamoq!",
-      "ts": 1793374238.7684975
-    },
     {
       "source_title": "Google vitse-prezidenti O‘zbekistonda Google Pay ishga tushirilganiga munosabat bildirdi",
       "headline": "Google Pay O'zbekistonda ishga tushdi 🚀",
@@ -237,11 +232,17 @@
       "headline": "Mahmud Murodov 2 daqiqada 6 raqibini nokautga uchradi! 🥊⚡",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/b08baf159d9023129c79779c90e82f1dd503240635227eb83820f6c5e6889096.webp",
       "ts": 1793543441.6101878
+    },
+    {
+      "source_title": "Superliga. “Lokomotiv” o‘z maydonida “OKMK”ga imkoniyatni boy berdi",
+      "headline": "Superliga: “Lokomotiv” o'z maydonida “OKMK”ga imkoniyatni boy berdi ⚽️🔥",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/f5c42eef621b4173ea6e160bd43771c7d11e24fc6a291384922b184d7b838346.webp",
+      "ts": 1793545250.5693347
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793541640.9264038,
@@ -279,6 +280,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 17
+    "count": 18
   }
 }

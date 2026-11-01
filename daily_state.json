@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793509239.6121817,
+  "last_post_ts": 1793511039.2383928,
   "recent_posts": [
-    {
-      "source_title": "Uklon O‘zbekistonda taksi agregatorlari bozorida ustun mavqega ega deb e’tirof etildi",
-      "headline": "Uklon O'zbekistonda taksi agregatorlari bozorida ustun mavqega ega 🚖",
-      "ts": 1793262644.3509238
-    },
     {
       "source_title": "Toʻqqiz oyda xorijdan qaytgan 172 ming oʻzbekistonlik doimiy ishga joylashtirildi — Bandlik vazirligi",
       "headline": "To'qqiz oyda xorijdan qaytgan 172 ming o'zbek fuqarosi doimiy ishga joylashtirildi 📈",
@@ -224,11 +219,17 @@
       "headline": "O'zbekistonning tashqi savdo aylanmasi 13,7 mlrd dollarga oshdi 📈💰",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/2d722ec1aa0eba12f5fd8c7e0af97772e742e5e9309d230de7f14fb632e172a2.webp",
       "ts": 1793507436.6530578
+    },
+    {
+      "source_title": "To‘qqiz oyda xorijda qiyin ahvolda qolgan 5 mingga yaqin o‘zbekistonlik vatanga qaytarildi",
+      "headline": "To'qqiz oyda xorijda qiyin ahvolda qolgan 5 mingga yaqin o'zbekistonlik vatanga qaytarildi 🌍✈️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/833f1a5c58999efe25988c498df501b67fcb592df8a83cab6fb1d36f86efaa7b.webp",
+      "ts": 1793511037.234887
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793509239.6103725,
@@ -264,6 +265,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 4
+    "count": 5
   }
 }

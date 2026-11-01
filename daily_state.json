@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793538050.0281985,
+  "last_post_ts": 1793539861.5085728,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston va Turkiya örtasida ikki tomonlama hujjatlar imzolandi",
-      "headline": "O'zbekiston va Turkiya o'rtasida ikki tomonlama hujjatlar imzolandi",
-      "ts": 1793291441.2341654
-    },
     {
       "source_title": "Tarixdagi eng yirik kriptoo‘g‘rilik: KXDR hakerlari Binance’dan 6 mlrd dollar o‘g‘irlashda gumonlandi",
       "headline": "Tarixdagi eng yirik kripto o'g'irlik: KXDR hakerlari Binance'dan 6 mlrd dollar o'g'irlashda gumonlandi 🚨",
@@ -235,11 +230,17 @@
       "headline": "Gruziya O'zbekistonliklarga kirish cheklovini kuchaytirdi 🇬🇪🚫",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/90ce24d9e165b9c3b0e0c8c6363cd20b1cd8c119a07e4a20bc48bbef344bcc1d.webp",
       "ts": 1793538048.0238082
+    },
+    {
+      "source_title": "FIDE reytingi yangilandi. Sindorov va Abdusattorov kuchli beshlikdagi o‘rnini saqlab qoldi",
+      "headline": "FIDE reytingi yangilandi – Sindorov va Abdusattorov top 5da! ♟️🇺🇿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/4308e837e2af9dea24bc4960335cefdb5e3925ec0b3ba8fc690c0291d39b25de.webp",
+      "ts": 1793539859.504792
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793536232.1610293,
@@ -277,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 15
+    "count": 16
   }
 }

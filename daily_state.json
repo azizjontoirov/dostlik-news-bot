@@ -1,11 +1,6 @@
 {
-  "last_post_ts": 1793503834.7318127,
+  "last_post_ts": 1793505649.8997753,
   "recent_posts": [
-    {
-      "source_title": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan, Mavluda Asalxo‘jayeva sabab tinchi buzilgan xonanda haqida (foto, video)",
-      "headline": "Ravshan Komilov 61 yoshda: Ozodani “sevgani” uchun pichoq bilan tahdid qilingan",
-      "ts": 1793257252.8792772
-    },
     {
       "source_title": "Buxoroda bir oylik chaqalog‘ini 4 ming dollarga sotgan ona va xaridor ayolning ozodligi cheklandi",
       "headline": "Buxoroda bir oylik chaqaloq 4 000 dollarga sotildi – ona va xaridor ayolning ozodligi tekshirildi",
@@ -222,11 +217,17 @@
       "headline": "Erling Holand “Oltin to'p” tadbirlarini boykot qilyapti?",
       "image": "https://gocdn.daryo.uz/large/2026/10/31/3c78a16226cb15df66c8e9aa3a07ac9a466de50e81b45ef142e4c28bd75c2f2f.webp",
       "ts": 1793502047.4239302
+    },
+    {
+      "source_title": "Toshkentdagi yangi qurilayotgan binoda yong‘in sodir bo‘ldi",
+      "headline": "Toshkentda yangi qurilayotgan binoda yong'in",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/8e6492a75441e071ea5a72e7dc9046b4986671291245d9444654f12f6762319a.webp",
+      "ts": 1793505647.8953185
     }
   ],
   "morning_sent_date": "2026-11-01",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793503834.7297316,
@@ -261,6 +262,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-01",
-    "count": 2
+    "count": 3
   }
 }

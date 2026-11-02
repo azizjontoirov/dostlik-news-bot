@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793631662.9260213,
+  "last_post_ts": 1793633439.0201766,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda kiberxavfsizlik mutaxassislari har ikki yilda malaka oshiradigan bo‘ldi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793628054.30045,
+    "last_ad_ts": 1793633439.0182402,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 45,
@@ -255,7 +255,7 @@
       "ad_job": 45,
       "ad_water": 43,
       "home": 5,
-      "home_dom": 4,
+      "home_dom": 5,
       "uchastka_sale": 2
     },
     "permanent_index": 2,
@@ -265,7 +265,7 @@
       "uchastka_sale": 1,
       "ad_flour": 2,
       "ad_job": 2,
-      "home_dom": 1,
+      "home_dom": 2,
       "home": 1
     },
     "last_shown": {
@@ -275,7 +275,7 @@
       "ad_water": 1793611837.2004735,
       "gilam_eag": 1792764054.4116373,
       "home": 1793628054.3004477,
-      "home_dom": 1793606449.0277636,
+      "home_dom": 1793633439.0182385,
       "uchastka_sale": 1793590238.1566534
     },
     "morning_ad_date": "2026-11-02"

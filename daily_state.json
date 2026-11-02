@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793588462.6860266,
+  "last_post_ts": 1793590238.159556,
   "recent_posts": [
     {
       "source_title": "Ekostiker pullik bölişi haqidagi xabarlar yolğonligi maʼlum qilindi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793584842.7194364,
+    "last_ad_ts": 1793590238.1566556,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 43,
@@ -256,12 +256,13 @@
       "ad_water": 42,
       "home": 4,
       "home_dom": 3,
-      "uchastka_sale": 1
+      "uchastka_sale": 2
     },
     "permanent_index": 2,
     "day": "2026-11-02",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "uchastka_sale": 1
     },
     "last_shown": {
       "ad_flour": 1793536232.1610277,
@@ -271,7 +272,7 @@
       "gilam_eag": 1792764054.4116373,
       "home": 1793547037.2708836,
       "home_dom": 1793541640.9264019,
-      "uchastka_sale": 1793455238.907267
+      "uchastka_sale": 1793590238.1566534
     },
     "morning_ad_date": "2026-11-02"
   },

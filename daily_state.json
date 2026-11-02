@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793637046.3971524,
+  "last_post_ts": 1793638850.9303744,
   "recent_posts": [
     {
       "source_title": "Toshkentda 1-noyabr kuni havo sifati yaxshilanishi kutilmoqda",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793633439.0182402,
+    "last_ad_ts": 1793638850.9263465,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 45,
       "gilam_eag": 14,
       "ad_job": 45,
-      "ad_water": 43,
+      "ad_water": 44,
       "home": 5,
       "home_dom": 5,
       "uchastka_sale": 2
@@ -261,7 +261,7 @@
     "permanent_index": 2,
     "day": "2026-11-02",
     "today": {
-      "ad_water": 2,
+      "ad_water": 3,
       "uchastka_sale": 1,
       "ad_flour": 2,
       "ad_job": 2,
@@ -272,7 +272,7 @@
       "ad_flour": 1793617251.1492324,
       "ad_job": 1793622636.1173208,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793611837.2004735,
+      "ad_water": 1793638850.9263444,
       "gilam_eag": 1792764054.4116373,
       "home": 1793628054.3004477,
       "home_dom": 1793633439.0182385,

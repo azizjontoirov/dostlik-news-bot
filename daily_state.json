@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793604640.4204278,
+  "last_post_ts": 1793606449.0303113,
   "recent_posts": [
     {
       "source_title": "«Imarat» örnida «Imtiyaz»: Marat Hayrullayeviç loyihalari yana mojarolar girdobida",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793601041.4925265,
+    "last_ad_ts": 1793606449.0277658,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 44,
@@ -255,7 +255,7 @@
       "ad_job": 44,
       "ad_water": 42,
       "home": 4,
-      "home_dom": 3,
+      "home_dom": 4,
       "uchastka_sale": 2
     },
     "permanent_index": 2,
@@ -264,7 +264,8 @@
       "ad_water": 1,
       "uchastka_sale": 1,
       "ad_flour": 1,
-      "ad_job": 1
+      "ad_job": 1,
+      "home_dom": 1
     },
     "last_shown": {
       "ad_flour": 1793595645.973781,
@@ -273,7 +274,7 @@
       "ad_water": 1793584842.7194347,
       "gilam_eag": 1792764054.4116373,
       "home": 1793547037.2708836,
-      "home_dom": 1793541640.9264019,
+      "home_dom": 1793606449.0277636,
       "uchastka_sale": 1793590238.1566534
     },
     "morning_ad_date": "2026-11-02"

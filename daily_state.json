@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793586640.8320415,
+  "last_post_ts": 1793588462.6860266,
   "recent_posts": [
-    {
-      "source_title": "Suvdan qarzi borlarga elektr uçun tölov qiliş çeklanadi",
-      "headline": "Suv qarzdorlariga elektr to'lovlari to'xtatiladi",
-      "image": "https://storage.kun.uz/source/1/Dz2yAmmP3qhA4NlwEpRHgy8XEDYeVxbP.webp",
-      "ts": 1793415649.8152964
-    },
     {
       "source_title": "Ekostiker pullik bölişi haqidagi xabarlar yolğonligi maʼlum qilindi",
       "headline": "EKOSTIKER PULLIK BÖLISHI XABARLARI YOLƢONLIGI",
@@ -240,11 +234,17 @@
       "headline": "Eldor Shomurodov Turkiya Superligasida 4‑o'ringa ko'tarildi! ⚽️🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/4102b7de1c28da7300a22c95e0a3d892efa3788fbcb43354034298546586fc4d.webp",
       "ts": 1793586638.829231
+    },
+    {
+      "source_title": "Kuvaytlik mutaxassislar Qoraqalpog‘istonda qariyb 200 ta bepul jarrohlik amaliyotini bajardi",
+      "headline": "Kuvaytlik mutaxassislar Qoraqalpog'istonda 200 dan ortiq bepul jarrohlik amaliyotini bajardi 🏥🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/02a63a7f97709ec16cb315a9cae258f8effc6ad0a69729694b65a74a15aafeda.webp",
+      "ts": 1793588460.6638575
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793584842.7194364,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 1
+    "count": 2
   }
 }

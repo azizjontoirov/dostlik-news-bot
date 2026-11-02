@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793633439.0201766,
+  "last_post_ts": 1793635258.3642316,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda kiberxavfsizlik mutaxassislari har ikki yilda malaka oshiradigan bo‘ldi",
-      "headline": "Kiberxavfsizlik mutaxassislarini har ikki yilda malaka oshirish boshlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/d244acf53993b5b15dfdcf210f3c74afcbc1f3bef8715ef81d4ac2ab1cc40f6c.webp",
-      "ts": 1793462451.2450018
-    },
     {
       "source_title": "Superliga. “Navbahor” vodiy derbisida “Andijon”ni mag‘lub etdi",
       "headline": "Navbahor “Andijon”ni mag'lub etdi! ⚽️🏆",
@@ -240,11 +234,17 @@
       "headline": "Para shaxmatda Ahadxоn Kimsanboyev Osiyo chempioni bo'ldi! ♟️",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/ada95db1a1386c6a2c5b583c99109a933e4ca9897241200995516751bb766e1a.webp",
       "ts": 1793631660.921909
+    },
+    {
+      "source_title": "Elit OCHL. “Paxtakor” Ronaldusiz “An-Nassr”ga yirik hisobda mag‘lub bo‘ldi",
+      "headline": "Paxtakor “Elit OCHL”da yirik mag'lubiyat!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/b00973d86078ed59c83b5ab1fc916430dbba60dd5d19fb03dd676327120a2220.webp",
+      "ts": 1793635256.3611498
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793633439.0182402,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 18
+    "count": 19
   }
 }

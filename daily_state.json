@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793613654.6592455,
+  "last_post_ts": 1793615446.142088,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston aeroportlarida yölovçilar oqimi 13 foizga oşdi",
-      "headline": "O'zbekiston aeroportlarida yo'lovchilar oqimi 13% ga oshdi",
-      "image": "https://storage.kun.uz/source/1/f4SgcENKFZ_YszafvqdueWGczA2-dGzx.jpg",
-      "ts": 1793442640.8344786
-    },
     {
       "source_title": "Тошкентда 20 та автобус йўналишининг ҳаракатини соат 23:00 гача узайтириш режа қилинмоқда",
       "headline": "Toshkentda 20 ta avtobus yo'nalishining ish vaqti 23:00 gacha uzaytiriladi",
@@ -240,11 +234,17 @@
       "headline": "Noyabr oyining ko'rish kerak bo'lgan 10 ta eng qiziqarli seriali (treyler) 🎬✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/965f088a4c17a33a16f2ee15a483f467e4b3993ba3b484bccd6ad76f00946904.webp",
       "ts": 1793613652.6548727
+    },
+    {
+      "source_title": "Йил бошидан буён хориждан 1,1 миллиондан ортиқ меҳнат мигранти қайтиб келди — президент",
+      "headline": "Yil boshidan 1,1 mln+ mehnat migrantlari qaytdi — Prezident",
+      "image": "https://www.gazeta.uz/media/img/2025/09/sAFxmn17573136305023_209919_og.webp?r=1793615314",
+      "ts": 1793615444.1380885
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793611837.200476,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 11
+    "count": 12
   }
 }

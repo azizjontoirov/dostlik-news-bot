@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793552447.8969464,
+  "last_post_ts": 1793586640.8320415,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston Afg‘onistonga yuk tashish narxlarini oshiradi",
-      "headline": "O'zbekiston temir yo'llari Afg'onistonga yuk tashish narxlarini oshiradi",
-      "image": "https://gocdn.daryo.uz/large/2026/10/30/f7c1446d872890d68ee74209a2a2e09997c53a00f8f75929254f57568153f2fc.webp",
-      "ts": 1793413839.6794815
-    },
     {
       "source_title": "Suvdan qarzi borlarga elektr uçun tölov qiliş çeklanadi",
       "headline": "Suv qarzdorlariga elektr to'lovlari to'xtatiladi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonlik ona 4 farzandi bilan Rossiyadan vataniga qaytarildi 🌍✈️",
       "image": "https://www.gazeta.uz/media/img/2026/11/mqv02e99t7sucmNqWG017935489949400_209856_og.webp?r=1793549138",
       "ts": 1793550641.5123553
+    },
+    {
+      "source_title": "Eldor Shomurodov Turkiya Superligasi to‘purarlar ro‘yxatida 4-o‘ringa ko‘tarilib oldi (foto)",
+      "headline": "Eldor Shomurodov Turkiya Superligasida 4‑o'ringa ko'tarildi! ⚽️🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/4102b7de1c28da7300a22c95e0a3d892efa3788fbcb43354034298546586fc4d.webp",
+      "ts": 1793586638.829231
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793584842.7194364,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-01",
-    "count": 20
+    "day": "2026-11-02",
+    "count": 1
   }
 }

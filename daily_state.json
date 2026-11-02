@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793602851.0138245,
+  "last_post_ts": 1793604640.4204278,
   "recent_posts": [
-    {
-      "source_title": "Islomiy moliya Özbekistonga nima beradi?",
-      "headline": "Islomiy moliya O'zbekistonga yangi imkoniyatlar olib keladi",
-      "image": "https://storage.kun.uz/source/1/sBK_VocF-Dm6l3tDu_m-bstGljPYyXvR.jpg",
-      "ts": 1793431835.5767195
-    },
     {
       "source_title": "«Imarat» örnida «Imtiyaz»: Marat Hayrullayeviç loyihalari yana mojarolar girdobida",
       "headline": "Imarat loyihalarida yana mojarolar!",
@@ -240,11 +234,17 @@
       "headline": "Farğonalik migrantlar oyiga 1 850 $ yuboradi 💸🌍",
       "image": "https://storage.kun.uz/source/1/SjY9DoSoBVdZPJYtpgwVjj2wG9kB_AJg.jpg",
       "ts": 1793602849.0090158
+    },
+    {
+      "source_title": "O‘zbekistonning har bir viloyatida yagona migratsiya markazi ochiladi",
+      "headline": "Har viloyatda yagona migratsiya markazi ochiladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/ab1a13886fae9a882e3a289d7a7da5809d02fff94b50181d6ccdbfab07565630.webp",
+      "ts": 1793604638.4159908
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793601041.4925265,
@@ -281,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 7
+    "count": 8
   }
 }

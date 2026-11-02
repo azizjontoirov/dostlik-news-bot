@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793606449.0303113,
+  "last_post_ts": 1793608241.6864612,
   "recent_posts": [
-    {
-      "source_title": "«Imarat» örnida «Imtiyaz»: Marat Hayrullayeviç loyihalari yana mojarolar girdobida",
-      "headline": "Imarat loyihalarida yana mojarolar!",
-      "image": "https://storage.kun.uz/source/1/K36CPRrLdSULTd_rxWq8cg4BQ2MErNVt.png",
-      "ts": 1793435445.2433548
-    },
     {
       "source_title": "Toşkent metrosida beş vagonli poyezdlar qatnovi rejalaştirilmoqda",
       "headline": "Toşkent metrosida yangi qatnov! 🚇✨",
@@ -240,11 +234,17 @@
       "headline": "Har viloyatda yagona migratsiya markazi ochiladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/ab1a13886fae9a882e3a289d7a7da5809d02fff94b50181d6ccdbfab07565630.webp",
       "ts": 1793604638.4159908
+    },
+    {
+      "source_title": "“Migratsiyada bizga raqam emas, sifat kerak!” — prezident",
+      "headline": "Migratsiyada bizga raqam emas, sifat kerak!” 🇺🇿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/fb0179af65281695b2e1af80fa7f55195f6c12debedc9a05e11acbfee3d4266b.webp",
+      "ts": 1793608239.682883
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793606449.0277658,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 8
+    "count": 9
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793611837.2031262,
+  "last_post_ts": 1793613654.6592455,
   "recent_posts": [
-    {
-      "source_title": "“Oʻzbekiston xalqaro shaxmat maydonida havas qilgulik natijalarga erishib kelmoqda” — Saida Mirziyoyeva",
-      "headline": "O'zbekiston shaxmatida yuksalish! ♟️",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/579052ba24ba5aae8749c41a35580c43791234e63789d9cc875cd4dc8e54b2c7.webp",
-      "ts": 1793440847.6984615
-    },
     {
       "source_title": "Özbekiston aeroportlarida yölovçilar oqimi 13 foizga oşdi",
       "headline": "O'zbekiston aeroportlarida yo'lovchilar oqimi 13% ga oshdi",
@@ -240,11 +234,17 @@
       "headline": "Uch yillik mehnat, 13 sertifikat va avtomobil! 🚗🎓",
       "image": "https://storage.kun.uz/source/1/1kv0CVX2wv8gvdbi_wE_R2wFeMjpmS6V.png",
       "ts": 1793610048.4540696
+    },
+    {
+      "source_title": "Noyabr oyining albatta ko‘rish kerak bo‘lgan 10 ta eng qiziqarli seriali (treyler)",
+      "headline": "Noyabr oyining ko'rish kerak bo'lgan 10 ta eng qiziqarli seriali (treyler) 🎬✨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/965f088a4c17a33a16f2ee15a483f467e4b3993ba3b484bccd6ad76f00946904.webp",
+      "ts": 1793613652.6548727
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793611837.200476,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 10
+    "count": 11
   }
 }

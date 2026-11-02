@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793601041.4956732,
+  "last_post_ts": 1793602851.0138245,
   "recent_posts": [
-    {
-      "source_title": "Navoiyda ruxsatsiz do‘lana tergan ikki kishi 7,5 mln so‘mga yaqin jarimaga tortildi",
-      "headline": "Navoiyda ruxsatsiz do'lana yig'ish uchun 7,5 mln so'm jarima!",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/27034fdeaef93588dd0dc38979dfa2eee89a41ad330cac9f9b8305d756cc2318.webp",
-      "ts": 1793430045.8409162
-    },
     {
       "source_title": "Islomiy moliya Özbekistonga nima beradi?",
       "headline": "Islomiy moliya O'zbekistonga yangi imkoniyatlar olib keladi",
@@ -240,11 +234,17 @@
       "headline": "Ta'lim vazirligi ogohlantirdi: qabul‑ko'chirishda firibgarlik! ⚠️",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/1f999b40eac74895fe81fdce4a703788d49f46f1e95862621ad772c74e839684.webp",
       "ts": 1793599247.4523928
+    },
+    {
+      "source_title": "Farğonalik migrantlar uyiga oyiga örtaça 1 850 dollar yubormoqda",
+      "headline": "Farğonalik migrantlar oyiga 1 850 $ yuboradi 💸🌍",
+      "image": "https://storage.kun.uz/source/1/SjY9DoSoBVdZPJYtpgwVjj2wG9kB_AJg.jpg",
+      "ts": 1793602849.0090158
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793601041.4925265,
@@ -281,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 6
+    "count": 7
   }
 }

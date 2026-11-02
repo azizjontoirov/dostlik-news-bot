@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793619056.7255862,
+  "last_post_ts": 1793620860.4687562,
   "recent_posts": [
-    {
-      "source_title": "Buxoroda yong‘in xavfsizligi talablari buzilgan yoqilg‘i ombori faoliyati to‘xtatildi",
-      "headline": "Buxoroda yoqilg'i ombori to'xtatildi!",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/323dc36621f08ca3b6d0aec318973a156d235cc935e050caec363afe24787d31.webp",
-      "ts": 1793448052.0187852
-    },
     {
       "source_title": "Toşkentda ayrim avtobuslar harakatini soat 23:00 gaça uzaytiriş reja qilinmoqda",
       "headline": "Tashkentda avtobus qatnovi soat 23:00 gacha uzaytirildi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston migrantlarining ish stajini tan olish yo'lida! 🌍🛂",
       "image": "https://www.gazeta.uz/media/img/2026/11/j8q6jv5le90o0qUiski17936156079033_209934_og.webp?r=1793618779",
       "ts": 1793619054.721673
+    },
+    {
+      "source_title": "Тошкентликларга парковка учун «қарздорлик» ҳақида сохта хабарлар юборилмоқда",
+      "headline": "Toshkentliklarga parking “qarzdorlik” haqidagi soxta SMS xabarlari haqida ogohlantirish 🚨",
+      "image": "https://www.gazeta.uz/media/img/2026/11/k0qu2i8n8s6q1sGewuf17936199539921_209942_og.webp?r=1793620822",
+      "ts": 1793620858.465254
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793617251.1492348,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 13
+    "count": 14
   }
 }

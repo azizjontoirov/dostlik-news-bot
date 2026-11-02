@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793599249.458186,
+  "last_post_ts": 1793601041.4956732,
   "recent_posts": [
     {
       "source_title": "Navoiyda ruxsatsiz do‘lana tergan ikki kishi 7,5 mln so‘mga yaqin jarimaga tortildi",
@@ -244,15 +244,15 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793595645.9737835,
+    "last_ad_ts": 1793601041.4925265,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 44,
       "gilam_eag": 14,
-      "ad_job": 43,
+      "ad_job": 44,
       "ad_water": 42,
       "home": 4,
       "home_dom": 3,
@@ -263,11 +263,12 @@
     "today": {
       "ad_water": 1,
       "uchastka_sale": 1,
-      "ad_flour": 1
+      "ad_flour": 1,
+      "ad_job": 1
     },
     "last_shown": {
       "ad_flour": 1793595645.973781,
-      "ad_job": 1793552447.8950968,
+      "ad_job": 1793601041.4925249,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793584842.7194347,
       "gilam_eag": 1792764054.4116373,

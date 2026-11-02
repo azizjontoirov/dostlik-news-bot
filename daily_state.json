@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793624460.5993702,
+  "last_post_ts": 1793626249.076644,
   "recent_posts": [
-    {
-      "source_title": "Bank garovida qolgan yuzlab uylar: Toshkentda “Rohat” TJM xaridorlari uy-joyidan ajralish xavfi ostida",
-      "headline": "Rohat” turar‑joy majmuasida uy‑joydan ajralish xavfi!",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/132eb4bd8c489b7b4ddc66a0d41b55f3f65960d5b8d9e1e1f443500bf9946c2a.webp",
-      "ts": 1793453441.5605628
-    },
     {
       "source_title": "GCF Özbekiston ekologiyasi uçun 103,7 mln yevro ajratadi",
       "headline": "GCF O'zbekiston ekologiyasiga 103,7 mln yevro ajratadi",
@@ -240,11 +234,17 @@
       "headline": "Shaxmatda yangi sahna: BAAda U20 Rapid‑Blitz chempionati 🇦🇪♟️",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/c743a24dfdd49948411c1fd2f6284ff145683448af8b463fdd5e8df61277e052.webp",
       "ts": 1793624458.5924242
+    },
+    {
+      "source_title": "Sentyabrda ham oltin sotilmadi: Oʻzbekiston zaxirasi toʻqqiz oyda 55 tonnaga “boyidi”",
+      "headline": "Sentyabrda ham oltin sotilmadi – zaxira 55 tonna “boyidi” 🏅📈",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/8563adbb61fba2bb9c076583c6fab3ce3d4b19fc7e35ea93f36a8729843134a0.webp",
+      "ts": 1793626247.071827
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793622636.1173232,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 15
+    "count": 16
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793617251.159682,
+  "last_post_ts": 1793619056.7255862,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда 20 та автобус йўналишининг ҳаракатини соат 23:00 гача узайтириш режа қилинмоқда",
-      "headline": "Toshkentda 20 ta avtobus yo'nalishining ish vaqti 23:00 gacha uzaytiriladi",
-      "image": "https://www.gazeta.uz/media/img/2024/11/IoPAi817320000883064_b.jpg",
-      "ts": 1793446237.1927414
-    },
     {
       "source_title": "Buxoroda yong‘in xavfsizligi talablari buzilgan yoqilg‘i ombori faoliyati to‘xtatildi",
       "headline": "Buxoroda yoqilg'i ombori to'xtatildi!",
@@ -240,11 +234,17 @@
       "headline": "Yil boshidan 1,1 mln+ mehnat migrantlari qaytdi — Prezident",
       "image": "https://www.gazeta.uz/media/img/2025/09/sAFxmn17573136305023_209919_og.webp?r=1793615314",
       "ts": 1793615444.1380885
+    },
+    {
+      "source_title": "Ўзбекистон Россия, Германия ва бошқа мамлакатлардаги мигрантларнинг иш стажи тан олинишига эришмоқчи",
+      "headline": "O'zbekiston migrantlarining ish stajini tan olish yo'lida! 🌍🛂",
+      "image": "https://www.gazeta.uz/media/img/2026/11/j8q6jv5le90o0qUiski17936156079033_209934_og.webp?r=1793618779",
+      "ts": 1793619054.721673
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793617251.1492348,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 12
+    "count": 13
   }
 }

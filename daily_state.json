@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793597444.9566057,
+  "last_post_ts": 1793599249.458186,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda elektron chipta olgan yo‘lovchilarga kamida 20 foiz chegirma berilishi mumkin",
-      "headline": "Elektron chipta foydalanuvchilariga 20% gacha chegirma! 🎫",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/3557f5b5e8fec803d4cd8808effd61b6fc57ff3d7ab39c07281670ebb6e9843b.webp",
-      "ts": 1793426449.214794
-    },
     {
       "source_title": "Navoiyda ruxsatsiz do‘lana tergan ikki kishi 7,5 mln so‘mga yaqin jarimaga tortildi",
       "headline": "Navoiyda ruxsatsiz do'lana yig'ish uchun 7,5 mln so'm jarima!",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda tug'ilishlar soni 26 mingga kamaydi",
       "image": "https://storage.kun.uz/source/1/9rDOB9z7w1P3rJSvq-1wNFmzFqXi7Hy4.jpg",
       "ts": 1793597442.9527764
+    },
+    {
+      "source_title": "Ta’lim va ilm-fan vazirligi oʻqishga qabul qilish va koʻchirishdagi firibgarlikdan ogohlantirdi",
+      "headline": "Ta'lim vazirligi ogohlantirdi: qabul‑ko'chirishda firibgarlik! ⚠️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/1f999b40eac74895fe81fdce4a703788d49f46f1e95862621ad772c74e839684.webp",
+      "ts": 1793599247.4523928
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793595645.9737835,
@@ -280,6 +280,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 5
+    "count": 6
   }
 }

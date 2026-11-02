@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793622636.1197886,
+  "last_post_ts": 1793624460.5993702,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda ayrim avtobuslar harakatini soat 23:00 gaça uzaytiriş reja qilinmoqda",
-      "headline": "Tashkentda avtobus qatnovi soat 23:00 gacha uzaytirildi",
-      "image": "https://storage.kun.uz/source/1/qIBE2LgopFx05VZPBQ6vHAeFxG5QkNsw.webp",
-      "ts": 1793451648.659616
-    },
     {
       "source_title": "Bank garovida qolgan yuzlab uylar: Toshkentda “Rohat” TJM xaridorlari uy-joyidan ajralish xavfi ostida",
       "headline": "Rohat” turar‑joy majmuasida uy‑joydan ajralish xavfi!",
@@ -240,11 +234,17 @@
       "headline": "Toshkentliklarga parking “qarzdorlik” haqidagi soxta SMS xabarlari haqida ogohlantirish 🚨",
       "image": "https://www.gazeta.uz/media/img/2026/11/k0qu2i8n8s6q1sGewuf17936199539921_209942_og.webp?r=1793620822",
       "ts": 1793620858.465254
+    },
+    {
+      "source_title": "Shaxmat. BAAda U20 Jahon Rapid va Blitz chempionati bo‘lib o‘tadi",
+      "headline": "Shaxmatda yangi sahna: BAAda U20 Rapid‑Blitz chempionati 🇦🇪♟️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/c743a24dfdd49948411c1fd2f6284ff145683448af8b463fdd5e8df61277e052.webp",
+      "ts": 1793624458.5924242
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793622636.1173232,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 14
+    "count": 15
   }
 }

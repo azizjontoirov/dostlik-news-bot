@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793590238.159556,
+  "last_post_ts": 1793592052.55583,
   "recent_posts": [
-    {
-      "source_title": "Ekostiker pullik bölişi haqidagi xabarlar yolğonligi maʼlum qilindi",
-      "headline": "EKOSTIKER PULLIK BÖLISHI XABARLARI YOLƢONLIGI",
-      "image": "https://storage.kun.uz/source/1/tM8MSzWMGsUCx-me8HczrlRSxQG7VkML.webp",
-      "ts": 1793419254.086245
-    },
     {
       "source_title": "Andijonda 2 kilo gashishni 27 ming dollarga sotayotgan shaxslar ushlandi",
       "headline": "Andijonda 2 kg gashish 27 mln dollarga sotildi – shaxslar ushlandi",
@@ -240,11 +234,17 @@
       "headline": "Kuvaytlik mutaxassislar Qoraqalpog'istonda 200 dan ortiq bepul jarrohlik amaliyotini bajardi 🏥🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/01/02a63a7f97709ec16cb315a9cae258f8effc6ad0a69729694b65a74a15aafeda.webp",
       "ts": 1793588460.6638575
+    },
+    {
+      "source_title": "eMaktab Uzum Bank ko‘magida maktab to‘lovlari servisini ishga tushirdi",
+      "headline": "eMaktab Uzum Bank hamkorligida onlayn to'lov servisi ishga tushdi 📚💳",
+      "image": "https://gocdn.daryo.uz/large/2026/11/01/64b77a600e7d7b6a108366366f24d0d93e939b1ed3e5fae68e6ad90b80af9147.webp",
+      "ts": 1793592050.5519626
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793590238.1566556,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 2
+    "count": 3
   }
 }

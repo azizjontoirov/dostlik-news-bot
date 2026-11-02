@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793628054.303491,
+  "last_post_ts": 1793629845.2028174,
   "recent_posts": [
-    {
-      "source_title": "GCF Özbekiston ekologiyasi uçun 103,7 mln yevro ajratadi",
-      "headline": "GCF O'zbekiston ekologiyasiga 103,7 mln yevro ajratadi",
-      "image": "https://storage.kun.uz/source/1/RWD7VgNgh7CJBnEiToXbnIUFvU2ucIwM.webp",
-      "ts": 1793457039.0190983
-    },
     {
       "source_title": "Superliga. “Dinamo” “Mash’al”ni yirik hisobda yengdi, voha derbisida “Nasaf” “Surxon” bilan durang qayd etdi",
       "headline": "Superliga: “Dinamo” “Mash'al”ni 3:0 yengdi, “Nasaf”‑“Surxon” derbisida durang",
@@ -240,11 +234,17 @@
       "headline": "Sentyabrda ham oltin sotilmadi – zaxira 55 tonna “boyidi” 🏅📈",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/8563adbb61fba2bb9c076583c6fab3ce3d4b19fc7e35ea93f36a8729843134a0.webp",
       "ts": 1793626247.071827
+    },
+    {
+      "source_title": "2026-yilning 9 oyida Özbekistonga amalga oşirilgan pul ötkazmalari 15 mlrd dollardan oşdi. Ösiş - 9 foiz",
+      "headline": "2026‑yilning 9‑oyida pul o'tkazmalari 15 mlrd dollardan oshdi",
+      "image": "https://storage.kun.uz/source/1/-Ms2Q2E4wP0vgRRdDIuH7YxYDxPemJHG.jpg",
+      "ts": 1793629843.198578
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793628054.30045,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 16
+    "count": 17
   }
 }

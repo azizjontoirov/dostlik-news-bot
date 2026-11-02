@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793635258.3642316,
+  "last_post_ts": 1793637046.3971524,
   "recent_posts": [
-    {
-      "source_title": "Superliga. “Navbahor” vodiy derbisida “Andijon”ni mag‘lub etdi",
-      "headline": "Navbahor “Andijon”ni mag'lub etdi! ⚽️🏆",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/0a3d8c9c86a7bd7b2b96bb0100d6b97487d7f1489bb0bbda426bbe3c68c95de6.webp",
-      "ts": 1793464239.353281
-    },
     {
       "source_title": "Toshkentda 1-noyabr kuni havo sifati yaxshilanishi kutilmoqda",
       "headline": "Toshkentda 1‑noyabr kuni havo sifati yaxshilanishi kutilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Paxtakor “Elit OCHL”da yirik mag'lubiyat!",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/b00973d86078ed59c83b5ab1fc916430dbba60dd5d19fb03dd676327120a2220.webp",
       "ts": 1793635256.3611498
+    },
+    {
+      "source_title": "Toshkent viloyatida oltita korxona oqova suvlarni tozalamasdan ochiq joyga tashlab kelgani aniqlandi",
+      "headline": "Toshkentda oqova suvlar tozalanmasdan tashlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/e1f6f696e83c49887397232ad71f4e6b5c49bab15f9e20d851dc6fb10280a4be.webp",
+      "ts": 1793637044.3938706
     }
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793633439.0182402,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-02",
-    "count": 19
+    "count": 20
   }
 }

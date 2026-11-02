@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793593840.8954227,
+  "last_post_ts": 1793595645.9757144,
   "recent_posts": [
     {
       "source_title": "Samarqand va Buxoroda turistlar uchun ekspress avtobuslar qatnovi yo‘lga qo‘yilishi mumkin",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793590238.1566556,
+    "last_ad_ts": 1793595645.9737835,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 43,
+      "ad_flour": 44,
       "gilam_eag": 14,
       "ad_job": 43,
       "ad_water": 42,
@@ -262,10 +262,11 @@
     "day": "2026-11-02",
     "today": {
       "ad_water": 1,
-      "uchastka_sale": 1
+      "uchastka_sale": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793536232.1610277,
+      "ad_flour": 1793595645.973781,
       "ad_job": 1793552447.8950968,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793584842.7194347,

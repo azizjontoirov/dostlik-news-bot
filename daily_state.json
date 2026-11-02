@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793610050.4590487,
+  "last_post_ts": 1793611837.2031262,
   "recent_posts": [
     {
       "source_title": "“Oʻzbekiston xalqaro shaxmat maydonida havas qilgulik natijalarga erishib kelmoqda” — Saida Mirziyoyeva",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-02",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793606449.0277658,
+    "last_ad_ts": 1793611837.200476,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 44,
       "gilam_eag": 14,
       "ad_job": 44,
-      "ad_water": 42,
+      "ad_water": 43,
       "home": 4,
       "home_dom": 4,
       "uchastka_sale": 2
@@ -261,7 +261,7 @@
     "permanent_index": 2,
     "day": "2026-11-02",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "uchastka_sale": 1,
       "ad_flour": 1,
       "ad_job": 1,
@@ -271,7 +271,7 @@
       "ad_flour": 1793595645.973781,
       "ad_job": 1793601041.4925249,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793584842.7194347,
+      "ad_water": 1793611837.2004735,
       "gilam_eag": 1792764054.4116373,
       "home": 1793547037.2708836,
       "home_dom": 1793606449.0277636,

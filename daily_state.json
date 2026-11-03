@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793698238.915895,
+  "last_post_ts": 1793700052.7598367,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда профилактика инспекторлари каналга ўзини ташлаган қизни қутқариб қолди",
-      "headline": "Toshkentda favqulodda vaziyat: inspektorlar qizni qutqardi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/tssg4367nkvq5v2VJ5e17935266921955_209850_og.webp?r=1793526989",
-      "ts": 1793527249.5451894
-    },
     {
       "source_title": "Tölovlarda yangi qulaylik, IMAN Invest mojarosi va oyliklar statistikasi - hafta dayjesti",
       "headline": "Apple Pay va Google Pay O'zbekistonda nihoyat ishga tushdi! 📱💳",
@@ -240,11 +234,17 @@
       "headline": "Toshkent Mirobod ko'chasida yangi sharoitlar yaratiladi 🏙️",
       "image": "https://www.gazeta.uz/media/img/2026/11/64unbgb3mvp16QCqTew17936934032808_209999_og.webp?r=1793696141",
       "ts": 1793696453.4719837
+    },
+    {
+      "source_title": "Ўзбекистонда тақиқланган диний экстремистик манбалар рўйхати янгиланди, уларнинг сони 2057 тага етди",
+      "headline": "O'zbekistonda diniy ekstremistik manbalar ro'yxati yangilandi 📋",
+      "image": "https://www.gazeta.uz/media/img/2021/04/gIe9Qd16188438806895_b.jpg",
+      "ts": 1793700050.7561471
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793698238.9131005,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 10
+    "count": 11
   }
 }

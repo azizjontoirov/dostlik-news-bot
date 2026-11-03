@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793685655.0232866,
+  "last_post_ts": 1793687441.1207016,
   "recent_posts": [
     {
       "source_title": "«Шахматдан завқ олишга ҳаракат қилдим». Синдаров — тож учун кечадиган ўйин олдидан сўнгги турнир ҳақида",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793682045.791032,
+    "last_ad_ts": 1793687441.1182146,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 46,
       "gilam_eag": 14,
       "ad_job": 46,
-      "ad_water": 44,
+      "ad_water": 45,
       "home": 6,
       "home_dom": 5,
       "uchastka_sale": 2
@@ -263,13 +263,14 @@
     "today": {
       "ad_flour": 1,
       "home": 1,
-      "ad_job": 1
+      "ad_job": 1,
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1793671246.0005896,
       "ad_job": 1793682045.7910295,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1793638850.9263444,
+      "ad_water": 1793687441.118212,
       "gilam_eag": 1792764054.4116373,
       "home": 1793676639.3814874,
       "home_dom": 1793633439.0182385,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793673049.785554,
+  "last_post_ts": 1793674741.7000937,
   "recent_posts": [
-    {
-      "source_title": "Holand “Oltin to‘p” tadbirlarini boykot qilganmi?",
-      "headline": "Erling Holand “Oltin to'p” tadbirlarini boykot qilyapti?",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/3c78a16226cb15df66c8e9aa3a07ac9a466de50e81b45ef142e4c28bd75c2f2f.webp",
-      "ts": 1793502047.4239302
-    },
     {
       "source_title": "Toshkentdagi yangi qurilayotgan binoda yong‘in sodir bo‘ldi",
       "headline": "Toshkentda yangi qurilayotgan binoda yong'in",
@@ -240,11 +234,17 @@
       "headline": "O'ZBEKISTONDA AKADEMIK LITSEYLAR TA'LIM SIFATI FARQLANIB TURIBDI",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/06a59bd6758f3dd57def7d5e4aa6f4fac54e79fb474eb964f726abd87bc4b05c.webp",
       "ts": 1793673047.7812722
+    },
+    {
+      "source_title": "Akademik litsey o‘quvchilari bino, infratuzilma va texnik jihozlar bo‘yicha muammolar borligini qayd etdi — so‘rovnoma",
+      "headline": "Akademik litseyda infratuzilma muammolari – so'rovnoma natijalari",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/913a7f9983eeca967cc33f34548d0ba621d6c57b35a83afe636b76ffbbfc7960.webp",
+      "ts": 1793674739.6970136
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793671246.0005913,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 1
+    "count": 2
   }
 }

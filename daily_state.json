@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793719842.175359,
+  "last_post_ts": 1793721664.4912052,
   "recent_posts": [
-    {
-      "source_title": "Ğuzorda ayol va uning 4 bolasini yoqib yuborgan erkak umrbod qamaldi",
-      "headline": "G'uzor shahrida qotillik sodir bo'ldi – jinoyatchi umrbod qamaldi",
-      "image": "https://storage.kun.uz/source/1/tjB_Om_VNxceJJ4oH_qhfKWmRF5DFtdD.jpg",
-      "ts": 1793548845.8203492
-    },
     {
       "source_title": "Россияда 4 фарзанди билан қийин аҳволда қолган ўзбекистонлик аёл ватанга қайтарилди",
       "headline": "O'zbekistonlik ona 4 farzandi bilan Rossiyadan vataniga qaytarildi 🌍✈️",
@@ -240,11 +234,17 @@
       "headline": "Buxoroda yangi turizm markazi barpo etiladi, Marat Hamdamov qamoqqa olindi 🏗️🚔",
       "image": "https://storage.kun.uz/source/1/-ICsetMoaO2U9FjuPFBQRHvtrDmdHT16.jpg",
       "ts": 1793718077.4922516
+    },
+    {
+      "source_title": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi amalga oshiriladi",
+      "headline": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/32c2084cf94414dea1fa2edde7db22175292c3eb2642d5a6847bab68f3544036.webp",
+      "ts": 1793721662.4860508
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793719842.1661355,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 18
+    "count": 19
   }
 }

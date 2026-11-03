@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793721664.4912052,
+  "last_post_ts": 1793723527.2205696,
   "recent_posts": [
-    {
-      "source_title": "Россияда 4 фарзанди билан қийин аҳволда қолган ўзбекистонлик аёл ватанга қайтарилди",
-      "headline": "O'zbekistonlik ona 4 farzandi bilan Rossiyadan vataniga qaytarildi 🌍✈️",
-      "image": "https://www.gazeta.uz/media/img/2026/11/mqv02e99t7sucmNqWG017935489949400_209856_og.webp?r=1793549138",
-      "ts": 1793550641.5123553
-    },
     {
       "source_title": "Eldor Shomurodov Turkiya Superligasi to‘purarlar ro‘yxatida 4-o‘ringa ko‘tarilib oldi (foto)",
       "headline": "Eldor Shomurodov Turkiya Superligasida 4‑o'ringa ko'tarildi! ⚽️🚀",
@@ -240,11 +234,17 @@
       "headline": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/03/32c2084cf94414dea1fa2edde7db22175292c3eb2642d5a6847bab68f3544036.webp",
       "ts": 1793721662.4860508
+    },
+    {
+      "source_title": "Ekstremistik taşkilotlar va materiallarning elektron reyestri yuritiladi",
+      "headline": "Ekstremistik materiallar elektron reyestri ochildi",
+      "image": "",
+      "ts": 1793723525.2162476
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793719842.1661355,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 19
+    "count": 20
   }
 }

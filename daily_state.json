@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793680241.0387392,
+  "last_post_ts": 1793682045.7928207,
   "recent_posts": [
     {
       "source_title": "To‘qqiz oyda xorijda qiyin ahvolda qolgan 5 mingga yaqin o‘zbekistonlik vatanga qaytarildi",
@@ -244,15 +244,15 @@
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793676639.38149,
+    "last_ad_ts": 1793682045.791032,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 46,
       "gilam_eag": 14,
-      "ad_job": 45,
+      "ad_job": 46,
       "ad_water": 44,
       "home": 6,
       "home_dom": 5,
@@ -262,11 +262,12 @@
     "day": "2026-11-03",
     "today": {
       "ad_flour": 1,
-      "home": 1
+      "home": 1,
+      "ad_job": 1
     },
     "last_shown": {
       "ad_flour": 1793671246.0005896,
-      "ad_job": 1793622636.1173208,
+      "ad_job": 1793682045.7910295,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793638850.9263444,
       "gilam_eag": 1792764054.4116373,

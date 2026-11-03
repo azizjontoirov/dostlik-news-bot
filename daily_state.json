@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793723527.2205696,
+  "last_post_ts": 1793725251.951757,
   "recent_posts": [
     {
       "source_title": "Eldor Shomurodov Turkiya Superligasi to‘purarlar ro‘yxatida 4-o‘ringa ko‘tarilib oldi (foto)",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793719842.1661355,
+    "last_ad_ts": 1793725251.9491837,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 47,
+      "ad_flour": 48,
       "gilam_eag": 14,
       "ad_job": 47,
       "ad_water": 46,
@@ -261,14 +261,14 @@
     "permanent_index": 2,
     "day": "2026-11-03",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "home": 2,
       "ad_job": 2,
       "ad_water": 2,
       "home_dom": 2
     },
     "last_shown": {
-      "ad_flour": 1793698238.9130988,
+      "ad_flour": 1793725251.949181,
       "ad_job": 1793703655.735125,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793709037.8825471,

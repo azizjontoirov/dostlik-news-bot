@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793678454.568219,
+  "last_post_ts": 1793680241.0387392,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonning tashqi savdo taqchilligi to‘qqiz oyda 13,7 mlrd dollarga yetdi",
-      "headline": "O'zbekistonning tashqi savdo aylanmasi 13,7 mlrd dollarga oshdi 📈💰",
-      "image": "https://gocdn.daryo.uz/large/2026/10/31/2d722ec1aa0eba12f5fd8c7e0af97772e742e5e9309d230de7f14fb632e172a2.webp",
-      "ts": 1793507436.6530578
-    },
     {
       "source_title": "To‘qqiz oyda xorijda qiyin ahvolda qolgan 5 mingga yaqin o‘zbekistonlik vatanga qaytarildi",
       "headline": "To'qqiz oyda xorijda qiyin ahvolda qolgan 5 mingga yaqin o'zbekistonlik vatanga qaytarildi 🌍✈️",
@@ -240,11 +234,17 @@
       "headline": "Tenge Travel: Tenge24 ilovasi orqali temiryo'l chiptalari endi qo'lda! 🎫📱",
       "image": "https://storage.kun.uz/source/1/RFKkLVtBTO4RPqB3Dh3l73ecsbJA1YTd.jpg",
       "ts": 1793678452.5653377
+    },
+    {
+      "source_title": "O‘zbekistonda eskirgan shinalarni yo‘l qurilishiga ishlatish rejalashtirilmoqda",
+      "headline": "Eskirgan shinalar yo'l bitumiga! 🌍",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/c866122a25ad02850a86973af8e077d8736c2658abe9cda5826ee7daaaef6757.webp",
+      "ts": 1793680239.0355294
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793676639.38149,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 3
+    "count": 4
   }
 }

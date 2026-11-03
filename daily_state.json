@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793705448.6639273,
+  "last_post_ts": 1793707251.5114362,
   "recent_posts": [
-    {
-      "source_title": "“Yana biroz kech qolganimizda suv qizni tortib ketardi” Bo‘rijarga sakragan qiz qutqarildi",
-      "headline": "Bo'rijar kanalida qiz qutqarildi! 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/f51b5b965b44b09a1fc2cc0b8ff108c74faa914fb4bf7960f805eab4d45e219d.webp",
-      "ts": 1793534451.7842755
-    },
     {
       "source_title": "Gruziya yil boshidan beri 500 nafarga yaqin o‘zbekistonlikni mamlakatga kiritmadi",
       "headline": "Gruziya O'zbekistonliklarga kirish cheklovini kuchaytirdi 🇬🇪🚫",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda AI‑yosh tekshiruvi namoyish etiladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/03/5483f3362d8572a4ddcdfa6e9a0a2660459bc7e0a690d0906d1148dcccd1d9e9.webp",
       "ts": 1793705446.6594977
+    },
+    {
+      "source_title": "Ўзбекистонда газлашмаган ҳудудлар учун электр энергияси истеъмолининг базавий меъёри 350 кВт/соатгача оширилди",
+      "headline": "Elektr energiyasi bazaviy me'yor oshirildi (350 kVt/soatgacha) ⚡️",
+      "image": "https://www.gazeta.uz/media/img/2024/04/2wNIY417134246130330_b.jpg",
+      "ts": 1793707249.5057619
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793703655.7351265,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 13
+    "count": 14
   }
 }

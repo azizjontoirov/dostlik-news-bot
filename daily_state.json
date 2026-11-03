@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793700052.7598367,
+  "last_post_ts": 1793701846.2050672,
   "recent_posts": [
-    {
-      "source_title": "Tölovlarda yangi qulaylik, IMAN Invest mojarosi va oyliklar statistikasi - hafta dayjesti",
-      "headline": "Apple Pay va Google Pay O'zbekistonda nihoyat ishga tushdi! 📱💳",
-      "image": "https://storage.kun.uz/source/1/_FPngmnCMT-JYjN_rnqpz4nhObhQBg4v.jpg",
-      "ts": 1793529087.1085436
-    },
     {
       "source_title": "«An-Nasr» Toşkentga Kriştianu Ronaldusiz keldi",
       "headline": "An‑Nasr “Kriştianu Ronaldu”siz Tashkentda!",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda diniy ekstremistik manbalar ro'yxati yangilandi 📋",
       "image": "https://www.gazeta.uz/media/img/2021/04/gIe9Qd16188438806895_b.jpg",
       "ts": 1793700050.7561471
+    },
+    {
+      "source_title": "Президент Бухорода қиймати 136 млн доллардан ортиқ конгресс холл ва меҳмонхоналар қурилиши билан танишди",
+      "headline": "Prezident Bukhorodagi yangi kongress va mehmonxona loyihasini ko'rib chiqdi 🏗️",
+      "image": "https://www.gazeta.uz/media/img/2026/11/gh9tbd5tpc1ucPBS9hs17936995597133_210014_og.webp?r=1793700538",
+      "ts": 1793701844.2005646
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793698238.9131005,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 11
+    "count": 12
   }
 }

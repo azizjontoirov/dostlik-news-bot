@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793701846.2050672,
+  "last_post_ts": 1793703655.7378962,
   "recent_posts": [
     {
       "source_title": "«An-Nasr» Toşkentga Kriştianu Ronaldusiz keldi",
@@ -244,15 +244,15 @@
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793698238.9131005,
+    "last_ad_ts": 1793703655.7351265,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 47,
       "gilam_eag": 14,
-      "ad_job": 46,
+      "ad_job": 47,
       "ad_water": 45,
       "home": 6,
       "home_dom": 6,
@@ -263,13 +263,13 @@
     "today": {
       "ad_flour": 2,
       "home": 1,
-      "ad_job": 1,
+      "ad_job": 2,
       "ad_water": 1,
       "home_dom": 1
     },
     "last_shown": {
       "ad_flour": 1793698238.9130988,
-      "ad_job": 1793682045.7910295,
+      "ad_job": 1793703655.735125,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793687441.118212,
       "gilam_eag": 1792764054.4116373,

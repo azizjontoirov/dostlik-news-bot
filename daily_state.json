@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793689253.2510564,
+  "last_post_ts": 1793691042.6316078,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda Imarat Development MCHJ rahbariyatiga nisbatan jinoyat ishi qo‘zg‘atildi",
-      "headline": "Toshkentda Imarat Development MCHJ rahbariyatiga jinoyat ishi qo'zg'atildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/18fabfc9623356fb4750ee689141ac32899e461484988be18f7d8fe70a03285f.webp",
-      "ts": 1793518236.2567654
-    },
     {
       "source_title": "“Bu dalda meni yanada kuchli qiladi” — Ramazon Temirov",
       "headline": "Bu dalda meni yanada kuchli qiladi” 🥊💪",
@@ -240,11 +234,17 @@
       "headline": "Apple, OpenAI va TikTok kabi xorijiy kompaniyalar 9 oyda O'zbekistonda 232 mlrd so'mdan ortiq soliq to'ldi 🌐💰",
       "image": "https://www.gazeta.uz/media/img/2024/07/OIaRX817211045211618_b.jpg",
       "ts": 1793689251.2391033
+    },
+    {
+      "source_title": "Farğonada bir haftada ikki oilaning 12 aʼzosi is gazidan vafot etdi",
+      "headline": "Farğonada gaz falokatlari – 12 nafar hayot yo'qoldi",
+      "image": "https://storage.kun.uz/source/1/r5xkMY8yAzX987yzyfUtUfKVctnCSByE.jpg",
+      "ts": 1793691040.6277182
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793687441.1182146,
@@ -281,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 7
+    "count": 8
   }
 }

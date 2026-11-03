@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793683842.299873,
+  "last_post_ts": 1793685655.0232866,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda 11-sinf o‘quvchisi 5 ta fandan milliy sertifikat olib, muddatidan avval talaba bo‘ldi",
-      "headline": "Qashqadaryo yulduzi: 11‑sinf o'quvchisi 5 ta fandan milliy sertifikat! 🌟📚",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/00b7d226e088c93578c5039ad9fa478cf48f8a470750cf64096464f64d9cd730.webp",
-      "ts": 1793512854.3739731
-    },
     {
       "source_title": "«Шахматдан завқ олишга ҳаракат қилдим». Синдаров — тож учун кечадиган ўйин олдидан сўнгги турнир ҳақида",
       "headline": "Shaxmatdan zavq olishga harakat qildim",
@@ -240,11 +234,17 @@
       "headline": "Mobiuz Samarkand Marathon 2026 bosh hamkori bo'ldi",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/f56a5eaf7efaa193b5cb27f5bb3030f1b878e226d33f020921740cf2ad29dc87.webp",
       "ts": 1793683840.2901118
+    },
+    {
+      "source_title": "Farğonada departament tergovçisi 100 ming dollar pora olişda gumonlanmoqda",
+      "headline": "Farğonada departament tergovchisi 100 mln dollar pora olishda gumonlanmoqda 💰🚨",
+      "image": "https://storage.kun.uz/source/1/kZ2LGVBmIyDtao1k6_oHJINwd0mgPcsj.jpg",
+      "ts": 1793685653.018278
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793682045.791032,
@@ -280,6 +280,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 5
+    "count": 6
   }
 }

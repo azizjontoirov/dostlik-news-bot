@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793703655.7378962,
+  "last_post_ts": 1793705448.6639273,
   "recent_posts": [
-    {
-      "source_title": "«An-Nasr» Toşkentga Kriştianu Ronaldusiz keldi",
-      "headline": "An‑Nasr “Kriştianu Ronaldu”siz Tashkentda!",
-      "image": "https://storage.kun.uz/source/1/c7NiLblL9DCiVr47E1FgUUws5Dls5rXv.jpg",
-      "ts": 1793532642.790818
-    },
     {
       "source_title": "“Yana biroz kech qolganimizda suv qizni tortib ketardi” Bo‘rijarga sakragan qiz qutqarildi",
       "headline": "Bo'rijar kanalida qiz qutqarildi! 🚨",
@@ -240,11 +234,17 @@
       "headline": "Prezident Bukhorodagi yangi kongress va mehmonxona loyihasini ko'rib chiqdi 🏗️",
       "image": "https://www.gazeta.uz/media/img/2026/11/gh9tbd5tpc1ucPBS9hs17936995597133_210014_og.webp?r=1793700538",
       "ts": 1793701844.2005646
+    },
+    {
+      "source_title": "Toshkentda Markaziy Osiyoda birinchi bo‘lgan xaridorlar yoshini sun’iy intellekt yordamida tekshirish tizimi namoyish etiladi",
+      "headline": "Toshkentda AI‑yosh tekshiruvi namoyish etiladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/5483f3362d8572a4ddcdfa6e9a0a2660459bc7e0a690d0906d1148dcccd1d9e9.webp",
+      "ts": 1793705446.6594977
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793703655.7351265,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 12
+    "count": 13
   }
 }

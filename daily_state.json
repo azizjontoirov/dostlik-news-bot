@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793692845.0487716,
+  "last_post_ts": 1793694647.3362815,
   "recent_posts": [
-    {
-      "source_title": "“Bu dalda meni yanada kuchli qiladi” — Ramazon Temirov",
-      "headline": "Bu dalda meni yanada kuchli qiladi” 🥊💪",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/97aa95136f2295b895b1df60165e1f8e56effd25765eaf24b9002012c1882faf.webp",
-      "ts": 1793521837.564139
-    },
     {
       "source_title": "Тошкентда харидорлар шикоятларидан сўнг Imarat Development раҳбариятига жиноий иш очилди. Нималар маълум?",
       "headline": "Toshkentda Imarat Development rahbariyatiga jinoyat ishi ochildi",
@@ -240,11 +234,17 @@
       "headline": "Farğonada gaz falokatlari – 12 nafar hayot yo'qoldi",
       "image": "https://storage.kun.uz/source/1/r5xkMY8yAzX987yzyfUtUfKVctnCSByE.jpg",
       "ts": 1793691040.6277182
+    },
+    {
+      "source_title": "O‘zbekistonda ortiqcha to‘langan QQSni importda hisobga olish tartibi belgilandi",
+      "headline": "O'zbekiston QQS ortiqchasini importda hisobga olish tartibi belgilandi 📊",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/cb6c6825f0bbed3f4cb519d28b7497ed4ab576395d2abb850bb03254a0d1af80.webp",
+      "ts": 1793694645.3326912
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793692845.046718,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 8
+    "count": 9
   }
 }

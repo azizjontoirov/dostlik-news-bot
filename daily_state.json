@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793716245.587585,
+  "last_post_ts": 1793718079.497102,
   "recent_posts": [
-    {
-      "source_title": "Superliga. “Lokomotiv” o‘z maydonida “OKMK”ga imkoniyatni boy berdi",
-      "headline": "Superliga: “Lokomotiv” o'z maydonida “OKMK”ga imkoniyatni boy berdi ⚽️🔥",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/f5c42eef621b4173ea6e160bd43771c7d11e24fc6a291384922b184d7b838346.webp",
-      "ts": 1793545250.5693347
-    },
     {
       "source_title": "Ğuzorda ayol va uning 4 bolasini yoqib yuborgan erkak umrbod qamaldi",
       "headline": "G'uzor shahrida qotillik sodir bo'ldi – jinoyatchi umrbod qamaldi",
@@ -240,11 +234,17 @@
       "headline": "Toshkent metrosida yangi kelish vaqtini ko'rsatuvchi tablolar o'rnatiladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/03/f693b8107afb72ca67c6c70e0e2a829508f61e65e7dd438c89ee2d8ba0f9a130.webp",
       "ts": 1793716243.5736775
+    },
+    {
+      "source_title": "Buxoroda yangi turizm markazi va Marat Hamdamovning qamoqqa olinişi - mahalliy dayjest",
+      "headline": "Buxoroda yangi turizm markazi barpo etiladi, Marat Hamdamov qamoqqa olindi 🏗️🚔",
+      "image": "https://storage.kun.uz/source/1/-ICsetMoaO2U9FjuPFBQRHvtrDmdHT16.jpg",
+      "ts": 1793718077.4922516
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793714450.3585033,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 17
+    "count": 18
   }
 }

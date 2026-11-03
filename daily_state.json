@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793718079.497102,
+  "last_post_ts": 1793719842.175359,
   "recent_posts": [
     {
       "source_title": "Ğuzorda ayol va uning 4 bolasini yoqib yuborgan erkak umrbod qamaldi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793714450.3585033,
+    "last_ad_ts": 1793719842.1661355,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 47,
@@ -255,7 +255,7 @@
       "ad_job": 47,
       "ad_water": 46,
       "home": 7,
-      "home_dom": 6,
+      "home_dom": 7,
       "uchastka_sale": 2
     },
     "permanent_index": 2,
@@ -265,7 +265,7 @@
       "home": 2,
       "ad_job": 2,
       "ad_water": 2,
-      "home_dom": 1
+      "home_dom": 2
     },
     "last_shown": {
       "ad_flour": 1793698238.9130988,
@@ -274,7 +274,7 @@
       "ad_water": 1793709037.8825471,
       "gilam_eag": 1792764054.4116373,
       "home": 1793714450.358501,
-      "home_dom": 1793692845.0467155,
+      "home_dom": 1793719842.166134,
       "uchastka_sale": 1793590238.1566534
     },
     "morning_ad_date": "2026-11-03"

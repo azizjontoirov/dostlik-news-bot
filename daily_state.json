@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793694647.3362815,
+  "last_post_ts": 1793696455.4758644,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда харидорлар шикоятларидан сўнг Imarat Development раҳбариятига жиноий иш очилди. Нималар маълум?",
-      "headline": "Toshkentda Imarat Development rahbariyatiga jinoyat ishi ochildi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/rgon31hg5k0jaaUoQeX17935188623502_209848_og.webp?r=1793520673",
-      "ts": 1793523649.9810355
-    },
     {
       "source_title": "Тошкентда профилактика инспекторлари каналга ўзини ташлаган қизни қутқариб қолди",
       "headline": "Toshkentda favqulodda vaziyat: inspektorlar qizni qutqardi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston QQS ortiqchasini importda hisobga olish tartibi belgilandi 📊",
       "image": "https://gocdn.daryo.uz/large/2026/11/03/cb6c6825f0bbed3f4cb519d28b7497ed4ab576395d2abb850bb03254a0d1af80.webp",
       "ts": 1793694645.3326912
+    },
+    {
+      "source_title": "Тошкентнинг Миробод кўчасида сайр ва овқатланиш шохобчалари учун шароитлар яратилади (эскизлар ва фото)",
+      "headline": "Toshkent Mirobod ko'chasida yangi sharoitlar yaratiladi 🏙️",
+      "image": "https://www.gazeta.uz/media/img/2026/11/64unbgb3mvp16QCqTew17936934032808_209999_og.webp?r=1793696141",
+      "ts": 1793696453.4719837
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793692845.046718,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 9
+    "count": 10
   }
 }

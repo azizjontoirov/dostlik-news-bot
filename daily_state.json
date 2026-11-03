@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793712652.009675,
+  "last_post_ts": 1793714450.3615515,
   "recent_posts": [
     {
       "source_title": "Mahmud Murodov 2 daqiqa ichida 6 raqibini nokautga uchratdi (video)",
@@ -244,17 +244,17 @@
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793709037.8825483,
+    "last_ad_ts": 1793714450.3585033,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 47,
       "gilam_eag": 14,
       "ad_job": 47,
       "ad_water": 46,
-      "home": 6,
+      "home": 7,
       "home_dom": 6,
       "uchastka_sale": 2
     },
@@ -262,7 +262,7 @@
     "day": "2026-11-03",
     "today": {
       "ad_flour": 2,
-      "home": 1,
+      "home": 2,
       "ad_job": 2,
       "ad_water": 2,
       "home_dom": 1
@@ -273,7 +273,7 @@
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793709037.8825471,
       "gilam_eag": 1792764054.4116373,
-      "home": 1793676639.3814874,
+      "home": 1793714450.358501,
       "home_dom": 1793692845.0467155,
       "uchastka_sale": 1793590238.1566534
     },

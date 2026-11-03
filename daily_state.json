@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793709037.8841066,
+  "last_post_ts": 1793710859.4203498,
   "recent_posts": [
-    {
-      "source_title": "Gruziya yil boshidan beri 500 nafarga yaqin o‘zbekistonlikni mamlakatga kiritmadi",
-      "headline": "Gruziya O'zbekistonliklarga kirish cheklovini kuchaytirdi 🇬🇪🚫",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/90ce24d9e165b9c3b0e0c8c6363cd20b1cd8c119a07e4a20bc48bbef344bcc1d.webp",
-      "ts": 1793538048.0238082
-    },
     {
       "source_title": "FIDE reytingi yangilandi. Sindorov va Abdusattorov kuchli beshlikdagi o‘rnini saqlab qoldi",
       "headline": "FIDE reytingi yangilandi – Sindorov va Abdusattorov top 5da! ♟️🇺🇿",
@@ -240,11 +234,17 @@
       "headline": "Elektr energiyasi bazaviy me'yor oshirildi (350 kVt/soatgacha) ⚡️",
       "image": "https://www.gazeta.uz/media/img/2024/04/2wNIY417134246130330_b.jpg",
       "ts": 1793707249.5057619
+    },
+    {
+      "source_title": "Oliy sud raisining birinçi örinbosari almaşdi",
+      "headline": "Oliy sud raisining birinchi örinbosari almashtirildi",
+      "image": "https://storage.kun.uz/source/1/EiKMPu6YCnzoRkrx-racsp3BG9EcQyqf.jpg",
+      "ts": 1793710857.416116
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793709037.8825483,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 14
+    "count": 15
   }
 }

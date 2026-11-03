@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793710859.4203498,
+  "last_post_ts": 1793712652.009675,
   "recent_posts": [
-    {
-      "source_title": "FIDE reytingi yangilandi. Sindorov va Abdusattorov kuchli beshlikdagi o‘rnini saqlab qoldi",
-      "headline": "FIDE reytingi yangilandi – Sindorov va Abdusattorov top 5da! ♟️🇺🇿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/4308e837e2af9dea24bc4960335cefdb5e3925ec0b3ba8fc690c0291d39b25de.webp",
-      "ts": 1793539859.504792
-    },
     {
       "source_title": "Mahmud Murodov 2 daqiqa ichida 6 raqibini nokautga uchratdi (video)",
       "headline": "Mahmud Murodov 2 daqiqada 6 raqibini nokautga uchradi! 🥊⚡",
@@ -240,11 +234,17 @@
       "headline": "Oliy sud raisining birinchi örinbosari almashtirildi",
       "image": "https://storage.kun.uz/source/1/EiKMPu6YCnzoRkrx-racsp3BG9EcQyqf.jpg",
       "ts": 1793710857.416116
+    },
+    {
+      "source_title": "Президент Бухорода 55 та лойиҳани ишга туширди ва 90 та лойиҳа қурилишига старт берди",
+      "headline": "Prezident Bukhoroda 55 ta loyiha ishga tushirildi, 90 ta qurilishga start berdi 🚀",
+      "image": "https://www.gazeta.uz/media/img/2026/11/ssfte3lqv350cUemPos17937079051932_210038_og.webp?r=1793710331",
+      "ts": 1793712650.0050337
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793709037.8825483,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 15
+    "count": 16
   }
 }

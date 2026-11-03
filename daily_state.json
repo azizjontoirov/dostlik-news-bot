@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793676639.3841856,
+  "last_post_ts": 1793678454.568219,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi yangi qurilayotgan binoda yong‘in sodir bo‘ldi",
-      "headline": "Toshkentda yangi qurilayotgan binoda yong'in",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/8e6492a75441e071ea5a72e7dc9046b4986671291245d9444654f12f6762319a.webp",
-      "ts": 1793505647.8953185
-    },
     {
       "source_title": "O‘zbekistonning tashqi savdo taqchilligi to‘qqiz oyda 13,7 mlrd dollarga yetdi",
       "headline": "O'zbekistonning tashqi savdo aylanmasi 13,7 mlrd dollarga oshdi 📈💰",
@@ -240,11 +234,17 @@
       "headline": "Akademik litseyda infratuzilma muammolari – so'rovnoma natijalari",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/913a7f9983eeca967cc33f34548d0ba621d6c57b35a83afe636b76ffbbfc7960.webp",
       "ts": 1793674739.6970136
+    },
+    {
+      "source_title": "Tenge Travel: endi navbatdagi çiptangizni Tenge24 orqali xarid qilişingiz mumkin",
+      "headline": "Tenge Travel: Tenge24 ilovasi orqali temiryo'l chiptalari endi qo'lda! 🎫📱",
+      "image": "https://storage.kun.uz/source/1/RFKkLVtBTO4RPqB3Dh3l73ecsbJA1YTd.jpg",
+      "ts": 1793678452.5653377
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793676639.38149,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 2
+    "count": 3
   }
 }

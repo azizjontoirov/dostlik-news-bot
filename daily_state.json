@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793687441.1207016,
+  "last_post_ts": 1793689253.2510564,
   "recent_posts": [
-    {
-      "source_title": "«Шахматдан завқ олишга ҳаракат қилдим». Синдаров — тож учун кечадиган ўйин олдидан сўнгги турнир ҳақида",
-      "headline": "Shaxmatdan zavq olishga harakat qildim",
-      "image": "https://www.gazeta.uz/media/img/2026/11/p3pj9ogid7ie91vcqR517935129744590_209844_og.webp?r=1793515346",
-      "ts": 1793516448.321602
-    },
     {
       "source_title": "Toshkentda Imarat Development MCHJ rahbariyatiga nisbatan jinoyat ishi qo‘zg‘atildi",
       "headline": "Toshkentda Imarat Development MCHJ rahbariyatiga jinoyat ishi qo'zg'atildi",
@@ -240,11 +234,17 @@
       "headline": "Farğonada departament tergovchisi 100 mln dollar pora olishda gumonlanmoqda 💰🚨",
       "image": "https://storage.kun.uz/source/1/kZ2LGVBmIyDtao1k6_oHJINwd0mgPcsj.jpg",
       "ts": 1793685653.018278
+    },
+    {
+      "source_title": "Apple, OpenAI ва TikTok каби хорижий компаниялар 9 ойда Ўзбекистонда 232 млрд сўмдан ортиқ солиқ тўлади",
+      "headline": "Apple, OpenAI va TikTok kabi xorijiy kompaniyalar 9 oyda O'zbekistonda 232 mlrd so'mdan ortiq soliq to'ldi 🌐💰",
+      "image": "https://www.gazeta.uz/media/img/2024/07/OIaRX817211045211618_b.jpg",
+      "ts": 1793689251.2391033
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793687441.1182146,
@@ -281,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 6
+    "count": 7
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793714450.3615515,
+  "last_post_ts": 1793716245.587585,
   "recent_posts": [
-    {
-      "source_title": "Mahmud Murodov 2 daqiqa ichida 6 raqibini nokautga uchratdi (video)",
-      "headline": "Mahmud Murodov 2 daqiqada 6 raqibini nokautga uchradi! 🥊⚡",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/b08baf159d9023129c79779c90e82f1dd503240635227eb83820f6c5e6889096.webp",
-      "ts": 1793543441.6101878
-    },
     {
       "source_title": "Superliga. “Lokomotiv” o‘z maydonida “OKMK”ga imkoniyatni boy berdi",
       "headline": "Superliga: “Lokomotiv” o'z maydonida “OKMK”ga imkoniyatni boy berdi ⚽️🔥",
@@ -240,11 +234,17 @@
       "headline": "Prezident Bukhoroda 55 ta loyiha ishga tushirildi, 90 ta qurilishga start berdi 🚀",
       "image": "https://www.gazeta.uz/media/img/2026/11/ssfte3lqv350cUemPos17937079051932_210038_og.webp?r=1793710331",
       "ts": 1793712650.0050337
+    },
+    {
+      "source_title": "Toshkent metrosining yangi bekatlarida poyezdlar kelish vaqtini ko‘rsatuvchi tablolar o‘rnatiladi",
+      "headline": "Toshkent metrosida yangi kelish vaqtini ko'rsatuvchi tablolar o'rnatiladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/f693b8107afb72ca67c6c70e0e2a829508f61e65e7dd438c89ee2d8ba0f9a130.webp",
+      "ts": 1793716243.5736775
     }
   ],
   "morning_sent_date": "2026-11-03",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793714450.3585033,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-03",
-    "count": 16
+    "count": 17
   }
 }

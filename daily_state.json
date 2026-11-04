@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793779245.1101437,
+  "last_post_ts": 1793781049.6130219,
   "recent_posts": [
-    {
-      "source_title": "“Migratsiyada bizga raqam emas, sifat kerak!” — prezident",
-      "headline": "Migratsiyada bizga raqam emas, sifat kerak!” 🇺🇿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/fb0179af65281695b2e1af80fa7f55195f6c12debedc9a05e11acbfee3d4266b.webp",
-      "ts": 1793608239.682883
-    },
     {
       "source_title": "Uç yillik taʼlim, 13 sertifikat va avtomobil: “Al-jabr ” xalqaro maktabining London universitetida öqiyotgan bitiruvçisi bilan suhbat",
       "headline": "Uch yillik mehnat, 13 sertifikat va avtomobil! 🚗🎓",
@@ -240,11 +234,17 @@
       "headline": "Buxoroda turizmni 7 millionga yetkazish rejasi 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/a286c28f0b8d735f6a16fd283e0d446c233607f5cdfdbfd3a1db810528b97235.webp",
       "ts": 1793777442.8678794
+    },
+    {
+      "source_title": "Saida Mirziyoyeva Qarshidagi 43-maktab va 1-bog‘cha sharoiti bilan tanishdi",
+      "headline": "Saida Mirziyoyeva 43‑maktab va 1‑bog'cha sharoiti bilan tanishdi 📚🏫",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/05635f9df1a61806425fb0a54f3ed85bfea6dd0b1f12854e0fae9dec85ec31c7.webp",
+      "ts": 1793781047.6082084
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793779245.1081984,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 8
+    "count": 9
   }
 }

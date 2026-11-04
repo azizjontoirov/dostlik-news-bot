@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793802645.8455017,
+  "last_post_ts": 1793804582.4201446,
   "recent_posts": [
-    {
-      "source_title": "Para shaxmat. Ahadxon Kimsanboyev Osiyo chempioni bo‘ldi",
-      "headline": "Para shaxmatda Ahadxоn Kimsanboyev Osiyo chempioni bo'ldi! ♟️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/ada95db1a1386c6a2c5b583c99109a933e4ca9897241200995516751bb766e1a.webp",
-      "ts": 1793631660.921909
-    },
     {
       "source_title": "Elit OCHL. “Paxtakor” Ronaldusiz “An-Nassr”ga yirik hisobda mag‘lub bo‘ldi",
       "headline": "Paxtakor “Elit OCHL”da yirik mag'lubiyat!",
@@ -240,11 +234,17 @@
       "headline": "Namanganda ekologik talablarni buzgan sovun korxonasi to'xtatildi 🧼🚫",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/b16ef9f8b99da5d1891f5c626abfa683438cb091d30e3dc639f2db2b81602961.webp",
       "ts": 1793802643.8351064
+    },
+    {
+      "source_title": "Samarqandda umraga yuborishni va’da qilib, 5 ming dollar olgan shaxs ushlandi",
+      "headline": "Samarqandda umra sayohati firibgarligi – 5 000 $ olgan xodim ushladi 🚨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/4c7eb6d1e6245f14f5f4c7f7dafae6550da0fe92be24e9bfb4a8f960bc815489.webp",
+      "ts": 1793804580.415781
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793800848.7919822,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 17
+    "count": 18
   }
 }

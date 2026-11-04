@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793725251.951757,
+  "last_post_ts": 1793759450.6830773,
   "recent_posts": [
-    {
-      "source_title": "Eldor Shomurodov Turkiya Superligasi to‘purarlar ro‘yxatida 4-o‘ringa ko‘tarilib oldi (foto)",
-      "headline": "Eldor Shomurodov Turkiya Superligasida 4‑o'ringa ko'tarildi! ⚽️🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/4102b7de1c28da7300a22c95e0a3d892efa3788fbcb43354034298546586fc4d.webp",
-      "ts": 1793586638.829231
-    },
     {
       "source_title": "Kuvaytlik mutaxassislar Qoraqalpog‘istonda qariyb 200 ta bepul jarrohlik amaliyotini bajardi",
       "headline": "Kuvaytlik mutaxassislar Qoraqalpog'istonda 200 dan ortiq bepul jarrohlik amaliyotini bajardi 🏥🤝",
@@ -240,11 +234,17 @@
       "headline": "Ekstremistik materiallar elektron reyestri ochildi",
       "image": "",
       "ts": 1793723525.2162476
+    },
+    {
+      "source_title": "Қирғизистондаги зилзила кучи Фарғона водийсида сезилди",
+      "headline": "Qirg'izistondagi zilzila kuchi Farg'ona vodiyida sezildi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/r8otba0oloo436ByeKy17937436858893_210055_og.webp?r=1793747565",
+      "ts": 1793759448.679007
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793757654.327934,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-03",
-    "count": 20
+    "day": "2026-11-04",
+    "count": 1
   }
 }

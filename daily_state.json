@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793786455.897729,
+  "last_post_ts": 1793788248.9512866,
   "recent_posts": [
-    {
-      "source_title": "Йил бошидан буён хориждан 1,1 миллиондан ортиқ меҳнат мигранти қайтиб келди — президент",
-      "headline": "Yil boshidan 1,1 mln+ mehnat migrantlari qaytdi — Prezident",
-      "image": "https://www.gazeta.uz/media/img/2025/09/sAFxmn17573136305023_209919_og.webp?r=1793615314",
-      "ts": 1793615444.1380885
-    },
     {
       "source_title": "Ўзбекистон Россия, Германия ва бошқа мамлакатлардаги мигрантларнинг иш стажи тан олинишига эришмоқчи",
       "headline": "O'zbekiston migrantlarining ish stajini tan olish yo'lida! 🌍🛂",
@@ -240,11 +234,17 @@
       "headline": "O'rif Bozorov Buxoro viloyati hokimi o'rinbosari bo'ldi",
       "image": "https://www.gazeta.uz/media/img/2026/11/s05dos0imnqve1lHOir17937862446252_210119_og.webp?r=1793786333",
       "ts": 1793786453.894449
+    },
+    {
+      "source_title": "Toshkentdagi xonadonda 23 nafar chet ellikdan iborat jinoiy guruh fosh etildi",
+      "headline": "Toshkentda 23 nafar chet ellikdan iborat jinoiy guruh fosh etildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/92853264e2d7665a306eb26764dd7f38114be16c57798e53f2dabff22c394d8d.webp",
+      "ts": 1793788246.946632
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793784636.1530654,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 11
+    "count": 12
   }
 }

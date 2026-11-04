@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793799047.8161511,
+  "last_post_ts": 1793800848.7943838,
   "recent_posts": [
     {
       "source_title": "2026-yilning 9 oyida Özbekistonga amalga oşirilgan pul ötkazmalari 15 mlrd dollardan oşdi. Ösiş - 9 foiz",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793795441.9379468,
+    "last_ad_ts": 1793800848.7919822,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 50,
@@ -255,7 +255,7 @@
       "ad_job": 49,
       "ad_water": 48,
       "home": 8,
-      "home_dom": 7,
+      "home_dom": 8,
       "uchastka_sale": 3
     },
     "permanent_index": 2,
@@ -265,7 +265,8 @@
       "uchastka_sale": 1,
       "ad_water": 2,
       "ad_flour": 2,
-      "home": 1
+      "home": 1,
+      "home_dom": 1
     },
     "last_shown": {
       "ad_flour": 1793795441.937945,
@@ -274,7 +275,7 @@
       "ad_water": 1793790081.3151038,
       "gilam_eag": 1792764054.4116373,
       "home": 1793779245.108197,
-      "home_dom": 1793719842.166134,
+      "home_dom": 1793800848.7919803,
       "uchastka_sale": 1793763036.8346071
     },
     "morning_ad_date": "2026-11-04"

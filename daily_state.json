@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793809845.6418478,
+  "last_post_ts": 1793811647.7094352,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda akademik litseylar ta’lim sifati bo‘yicha sezilarli farq qilmoqda",
@@ -244,15 +244,15 @@
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793806237.8342097,
+    "last_ad_ts": 1793811647.7072797,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 50,
       "gilam_eag": 14,
-      "ad_job": 49,
+      "ad_job": 50,
       "ad_water": 48,
       "home": 9,
       "home_dom": 8,
@@ -261,7 +261,7 @@
     "permanent_index": 2,
     "day": "2026-11-04",
     "today": {
-      "ad_job": 2,
+      "ad_job": 3,
       "uchastka_sale": 1,
       "ad_water": 2,
       "ad_flour": 2,
@@ -270,7 +270,7 @@
     },
     "last_shown": {
       "ad_flour": 1793795441.937945,
-      "ad_job": 1793784636.1530628,
+      "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793790081.3151038,
       "gilam_eag": 1792764054.4116373,

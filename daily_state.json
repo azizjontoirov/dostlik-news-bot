@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793775651.3913517,
+  "last_post_ts": 1793777444.8721097,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonning har bir viloyatida yagona migratsiya markazi ochiladi",
-      "headline": "Har viloyatda yagona migratsiya markazi ochiladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/ab1a13886fae9a882e3a289d7a7da5809d02fff94b50181d6ccdbfab07565630.webp",
-      "ts": 1793604638.4159908
-    },
     {
       "source_title": "“Migratsiyada bizga raqam emas, sifat kerak!” — prezident",
       "headline": "Migratsiyada bizga raqam emas, sifat kerak!” 🇺🇿",
@@ -240,11 +234,17 @@
       "headline": "Samarqand—Buxoro pulli yo'li quriladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/86f8d895e866d2e980791ebb10db74a4ec07a636168ef904d8b0df4eed440476.webp",
       "ts": 1793775649.3871677
+    },
+    {
+      "source_title": "Buxoroga keladigan xorijlik sayyohlar sonini 7 millionga yetkazish rejalashtirilmoqda",
+      "headline": "Buxoroda turizmni 7 millionga yetkazish rejasi 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/a286c28f0b8d735f6a16fd283e0d446c233607f5cdfdbfd3a1db810528b97235.webp",
+      "ts": 1793777442.8678794
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793773840.3713787,
@@ -281,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 7
+    "count": 8
   }
 }

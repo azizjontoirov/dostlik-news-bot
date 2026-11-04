@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793773840.3738687,
+  "last_post_ts": 1793775651.3913517,
   "recent_posts": [
-    {
-      "source_title": "Farğonalik migrantlar uyiga oyiga örtaça 1 850 dollar yubormoqda",
-      "headline": "Farğonalik migrantlar oyiga 1 850 $ yuboradi 💸🌍",
-      "image": "https://storage.kun.uz/source/1/SjY9DoSoBVdZPJYtpgwVjj2wG9kB_AJg.jpg",
-      "ts": 1793602849.0090158
-    },
     {
       "source_title": "O‘zbekistonning har bir viloyatida yagona migratsiya markazi ochiladi",
       "headline": "Har viloyatda yagona migratsiya markazi ochiladi",
@@ -240,11 +234,17 @@
       "headline": "Samarqandda fojiali hujum: 32‑yoshli erkak vafot etdi",
       "image": "https://storage.kun.uz/source/1/llijknFaMbh9vhVO7LRzKwKkDwDT1VVY.jpg",
       "ts": 1793772060.3877525
+    },
+    {
+      "source_title": "Samarqand—Buxoro pulli yo‘li quriladi",
+      "headline": "Samarqand—Buxoro pulli yo'li quriladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/86f8d895e866d2e980791ebb10db74a4ec07a636168ef904d8b0df4eed440476.webp",
+      "ts": 1793775649.3871677
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793773840.3713787,
@@ -281,6 +281,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 6
+    "count": 7
   }
 }

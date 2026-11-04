@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793800848.7943838,
+  "last_post_ts": 1793802645.8455017,
   "recent_posts": [
-    {
-      "source_title": "2026-yilning 9 oyida Özbekistonga amalga oşirilgan pul ötkazmalari 15 mlrd dollardan oşdi. Ösiş - 9 foiz",
-      "headline": "2026‑yilning 9‑oyida pul o'tkazmalari 15 mlrd dollardan oshdi",
-      "image": "https://storage.kun.uz/source/1/-Ms2Q2E4wP0vgRRdDIuH7YxYDxPemJHG.jpg",
-      "ts": 1793629843.198578
-    },
     {
       "source_title": "Para shaxmat. Ahadxon Kimsanboyev Osiyo chempioni bo‘ldi",
       "headline": "Para shaxmatda Ahadxоn Kimsanboyev Osiyo chempioni bo'ldi! ♟️",
@@ -240,11 +234,17 @@
       "headline": "Ichki ishlar vaziri Toshkentda fuqarolarning shikoyatlarini tingladi",
       "image": "https://www.gazeta.uz/media/img/2026/11/4ekle4cpiduscLUsOtn17937368870544_210053_og.webp?r=1793798833",
       "ts": 1793799045.8118536
+    },
+    {
+      "source_title": "Namanganda ekologik talablarni buzgan sovun ishlab chiqarish korxonasi faoliyati to‘xtatildi",
+      "headline": "Namanganda ekologik talablarni buzgan sovun korxonasi to'xtatildi 🧼🚫",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/b16ef9f8b99da5d1891f5c626abfa683438cb091d30e3dc639f2db2b81602961.webp",
+      "ts": 1793802643.8351064
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793800848.7919822,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 16
+    "count": 17
   }
 }

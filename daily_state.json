@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793793663.8073106,
+  "last_post_ts": 1793795441.94076,
   "recent_posts": [
     {
       "source_title": "Shaxmat. BAAda U20 Jahon Rapid va Blitz chempionati bo‘lib o‘tadi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793790081.3151064,
+    "last_ad_ts": 1793795441.9379468,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 49,
+      "ad_flour": 50,
       "gilam_eag": 14,
       "ad_job": 49,
       "ad_water": 48,
@@ -264,11 +264,11 @@
       "ad_job": 2,
       "uchastka_sale": 1,
       "ad_water": 2,
-      "ad_flour": 1,
+      "ad_flour": 2,
       "home": 1
     },
     "last_shown": {
-      "ad_flour": 1793773840.371376,
+      "ad_flour": 1793795441.937945,
       "ad_job": 1793784636.1530628,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793790081.3151038,

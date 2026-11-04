@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793770246.7442257,
+  "last_post_ts": 1793772062.3952417,
   "recent_posts": [
-    {
-      "source_title": "Ta’lim va ilm-fan vazirligi oʻqishga qabul qilish va koʻchirishdagi firibgarlikdan ogohlantirdi",
-      "headline": "Ta'lim vazirligi ogohlantirdi: qabul‑ko'chirishda firibgarlik! ⚠️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/1f999b40eac74895fe81fdce4a703788d49f46f1e95862621ad772c74e839684.webp",
-      "ts": 1793599247.4523928
-    },
     {
       "source_title": "Farğonalik migrantlar uyiga oyiga örtaça 1 850 dollar yubormoqda",
       "headline": "Farğonalik migrantlar oyiga 1 850 $ yuboradi 💸🌍",
@@ -240,11 +234,17 @@
       "headline": "Instagramda shou‑biznes yangiliklari 🌟📸",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/ffd5b857684c53b113f1f900ed3a2b621bfe1a0cd7ba31def093c4ca58409480.webp",
       "ts": 1793770244.7393327
+    },
+    {
+      "source_title": "Payariqda tiriklayin kömilgani aytilayotgan erkak qariyb bir oy komada yotib, vafot etdi",
+      "headline": "Samarqandda fojiali hujum: 32‑yoshli erkak vafot etdi",
+      "image": "https://storage.kun.uz/source/1/llijknFaMbh9vhVO7LRzKwKkDwDT1VVY.jpg",
+      "ts": 1793772060.3877525
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793768445.0485535,
@@ -280,6 +280,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 5
+    "count": 6
   }
 }

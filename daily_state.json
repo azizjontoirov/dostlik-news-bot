@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793808058.4366467,
+  "last_post_ts": 1793809845.6418478,
   "recent_posts": [
-    {
-      "source_title": "Toshkent viloyatida oltita korxona oqova suvlarni tozalamasdan ochiq joyga tashlab kelgani aniqlandi",
-      "headline": "Toshkentda oqova suvlar tozalanmasdan tashlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/e1f6f696e83c49887397232ad71f4e6b5c49bab15f9e20d851dc6fb10280a4be.webp",
-      "ts": 1793637044.3938706
-    },
     {
       "source_title": "O‘zbekistonda akademik litseylar ta’lim sifati bo‘yicha sezilarli farq qilmoqda",
       "headline": "O'ZBEKISTONDA AKADEMIK LITSEYLAR TA'LIM SIFATI FARQLANIB TURIBDI",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda 5‑noyabr kechasi yog'ingarchilik – havo sifati yaxshilanadi",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/1632d1cf380acafddc3b1ff44a7f519d6daa8afb3e8a20bfb99687362082b3f4.webp",
       "ts": 1793808056.4150858
+    },
+    {
+      "source_title": "«Болалик кутмайди». Саида Мирзиёева Қаршидаги «авария ҳолатида»ги боғча, мактаб ва наркология диспансерига борди",
+      "headline": "Saida Mirziyoyeva Qashqadaryo viloyatida “avariya holatidagi” maktab va bo'g'chani tekshirdi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/3c5kl02qq1189jBy9wI17938044635861_210163_og.webp?r=1793809607",
+      "ts": 1793809843.6375327
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793806237.8342097,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 19
+    "count": 20
   }
 }

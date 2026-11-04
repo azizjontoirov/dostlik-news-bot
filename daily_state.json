@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793795441.94076,
+  "last_post_ts": 1793797256.7483106,
   "recent_posts": [
-    {
-      "source_title": "Shaxmat. BAAda U20 Jahon Rapid va Blitz chempionati bo‘lib o‘tadi",
-      "headline": "Shaxmatda yangi sahna: BAAda U20 Rapid‑Blitz chempionati 🇦🇪♟️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/c743a24dfdd49948411c1fd2f6284ff145683448af8b463fdd5e8df61277e052.webp",
-      "ts": 1793624458.5924242
-    },
     {
       "source_title": "Sentyabrda ham oltin sotilmadi: Oʻzbekiston zaxirasi toʻqqiz oyda 55 tonnaga “boyidi”",
       "headline": "Sentyabrda ham oltin sotilmadi – zaxira 55 tonna “boyidi” 🏅📈",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda narkolaboratoriyada giyohvand modda aralashtirilgan qandolat mahsulotlari aniqlandi",
       "image": "https://storage.kun.uz/source/1/l0Nj4VN91HV4kyvgrwQ1GXKeCbcrwaJC.png",
       "ts": 1793793661.8043563
+    },
+    {
+      "source_title": "Марказий банк Ўзбекистонда кредит ва омонат ставкалари яқин 3−4 йилда пасайишини кутмоқда",
+      "headline": "Markaziy bank kredit va omonat stavkalarini pasaytiradi 📉",
+      "image": "https://www.gazeta.uz/media/img/2026/11/d2ss6f9iippmaFu1PTd17937900164553_210143_og.webp?r=1793797236",
+      "ts": 1793797254.7440996
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793795441.9379468,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 14
+    "count": 15
   }
 }

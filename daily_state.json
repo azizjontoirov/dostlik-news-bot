@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793764854.8804705,
+  "last_post_ts": 1793766642.1595435,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi ko‘p qavatli uylarning ichki hovlisidan avtoturargohlar olib tashlanishi mumkin",
-      "headline": "Toshkentda “15 daqiqali qulay muhit” loyihasi: ichki hovlilardan avtoturargohlar olib tashlanadi 🚗➡️🏞️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/4c02a84db59e509d04d508a2a4658186ba8923477875f3b4c8a585442e7d59bf.webp",
-      "ts": 1793593838.887999
-    },
     {
       "source_title": "Özbekistonda tuğilişlar soni 26 mingtaga kamaydi",
       "headline": "O'zbekistonda tug'ilishlar soni 26 mingga kamaydi",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda L9 avtomobili 39 yoshli piyodani halok qildi 🚨",
       "image": "https://www.gazeta.uz/media/img/2025/10/KBtcV717598393462916_210061_og.webp?r=1793764281",
       "ts": 1793764852.876485
+    },
+    {
+      "source_title": "Toshkentda qandolat mahsulotlariga gashish qo‘shib tayyorlagan shaxs ushlandi",
+      "headline": "Toshkentda qandolat mahsulotlariga gashish qo'shib tayyorlagan shaxs ushlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/e736a9cbf36e412b4a92f2876aae012f2758eb913bad7911a885ebeebfa24781.webp",
+      "ts": 1793766640.1571486
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793763036.83461,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 3
+    "count": 4
   }
 }

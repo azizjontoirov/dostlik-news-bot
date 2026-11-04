@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793768445.0507038,
+  "last_post_ts": 1793770246.7442257,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonda tuğilişlar soni 26 mingtaga kamaydi",
-      "headline": "O'zbekistonda tug'ilishlar soni 26 mingga kamaydi",
-      "image": "https://storage.kun.uz/source/1/9rDOB9z7w1P3rJSvq-1wNFmzFqXi7Hy4.jpg",
-      "ts": 1793597442.9527764
-    },
     {
       "source_title": "Ta’lim va ilm-fan vazirligi oʻqishga qabul qilish va koʻchirishdagi firibgarlikdan ogohlantirdi",
       "headline": "Ta'lim vazirligi ogohlantirdi: qabul‑ko'chirishda firibgarlik! ⚠️",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda qandolat mahsulotlariga gashish qo'shib tayyorlagan shaxs ushlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/e736a9cbf36e412b4a92f2876aae012f2758eb913bad7911a885ebeebfa24781.webp",
       "ts": 1793766640.1571486
+    },
+    {
+      "source_title": "Instagram: Turmushga chiqayotgan Muborak Abdullayeva, ijodga qaytayotgan Sitora Farmonova, Milena Madmusayevaning xonadoniga sayohat",
+      "headline": "Instagramda shou‑biznes yangiliklari 🌟📸",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/ffd5b857684c53b113f1f900ed3a2b621bfe1a0cd7ba31def093c4ca58409480.webp",
+      "ts": 1793770244.7393327
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793768445.0485535,
@@ -280,6 +280,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 4
+    "count": 5
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793790081.3174515,
+  "last_post_ts": 1793791844.1558106,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон Россия, Германия ва бошқа мамлакатлардаги мигрантларнинг иш стажи тан олинишига эришмоқчи",
-      "headline": "O'zbekiston migrantlarining ish stajini tan olish yo'lida! 🌍🛂",
-      "image": "https://www.gazeta.uz/media/img/2026/11/j8q6jv5le90o0qUiski17936156079033_209934_og.webp?r=1793618779",
-      "ts": 1793619054.721673
-    },
     {
       "source_title": "Тошкентликларга парковка учун «қарздорлик» ҳақида сохта хабарлар юборилмоқда",
       "headline": "Toshkentliklarga parking “qarzdorlik” haqidagi soxta SMS xabarlari haqida ogohlantirish 🚨",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda 23 nafar chet ellikdan iborat jinoiy guruh fosh etildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/92853264e2d7665a306eb26764dd7f38114be16c57798e53f2dabff22c394d8d.webp",
       "ts": 1793788246.946632
+    },
+    {
+      "source_title": "Vazn tashlash uchun oshqozonni qisqartirish shartmi?",
+      "headline": "Vazn tashlash: Oshqozonni qisqartirish shartmi?",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/6fabbd7f94788e1b17e4f51b6a18d3e289b60092d4ebe02ead68b15cf75bd5fb.webp",
+      "ts": 1793791842.1515987
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793790081.3151064,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 12
+    "count": 13
   }
 }

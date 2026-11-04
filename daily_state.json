@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793791844.1558106,
+  "last_post_ts": 1793793663.8073106,
   "recent_posts": [
-    {
-      "source_title": "Тошкентликларга парковка учун «қарздорлик» ҳақида сохта хабарлар юборилмоқда",
-      "headline": "Toshkentliklarga parking “qarzdorlik” haqidagi soxta SMS xabarlari haqida ogohlantirish 🚨",
-      "image": "https://www.gazeta.uz/media/img/2026/11/k0qu2i8n8s6q1sGewuf17936199539921_209942_og.webp?r=1793620822",
-      "ts": 1793620858.465254
-    },
     {
       "source_title": "Shaxmat. BAAda U20 Jahon Rapid va Blitz chempionati bo‘lib o‘tadi",
       "headline": "Shaxmatda yangi sahna: BAAda U20 Rapid‑Blitz chempionati 🇦🇪♟️",
@@ -240,11 +234,17 @@
       "headline": "Vazn tashlash: Oshqozonni qisqartirish shartmi?",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/6fabbd7f94788e1b17e4f51b6a18d3e289b60092d4ebe02ead68b15cf75bd5fb.webp",
       "ts": 1793791842.1515987
+    },
+    {
+      "source_title": "Toşkentda narkolaboratoriyada giyohvand modda aralaştirilgan qandolat mahsulotlari işlab çiqarilgani aniqlandi",
+      "headline": "Toshkentda narkolaboratoriyada giyohvand modda aralashtirilgan qandolat mahsulotlari aniqlandi",
+      "image": "https://storage.kun.uz/source/1/l0Nj4VN91HV4kyvgrwQ1GXKeCbcrwaJC.png",
+      "ts": 1793793661.8043563
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793790081.3151064,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 13
+    "count": 14
   }
 }

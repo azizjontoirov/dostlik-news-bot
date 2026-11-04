@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793777444.8721097,
+  "last_post_ts": 1793779245.1101437,
   "recent_posts": [
     {
       "source_title": "“Migratsiyada bizga raqam emas, sifat kerak!” — prezident",
@@ -244,17 +244,17 @@
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793773840.3713787,
+    "last_ad_ts": 1793779245.1081984,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 49,
       "gilam_eag": 14,
       "ad_job": 48,
       "ad_water": 47,
-      "home": 7,
+      "home": 8,
       "home_dom": 7,
       "uchastka_sale": 3
     },
@@ -264,7 +264,8 @@
       "ad_job": 1,
       "uchastka_sale": 1,
       "ad_water": 1,
-      "ad_flour": 1
+      "ad_flour": 1,
+      "home": 1
     },
     "last_shown": {
       "ad_flour": 1793773840.371376,
@@ -272,7 +273,7 @@
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793768445.0485513,
       "gilam_eag": 1792764054.4116373,
-      "home": 1793714450.358501,
+      "home": 1793779245.108197,
       "home_dom": 1793719842.166134,
       "uchastka_sale": 1793763036.8346071
     },

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793763036.837182,
+  "last_post_ts": 1793764854.8804705,
   "recent_posts": [
-    {
-      "source_title": "eMaktab Uzum Bank ko‘magida maktab to‘lovlari servisini ishga tushirdi",
-      "headline": "eMaktab Uzum Bank hamkorligida onlayn to'lov servisi ishga tushdi 📚💳",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/64b77a600e7d7b6a108366366f24d0d93e939b1ed3e5fae68e6ad90b80af9147.webp",
-      "ts": 1793592050.5519626
-    },
     {
       "source_title": "Toshkentdagi ko‘p qavatli uylarning ichki hovlisidan avtoturargohlar olib tashlanishi mumkin",
       "headline": "Toshkentda “15 daqiqali qulay muhit” loyihasi: ichki hovlilardan avtoturargohlar olib tashlanadi 🚗➡️🏞️",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda ekstremistik materiallarning ochiq elektron reyestri yaratiladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/03/4cecc3059dc69068682b33ceed00468869138d068d802c22c2449c24d91b9694.webp",
       "ts": 1793761250.9226305
+    },
+    {
+      "source_title": "Тошкентда L9 уриб юборган 39 ёшли пиёда ҳалок бўлди",
+      "headline": "Toshkentda L9 avtomobili 39 yoshli piyodani halok qildi 🚨",
+      "image": "https://www.gazeta.uz/media/img/2025/10/KBtcV717598393462916_210061_og.webp?r=1793764281",
+      "ts": 1793764852.876485
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793763036.83461,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 2
+    "count": 3
   }
 }

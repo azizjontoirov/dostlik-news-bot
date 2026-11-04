@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793781049.6130219,
+  "last_post_ts": 1793782856.5179024,
   "recent_posts": [
-    {
-      "source_title": "Uç yillik taʼlim, 13 sertifikat va avtomobil: “Al-jabr ” xalqaro maktabining London universitetida öqiyotgan bitiruvçisi bilan suhbat",
-      "headline": "Uch yillik mehnat, 13 sertifikat va avtomobil! 🚗🎓",
-      "image": "https://storage.kun.uz/source/1/1kv0CVX2wv8gvdbi_wE_R2wFeMjpmS6V.png",
-      "ts": 1793610048.4540696
-    },
     {
       "source_title": "Noyabr oyining albatta ko‘rish kerak bo‘lgan 10 ta eng qiziqarli seriali (treyler)",
       "headline": "Noyabr oyining ko'rish kerak bo'lgan 10 ta eng qiziqarli seriali (treyler) 🎬✨",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva 43‑maktab va 1‑bog'cha sharoiti bilan tanishdi 📚🏫",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/05635f9df1a61806425fb0a54f3ed85bfea6dd0b1f12854e0fae9dec85ec31c7.webp",
       "ts": 1793781047.6082084
+    },
+    {
+      "source_title": "Saida Mirziyoyeva Qarşidagi avariya holatidagi boğçani közdan keçirdi",
+      "headline": "Saida Mirziyoyeva yangi bo'g'cha va maktab ta'mirini ko'rib chiqdi 🏫👀",
+      "image": "https://storage.kun.uz/source/1/IcPlnG0WV71kptc12brXg2Q9okgHmQ9X.jpg",
+      "ts": 1793782854.5138319
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793779245.1081984,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 9
+    "count": 10
   }
 }

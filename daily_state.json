@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793759450.6830773,
+  "last_post_ts": 1793761252.9261138,
   "recent_posts": [
-    {
-      "source_title": "Kuvaytlik mutaxassislar Qoraqalpog‘istonda qariyb 200 ta bepul jarrohlik amaliyotini bajardi",
-      "headline": "Kuvaytlik mutaxassislar Qoraqalpog'istonda 200 dan ortiq bepul jarrohlik amaliyotini bajardi 🏥🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/01/02a63a7f97709ec16cb315a9cae258f8effc6ad0a69729694b65a74a15aafeda.webp",
-      "ts": 1793588460.6638575
-    },
     {
       "source_title": "eMaktab Uzum Bank ko‘magida maktab to‘lovlari servisini ishga tushirdi",
       "headline": "eMaktab Uzum Bank hamkorligida onlayn to'lov servisi ishga tushdi 📚💳",
@@ -240,11 +234,17 @@
       "headline": "Qirg'izistondagi zilzila kuchi Farg'ona vodiyida sezildi",
       "image": "https://www.gazeta.uz/media/img/2026/11/r8otba0oloo436ByeKy17937436858893_210055_og.webp?r=1793747565",
       "ts": 1793759448.679007
+    },
+    {
+      "source_title": "O‘zbekistonda ekstremistik tashkilotlar va materiallarning ochiq elektron reyestri yuritiladi",
+      "headline": "O'zbekistonda ekstremistik materiallarning ochiq elektron reyestri yaratiladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/4cecc3059dc69068682b33ceed00468869138d068d802c22c2449c24d91b9694.webp",
+      "ts": 1793761250.9226305
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793757654.327934,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 1
+    "count": 2
   }
 }

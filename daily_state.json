@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793797256.7483106,
+  "last_post_ts": 1793799047.8161511,
   "recent_posts": [
-    {
-      "source_title": "Sentyabrda ham oltin sotilmadi: Oʻzbekiston zaxirasi toʻqqiz oyda 55 tonnaga “boyidi”",
-      "headline": "Sentyabrda ham oltin sotilmadi – zaxira 55 tonna “boyidi” 🏅📈",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/8563adbb61fba2bb9c076583c6fab3ce3d4b19fc7e35ea93f36a8729843134a0.webp",
-      "ts": 1793626247.071827
-    },
     {
       "source_title": "2026-yilning 9 oyida Özbekistonga amalga oşirilgan pul ötkazmalari 15 mlrd dollardan oşdi. Ösiş - 9 foiz",
       "headline": "2026‑yilning 9‑oyida pul o'tkazmalari 15 mlrd dollardan oshdi",
@@ -240,11 +234,17 @@
       "headline": "Markaziy bank kredit va omonat stavkalarini pasaytiradi 📉",
       "image": "https://www.gazeta.uz/media/img/2026/11/d2ss6f9iippmaFu1PTd17937900164553_210143_og.webp?r=1793797236",
       "ts": 1793797254.7440996
+    },
+    {
+      "source_title": "«Мурожаат қилмаган идорам қолмади, аммо натижа йўқ». ИИВ раҳбари қабулига келганлар нималардан шикоятчи?",
+      "headline": "Ichki ishlar vaziri Toshkentda fuqarolarning shikoyatlarini tingladi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/4ekle4cpiduscLUsOtn17937368870544_210053_og.webp?r=1793798833",
+      "ts": 1793799045.8118536
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793795441.9379468,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 15
+    "count": 16
   }
 }

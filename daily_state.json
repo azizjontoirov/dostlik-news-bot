@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793772062.3952417,
+  "last_post_ts": 1793773840.3738687,
   "recent_posts": [
     {
       "source_title": "Farğonalik migrantlar uyiga oyiga örtaça 1 850 dollar yubormoqda",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793768445.0485535,
+    "last_ad_ts": 1793773840.3713787,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 48,
+      "ad_flour": 49,
       "gilam_eag": 14,
       "ad_job": 48,
       "ad_water": 47,
@@ -263,10 +263,11 @@
     "today": {
       "ad_job": 1,
       "uchastka_sale": 1,
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793725251.949181,
+      "ad_flour": 1793773840.371376,
       "ad_job": 1793757654.3279314,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793768445.0485513,

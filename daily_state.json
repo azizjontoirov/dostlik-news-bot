@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793806237.836767,
+  "last_post_ts": 1793808058.4366467,
   "recent_posts": [
-    {
-      "source_title": "Elit OCHL. “Paxtakor” Ronaldusiz “An-Nassr”ga yirik hisobda mag‘lub bo‘ldi",
-      "headline": "Paxtakor “Elit OCHL”da yirik mag'lubiyat!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/b00973d86078ed59c83b5ab1fc916430dbba60dd5d19fb03dd676327120a2220.webp",
-      "ts": 1793635256.3611498
-    },
     {
       "source_title": "Toshkent viloyatida oltita korxona oqova suvlarni tozalamasdan ochiq joyga tashlab kelgani aniqlandi",
       "headline": "Toshkentda oqova suvlar tozalanmasdan tashlandi",
@@ -240,11 +234,17 @@
       "headline": "Samarqandda umra sayohati firibgarligi – 5 000 $ olgan xodim ushladi 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/4c7eb6d1e6245f14f5f4c7f7dafae6550da0fe92be24e9bfb4a8f960bc815489.webp",
       "ts": 1793804580.415781
+    },
+    {
+      "source_title": "Toshkentda 5-noyabrga o‘tar kechasi yog‘ingarchilik hisobiga havo sifati yaxshilanishi kutilmoqda",
+      "headline": "Toshkentda 5‑noyabr kechasi yog'ingarchilik – havo sifati yaxshilanadi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/1632d1cf380acafddc3b1ff44a7f519d6daa8afb3e8a20bfb99687362082b3f4.webp",
+      "ts": 1793808056.4150858
     }
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793806237.8342097,
@@ -283,6 +283,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-04",
-    "count": 18
+    "count": 19
   }
 }

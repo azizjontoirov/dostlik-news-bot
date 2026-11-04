@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793761252.9261138,
+  "last_post_ts": 1793763036.837182,
   "recent_posts": [
     {
       "source_title": "eMaktab Uzum Bank ko‘magida maktab to‘lovlari servisini ishga tushirdi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-04",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793757654.327934,
+    "last_ad_ts": 1793763036.83461,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 48,
@@ -256,12 +256,13 @@
       "ad_water": 46,
       "home": 7,
       "home_dom": 7,
-      "uchastka_sale": 2
+      "uchastka_sale": 3
     },
     "permanent_index": 2,
     "day": "2026-11-04",
     "today": {
-      "ad_job": 1
+      "ad_job": 1,
+      "uchastka_sale": 1
     },
     "last_shown": {
       "ad_flour": 1793725251.949181,
@@ -271,7 +272,7 @@
       "gilam_eag": 1792764054.4116373,
       "home": 1793714450.358501,
       "home_dom": 1793719842.166134,
-      "uchastka_sale": 1793590238.1566534
+      "uchastka_sale": 1793763036.8346071
     },
     "morning_ad_date": "2026-11-04"
   },

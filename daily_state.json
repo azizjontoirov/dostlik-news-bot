@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793872858.6916096,
+  "last_post_ts": 1793874646.8440619,
   "recent_posts": [
-    {
-      "source_title": "Президент Бухорода қиймати 136 млн доллардан ортиқ конгресс холл ва меҳмонхоналар қурилиши билан танишди",
-      "headline": "Prezident Bukhorodagi yangi kongress va mehmonxona loyihasini ko'rib chiqdi 🏗️",
-      "image": "https://www.gazeta.uz/media/img/2026/11/gh9tbd5tpc1ucPBS9hs17936995597133_210014_og.webp?r=1793700538",
-      "ts": 1793701844.2005646
-    },
     {
       "source_title": "Toshkentda Markaziy Osiyoda birinchi bo‘lgan xaridorlar yoshini sun’iy intellekt yordamida tekshirish tizimi namoyish etiladi",
       "headline": "Toshkentda AI‑yosh tekshiruvi namoyish etiladi",
@@ -240,11 +234,17 @@
       "headline": "AD Ports Group va HYT Capital O'zbekistonda yangi logistika sherikligini tashkil etdi",
       "image": "https://storage.kun.uz/source/1/U2HCxOJVxiuEDTLS5g8zQbfDxL2lujOl.jpg",
       "ts": 1793872856.688476
+    },
+    {
+      "source_title": "O‘zbekistonda bokiralikni tiklaganlik uchun jinoiy javobgarlik belgilanishi haqidagi xabarlar rad etildi",
+      "headline": "Bokiralikni tiklash bo'yicha jinoiy javobgarlik xabarlari rad etildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/9a3c1359831697f5b1770a355a6180f348260390eba538eb0ad44646955302a2.webp",
+      "ts": 1793874644.839473
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793871036.6000464,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 11
+    "count": 12
   }
 }

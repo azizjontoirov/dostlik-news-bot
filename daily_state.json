@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793887258.4624405,
+  "last_post_ts": 1793889050.4186325,
   "recent_posts": [
-    {
-      "source_title": "Buxoroda yangi turizm markazi va Marat Hamdamovning qamoqqa olinişi - mahalliy dayjest",
-      "headline": "Buxoroda yangi turizm markazi barpo etiladi, Marat Hamdamov qamoqqa olindi 🏗️🚔",
-      "image": "https://storage.kun.uz/source/1/-ICsetMoaO2U9FjuPFBQRHvtrDmdHT16.jpg",
-      "ts": 1793718077.4922516
-    },
     {
       "source_title": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi amalga oshiriladi",
       "headline": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi 🚀",
@@ -240,11 +234,17 @@
       "headline": "5 mln tonna paxta terildi, Toshkent ko'chalarida robotlar ishga tushadi 🚜🤖",
       "image": "https://storage.kun.uz/source/1/FH7L-gJ4An4ejI0xDWPKDI2bgG9u70wS.jpg",
       "ts": 1793887256.4573262
+    },
+    {
+      "source_title": "Markaziy bank 2026-yilgi inflyatsiya prognozini oshirdi",
+      "headline": "Markaziy bank inflyatsiya prognozini oshirdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/363c595e2b520e49913084980110af33a8791d461f43b1e3d89b7287727d6431.webp",
+      "ts": 1793889048.4135988
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 17
+    "count": 18
   }
 }

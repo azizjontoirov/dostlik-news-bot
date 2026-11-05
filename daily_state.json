@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793854848.262632,
+  "last_post_ts": 1793856641.3720775,
   "recent_posts": [
-    {
-      "source_title": "Mobiuz Samarkand Marathon 2026 bosh hamkoriga aylandi",
-      "headline": "Mobiuz Samarkand Marathon 2026 bosh hamkori bo'ldi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/f56a5eaf7efaa193b5cb27f5bb3030f1b878e226d33f020921740cf2ad29dc87.webp",
-      "ts": 1793683840.2901118
-    },
     {
       "source_title": "Farğonada departament tergovçisi 100 ming dollar pora olişda gumonlanmoqda",
       "headline": "Farğonada departament tergovchisi 100 mln dollar pora olishda gumonlanmoqda 💰🚨",
@@ -240,11 +234,17 @@
       "headline": "Shaharsozlikda ruxsatga noqonuniy aralashish – 132 mln so'mgacha jarima!",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/bfdd8b5db8a873c577925a496a0b8c9cf4d97b3ceb632dc1861f72d6504ea3d4.webp",
       "ts": 1793853038.214111
+    },
+    {
+      "source_title": "Тошкентда атроф-муҳитни ифлослантирган ва 51 туп дарахтни ноқонуний кесган қурилиш компанияси 5,5 млрд сўм тўлаши белгиланди",
+      "headline": "Toshkentda qurilish kompaniyasiga 5,5 mlrd so'm jarima! 🌳🚧",
+      "image": "https://www.gazeta.uz/media/img/2026/11/365unmn601mq3ivtlX817938561493058_210183_og.webp?r=1793856610",
+      "ts": 1793856639.3674788
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793854848.2599747,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 4
+    "count": 5
   }
 }

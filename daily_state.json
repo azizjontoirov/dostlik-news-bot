@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793894460.3066554,
+  "last_post_ts": 1793896244.8396027,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda ekstremistik tashkilotlar va materiallarning ochiq elektron reyestri yuritiladi",
-      "headline": "O'zbekistonda ekstremistik materiallarning ochiq elektron reyestri yaratiladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/03/4cecc3059dc69068682b33ceed00468869138d068d802c22c2449c24d91b9694.webp",
-      "ts": 1793761250.9226305
-    },
     {
       "source_title": "Тошкентда L9 уриб юборган 39 ёшли пиёда ҳалок бўлди",
       "headline": "Toshkentda L9 avtomobili 39 yoshli piyodani halok qildi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Buxoroda xonadon poydevori ostiga 2,9 kg marixuana yashirildi 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/cf882c0371a5766af029e24d76fb95b32b9fc2b0be7b2de35bb59e34abf07268.webp",
       "ts": 1793894458.3033087
+    },
+    {
+      "source_title": "«Ақаба жараёни»: у нима мақсадда ташкил этилган ва унда Ўзбекистон қандай иштирок этмоқда?",
+      "headline": "Aqaba jarayoni” – xavfsizlik hamkorligi yangi bosqichi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/mgqhsnfrvkuc9kumt5Q17938764840591_210230_og.webp?r=1793896236",
+      "ts": 1793896242.836475
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 21
+    "count": 22
   }
 }

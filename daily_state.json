@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793845848.065504,
+  "last_post_ts": 1793847658.415511,
   "recent_posts": [
-    {
-      "source_title": "Akademik litsey o‘quvchilari bino, infratuzilma va texnik jihozlar bo‘yicha muammolar borligini qayd etdi — so‘rovnoma",
-      "headline": "Akademik litseyda infratuzilma muammolari – so'rovnoma natijalari",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/913a7f9983eeca967cc33f34548d0ba621d6c57b35a83afe636b76ffbbfc7960.webp",
-      "ts": 1793674739.6970136
-    },
     {
       "source_title": "Tenge Travel: endi navbatdagi çiptangizni Tenge24 orqali xarid qilişingiz mumkin",
       "headline": "Tenge Travel: Tenge24 ilovasi orqali temiryo'l chiptalari endi qo'lda! 🎫📱",
@@ -240,11 +234,17 @@
       "headline": "Nasaf” 2 ta farqni yo'qqa chiqarib, “Al‑Kuvayt”ni mag'lub etdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/04/c39b7ffdaaa36c1ff7346fe636c972bf886d63f44cb76b1a86c627258b7751bc.webp",
       "ts": 1793845846.060726
+    },
+    {
+      "source_title": "Ўзбекистонда СИ ёрдамида криминоген вазият индекси жорий этилади",
+      "headline": "Yangi xavfsizlik tizimi: SI yordamida kriminal indeks joriy etiladi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/1npco1p0qiuh9MPfx8S17938011791624_210172_og.webp?r=1793815674",
+      "ts": 1793847656.2776039
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793844046.493478,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 1
+    "count": 2
   }
 }

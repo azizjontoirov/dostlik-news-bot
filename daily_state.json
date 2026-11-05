@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793856641.3720775,
+  "last_post_ts": 1793858455.9342582,
   "recent_posts": [
-    {
-      "source_title": "Farğonada departament tergovçisi 100 ming dollar pora olişda gumonlanmoqda",
-      "headline": "Farğonada departament tergovchisi 100 mln dollar pora olishda gumonlanmoqda 💰🚨",
-      "image": "https://storage.kun.uz/source/1/kZ2LGVBmIyDtao1k6_oHJINwd0mgPcsj.jpg",
-      "ts": 1793685653.018278
-    },
     {
       "source_title": "Apple, OpenAI ва TikTok каби хорижий компаниялар 9 ойда Ўзбекистонда 232 млрд сўмдан ортиқ солиқ тўлади",
       "headline": "Apple, OpenAI va TikTok kabi xorijiy kompaniyalar 9 oyda O'zbekistonda 232 mlrd so'mdan ortiq soliq to'ldi 🌐💰",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda qurilish kompaniyasiga 5,5 mlrd so'm jarima! 🌳🚧",
       "image": "https://www.gazeta.uz/media/img/2026/11/365unmn601mq3ivtlX817938561493058_210183_og.webp?r=1793856610",
       "ts": 1793856639.3674788
+    },
+    {
+      "source_title": "Jigar va grechkasiz ham ferritin miqdorini oshirishga yordam beradigan 5 ta shirinlik",
+      "headline": "Ferritinni oshiruvchi 5 ta shirinlik 🍫🍯",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/bd049d807975dcf4c1afaf3ae3730f26d3faa9b9604293c99ff84cad9a829fc9.webp",
+      "ts": 1793858453.9307234
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793854848.2599747,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 5
+    "count": 6
   }
 }

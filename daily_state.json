@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793871036.6027162,
+  "last_post_ts": 1793872858.6916096,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда тақиқланган диний экстремистик манбалар рўйхати янгиланди, уларнинг сони 2057 тага етди",
-      "headline": "O'zbekistonda diniy ekstremistik manbalar ro'yxati yangilandi 📋",
-      "image": "https://www.gazeta.uz/media/img/2021/04/gIe9Qd16188438806895_b.jpg",
-      "ts": 1793700050.7561471
-    },
     {
       "source_title": "Президент Бухорода қиймати 136 млн доллардан ортиқ конгресс холл ва меҳмонхоналар қурилиши билан танишди",
       "headline": "Prezident Bukhorodagi yangi kongress va mehmonxona loyihasini ko'rib chiqdi 🏗️",
@@ -240,11 +234,17 @@
       "headline": "Toshkent aeroportida qimmatbaho zargarlik buyumlari noqonuniy kirishga urinish aniqlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/19e1e14887dfca018b61b4662a8890af2a506bcdca81a2a87af14a57977ac8a4.webp",
       "ts": 1793869252.190241
+    },
+    {
+      "source_title": "AD Ports Group va HYT Capital Özbekistonni xalqaro savdo va logistika xabiga aylantiriş maqsadida qöşma korxona taşkil etdi",
+      "headline": "AD Ports Group va HYT Capital O'zbekistonda yangi logistika sherikligini tashkil etdi",
+      "image": "https://storage.kun.uz/source/1/U2HCxOJVxiuEDTLS5g8zQbfDxL2lujOl.jpg",
+      "ts": 1793872856.688476
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793871036.6000464,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 10
+    "count": 11
   }
 }

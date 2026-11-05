@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793880060.2024484,
+  "last_post_ts": 1793881845.1990287,
   "recent_posts": [
     {
       "source_title": "Oliy sud raisining birinçi örinbosari almaşdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793876444.7485313,
+    "last_ad_ts": 1793881845.1939924,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 53,
+      "ad_flour": 54,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 52,
@@ -262,10 +262,10 @@
     "day": "2026-11-05",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1793871036.6000445,
+      "ad_flour": 1793881845.19399,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793876444.7485297,

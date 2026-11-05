@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793858455.9342582,
+  "last_post_ts": 1793860236.6950328,
   "recent_posts": [
     {
       "source_title": "Apple, OpenAI ва TikTok каби хорижий компаниялар 9 ойда Ўзбекистонда 232 млрд сўмдан ортиқ солиқ тўлади",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793854848.2599747,
+    "last_ad_ts": 1793860236.692518,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 51,
+      "ad_flour": 52,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 50,
@@ -262,10 +262,10 @@
     "day": "2026-11-05",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1793849436.8144875,
+      "ad_flour": 1793860236.692516,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793854848.2599723,

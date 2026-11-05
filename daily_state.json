@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793885459.325548,
+  "last_post_ts": 1793887258.4624405,
   "recent_posts": [
-    {
-      "source_title": "Toshkent metrosining yangi bekatlarida poyezdlar kelish vaqtini ko‘rsatuvchi tablolar o‘rnatiladi",
-      "headline": "Toshkent metrosida yangi kelish vaqtini ko'rsatuvchi tablolar o'rnatiladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/03/f693b8107afb72ca67c6c70e0e2a829508f61e65e7dd438c89ee2d8ba0f9a130.webp",
-      "ts": 1793716243.5736775
-    },
     {
       "source_title": "Buxoroda yangi turizm markazi va Marat Hamdamovning qamoqqa olinişi - mahalliy dayjest",
       "headline": "Buxoroda yangi turizm markazi barpo etiladi, Marat Hamdamov qamoqqa olindi 🏗️🚔",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda qurilish korxonasiga 1 mlrd so'mdan ortiq kompensatsiya! 🌍",
       "image": "https://gocdn.daryo.uz/large/2026/11/02/0cecb855fdcb3f27997af9a87820eb28ac43a3fd57ec22459052ae7854a784ed.webp",
       "ts": 1793885457.319942
+    },
+    {
+      "source_title": "5 million tonna paxta va Toşkent köçalaridagi robotlar - mahalliy dayjest",
+      "headline": "5 mln tonna paxta terildi, Toshkent ko'chalarida robotlar ishga tushadi 🚜🤖",
+      "image": "https://storage.kun.uz/source/1/FH7L-gJ4An4ejI0xDWPKDI2bgG9u70wS.jpg",
+      "ts": 1793887256.4573262
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 16
+    "count": 17
   }
 }

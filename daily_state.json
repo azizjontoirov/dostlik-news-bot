@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793889050.4186325,
+  "last_post_ts": 1793890858.6195269,
   "recent_posts": [
-    {
-      "source_title": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi amalga oshiriladi",
-      "headline": "Buxoro neftni qayta ishlash zavodida 328 mln dollarlik modernizatsiya loyihasi 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/03/32c2084cf94414dea1fa2edde7db22175292c3eb2642d5a6847bab68f3544036.webp",
-      "ts": 1793721662.4860508
-    },
     {
       "source_title": "Ekstremistik taşkilotlar va materiallarning elektron reyestri yuritiladi",
       "headline": "Ekstremistik materiallar elektron reyestri ochildi",
@@ -240,11 +234,17 @@
       "headline": "Markaziy bank inflyatsiya prognozini oshirdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/363c595e2b520e49913084980110af33a8791d461f43b1e3d89b7287727d6431.webp",
       "ts": 1793889048.4135988
+    },
+    {
+      "source_title": "“Kelgusi uch yilda asosiy stavka 10 foizdan pasayishi mumkin” — Markaziy bank raisi oʻrinbosari",
+      "headline": "Kelgusi uch yilda asosiy stavka 10% dan pasayishi mumkin 📉",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/b087e1e0e0b2986992f95e02866e6f84a14912f3c37f08bdc544dbda3bc17e6e.webp",
+      "ts": 1793890856.6149025
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 18
+    "count": 19
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793878247.871804,
+  "last_post_ts": 1793880060.2024484,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда газлашмаган ҳудудлар учун электр энергияси истеъмолининг базавий меъёри 350 кВт/соатгача оширилди",
-      "headline": "Elektr energiyasi bazaviy me'yor oshirildi (350 kVt/soatgacha) ⚡️",
-      "image": "https://www.gazeta.uz/media/img/2024/04/2wNIY417134246130330_b.jpg",
-      "ts": 1793707249.5057619
-    },
     {
       "source_title": "Oliy sud raisining birinçi örinbosari almaşdi",
       "headline": "Oliy sud raisining birinchi örinbosari almashtirildi",
@@ -240,11 +234,17 @@
       "headline": "Samarqandda kiberjinoyatlar zararini oshirdi",
       "image": "https://storage.kun.uz/source/1/8pjMKv1qsUUybjoTLJqqOj_f1ElwCIrY.jpg",
       "ts": 1793878245.8672113
+    },
+    {
+      "source_title": "Ўзбекистонда 2030 йилгача уран қазиб олиш 15 минг тоннага етказиш режалаштирилмоқда",
+      "headline": "2030 yilga qadar uran qazib olish hajmi 15 ming tonnaga yetkaziladi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/2cpm939kcijd3kA7f2f17938786889635_210236_og.webp?r=1793879304",
+      "ts": 1793880058.199259
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793876444.7485313,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 13
+    "count": 14
   }
 }

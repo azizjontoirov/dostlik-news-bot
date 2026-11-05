@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793865652.8805652,
+  "last_post_ts": 1793867470.616537,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda ortiqcha to‘langan QQSni importda hisobga olish tartibi belgilandi",
-      "headline": "O'zbekiston QQS ortiqchasini importda hisobga olish tartibi belgilandi 📊",
-      "image": "https://gocdn.daryo.uz/large/2026/11/03/cb6c6825f0bbed3f4cb519d28b7497ed4ab576395d2abb850bb03254a0d1af80.webp",
-      "ts": 1793694645.3326912
-    },
     {
       "source_title": "Тошкентнинг Миробод кўчасида сайр ва овқатланиш шохобчалари учун шароитлар яратилади (эскизлар ва фото)",
       "headline": "Toshkent Mirobod ko'chasida yangi sharoitlar yaratiladi 🏙️",
@@ -240,11 +234,17 @@
       "headline": "6‑noyabr kuni O'zbekistonda havo harorati ko'tariladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/32da31aa80e2767bc431945c35aa4048a75dff7bbe54d91024b30d96fc3b5669.webp",
       "ts": 1793863845.1556113
+    },
+    {
+      "source_title": "Президент Бухоро вилоятида пахта етиштиришни уч йилда 1 млн тоннага етказмоқчи",
+      "headline": "Prezident Buxoro viloyatida paxta yetishtirishni 3 yilda 1 mln tonna etkazadi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/98kqovl1fblbaAcAGaO17938617113639_210208_og.webp?r=1793867287",
+      "ts": 1793867468.6114888
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793865652.8744168,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 8
+    "count": 9
   }
 }

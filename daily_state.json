@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793847658.415511,
+  "last_post_ts": 1793849436.82809,
   "recent_posts": [
     {
       "source_title": "Tenge Travel: endi navbatdagi çiptangizni Tenge24 orqali xarid qilişingiz mumkin",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793844046.493478,
+    "last_ad_ts": 1793849436.8144898,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 50,
+      "ad_flour": 51,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 49,
@@ -261,10 +261,11 @@
     "permanent_index": 2,
     "day": "2026-11-05",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793795441.937945,
+      "ad_flour": 1793849436.8144875,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793844046.4934757,

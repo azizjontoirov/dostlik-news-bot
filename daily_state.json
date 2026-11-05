@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793860236.6950328,
+  "last_post_ts": 1793862055.533441,
   "recent_posts": [
-    {
-      "source_title": "Apple, OpenAI ва TikTok каби хорижий компаниялар 9 ойда Ўзбекистонда 232 млрд сўмдан ортиқ солиқ тўлади",
-      "headline": "Apple, OpenAI va TikTok kabi xorijiy kompaniyalar 9 oyda O'zbekistonda 232 mlrd so'mdan ortiq soliq to'ldi 🌐💰",
-      "image": "https://www.gazeta.uz/media/img/2024/07/OIaRX817211045211618_b.jpg",
-      "ts": 1793689251.2391033
-    },
     {
       "source_title": "Farğonada bir haftada ikki oilaning 12 aʼzosi is gazidan vafot etdi",
       "headline": "Farğonada gaz falokatlari – 12 nafar hayot yo'qoldi",
@@ -240,11 +234,17 @@
       "headline": "Ferritinni oshiruvchi 5 ta shirinlik 🍫🍯",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/bd049d807975dcf4c1afaf3ae3730f26d3faa9b9604293c99ff84cad9a829fc9.webp",
       "ts": 1793858453.9307234
+    },
+    {
+      "source_title": "O‘zbekiston milliy jamoasining noyabr oyidagi o‘yinlari boshlanish vaqti ma’lum bo‘ldi",
+      "headline": "O'zbekiston milliy jamoasining noyabr o'yinlari vaqti ma'lum bo'ldi",
+      "image": "https://gocdn.daryo.uz/large/2026/10/26/e53ebc29f2fe6eca9f44acb731fd9a80367eb26d1b6cf51c5ac48328d496e02e.webp",
+      "ts": 1793862053.5290532
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793860236.692518,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 6
+    "count": 7
   }
 }

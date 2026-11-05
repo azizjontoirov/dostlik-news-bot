@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793883659.3072464,
+  "last_post_ts": 1793885459.325548,
   "recent_posts": [
-    {
-      "source_title": "Президент Бухорода 55 та лойиҳани ишга туширди ва 90 та лойиҳа қурилишига старт берди",
-      "headline": "Prezident Bukhoroda 55 ta loyiha ishga tushirildi, 90 ta qurilishga start berdi 🚀",
-      "image": "https://www.gazeta.uz/media/img/2026/11/ssfte3lqv350cUemPos17937079051932_210038_og.webp?r=1793710331",
-      "ts": 1793712650.0050337
-    },
     {
       "source_title": "Toshkent metrosining yangi bekatlarida poyezdlar kelish vaqtini ko‘rsatuvchi tablolar o‘rnatiladi",
       "headline": "Toshkent metrosida yangi kelish vaqtini ko'rsatuvchi tablolar o'rnatiladi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda dollar kursi yana ko'tarildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/3bd624bc4a666912c1419848fd8d9667f2854c4ec250d8cedd70908393338ea6.webp",
       "ts": 1793883657.3039398
+    },
+    {
+      "source_title": "Toshkentda havoni ifloslantirgan qurilish korxonasiga 1 mlrd so‘mdan ko‘proq kompensatsiya hisoblandi",
+      "headline": "Toshkentda qurilish korxonasiga 1 mlrd so'mdan ortiq kompensatsiya! 🌍",
+      "image": "https://gocdn.daryo.uz/large/2026/11/02/0cecb855fdcb3f27997af9a87820eb28ac43a3fd57ec22459052ae7854a784ed.webp",
+      "ts": 1793885457.319942
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 15
+    "count": 16
   }
 }

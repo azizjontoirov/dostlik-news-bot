@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793811647.7094352,
+  "last_post_ts": 1793845848.065504,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda akademik litseylar ta’lim sifati bo‘yicha sezilarli farq qilmoqda",
-      "headline": "O'ZBEKISTONDA AKADEMIK LITSEYLAR TA'LIM SIFATI FARQLANIB TURIBDI",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/06a59bd6758f3dd57def7d5e4aa6f4fac54e79fb474eb964f726abd87bc4b05c.webp",
-      "ts": 1793673047.7812722
-    },
     {
       "source_title": "Akademik litsey o‘quvchilari bino, infratuzilma va texnik jihozlar bo‘yicha muammolar borligini qayd etdi — so‘rovnoma",
       "headline": "Akademik litseyda infratuzilma muammolari – so'rovnoma natijalari",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva Qashqadaryo viloyatida “avariya holatidagi” maktab va bo'g'chani tekshirdi",
       "image": "https://www.gazeta.uz/media/img/2026/11/3c5kl02qq1189jBy9wI17938044635861_210163_og.webp?r=1793809607",
       "ts": 1793809843.6375327
+    },
+    {
+      "source_title": "OCHL 2. “Nasaf” ikki to‘p farqini yo‘qqa chiqarib, “Al-Kuvayt”ni mag‘lub etdi",
+      "headline": "Nasaf” 2 ta farqni yo'qqa chiqarib, “Al‑Kuvayt”ni mag'lub etdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/04/c39b7ffdaaa36c1ff7346fe636c972bf886d63f44cb76b1a86c627258b7751bc.webp",
+      "ts": 1793845846.060726
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793844046.493478,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-04",
-    "count": 20
+    "day": "2026-11-05",
+    "count": 1
   }
 }

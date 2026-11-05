@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793867470.616537,
+  "last_post_ts": 1793869254.1947398,
   "recent_posts": [
-    {
-      "source_title": "Тошкентнинг Миробод кўчасида сайр ва овқатланиш шохобчалари учун шароитлар яратилади (эскизлар ва фото)",
-      "headline": "Toshkent Mirobod ko'chasida yangi sharoitlar yaratiladi 🏙️",
-      "image": "https://www.gazeta.uz/media/img/2026/11/64unbgb3mvp16QCqTew17936934032808_209999_og.webp?r=1793696141",
-      "ts": 1793696453.4719837
-    },
     {
       "source_title": "Ўзбекистонда тақиқланган диний экстремистик манбалар рўйхати янгиланди, уларнинг сони 2057 тага етди",
       "headline": "O'zbekistonda diniy ekstremistik manbalar ro'yxati yangilandi 📋",
@@ -240,11 +234,17 @@
       "headline": "Prezident Buxoro viloyatida paxta yetishtirishni 3 yilda 1 mln tonna etkazadi",
       "image": "https://www.gazeta.uz/media/img/2026/11/98kqovl1fblbaAcAGaO17938617113639_210208_og.webp?r=1793867287",
       "ts": 1793867468.6114888
+    },
+    {
+      "source_title": "Toshkent aeroportida 1 mlrd so‘mdan ortiq qiymatdagi zargarlik buyumlarini noqonuniy olib kirishga urinishlar aniqlandi",
+      "headline": "Toshkent aeroportida qimmatbaho zargarlik buyumlari noqonuniy kirishga urinish aniqlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/19e1e14887dfca018b61b4662a8890af2a506bcdca81a2a87af14a57977ac8a4.webp",
+      "ts": 1793869252.190241
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793865652.8744168,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 9
+    "count": 10
   }
 }

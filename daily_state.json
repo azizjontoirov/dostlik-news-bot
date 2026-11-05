@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793851271.672501,
+  "last_post_ts": 1793853040.2165315,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda eskirgan shinalarni yo‘l qurilishiga ishlatish rejalashtirilmoqda",
-      "headline": "Eskirgan shinalar yo'l bitumiga! 🌍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/03/c866122a25ad02850a86973af8e077d8736c2658abe9cda5826ee7daaaef6757.webp",
-      "ts": 1793680239.0355294
-    },
     {
       "source_title": "Mobiuz Samarkand Marathon 2026 bosh hamkoriga aylandi",
       "headline": "Mobiuz Samarkand Marathon 2026 bosh hamkori bo'ldi",
@@ -240,11 +234,17 @@
       "headline": "Surxondaryoda maktab o'qituvchisiga 5 kunlik ma'muriy qamoq 🏫⏳",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/b77026923e4204efa4fb894b4f399bfb99b4368b16116b6c80b9e5626f8b27bc.webp",
       "ts": 1793851269.6678498
+    },
+    {
+      "source_title": "Shaharsozlik faoliyatida ruxsat berish tartibiga noqonuniy aralashganlar 132 mln so‘mgacha jarimaga tortilishi mumkin",
+      "headline": "Shaharsozlikda ruxsatga noqonuniy aralashish – 132 mln so'mgacha jarima!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/bfdd8b5db8a873c577925a496a0b8c9cf4d97b3ceb632dc1861f72d6504ea3d4.webp",
+      "ts": 1793853038.214111
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793849436.8144898,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 3
+    "count": 4
   }
 }

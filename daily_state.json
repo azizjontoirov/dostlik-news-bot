@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793896244.8396027,
+  "last_post_ts": 1793898064.2767627,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда L9 уриб юборган 39 ёшли пиёда ҳалок бўлди",
-      "headline": "Toshkentda L9 avtomobili 39 yoshli piyodani halok qildi 🚨",
-      "image": "https://www.gazeta.uz/media/img/2025/10/KBtcV717598393462916_210061_og.webp?r=1793764281",
-      "ts": 1793764852.876485
-    },
     {
       "source_title": "Toshkentda qandolat mahsulotlariga gashish qo‘shib tayyorlagan shaxs ushlandi",
       "headline": "Toshkentda qandolat mahsulotlariga gashish qo'shib tayyorlagan shaxs ushlandi",
@@ -240,11 +234,17 @@
       "headline": "Aqaba jarayoni” – xavfsizlik hamkorligi yangi bosqichi",
       "image": "https://www.gazeta.uz/media/img/2026/11/mgqhsnfrvkuc9kumt5Q17938764840591_210230_og.webp?r=1793896236",
       "ts": 1793896242.836475
+    },
+    {
+      "source_title": "Toshkentda buyurtma asosida odam o‘g‘irlashda gumonlangan ikki shaxs qo‘lga olindi",
+      "headline": "Toshkentda odam o'g'irlashda gumonlangan ikki shaxs qo'lga olindi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/081f6105d3ad3952377a98f69b22131b5e713c99d1a043abe86f018d53055b45.webp",
+      "ts": 1793898062.2721384
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 22
+    "count": 23
   }
 }

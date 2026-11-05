@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793876444.7520857,
+  "last_post_ts": 1793878247.871804,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda Markaziy Osiyoda birinchi bo‘lgan xaridorlar yoshini sun’iy intellekt yordamida tekshirish tizimi namoyish etiladi",
-      "headline": "Toshkentda AI‑yosh tekshiruvi namoyish etiladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/03/5483f3362d8572a4ddcdfa6e9a0a2660459bc7e0a690d0906d1148dcccd1d9e9.webp",
-      "ts": 1793705446.6594977
-    },
     {
       "source_title": "Ўзбекистонда газлашмаган ҳудудлар учун электр энергияси истеъмолининг базавий меъёри 350 кВт/соатгача оширилди",
       "headline": "Elektr energiyasi bazaviy me'yor oshirildi (350 kVt/soatgacha) ⚡️",
@@ -240,11 +234,17 @@
       "headline": "Bokiralikni tiklash bo'yicha jinoiy javobgarlik xabarlari rad etildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/9a3c1359831697f5b1770a355a6180f348260390eba538eb0ad44646955302a2.webp",
       "ts": 1793874644.839473
+    },
+    {
+      "source_title": "Samarqandda kiberjinoyatlar oqibatida odamlar 50 mlrd sömga yaqin zarar kördi",
+      "headline": "Samarqandda kiberjinoyatlar zararini oshirdi",
+      "image": "https://storage.kun.uz/source/1/8pjMKv1qsUUybjoTLJqqOj_f1ElwCIrY.jpg",
+      "ts": 1793878245.8672113
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793876444.7485313,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 12
+    "count": 13
   }
 }

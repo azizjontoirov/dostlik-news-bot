@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793890858.6195269,
+  "last_post_ts": 1793892653.9233265,
   "recent_posts": [
-    {
-      "source_title": "Ekstremistik taşkilotlar va materiallarning elektron reyestri yuritiladi",
-      "headline": "Ekstremistik materiallar elektron reyestri ochildi",
-      "image": "",
-      "ts": 1793723525.2162476
-    },
     {
       "source_title": "Қирғизистондаги зилзила кучи Фарғона водийсида сезилди",
       "headline": "Qirg'izistondagi zilzila kuchi Farg'ona vodiyida sezildi",
@@ -240,11 +234,17 @@
       "headline": "Kelgusi uch yilda asosiy stavka 10% dan pasayishi mumkin 📉",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/b087e1e0e0b2986992f95e02866e6f84a14912f3c37f08bdc544dbda3bc17e6e.webp",
       "ts": 1793890856.6149025
+    },
+    {
+      "source_title": "Тошкентда ер қазиш ишларига рухсат олишнинг онлайн тизими ишга туширилди",
+      "headline": "Toshkentda yer qazish ishlari uchun onlayn ruxsat tizimi ishga tushdi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/g715787mtmlj4aobgkm17938843162809_210252_og.webp?r=1793891961",
+      "ts": 1793892651.9189153
     }
   ],
   "morning_sent_date": "2026-11-05",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793881845.1939924,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-05",
-    "count": 19
+    "count": 20
   }
 }

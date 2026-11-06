@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793970053.4912298,
+  "last_post_ts": 1793971846.97519,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda 5-noyabrga o‘tar kechasi yog‘ingarchilik hisobiga havo sifati yaxshilanishi kutilmoqda",
-      "headline": "Toshkentda 5‑noyabr kechasi yog'ingarchilik – havo sifati yaxshilanadi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/1632d1cf380acafddc3b1ff44a7f519d6daa8afb3e8a20bfb99687362082b3f4.webp",
-      "ts": 1793808056.4150858
-    },
     {
       "source_title": "«Болалик кутмайди». Саида Мирзиёева Қаршидаги «авария ҳолатида»ги боғча, мактаб ва наркология диспансерига борди",
       "headline": "Saida Mirziyoyeva Qashqadaryo viloyatida “avariya holatidagi” maktab va bo'g'chani tekshirdi",
@@ -240,11 +234,17 @@
       "headline": "Yo'l haqi to'lovida yangi imkoniyat!",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/22692ebdf47e9a8f0c59ad9955db6f01161fee6fde77bd5e2a516952251d8b56.webp",
       "ts": 1793970051.4867954
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev Qozoğistonda Iordaniya podşohi Abdulla II bilan uçraşdi",
+      "headline": "Prezident Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi 🌍",
+      "image": "https://storage.kun.uz/source/1/PdqbQ6OpkN6XzOo433oqm43jHgPtEfAw.jpg",
+      "ts": 1793971844.9716985
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 15
+    "count": 16
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793944857.7777784,
+  "last_post_ts": 1793946635.7670174,
   "recent_posts": [
     {
       "source_title": "Saida Mirziyoyeva Qarşidagi avariya holatidagi boğçani közdan keçirdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793941247.1249416,
+    "last_ad_ts": 1793946635.7614644,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 55,
+      "ad_flour": 56,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 54,
@@ -262,10 +262,10 @@
     "day": "2026-11-06",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1793935837.361657,
+      "ad_flour": 1793946635.761462,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793941247.1249394,

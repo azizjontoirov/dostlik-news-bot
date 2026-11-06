@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1793934062.6143181,
+  "last_post_ts": 1793935837.3640766,
   "recent_posts": [
     {
       "source_title": "Payariqda tiriklayin kömilgani aytilayotgan erkak qariyb bir oy komada yotib, vafot etdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1793930443.908475,
+    "last_ad_ts": 1793935837.3616588,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 54,
+      "ad_flour": 55,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 53,
@@ -261,10 +261,11 @@
     "permanent_index": 2,
     "day": "2026-11-06",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793881845.19399,
+      "ad_flour": 1793935837.361657,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1793930443.9084728,

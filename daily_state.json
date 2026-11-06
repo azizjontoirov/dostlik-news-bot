@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793898064.2767627,
+  "last_post_ts": 1793932248.5563526,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda qandolat mahsulotlariga gashish qo‘shib tayyorlagan shaxs ushlandi",
-      "headline": "Toshkentda qandolat mahsulotlariga gashish qo'shib tayyorlagan shaxs ushlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/e736a9cbf36e412b4a92f2876aae012f2758eb913bad7911a885ebeebfa24781.webp",
-      "ts": 1793766640.1571486
-    },
     {
       "source_title": "Instagram: Turmushga chiqayotgan Muborak Abdullayeva, ijodga qaytayotgan Sitora Farmonova, Milena Madmusayevaning xonadoniga sayohat",
       "headline": "Instagramda shou‑biznes yangiliklari 🌟📸",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda odam o'g'irlashda gumonlangan ikki shaxs qo'lga olindi",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/081f6105d3ad3952377a98f69b22131b5e713c99d1a043abe86f018d53055b45.webp",
       "ts": 1793898062.2721384
+    },
+    {
+      "source_title": "Яккасаройда 23 нафар хорижлик яшаб келган ноқонуний колл марказ аниқланди",
+      "headline": "Yakkasaroyda noqulay kol‑markaz aniqlandi 🚨",
+      "image": "https://www.gazeta.uz/media/img/2026/11/6uv43e4om2ao7zX8Kvr17939107570602_210267_og.webp?r=1793910996",
+      "ts": 1793932246.5520136
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793930443.908475,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-05",
-    "count": 23
+    "day": "2026-11-06",
+    "count": 1
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793982647.4774828,
+  "last_post_ts": 1793984456.012657,
   "recent_posts": [
-    {
-      "source_title": "Jigar va grechkasiz ham ferritin miqdorini oshirishga yordam beradigan 5 ta shirinlik",
-      "headline": "Ferritinni oshiruvchi 5 ta shirinlik 🍫🍯",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/bd049d807975dcf4c1afaf3ae3730f26d3faa9b9604293c99ff84cad9a829fc9.webp",
-      "ts": 1793858453.9307234
-    },
     {
       "source_title": "O‘zbekiston milliy jamoasining noyabr oyidagi o‘yinlari boshlanish vaqti ma’lum bo‘ldi",
       "headline": "O'zbekiston milliy jamoasining noyabr o'yinlari vaqti ma'lum bo'ldi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda ishsizlikka qarshi yangi strategiya 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/153e3dc15faaa723e7344ee0d9cc9177f2eccf90e199028e4256700e98b37e44.webp",
       "ts": 1793982645.473499
+    },
+    {
+      "source_title": "Тошкентда 9 ноябрдан иситиш мавсуми бошланади",
+      "headline": "Toshkentda issiqlik mavsumi 9‑noyabrdan boshlanadi",
+      "image": "https://www.gazeta.uz/media/img/2023/02/SKHXtW16757713053020_b.jpg",
+      "ts": 1793984454.008038
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 22
+    "count": 23
   }
 }

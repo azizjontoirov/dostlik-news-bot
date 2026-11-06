@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793935837.3640766,
+  "last_post_ts": 1793937654.8522985,
   "recent_posts": [
-    {
-      "source_title": "Payariqda tiriklayin kömilgani aytilayotgan erkak qariyb bir oy komada yotib, vafot etdi",
-      "headline": "Samarqandda fojiali hujum: 32‑yoshli erkak vafot etdi",
-      "image": "https://storage.kun.uz/source/1/llijknFaMbh9vhVO7LRzKwKkDwDT1VVY.jpg",
-      "ts": 1793772060.3877525
-    },
     {
       "source_title": "Samarqand—Buxoro pulli yo‘li quriladi",
       "headline": "Samarqand—Buxoro pulli yo'li quriladi",
@@ -240,11 +234,17 @@
       "headline": "Davlat tibbiyot muassasalarida autsorsing xizmatlari yangi tartibda!",
       "image": "https://gocdn.daryo.uz/large/2026/11/05/958aeb421cfc7dc9f77e9da451f88fe067a04f79ae033dfe86dfbfa9bcd03751.webp",
       "ts": 1793934060.6101923
+    },
+    {
+      "source_title": "Davlat şifoxonalaridagi xizmatlar xususiy sektorga autsorsingga berilişi mumkin",
+      "headline": "Davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
+      "image": "https://storage.kun.uz/source/1/Wt-6yDIROEzkAQV5X36mcXg7pjfjRrla.webp",
+      "ts": 1793937652.8479385
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793935837.3616588,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 2
+    "count": 3
   }
 }

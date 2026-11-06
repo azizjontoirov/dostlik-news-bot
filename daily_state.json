@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793952047.1492195,
+  "last_post_ts": 1793953846.9829264,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi xonadonda 23 nafar chet ellikdan iborat jinoiy guruh fosh etildi",
-      "headline": "Toshkentda 23 nafar chet ellikdan iborat jinoiy guruh fosh etildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/92853264e2d7665a306eb26764dd7f38114be16c57798e53f2dabff22c394d8d.webp",
-      "ts": 1793788246.946632
-    },
     {
       "source_title": "Vazn tashlash uchun oshqozonni qisqartirish shartmi?",
       "headline": "Vazn tashlash: Oshqozonni qisqartirish shartmi?",
@@ -240,11 +234,17 @@
       "headline": "Qorako'lda MTO gaz-kimyo majmuasi qayta ko'rib chiqilmoqda",
       "image": "https://www.gazeta.uz/media/img/2026/11/pich74afbms32bB5kRd17939435813371_210288_og.webp?r=1793949572",
       "ts": 1793950243.1761155
+    },
+    {
+      "source_title": "Ўзбекистондан Қирғизистонга ўтган Кара-Жантак қишлоғи аҳолисига уй-жой ҳужжатлари берилди",
+      "headline": "Karajantak qishlog'ida uy-joy hujjatlari topshirildi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/8fhehe04u5q55DYDqAR17939524998913_210297_og.webp?r=1793953475",
+      "ts": 1793953844.9792454
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793952047.1465015,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 8
+    "count": 9
   }
 }

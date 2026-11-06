@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793937654.8522985,
+  "last_post_ts": 1793939444.325879,
   "recent_posts": [
-    {
-      "source_title": "Samarqand—Buxoro pulli yo‘li quriladi",
-      "headline": "Samarqand—Buxoro pulli yo'li quriladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/86f8d895e866d2e980791ebb10db74a4ec07a636168ef904d8b0df4eed440476.webp",
-      "ts": 1793775649.3871677
-    },
     {
       "source_title": "Buxoroga keladigan xorijlik sayyohlar sonini 7 millionga yetkazish rejalashtirilmoqda",
       "headline": "Buxoroda turizmni 7 millionga yetkazish rejasi 🚀",
@@ -240,11 +234,17 @@
       "headline": "Davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
       "image": "https://storage.kun.uz/source/1/Wt-6yDIROEzkAQV5X36mcXg7pjfjRrla.webp",
       "ts": 1793937652.8479385
+    },
+    {
+      "source_title": "IIV gazni kam yetkazib berişga qarşi nazoratni kuçaytiradi",
+      "headline": "IIV gazni kam yetkazib berishga qarshi nazoratni kuchaytiradi 🚨",
+      "image": "https://storage.kun.uz/source/1/Qerq8PcDbBV3XH5sOWqe5Va00UeHhWU_.webp",
+      "ts": 1793939442.3211753
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793935837.3616588,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 3
+    "count": 4
   }
 }

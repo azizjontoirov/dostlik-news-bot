@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793941247.1274529,
+  "last_post_ts": 1793943045.9891984,
   "recent_posts": [
-    {
-      "source_title": "Buxoroga keladigan xorijlik sayyohlar sonini 7 millionga yetkazish rejalashtirilmoqda",
-      "headline": "Buxoroda turizmni 7 millionga yetkazish rejasi 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/a286c28f0b8d735f6a16fd283e0d446c233607f5cdfdbfd3a1db810528b97235.webp",
-      "ts": 1793777442.8678794
-    },
     {
       "source_title": "Saida Mirziyoyeva Qarshidagi 43-maktab va 1-bog‘cha sharoiti bilan tanishdi",
       "headline": "Saida Mirziyoyeva 43‑maktab va 1‑bog'cha sharoiti bilan tanishdi 📚🏫",
@@ -240,11 +234,17 @@
       "headline": "IIV gazni kam yetkazib berishga qarshi nazoratni kuchaytiradi 🚨",
       "image": "https://storage.kun.uz/source/1/Qerq8PcDbBV3XH5sOWqe5Va00UeHhWU_.webp",
       "ts": 1793939442.3211753
+    },
+    {
+      "source_title": "BYD Beni Motors Oʻzbekistonda 80 minginchi avtomobilni topshirdi",
+      "headline": "BYD Beni Motors O'zbekistonda 80 000‑inchi avtomobilni topshirdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/7942a82ac0a5ad675299d9868864bf561891d1ac270472b0694cd226a7b53b0c.webp",
+      "ts": 1793943043.9845347
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793941247.1249416,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 4
+    "count": 5
   }
 }

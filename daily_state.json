@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793973654.2709165,
+  "last_post_ts": 1793975451.842636,
   "recent_posts": [
-    {
-      "source_title": "OCHL 2. “Nasaf” ikki to‘p farqini yo‘qqa chiqarib, “Al-Kuvayt”ni mag‘lub etdi",
-      "headline": "Nasaf” 2 ta farqni yo'qqa chiqarib, “Al‑Kuvayt”ni mag'lub etdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/c39b7ffdaaa36c1ff7346fe636c972bf886d63f44cb76b1a86c627258b7751bc.webp",
-      "ts": 1793845846.060726
-    },
     {
       "source_title": "Ўзбекистонда СИ ёрдамида криминоген вазият индекси жорий этилади",
       "headline": "Yangi xavfsizlik tizimi: SI yordamida kriminal indeks joriy etiladi",
@@ -240,11 +234,17 @@
       "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/8120a7ed2c7d4140a44833123ba94c64de194b2bdc299f193e40ecdca3e143a2.webp",
       "ts": 1793973652.2677724
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Ostona shahriga amaliy tashrifini yakunladi",
+      "headline": "Shavkat Mirziyoyev Ostona shahridagi amaliy tashrifini yakunladi 🇰🇿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/ec6656dfb124a67bcb6ba1f6e4a467f9ff179bb607e3bf5d1483e2069b60611b.webp",
+      "ts": 1793975449.838125
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 17
+    "count": 18
   }
 }

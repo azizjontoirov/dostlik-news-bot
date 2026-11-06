@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793968240.5411692,
+  "last_post_ts": 1793970053.4912298,
   "recent_posts": [
-    {
-      "source_title": "Samarqandda umraga yuborishni va’da qilib, 5 ming dollar olgan shaxs ushlandi",
-      "headline": "Samarqandda umra sayohati firibgarligi – 5 000 $ olgan xodim ushladi 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/4c7eb6d1e6245f14f5f4c7f7dafae6550da0fe92be24e9bfb4a8f960bc815489.webp",
-      "ts": 1793804580.415781
-    },
     {
       "source_title": "Toshkentda 5-noyabrga o‘tar kechasi yog‘ingarchilik hisobiga havo sifati yaxshilanishi kutilmoqda",
       "headline": "Toshkentda 5‑noyabr kechasi yog'ingarchilik – havo sifati yaxshilanadi",
@@ -240,11 +234,17 @@
       "headline": "Radikalashuv bir zumda sodir bo'lmaydi",
       "image": "https://www.gazeta.uz/media/img/2026/11/5j32c6cv0qs34F2ua5H17939576322263_210323_og.webp?r=1793963331",
       "ts": 1793966454.6299534
+    },
+    {
+      "source_title": "HUMO, Octobank va UZINFOCOM Toshkent metropolitenida yo‘l haqini kaft bilan to‘lashni yo‘lga qo‘ydi",
+      "headline": "Yo'l haqi to'lovida yangi imkoniyat!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/22692ebdf47e9a8f0c59ad9955db6f01161fee6fde77bd5e2a516952251d8b56.webp",
+      "ts": 1793970051.4867954
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 14
+    "count": 15
   }
 }

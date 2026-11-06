@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793946635.7670174,
+  "last_post_ts": 1793948451.3931677,
   "recent_posts": [
-    {
-      "source_title": "Saida Mirziyoyeva Qarşidagi avariya holatidagi boğçani közdan keçirdi",
-      "headline": "Saida Mirziyoyeva yangi bo'g'cha va maktab ta'mirini ko'rib chiqdi 🏫👀",
-      "image": "https://storage.kun.uz/source/1/IcPlnG0WV71kptc12brXg2Q9okgHmQ9X.jpg",
-      "ts": 1793782854.5138319
-    },
     {
       "source_title": "Ориф Бозоров Бухоро вилояти ҳокими ўринбосари бўлди",
       "headline": "O'rif Bozorov Buxoro viloyati hokimi o'rinbosari bo'ldi",
@@ -240,11 +234,17 @@
       "headline": "Qurilish shartnomalarida iste'molchi huquqlari buzildi",
       "image": "https://gocdn.daryo.uz/2026/11/06/2b7ab9e6e36014dba017db1480eadc8d23861912b200d314d256cff12873f9e2.jpg",
       "ts": 1793944855.6255085
+    },
+    {
+      "source_title": "CAU 25 ta mamlakatdan tashrif buyurgan 500 dan ortiq bo‘lajak shifokorlar va dunyoning yetakchi ekspertlarini ikkita xalqaro tibbiyot tadbirida birlashtirdi",
+      "headline": "Kelajak tibbiyoti — 2026: Toshkentda 25 mamlakatdan 500+ shifokor yig'ildi 🌍🩺",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/b995e458495cf0da96af0b17a845b70a94bdabf9f6c3fca4f4c180c0c76dec83.webp",
+      "ts": 1793948449.3887415
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793946635.7614644,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 6
+    "count": 7
   }
 }

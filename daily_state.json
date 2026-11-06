@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793964646.6541095,
+  "last_post_ts": 1793966456.634658,
   "recent_posts": [
-    {
-      "source_title": "Namanganda ekologik talablarni buzgan sovun ishlab chiqarish korxonasi faoliyati to‘xtatildi",
-      "headline": "Namanganda ekologik talablarni buzgan sovun korxonasi to'xtatildi 🧼🚫",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/b16ef9f8b99da5d1891f5c626abfa683438cb091d30e3dc639f2db2b81602961.webp",
-      "ts": 1793802643.8351064
-    },
     {
       "source_title": "Samarqandda umraga yuborishni va’da qilib, 5 ming dollar olgan shaxs ushlandi",
       "headline": "Samarqandda umra sayohati firibgarligi – 5 000 $ olgan xodim ushladi 🚨",
@@ -240,11 +234,17 @@
       "headline": "BRB Lizing – tadbirkorlar uchun yangi lizing imkoniyati 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/fef34f80f881bccc0792e7b2cddaf8abd8f42a1b0d11915de8088b9f10b9112c.webp",
       "ts": 1793964644.6413054
+    },
+    {
+      "source_title": "«Радикаллашув бир зумда содир бўлмайди» — Ўзбекистон ДХХ раиси Баҳодир Қурбонов",
+      "headline": "Radikalashuv bir zumda sodir bo'lmaydi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/5j32c6cv0qs34F2ua5H17939576322263_210323_og.webp?r=1793963331",
+      "ts": 1793966454.6299534
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793962851.7635307,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 13
+    "count": 14
   }
 }

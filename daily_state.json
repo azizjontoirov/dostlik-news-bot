@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793932248.5563526,
+  "last_post_ts": 1793934062.6143181,
   "recent_posts": [
-    {
-      "source_title": "Instagram: Turmushga chiqayotgan Muborak Abdullayeva, ijodga qaytayotgan Sitora Farmonova, Milena Madmusayevaning xonadoniga sayohat",
-      "headline": "Instagramda shou‑biznes yangiliklari 🌟📸",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/ffd5b857684c53b113f1f900ed3a2b621bfe1a0cd7ba31def093c4ca58409480.webp",
-      "ts": 1793770244.7393327
-    },
     {
       "source_title": "Payariqda tiriklayin kömilgani aytilayotgan erkak qariyb bir oy komada yotib, vafot etdi",
       "headline": "Samarqandda fojiali hujum: 32‑yoshli erkak vafot etdi",
@@ -240,11 +234,17 @@
       "headline": "Yakkasaroyda noqulay kol‑markaz aniqlandi 🚨",
       "image": "https://www.gazeta.uz/media/img/2026/11/6uv43e4om2ao7zX8Kvr17939107570602_210267_og.webp?r=1793910996",
       "ts": 1793932246.5520136
+    },
+    {
+      "source_title": "Davlat tibbiyot muassasalarida autsorsing xizmatlarini xarid qilishning yangi tartibi joriy etiladi",
+      "headline": "Davlat tibbiyot muassasalarida autsorsing xizmatlari yangi tartibda!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/05/958aeb421cfc7dc9f77e9da451f88fe067a04f79ae033dfe86dfbfa9bcd03751.webp",
+      "ts": 1793934060.6101923
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793930443.908475,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 1
+    "count": 2
   }
 }

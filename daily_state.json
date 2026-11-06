@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793959253.0759587,
+  "last_post_ts": 1793961047.1107628,
   "recent_posts": [
-    {
-      "source_title": "Марказий банк Ўзбекистонда кредит ва омонат ставкалари яқин 3−4 йилда пасайишини кутмоқда",
-      "headline": "Markaziy bank kredit va omonat stavkalarini pasaytiradi 📉",
-      "image": "https://www.gazeta.uz/media/img/2026/11/d2ss6f9iippmaFu1PTd17937900164553_210143_og.webp?r=1793797236",
-      "ts": 1793797254.7440996
-    },
     {
       "source_title": "«Мурожаат қилмаган идорам қолмади, аммо натижа йўқ». ИИВ раҳбари қабулига келганлар нималардан шикоятчи?",
       "headline": "Ichki ishlar vaziri Toshkentda fuqarolarning shikoyatlarini tingladi",
@@ -240,11 +234,17 @@
       "headline": "Raqobat qo'mitasi qurilish shartnomalarida iste'molchi huquqlarini himoya qildi",
       "image": "https://www.gazeta.uz/media/img/2026/09/74211g75mcp7e9xNHvt17907555768746_210313_og.webp?r=1793959178",
       "ts": 1793959251.0711231
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev: kibermakon asosiy töqnaşuvlar maydoniga aylandi",
+      "headline": "KIBERMAKON – YANGI XAVF MAYDONIGA AYLANDI",
+      "image": "https://storage.kun.uz/source/1/b60jEhmgUrcV9YF_3xxjdiU-D2WzraVw.webp",
+      "ts": 1793961045.1073062
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793957442.0385945,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 11
+    "count": 12
   }
 }

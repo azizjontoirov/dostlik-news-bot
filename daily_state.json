@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793971846.97519,
+  "last_post_ts": 1793973654.2709165,
   "recent_posts": [
-    {
-      "source_title": "«Болалик кутмайди». Саида Мирзиёева Қаршидаги «авария ҳолатида»ги боғча, мактаб ва наркология диспансерига борди",
-      "headline": "Saida Mirziyoyeva Qashqadaryo viloyatida “avariya holatidagi” maktab va bo'g'chani tekshirdi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/3c5kl02qq1189jBy9wI17938044635861_210163_og.webp?r=1793809607",
-      "ts": 1793809843.6375327
-    },
     {
       "source_title": "OCHL 2. “Nasaf” ikki to‘p farqini yo‘qqa chiqarib, “Al-Kuvayt”ni mag‘lub etdi",
       "headline": "Nasaf” 2 ta farqni yo'qqa chiqarib, “Al‑Kuvayt”ni mag'lub etdi",
@@ -240,11 +234,17 @@
       "headline": "Prezident Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi 🌍",
       "image": "https://storage.kun.uz/source/1/PdqbQ6OpkN6XzOo433oqm43jHgPtEfAw.jpg",
       "ts": 1793971844.9716985
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Iordaniya podshohi bilan uchrashuv oʻtkazdi",
+      "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/8120a7ed2c7d4140a44833123ba94c64de194b2bdc299f193e40ecdca3e143a2.webp",
+      "ts": 1793973652.2677724
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 16
+    "count": 17
   }
 }

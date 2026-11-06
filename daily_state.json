@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793962851.7666976,
+  "last_post_ts": 1793964646.6541095,
   "recent_posts": [
-    {
-      "source_title": "«Мурожаат қилмаган идорам қолмади, аммо натижа йўқ». ИИВ раҳбари қабулига келганлар нималардан шикоятчи?",
-      "headline": "Ichki ishlar vaziri Toshkentda fuqarolarning shikoyatlarini tingladi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/4ekle4cpiduscLUsOtn17937368870544_210053_og.webp?r=1793798833",
-      "ts": 1793799045.8118536
-    },
     {
       "source_title": "Namanganda ekologik talablarni buzgan sovun ishlab chiqarish korxonasi faoliyati to‘xtatildi",
       "headline": "Namanganda ekologik talablarni buzgan sovun korxonasi to'xtatildi 🧼🚫",
@@ -240,11 +234,17 @@
       "headline": "KIBERMAKON – YANGI XAVF MAYDONIGA AYLANDI",
       "image": "https://storage.kun.uz/source/1/b60jEhmgUrcV9YF_3xxjdiU-D2WzraVw.webp",
       "ts": 1793961045.1073062
+    },
+    {
+      "source_title": "“BRB Lizing” MCHJ biznes uchun yangi moliyaviy imkoniyatlar yaratmoqda",
+      "headline": "BRB Lizing – tadbirkorlar uchun yangi lizing imkoniyati 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/fef34f80f881bccc0792e7b2cddaf8abd8f42a1b0d11915de8088b9f10b9112c.webp",
+      "ts": 1793964644.6413054
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793962851.7635307,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 12
+    "count": 13
   }
 }

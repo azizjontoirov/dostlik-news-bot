@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793943045.9891984,
+  "last_post_ts": 1793944857.7777784,
   "recent_posts": [
-    {
-      "source_title": "Saida Mirziyoyeva Qarshidagi 43-maktab va 1-bog‘cha sharoiti bilan tanishdi",
-      "headline": "Saida Mirziyoyeva 43‑maktab va 1‑bog'cha sharoiti bilan tanishdi 📚🏫",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/05635f9df1a61806425fb0a54f3ed85bfea6dd0b1f12854e0fae9dec85ec31c7.webp",
-      "ts": 1793781047.6082084
-    },
     {
       "source_title": "Saida Mirziyoyeva Qarşidagi avariya holatidagi boğçani közdan keçirdi",
       "headline": "Saida Mirziyoyeva yangi bo'g'cha va maktab ta'mirini ko'rib chiqdi 🏫👀",
@@ -240,11 +234,17 @@
       "headline": "BYD Beni Motors O'zbekistonda 80 000‑inchi avtomobilni topshirdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/7942a82ac0a5ad675299d9868864bf561891d1ac270472b0694cd226a7b53b0c.webp",
       "ts": 1793943043.9845347
+    },
+    {
+      "source_title": "O‘zbekistonda 132 ta qurilish kompaniyasi shartnomasida xaridor huquqlari buzilayotgani aniqlandi",
+      "headline": "Qurilish shartnomalarida iste'molchi huquqlari buzildi",
+      "image": "https://gocdn.daryo.uz/2026/11/06/2b7ab9e6e36014dba017db1480eadc8d23861912b200d314d256cff12873f9e2.jpg",
+      "ts": 1793944855.6255085
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793941247.1249416,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 5
+    "count": 6
   }
 }

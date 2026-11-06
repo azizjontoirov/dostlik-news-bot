@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793953846.9829264,
+  "last_post_ts": 1793955656.8406563,
   "recent_posts": [
-    {
-      "source_title": "Vazn tashlash uchun oshqozonni qisqartirish shartmi?",
-      "headline": "Vazn tashlash: Oshqozonni qisqartirish shartmi?",
-      "image": "https://gocdn.daryo.uz/large/2026/11/04/6fabbd7f94788e1b17e4f51b6a18d3e289b60092d4ebe02ead68b15cf75bd5fb.webp",
-      "ts": 1793791842.1515987
-    },
     {
       "source_title": "Toşkentda narkolaboratoriyada giyohvand modda aralaştirilgan qandolat mahsulotlari işlab çiqarilgani aniqlandi",
       "headline": "Toshkentda narkolaboratoriyada giyohvand modda aralashtirilgan qandolat mahsulotlari aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "Karajantak qishlog'ida uy-joy hujjatlari topshirildi",
       "image": "https://www.gazeta.uz/media/img/2026/11/8fhehe04u5q55DYDqAR17939524998913_210297_og.webp?r=1793953475",
       "ts": 1793953844.9792454
+    },
+    {
+      "source_title": "Samarqandda to‘rt kishini umraga yuborish uchun 5 ming dollar talab qilgan turfirma operatori ushlandi",
+      "headline": "Samarqandda umra firibgarligi – 5 000 $ talab qilgan operator ushlangan",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/0cf8b44f1346b9c383ed6168e2ad0438cd3c3c24e7e60ffdbd76ee2214780d3c.webp",
+      "ts": 1793955654.8355486
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793952047.1465015,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 9
+    "count": 10
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793977255.7450805,
+  "last_post_ts": 1793979052.139131,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda hamkasbiga shilqimlik qilgan 59 yoshli maktab o‘qituvchisi besh sutkaga qamaldi",
-      "headline": "Surxondaryoda maktab o'qituvchisiga 5 kunlik ma'muriy qamoq 🏫⏳",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/b77026923e4204efa4fb894b4f399bfb99b4368b16116b6c80b9e5626f8b27bc.webp",
-      "ts": 1793851269.6678498
-    },
     {
       "source_title": "Shaharsozlik faoliyatida ruxsat berish tartibiga noqonuniy aralashganlar 132 mln so‘mgacha jarimaga tortilishi mumkin",
       "headline": "Shaharsozlikda ruxsatga noqonuniy aralashish – 132 mln so'mgacha jarima!",
@@ -240,11 +234,17 @@
       "headline": "Sharof Rashidov uy-muzeyidan eksklyuziv reportaj",
       "image": "https://www.gazeta.uz/media/img/2026/11/2f2i4dlbgh1laV3mxGP17939705536948_210262_og.webp?r=1793977222",
       "ts": 1793977253.7424865
+    },
+    {
+      "source_title": "O‘zbekistonga sovuq havo massalari kirib keladi. Ayrim hududlarda harorat 7 darajagacha sovuq bo‘ladi",
+      "headline": "Sovuq havo massalari O'zbekistonga kiradi (9‑12 noyabr) ❄️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/bb047e9e4d87684b4aa7f05376205e29648c75aa55a06e71842be5f0e4bb4aee.webp",
+      "ts": 1793979050.1349275
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 19
+    "count": 20
   }
 }

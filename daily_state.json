@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793979052.139131,
+  "last_post_ts": 1793980855.514886,
   "recent_posts": [
-    {
-      "source_title": "Shaharsozlik faoliyatida ruxsat berish tartibiga noqonuniy aralashganlar 132 mln so‘mgacha jarimaga tortilishi mumkin",
-      "headline": "Shaharsozlikda ruxsatga noqonuniy aralashish – 132 mln so'mgacha jarima!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/bfdd8b5db8a873c577925a496a0b8c9cf4d97b3ceb632dc1861f72d6504ea3d4.webp",
-      "ts": 1793853038.214111
-    },
     {
       "source_title": "Тошкентда атроф-муҳитни ифлослантирган ва 51 туп дарахтни ноқонуний кесган қурилиш компанияси 5,5 млрд сўм тўлаши белгиланди",
       "headline": "Toshkentda qurilish kompaniyasiga 5,5 mlrd so'm jarima! 🌳🚧",
@@ -240,11 +234,17 @@
       "headline": "Sovuq havo massalari O'zbekistonga kiradi (9‑12 noyabr) ❄️",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/bb047e9e4d87684b4aa7f05376205e29648c75aa55a06e71842be5f0e4bb4aee.webp",
       "ts": 1793979050.1349275
+    },
+    {
+      "source_title": "Toşkentda isitiş tizimi 9-noyabrdan bosqiçma-bosqiç işga tuşiriladi",
+      "headline": "Toshkentda issiqlik tizimi bosqichma‑bosqich ishga tushiriladi (9‑noyabr) 🔥",
+      "image": "https://storage.kun.uz/source/1/yMfZ5gu8up1KabTPmgFUElW8XrnPiw4C.webp",
+      "ts": 1793980853.5116174
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 20
+    "count": 21
   }
 }

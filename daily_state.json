@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793975451.842636,
+  "last_post_ts": 1793977255.7450805,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда СИ ёрдамида криминоген вазият индекси жорий этилади",
-      "headline": "Yangi xavfsizlik tizimi: SI yordamida kriminal indeks joriy etiladi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/1npco1p0qiuh9MPfx8S17938011791624_210172_og.webp?r=1793815674",
-      "ts": 1793847656.2776039
-    },
     {
       "source_title": "Surxondaryoda hamkasbiga shilqimlik qilgan 59 yoshli maktab o‘qituvchisi besh sutkaga qamaldi",
       "headline": "Surxondaryoda maktab o'qituvchisiga 5 kunlik ma'muriy qamoq 🏫⏳",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev Ostona shahridagi amaliy tashrifini yakunladi 🇰🇿",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/ec6656dfb124a67bcb6ba1f6e4a467f9ff179bb607e3bf5d1483e2069b60611b.webp",
       "ts": 1793975449.838125
+    },
+    {
+      "source_title": "Ўзбекистоннинг 24 йиллик раҳбари Шароф Рашидов уй-музейидан репортаж",
+      "headline": "Sharof Rashidov uy-muzeyidan eksklyuziv reportaj",
+      "image": "https://www.gazeta.uz/media/img/2026/11/2f2i4dlbgh1laV3mxGP17939705536948_210262_og.webp?r=1793977222",
+      "ts": 1793977253.7424865
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 18
+    "count": 19
   }
 }

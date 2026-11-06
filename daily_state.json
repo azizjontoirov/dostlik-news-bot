@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793980855.514886,
+  "last_post_ts": 1793982647.4774828,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда атроф-муҳитни ифлослантирган ва 51 туп дарахтни ноқонуний кесган қурилиш компанияси 5,5 млрд сўм тўлаши белгиланди",
-      "headline": "Toshkentda qurilish kompaniyasiga 5,5 mlrd so'm jarima! 🌳🚧",
-      "image": "https://www.gazeta.uz/media/img/2026/11/365unmn601mq3ivtlX817938561493058_210183_og.webp?r=1793856610",
-      "ts": 1793856639.3674788
-    },
     {
       "source_title": "Jigar va grechkasiz ham ferritin miqdorini oshirishga yordam beradigan 5 ta shirinlik",
       "headline": "Ferritinni oshiruvchi 5 ta shirinlik 🍫🍯",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda issiqlik tizimi bosqichma‑bosqich ishga tushiriladi (9‑noyabr) 🔥",
       "image": "https://storage.kun.uz/source/1/yMfZ5gu8up1KabTPmgFUElW8XrnPiw4C.webp",
       "ts": 1793980853.5116174
+    },
+    {
+      "source_title": "O‘zbekistonda 2030-yilgacha ishsizlik darajasini 4 foizga tushirish rejalashtirilmoqda",
+      "headline": "O'zbekistonda ishsizlikka qarshi yangi strategiya 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/153e3dc15faaa723e7344ee0d9cc9177f2eccf90e199028e4256700e98b37e44.webp",
+      "ts": 1793982645.473499
     }
   ],
   "morning_sent_date": "2026-11-06",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1793968240.53834,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-06",
-    "count": 21
+    "count": 22
   }
 }

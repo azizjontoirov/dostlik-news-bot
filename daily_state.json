@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1793984456.012657,
+  "last_post_ts": 1794018644.4293563,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston milliy jamoasining noyabr oyidagi o‘yinlari boshlanish vaqti ma’lum bo‘ldi",
-      "headline": "O'zbekiston milliy jamoasining noyabr o'yinlari vaqti ma'lum bo'ldi",
-      "image": "https://gocdn.daryo.uz/large/2026/10/26/e53ebc29f2fe6eca9f44acb731fd9a80367eb26d1b6cf51c5ac48328d496e02e.webp",
-      "ts": 1793862053.5290532
-    },
     {
       "source_title": "O‘zbekistonda 6-noyabr kuni havo harorati nisbatan ko‘tariladi",
       "headline": "6‑noyabr kuni O'zbekistonda havo harorati ko'tariladi",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda issiqlik mavsumi 9‑noyabrdan boshlanadi",
       "image": "https://www.gazeta.uz/media/img/2023/02/SKHXtW16757713053020_b.jpg",
       "ts": 1793984454.008038
+    },
+    {
+      "source_title": "ИИББ хонандани ўлдиришга тарғиб қилган блогернинг видеоролиги бўйича текширув бошлади",
+      "headline": "IIBB blogerining video roliklari bo'yicha tekshiruv boshlandi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/8rv41p9tqhbfdXWo3t117939918326611_210352_og.webp?r=1793993006",
+      "ts": 1794018642.4246743
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794016842.5288303,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-06",
-    "count": 23
+    "day": "2026-11-07",
+    "count": 1
   }
 }

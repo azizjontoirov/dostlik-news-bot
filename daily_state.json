@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794043833.4620466,
+  "last_post_ts": 1794045651.3602238,
   "recent_posts": [
-    {
-      "source_title": "5 million tonna paxta va Toşkent köçalaridagi robotlar - mahalliy dayjest",
-      "headline": "5 mln tonna paxta terildi, Toshkent ko'chalarida robotlar ishga tushadi 🚜🤖",
-      "image": "https://storage.kun.uz/source/1/FH7L-gJ4An4ejI0xDWPKDI2bgG9u70wS.jpg",
-      "ts": 1793887256.4573262
-    },
     {
       "source_title": "Markaziy bank 2026-yilgi inflyatsiya prognozini oshirdi",
       "headline": "Markaziy bank inflyatsiya prognozini oshirdi",
@@ -240,11 +234,17 @@
       "headline": "Uy-joy muammosi: Nega minglab odamlar pulini yo'qotmoqda?",
       "image": "https://storage.kun.uz/source/1/67esB-vCplnT1xZ0fyZMr1XmRPK7pcal.jpg",
       "ts": 1794042052.520958
+    },
+    {
+      "source_title": "Тошкентда автобус ёниб кетди",
+      "headline": "Toshkentda avtobus yonib ketdi! 🔥",
+      "image": "https://www.gazeta.uz/media/img/2026/11/6r09f1r9p3oueMUQdbK17940452635128_210371_og.webp?r=1794045499",
+      "ts": 1794045649.356091
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794043833.4593792,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 10
+    "count": 11
   }
 }

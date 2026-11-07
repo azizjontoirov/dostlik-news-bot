@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794067251.2376683,
+  "last_post_ts": 1794069044.4921558,
   "recent_posts": [
-    {
-      "source_title": "BYD Beni Motors Oʻzbekistonda 80 minginchi avtomobilni topshirdi",
-      "headline": "BYD Beni Motors O'zbekistonda 80 000‑inchi avtomobilni topshirdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/7942a82ac0a5ad675299d9868864bf561891d1ac270472b0694cd226a7b53b0c.webp",
-      "ts": 1793943043.9845347
-    },
     {
       "source_title": "O‘zbekistonda 132 ta qurilish kompaniyasi shartnomasida xaridor huquqlari buzilayotgani aniqlandi",
       "headline": "Qurilish shartnomalarida iste'molchi huquqlari buzildi",
@@ -240,11 +234,17 @@
       "headline": "Yaponiya oshpazlik dasturi – 40 o'zbek fuqarosi uchun yangi imkoniyat 🍣👩‍🍳",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/98d722f1478514721dd007caf6f96d8f093794c3d1903c746c1cb6d4da286008.webp",
       "ts": 1794067249.2188962
+    },
+    {
+      "source_title": "Superliga. “Navbahor” mehmonda “Qizilqum” ustidan g‘alaba qozondi",
+      "headline": "Navbahor” “Qizilqum”ni mag'lub etdi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/6fa6677398a1d39186bd3477fcd9f79aa82a5d3082d074066d35f3f9c30646ad.webp",
+      "ts": 1794069042.4878273
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 21
+    "count": 22
   }
 }

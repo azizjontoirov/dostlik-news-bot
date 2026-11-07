@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794018644.4293563,
+  "last_post_ts": 1794020455.3607388,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 6-noyabr kuni havo harorati nisbatan ko‘tariladi",
-      "headline": "6‑noyabr kuni O'zbekistonda havo harorati ko'tariladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/32da31aa80e2767bc431945c35aa4048a75dff7bbe54d91024b30d96fc3b5669.webp",
-      "ts": 1793863845.1556113
-    },
     {
       "source_title": "Президент Бухоро вилоятида пахта етиштиришни уч йилда 1 млн тоннага етказмоқчи",
       "headline": "Prezident Buxoro viloyatida paxta yetishtirishni 3 yilda 1 mln tonna etkazadi",
@@ -240,11 +234,17 @@
       "headline": "IIBB blogerining video roliklari bo'yicha tekshiruv boshlandi",
       "image": "https://www.gazeta.uz/media/img/2026/11/8rv41p9tqhbfdXWo3t117939918326611_210352_og.webp?r=1793993006",
       "ts": 1794018642.4246743
+    },
+    {
+      "source_title": "Oʻzbekiston toʻqqiz oyda gaz va benzin importini keskin oshirdi",
+      "headline": "O'zbekistonda gaz va benzin importi keskin oshdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/89a8e4f2e0ed2f4ee9360a52e4f8d4b2d73929d1ffcda5dd596a2651edcd48b8.webp",
+      "ts": 1794020453.3572035
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794016842.5288303,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 1
+    "count": 2
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794042054.525087,
+  "last_post_ts": 1794043833.4620466,
   "recent_posts": [
     {
       "source_title": "5 million tonna paxta va Toşkent köçalaridagi robotlar - mahalliy dayjest",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794038444.6439264,
+    "last_ad_ts": 1794043833.4593792,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 60,
+      "ad_flour": 61,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 59,
@@ -262,10 +262,10 @@
     "day": "2026-11-07",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794033032.9094124,
+      "ad_flour": 1794043833.4593768,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794038444.643924,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794034858.8757799,
+  "last_post_ts": 1794036640.2381835,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда 2030 йилгача уран қазиб олиш 15 минг тоннага етказиш режалаштирилмоқда",
-      "headline": "2030 yilga qadar uran qazib olish hajmi 15 ming tonnaga yetkaziladi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/2cpm939kcijd3kA7f2f17938786889635_210236_og.webp?r=1793879304",
-      "ts": 1793880058.199259
-    },
     {
       "source_title": "O‘zbekistonda dollar kursi yana ko‘tarildi",
       "headline": "O'zbekistonda dollar kursi yana ko'tarildi",
@@ -240,11 +234,17 @@
       "headline": "To'shkentda sanoat ko'rgazmasi tashkil etildi",
       "image": "https://storage.kun.uz/source/1/yACjYVSCwbd2z99ns10BZj4JmTqARtV-.jpg",
       "ts": 1794034856.87185
+    },
+    {
+      "source_title": "Farg‘onada 105 bola zaharlangan ish bo‘yicha korxona rahbari va texnologi qamaldi",
+      "headline": "Farg'onada 105 bola zaharlanishi – korxona rahbari va texnologiya qamaldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/f298a16a6cb6ba23335b1cbe6f00450973346d16f87512a70f3feb33f672e32d.webp",
+      "ts": 1794036638.2138572
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794033032.9094129,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 7
+    "count": 8
   }
 }

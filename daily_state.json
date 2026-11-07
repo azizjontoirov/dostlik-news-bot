@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794060051.7579722,
+  "last_post_ts": 1794061845.5195582,
   "recent_posts": [
-    {
-      "source_title": "Яккасаройда 23 нафар хорижлик яшаб келган ноқонуний колл марказ аниқланди",
-      "headline": "Yakkasaroyda noqulay kol‑markaz aniqlandi 🚨",
-      "image": "https://www.gazeta.uz/media/img/2026/11/6uv43e4om2ao7zX8Kvr17939107570602_210267_og.webp?r=1793910996",
-      "ts": 1793932246.5520136
-    },
     {
       "source_title": "Davlat tibbiyot muassasalarida autsorsing xizmatlarini xarid qilishning yangi tartibi joriy etiladi",
       "headline": "Davlat tibbiyot muassasalarida autsorsing xizmatlari yangi tartibda!",
@@ -240,11 +234,17 @@
       "headline": "Bu musobaqalarda mağlublar bölmadi” – Şavkat Mirziyoyev Prezident Olimpiadasi g'oliblari va ishtirokchilariga tabrik!",
       "image": "https://storage.kun.uz/source/1/KWX7FABGdtEuus2mPVMa-BLCIX9hQihP.jpg",
       "ts": 1794060049.7529569
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
+      "headline": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/56acb8cede271e16c20f4313346bd39b32f61e39c08cfbd0ca1fca29b576d8a4.webp",
+      "ts": 1794061843.5120072
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 17
+    "count": 18
   }
 }

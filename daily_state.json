@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794049242.4514718,
+  "last_post_ts": 1794051039.3126073,
   "recent_posts": [
-    {
-      "source_title": "“Kelgusi uch yilda asosiy stavka 10 foizdan pasayishi mumkin” — Markaziy bank raisi oʻrinbosari",
-      "headline": "Kelgusi uch yilda asosiy stavka 10% dan pasayishi mumkin 📉",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/b087e1e0e0b2986992f95e02866e6f84a14912f3c37f08bdc544dbda3bc17e6e.webp",
-      "ts": 1793890856.6149025
-    },
     {
       "source_title": "Тошкентда ер қазиш ишларига рухсат олишнинг онлайн тизими ишга туширилди",
       "headline": "Toshkentda yer qazish ishlari uchun onlayn ruxsat tizimi ishga tushdi",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda yölovchi avtobusda yonǵın! 🔥",
       "image": "https://storage.kun.uz/source/1/Md09kFHmYAM-D1WCMMqSGlFCLqXemZ4y.jpg",
       "ts": 1794047465.574277
+    },
+    {
+      "source_title": "Ўзбекистон шахматчилари БААдаги ёшлар ўртасидаги жаҳон чемпионатида учта медални қўлга киритди",
+      "headline": "O'zbekiston shaxmatchilari jahon chempionatida uchta medallarni qo'lga kiritdi 🏅",
+      "image": "https://www.gazeta.uz/media/img/2026/11/p2s27h2510ip5Y6j9do17940374217745_210375_og.webp?r=1794050479",
+      "ts": 1794051037.307797
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794049242.4496412,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 12
+    "count": 13
   }
 }

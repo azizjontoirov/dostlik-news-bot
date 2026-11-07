@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794033032.911026,
+  "last_post_ts": 1794034858.8757799,
   "recent_posts": [
-    {
-      "source_title": "Samarqandda kiberjinoyatlar oqibatida odamlar 50 mlrd sömga yaqin zarar kördi",
-      "headline": "Samarqandda kiberjinoyatlar zararini oshirdi",
-      "image": "https://storage.kun.uz/source/1/8pjMKv1qsUUybjoTLJqqOj_f1ElwCIrY.jpg",
-      "ts": 1793878245.8672113
-    },
     {
       "source_title": "Ўзбекистонда 2030 йилгача уран қазиб олиш 15 минг тоннага етказиш режалаштирилмоқда",
       "headline": "2030 yilga qadar uran qazib olish hajmi 15 ming tonnaga yetkaziladi",
@@ -240,11 +234,17 @@
       "headline": "Xitoyning xususiy raketasi 18 ta internet sun'iy yöldoşini orbitaga chiqardi 🚀",
       "image": "https://storage.kun.uz/source/1/7KYbIMtN2v11sKu_uyRmO5DD1io7lzje.webp",
       "ts": 1794031249.8375676
+    },
+    {
+      "source_title": "Işlab çiqarişdan eksportgaça: Toşkentda sanoat körgazmasi taşkil etildi",
+      "headline": "To'shkentda sanoat ko'rgazmasi tashkil etildi",
+      "image": "https://storage.kun.uz/source/1/yACjYVSCwbd2z99ns10BZj4JmTqARtV-.jpg",
+      "ts": 1794034856.87185
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794033032.9094129,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 6
+    "count": 7
   }
 }

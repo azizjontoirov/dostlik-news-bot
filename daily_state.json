@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794054633.712428,
+  "last_post_ts": 1794056458.509592,
   "recent_posts": [
-    {
-      "source_title": "Buxoroda xonadon poydevori ostiga yashirilgan qariyb 2,9 kilo marixuana aniqlandi",
-      "headline": "Buxoroda xonadon poydevori ostiga 2,9 kg marixuana yashirildi 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/cf882c0371a5766af029e24d76fb95b32b9fc2b0be7b2de35bb59e34abf07268.webp",
-      "ts": 1793894458.3033087
-    },
     {
       "source_title": "«Ақаба жараёни»: у нима мақсадда ташкил этилган ва унда Ўзбекистон қандай иштирок этмоқда?",
       "headline": "Aqaba jarayoni” – xavfsizlik hamkorligi yangi bosqichi",
@@ -240,11 +234,17 @@
       "headline": "Surxondaryoda maktab direktorining ozodligi 3 yilga cheklandi 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/d46a0587fed3174b43f8ced3de0ee8192e7970959104aa7bf1836d9336b1e99c.webp",
       "ts": 1794052850.4173467
+    },
+    {
+      "source_title": "Toshkentda avtobus haydovchisi baxtsiz hodisa oqibatida vafot etdi",
+      "headline": "Toshkentda avtobus haydovchisi baxtsiz hodisa oqibatida vafot etdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/3d15f1d8d8359d9384314d7cf3c4c3520279c7c2da8ac67d6d213a56ffdb1765.webp",
+      "ts": 1794056456.504744
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 14
+    "count": 15
   }
 }

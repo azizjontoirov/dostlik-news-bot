@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794058240.184446,
+  "last_post_ts": 1794060051.7579722,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda buyurtma asosida odam o‘g‘irlashda gumonlangan ikki shaxs qo‘lga olindi",
-      "headline": "Toshkentda odam o'g'irlashda gumonlangan ikki shaxs qo'lga olindi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/081f6105d3ad3952377a98f69b22131b5e713c99d1a043abe86f018d53055b45.webp",
-      "ts": 1793898062.2721384
-    },
     {
       "source_title": "Яккасаройда 23 нафар хорижлик яшаб келган ноқонуний колл марказ аниқланди",
       "headline": "Yakkasaroyda noqulay kol‑markaz aniqlandi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Biznes‑şeriklar ortasida nizo: “Imarat işi”da voqealar rivoji ⚖️",
       "image": "https://storage.kun.uz/source/1/VOHFAz4mggnWEqdlvzhFojj-qbTE-_Hc.jpg",
       "ts": 1794058238.179895
+    },
+    {
+      "source_title": "“Bu musobaqalarda mağlublar bölmadi” - Şavkat Mirziyoyev Prezident Olimpiadasi ğolib va iştirokçilariga tabrik yölladi",
+      "headline": "Bu musobaqalarda mağlublar bölmadi” – Şavkat Mirziyoyev Prezident Olimpiadasi g'oliblari va ishtirokchilariga tabrik!",
+      "image": "https://storage.kun.uz/source/1/KWX7FABGdtEuus2mPVMa-BLCIX9hQihP.jpg",
+      "ts": 1794060049.7529569
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 16
+    "count": 17
   }
 }

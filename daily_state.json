@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794063653.398119,
+  "last_post_ts": 1794065442.3665066,
   "recent_posts": [
-    {
-      "source_title": "Davlat şifoxonalaridagi xizmatlar xususiy sektorga autsorsingga berilişi mumkin",
-      "headline": "Davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
-      "image": "https://storage.kun.uz/source/1/Wt-6yDIROEzkAQV5X36mcXg7pjfjRrla.webp",
-      "ts": 1793937652.8479385
-    },
     {
       "source_title": "IIV gazni kam yetkazib berişga qarşi nazoratni kuçaytiradi",
       "headline": "IIV gazni kam yetkazib berishga qarshi nazoratni kuchaytiradi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Dunyoning eng kuchli futbol ligalari e'lon qilindi! 🌍",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/78298207b6510ac6ea7687825479da04aaaef242861cf632eb5ed673ddc80cd0.webp",
       "ts": 1794063651.3931177
+    },
+    {
+      "source_title": "AQSH—Xitoy raqobatidan boylik orttirayotgan mamlakatlar qaysi?",
+      "headline": "AQSH‑Xitoy raqobati va O'rta Osiyo boyliklari 🌍💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/720d6ec3d5fe0c1e7760a44ef8668da03828739ce080696c6f1b445b5f034356.webp",
+      "ts": 1794065440.3624573
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 19
+    "count": 20
   }
 }

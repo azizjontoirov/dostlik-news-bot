@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794040242.1410122,
+  "last_post_ts": 1794042054.525087,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda havoni ifloslantirgan qurilish korxonasiga 1 mlrd so‘mdan ko‘proq kompensatsiya hisoblandi",
-      "headline": "Toshkentda qurilish korxonasiga 1 mlrd so'mdan ortiq kompensatsiya! 🌍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/02/0cecb855fdcb3f27997af9a87820eb28ac43a3fd57ec22459052ae7854a784ed.webp",
-      "ts": 1793885457.319942
-    },
     {
       "source_title": "5 million tonna paxta va Toşkent köçalaridagi robotlar - mahalliy dayjest",
       "headline": "5 mln tonna paxta terildi, Toshkent ko'chalarida robotlar ishga tushadi 🚜🤖",
@@ -240,11 +234,17 @@
       "headline": "Kapitalbank Visa virtual kartalari Apple Pay'da! 📱💳",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/663d434acb3375f7239a7bbc11cb1c9d2b55078d52d7fd90a9b3a33ccd6ea890.webp",
       "ts": 1794040240.13641
+    },
+    {
+      "source_title": "«Bir darvozaga öyin». Nega uy oliş ilinjidagi ön minglab odamlar trlnlab pulini yöqotyapti?",
+      "headline": "Uy-joy muammosi: Nega minglab odamlar pulini yo'qotmoqda?",
+      "image": "https://storage.kun.uz/source/1/67esB-vCplnT1xZ0fyZMr1XmRPK7pcal.jpg",
+      "ts": 1794042052.520958
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794038444.6439264,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 9
+    "count": 10
   }
 }

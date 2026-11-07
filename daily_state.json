@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794022236.2108567,
+  "last_post_ts": 1794024052.7590272,
   "recent_posts": [
-    {
-      "source_title": "Президент Бухоро вилоятида пахта етиштиришни уч йилда 1 млн тоннага етказмоқчи",
-      "headline": "Prezident Buxoro viloyatida paxta yetishtirishni 3 yilda 1 mln tonna etkazadi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/98kqovl1fblbaAcAGaO17938617113639_210208_og.webp?r=1793867287",
-      "ts": 1793867468.6114888
-    },
     {
       "source_title": "Toshkent aeroportida 1 mlrd so‘mdan ortiq qiymatdagi zargarlik buyumlarini noqonuniy olib kirishga urinishlar aniqlandi",
       "headline": "Toshkent aeroportida qimmatbaho zargarlik buyumlari noqonuniy kirishga urinish aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda gaz va benzin importi keskin oshdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/06/89a8e4f2e0ed2f4ee9360a52e4f8d4b2d73929d1ffcda5dd596a2651edcd48b8.webp",
       "ts": 1794020453.3572035
+    },
+    {
+      "source_title": "Bankomatdan pul chiqmasa, operatsiyaning “muvaffaqiyatli” qayd etilgani bank uchun yetarli dalil bo‘lmaydi — Markaziy bank",
+      "headline": "Bankomatda pul chiqmasa, “muvaffaqiyatli” deb belgilash yetarli emas ⚠️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/06/b68cd7abc90eb008234d715406b0224e5ae70c6a24b62384c6193f1b73277635.webp",
+      "ts": 1794024050.7550948
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794022236.2079525,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 2
+    "count": 3
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794061845.5195582,
+  "last_post_ts": 1794063653.398119,
   "recent_posts": [
-    {
-      "source_title": "Davlat tibbiyot muassasalarida autsorsing xizmatlarini xarid qilishning yangi tartibi joriy etiladi",
-      "headline": "Davlat tibbiyot muassasalarida autsorsing xizmatlari yangi tartibda!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/958aeb421cfc7dc9f77e9da451f88fe067a04f79ae033dfe86dfbfa9bcd03751.webp",
-      "ts": 1793934060.6101923
-    },
     {
       "source_title": "Davlat şifoxonalaridagi xizmatlar xususiy sektorga autsorsingga berilişi mumkin",
       "headline": "Davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/56acb8cede271e16c20f4313346bd39b32f61e39c08cfbd0ca1fca29b576d8a4.webp",
       "ts": 1794061843.5120072
+    },
+    {
+      "source_title": "Dunyoning eng kuchli futbol ligalari e’lon qilindi. Superliga nechanchi o‘rinda?",
+      "headline": "Dunyoning eng kuchli futbol ligalari e'lon qilindi! 🌍",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/78298207b6510ac6ea7687825479da04aaaef242861cf632eb5ed673ddc80cd0.webp",
+      "ts": 1794063651.3931177
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 18
+    "count": 19
   }
 }

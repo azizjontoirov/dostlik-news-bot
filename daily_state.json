@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794029440.6997402,
+  "last_post_ts": 1794031251.843009,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda bokiralikni tiklaganlik uchun jinoiy javobgarlik belgilanishi haqidagi xabarlar rad etildi",
-      "headline": "Bokiralikni tiklash bo'yicha jinoiy javobgarlik xabarlari rad etildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/9a3c1359831697f5b1770a355a6180f348260390eba538eb0ad44646955302a2.webp",
-      "ts": 1793874644.839473
-    },
     {
       "source_title": "Samarqandda kiberjinoyatlar oqibatida odamlar 50 mlrd sömga yaqin zarar kördi",
       "headline": "Samarqandda kiberjinoyatlar zararini oshirdi",
@@ -240,11 +234,17 @@
       "headline": "Otabek Umarov Xalqaro kurash assotsiatsiyasi prezidentligiga tavsiya etildi 🤼‍♂️",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/ee45da3eade341c7fe486addff3a7426792a23bb4154ae4e2cb5ca99f3761460.webp",
       "ts": 1794029438.6964223
+    },
+    {
+      "source_title": "Xitoyning xususiy raketasi bir yöla 18 ta internet sunʼiy yöldoşini orbitaga çiqardi",
+      "headline": "Xitoyning xususiy raketasi 18 ta internet sun'iy yöldoşini orbitaga chiqardi 🚀",
+      "image": "https://storage.kun.uz/source/1/7KYbIMtN2v11sKu_uyRmO5DD1io7lzje.webp",
+      "ts": 1794031249.8375676
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794027642.9545166,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794045651.3602238,
+  "last_post_ts": 1794047467.5790782,
   "recent_posts": [
-    {
-      "source_title": "Markaziy bank 2026-yilgi inflyatsiya prognozini oshirdi",
-      "headline": "Markaziy bank inflyatsiya prognozini oshirdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/05/363c595e2b520e49913084980110af33a8791d461f43b1e3d89b7287727d6431.webp",
-      "ts": 1793889048.4135988
-    },
     {
       "source_title": "“Kelgusi uch yilda asosiy stavka 10 foizdan pasayishi mumkin” — Markaziy bank raisi oʻrinbosari",
       "headline": "Kelgusi uch yilda asosiy stavka 10% dan pasayishi mumkin 📉",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda avtobus yonib ketdi! 🔥",
       "image": "https://www.gazeta.uz/media/img/2026/11/6r09f1r9p3oueMUQdbK17940452635128_210371_og.webp?r=1794045499",
       "ts": 1794045649.356091
+    },
+    {
+      "source_title": "Toşkentda yölovçi avtobusda yonğin çiqdi",
+      "headline": "Toshkentda yölovchi avtobusda yonǵın! 🔥",
+      "image": "https://storage.kun.uz/source/1/Md09kFHmYAM-D1WCMMqSGlFCLqXemZ4y.jpg",
+      "ts": 1794047465.574277
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794043833.4593792,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 11
+    "count": 12
   }
 }

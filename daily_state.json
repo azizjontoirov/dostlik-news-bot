@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794020455.3607388,
+  "last_post_ts": 1794022236.2108567,
   "recent_posts": [
     {
       "source_title": "Президент Бухоро вилоятида пахта етиштиришни уч йилда 1 млн тоннага етказмоқчи",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794016842.5288303,
+    "last_ad_ts": 1794022236.2079525,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 58,
+      "ad_flour": 59,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 57,
@@ -261,10 +261,11 @@
     "permanent_index": 2,
     "day": "2026-11-07",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1793968240.5383384,
+      "ad_flour": 1794022236.20795,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794016842.5288284,

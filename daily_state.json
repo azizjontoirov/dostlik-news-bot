@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794027642.9563828,
+  "last_post_ts": 1794029440.6997402,
   "recent_posts": [
-    {
-      "source_title": "AD Ports Group va HYT Capital Özbekistonni xalqaro savdo va logistika xabiga aylantiriş maqsadida qöşma korxona taşkil etdi",
-      "headline": "AD Ports Group va HYT Capital O'zbekistonda yangi logistika sherikligini tashkil etdi",
-      "image": "https://storage.kun.uz/source/1/U2HCxOJVxiuEDTLS5g8zQbfDxL2lujOl.jpg",
-      "ts": 1793872856.688476
-    },
     {
       "source_title": "O‘zbekistonda bokiralikni tiklaganlik uchun jinoiy javobgarlik belgilanishi haqidagi xabarlar rad etildi",
       "headline": "Bokiralikni tiklash bo'yicha jinoiy javobgarlik xabarlari rad etildi",
@@ -240,11 +234,17 @@
       "headline": "O'FA rahbariyati va terma jamoalar bosh murabbiylari yig'ilishi",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/0fa436297854db50e76bbd4af76b26fdb4b7eae227f94f6a7ad0583413f18ea3.webp",
       "ts": 1794025842.9905946
+    },
+    {
+      "source_title": "Otabek Umarov nomzodi Xalqaro kurash assotsiatsiyasi prezidentligiga tavsiya etildi",
+      "headline": "Otabek Umarov Xalqaro kurash assotsiatsiyasi prezidentligiga tavsiya etildi 🤼‍♂️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/ee45da3eade341c7fe486addff3a7426792a23bb4154ae4e2cb5ca99f3761460.webp",
+      "ts": 1794029438.6964223
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794027642.9545166,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 4
+    "count": 5
   }
 }

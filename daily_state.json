@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794031251.843009,
+  "last_post_ts": 1794033032.911026,
   "recent_posts": [
     {
       "source_title": "Samarqandda kiberjinoyatlar oqibatida odamlar 50 mlrd sömga yaqin zarar kördi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794027642.9545166,
+    "last_ad_ts": 1794033032.9094129,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 59,
+      "ad_flour": 60,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 58,
@@ -262,10 +262,10 @@
     "day": "2026-11-07",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1794022236.20795,
+      "ad_flour": 1794033032.9094124,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794027642.9545152,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794065442.3665066,
+  "last_post_ts": 1794067251.2376683,
   "recent_posts": [
-    {
-      "source_title": "IIV gazni kam yetkazib berişga qarşi nazoratni kuçaytiradi",
-      "headline": "IIV gazni kam yetkazib berishga qarshi nazoratni kuchaytiradi 🚨",
-      "image": "https://storage.kun.uz/source/1/Qerq8PcDbBV3XH5sOWqe5Va00UeHhWU_.webp",
-      "ts": 1793939442.3211753
-    },
     {
       "source_title": "BYD Beni Motors Oʻzbekistonda 80 minginchi avtomobilni topshirdi",
       "headline": "BYD Beni Motors O'zbekistonda 80 000‑inchi avtomobilni topshirdi",
@@ -240,11 +234,17 @@
       "headline": "AQSH‑Xitoy raqobati va O'rta Osiyo boyliklari 🌍💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/720d6ec3d5fe0c1e7760a44ef8668da03828739ce080696c6f1b445b5f034356.webp",
       "ts": 1794065440.3624573
+    },
+    {
+      "source_title": "O‘zbekistonliklar Yaponiyada oshpazlik bo‘yicha o‘qitilib, ishga joylashtiriladi",
+      "headline": "Yaponiya oshpazlik dasturi – 40 o'zbek fuqarosi uchun yangi imkoniyat 🍣👩‍🍳",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/98d722f1478514721dd007caf6f96d8f093794c3d1903c746c1cb6d4da286008.webp",
+      "ts": 1794067249.2188962
     }
   ],
   "morning_sent_date": "2026-11-07",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794054633.7107954,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-07",
-    "count": 20
+    "count": 21
   }
 }

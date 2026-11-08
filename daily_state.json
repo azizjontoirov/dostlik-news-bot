@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794132047.376204,
+  "last_post_ts": 1794133842.1303341,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Ostona shahriga amaliy tashrifini yakunladi",
-      "headline": "Shavkat Mirziyoyev Ostona shahridagi amaliy tashrifini yakunladi 🇰🇿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/ec6656dfb124a67bcb6ba1f6e4a467f9ff179bb607e3bf5d1483e2069b60611b.webp",
-      "ts": 1793975449.838125
-    },
     {
       "source_title": "Ўзбекистоннинг 24 йиллик раҳбари Шароф Рашидов уй-музейидан репортаж",
       "headline": "Sharof Rashidov uy-muzeyidan eksklyuziv reportaj",
@@ -240,11 +234,17 @@
       "headline": "Muhtasham yuz yil” serialida tarixiy faktlar o'zgartirildi 📺🔍",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/85982b83a6196f9c5efff3afdece8b2d291cbd03a1e6f4874ccdc3bfe6931325.webp",
       "ts": 1794132045.372008
+    },
+    {
+      "source_title": "Тошкент — Сеул рейсида йўловчи аёл ҳаётини сақлаб қолган шифокор мукофотланди",
+      "headline": "Tashkent‑Seul reysida shifokor qahramon bo'ldi! 🏅",
+      "image": "https://www.gazeta.uz/media/img/2026/11/n2siklil33fs5cVv8Ww17941335859560_210389_og.webp?r=1794133649",
+      "ts": 1794133840.125873
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794130232.4645705,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 11
+    "count": 12
   }
 }

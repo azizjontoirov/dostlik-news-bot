@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794141037.3491714,
+  "last_post_ts": 1794142850.0796185,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda isitiş tizimi 9-noyabrdan bosqiçma-bosqiç işga tuşiriladi",
-      "headline": "Toshkentda issiqlik tizimi bosqichma‑bosqich ishga tushiriladi (9‑noyabr) 🔥",
-      "image": "https://storage.kun.uz/source/1/yMfZ5gu8up1KabTPmgFUElW8XrnPiw4C.webp",
-      "ts": 1793980853.5116174
-    },
     {
       "source_title": "O‘zbekistonda 2030-yilgacha ishsizlik darajasini 4 foizga tushirish rejalashtirilmoqda",
       "headline": "O'zbekistonda ishsizlikka qarshi yangi strategiya 🚀",
@@ -240,11 +234,17 @@
       "headline": "Pahta terimini 100% mashinaga o'tkazamiz!",
       "image": "https://www.gazeta.uz/media/img/2026/11/3rm7nh65otn60f29aCy17941323300132_210388_og.webp?r=1794138566",
       "ts": 1794139254.0167456
+    },
+    {
+      "source_title": "Navoiyda Damas’da 33 nafar bolani olib ketayotgan haydovchi aniqlandi",
+      "headline": "Navoiyda Damas mashinasida 33 nafar bola olib ketilmoqda!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/5dc4654261c911149f80f6218a4edd188eaa6a12a3b54df03da62aaa4f625c4f.webp",
+      "ts": 1794142848.0751095
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 14
+    "count": 15
   }
 }

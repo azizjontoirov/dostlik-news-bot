@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794070854.536822,
+  "last_post_ts": 1794105050.866452,
   "recent_posts": [
-    {
-      "source_title": "CAU 25 ta mamlakatdan tashrif buyurgan 500 dan ortiq bo‘lajak shifokorlar va dunyoning yetakchi ekspertlarini ikkita xalqaro tibbiyot tadbirida birlashtirdi",
-      "headline": "Kelajak tibbiyoti — 2026: Toshkentda 25 mamlakatdan 500+ shifokor yig'ildi 🌍🩺",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/b995e458495cf0da96af0b17a845b70a94bdabf9f6c3fca4f4c180c0c76dec83.webp",
-      "ts": 1793948449.3887415
-    },
     {
       "source_title": "Қоракўлдаги MTO газ-кимё мажмуаси лойиҳаси қайта кўриб чиқилади. Аввал у $5,2 млрдга баҳоланган",
       "headline": "Qorako'lda MTO gaz-kimyo majmuasi qayta ko'rib chiqilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Toshkent IES mazut yoqishdan voz kechishi mumkin 🔋🌱",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/714b793748a7ac70602c9961716360ecacda799685db2381c5ba4ff892667c83.webp",
       "ts": 1794070852.5338528
+    },
+    {
+      "source_title": "“Man Siti”ning eng yaxshi futbolchisi: Abduqodir Husanovning “Nottingem”ga qarshi o‘yini qanday baholandi?",
+      "headline": "Man Siti'ning eng yaxshi futbolchisi: Abduqodir Husanovning “Nottingem”ga qarshi o'yin bahosi ⚽️⭐️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/9d28196d1a5abc7203730f74a165e00742351a4d517868825554fec46d0c1cee.webp",
+      "ts": 1794105048.8619504
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794103242.4371536,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-07",
-    "count": 23
+    "day": "2026-11-08",
+    "count": 1
   }
 }

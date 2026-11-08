@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794126642.7225044,
+  "last_post_ts": 1794128450.4349682,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev Qozoğistonda Iordaniya podşohi Abdulla II bilan uçraşdi",
-      "headline": "Prezident Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi 🌍",
-      "image": "https://storage.kun.uz/source/1/PdqbQ6OpkN6XzOo433oqm43jHgPtEfAw.jpg",
-      "ts": 1793971844.9716985
-    },
     {
       "source_title": "Shavkat Mirziyoyev Iordaniya podshohi bilan uchrashuv oʻtkazdi",
       "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi",
@@ -240,11 +234,17 @@
       "headline": "Qonunchilik palatasi yonidagi ko'l qayta tiklanadi 🌿",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/cf3ce49810e8a7b02e3665df771742e512ce240a6ce4f923ec02e581d58a7c61.webp",
       "ts": 1794126640.7190971
+    },
+    {
+      "source_title": "Rossiyada majburlab uruşga yuborilgan özbekistonlik kvadrotsiklda harbiy lagerdan qoçib ketdi",
+      "headline": "Rossiyada majburlab urushga yuborilgan o'zbekistonlik kvadrotsiklda harbiy lagerdan qochib ketdi",
+      "image": "https://storage.kun.uz/source/1/tPGXje1KWx6WjPvUeSb34Ftb5A802OK6.png",
+      "ts": 1794128448.432457
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794124844.1701534,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 9
+    "count": 10
   }
 }

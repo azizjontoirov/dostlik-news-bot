@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794130232.4664104,
+  "last_post_ts": 1794132047.376204,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Iordaniya podshohi bilan uchrashuv oʻtkazdi",
-      "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan uchrashdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/8120a7ed2c7d4140a44833123ba94c64de194b2bdc299f193e40ecdca3e143a2.webp",
-      "ts": 1793973652.2677724
-    },
     {
       "source_title": "Shavkat Mirziyoyev Ostona shahriga amaliy tashrifini yakunladi",
       "headline": "Shavkat Mirziyoyev Ostona shahridagi amaliy tashrifini yakunladi 🇰🇿",
@@ -240,11 +234,17 @@
       "headline": "Rossiyada majburlab urushga yuborilgan o'zbekistonlik kvadrotsiklda harbiy lagerdan qochib ketdi",
       "image": "https://storage.kun.uz/source/1/tPGXje1KWx6WjPvUeSb34Ftb5A802OK6.png",
       "ts": 1794128448.432457
+    },
+    {
+      "source_title": "“Muhtasham yuz yil” serialida Xurram va Mohidavron haqidagi qaysi faktlar o‘zgartirilgan edi?",
+      "headline": "Muhtasham yuz yil” serialida tarixiy faktlar o'zgartirildi 📺🔍",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/85982b83a6196f9c5efff3afdece8b2d291cbd03a1e6f4874ccdc3bfe6931325.webp",
+      "ts": 1794132045.372008
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794130232.4645705,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 10
+    "count": 11
   }
 }

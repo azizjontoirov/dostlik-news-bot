@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794151846.2649992,
+  "last_post_ts": 1794153680.6989117,
   "recent_posts": [
-    {
-      "source_title": "OʻFA rahbariyati va terma jamoalar bosh murabbiylari ishtirokida yig‘ilish o‘tkazildi",
-      "headline": "O'FA rahbariyati va terma jamoalar bosh murabbiylari yig'ilishi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/0fa436297854db50e76bbd4af76b26fdb4b7eae227f94f6a7ad0583413f18ea3.webp",
-      "ts": 1794025842.9905946
-    },
     {
       "source_title": "Otabek Umarov nomzodi Xalqaro kurash assotsiatsiyasi prezidentligiga tavsiya etildi",
       "headline": "Otabek Umarov Xalqaro kurash assotsiatsiyasi prezidentligiga tavsiya etildi 🤼‍♂️",
@@ -240,11 +234,17 @@
       "headline": "Paxtakor “Sherlar”ni o'z maydonida mag'lub etdi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/e87ba14945b00179464a83eb73c1818389a4ed46e451a87b710acf88edf2d1a1.webp",
       "ts": 1794151844.2590036
+    },
+    {
+      "source_title": "Superliga. “Nasaf” “Buxoro”dan ustun keldi, ”Neftchi” esa “OKMK”ni kambek evaziga mag‘lub etdi",
+      "headline": "Superliga natijalari: “Nasaf” “Buxoro”ni mag'lub etdi, “Neftchi” “OKMK”ni kambek bilan yengdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/fd85ebedc9d2eaba4768971146db2d1870718cafdbd104a5464c7bf513868c33.webp",
+      "ts": 1794153678.694013
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 20
+    "count": 21
   }
 }

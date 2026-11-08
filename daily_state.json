@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794119434.957119,
+  "last_post_ts": 1794121253.6605082,
   "recent_posts": [
-    {
-      "source_title": "“BRB Lizing” MCHJ biznes uchun yangi moliyaviy imkoniyatlar yaratmoqda",
-      "headline": "BRB Lizing – tadbirkorlar uchun yangi lizing imkoniyati 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/fef34f80f881bccc0792e7b2cddaf8abd8f42a1b0d11915de8088b9f10b9112c.webp",
-      "ts": 1793964644.6413054
-    },
     {
       "source_title": "«Радикаллашув бир зумда содир бўлмайди» — Ўзбекистон ДХХ раиси Баҳодир Қурбонов",
       "headline": "Radikalashuv bir zumda sodir bo'lmaydi",
@@ -240,11 +234,17 @@
       "headline": "Yangi “Halqa” podstansiyasi – Toshkent va viloyatning elektr ta'minotini mustahkamlaydi",
       "image": "https://www.gazeta.uz/media/img/2026/11/6bronr3rjda73qKF49e17940648575212_210382_og.webp?r=1794117011",
       "ts": 1794117649.6672645
+    },
+    {
+      "source_title": "Hafta boshida O‘zbekistonga sovuq havo kirib kelishi boshlanadi",
+      "headline": "Hafta boshida sovuq havo kirib keladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/23900e2cb1e908974ff88ceeca1893aa23e95af0190fe7708c6baabc7ad45582.webp",
+      "ts": 1794121251.6552231
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794119434.9544144,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 6
+    "count": 7
   }
 }

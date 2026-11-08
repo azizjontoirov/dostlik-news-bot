@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794146454.0535371,
+  "last_post_ts": 1794148243.710028,
   "recent_posts": [
-    {
-      "source_title": "ИИББ хонандани ўлдиришга тарғиб қилган блогернинг видеоролиги бўйича текширув бошлади",
-      "headline": "IIBB blogerining video roliklari bo'yicha tekshiruv boshlandi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/8rv41p9tqhbfdXWo3t117939918326611_210352_og.webp?r=1793993006",
-      "ts": 1794018642.4246743
-    },
     {
       "source_title": "Oʻzbekiston toʻqqiz oyda gaz va benzin importini keskin oshirdi",
       "headline": "O'zbekistonda gaz va benzin importi keskin oshdi",
@@ -240,11 +234,17 @@
       "headline": "Turkiyada firibgarlikda gumonlangan O'zbekiston fuqarosi qolg'a olindi",
       "image": "https://storage.kun.uz/source/1/S_pfLFesZM2fv2DHd6UQ7xuG2QWrL75R.jpg",
       "ts": 1794146452.0500352
+    },
+    {
+      "source_title": "Qöşni davlatdan kirib kelgan avtomobil eşiklari orasiga kuçli taʼsir qiluvçi dorilar yaşirilgani maʼlum böldi",
+      "headline": "Chegara bojxonasida kuchli ta'sirli dorilar topildi",
+      "image": "https://storage.kun.uz/source/1/zOBnbscIKPF1MldOQz4o-fS5kdM3v39A.jpg",
+      "ts": 1794148241.7058074
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 17
+    "count": 18
   }
 }

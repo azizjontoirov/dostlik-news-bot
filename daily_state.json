@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794142850.0796185,
+  "last_post_ts": 1794144640.7497754,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 2030-yilgacha ishsizlik darajasini 4 foizga tushirish rejalashtirilmoqda",
-      "headline": "O'zbekistonda ishsizlikka qarshi yangi strategiya 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/153e3dc15faaa723e7344ee0d9cc9177f2eccf90e199028e4256700e98b37e44.webp",
-      "ts": 1793982645.473499
-    },
     {
       "source_title": "Тошкентда 9 ноябрдан иситиш мавсуми бошланади",
       "headline": "Toshkentda issiqlik mavsumi 9‑noyabrdan boshlanadi",
@@ -240,11 +234,17 @@
       "headline": "Navoiyda Damas mashinasida 33 nafar bola olib ketilmoqda!",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/5dc4654261c911149f80f6218a4edd188eaa6a12a3b54df03da62aaa4f625c4f.webp",
       "ts": 1794142848.0751095
+    },
+    {
+      "source_title": "Mahkumlar bilan uçraşuv, videomuloqot va telefon orqali suhbatlaşiş narxi oşişi mumkin",
+      "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin 📞💰",
+      "image": "https://storage.kun.uz/source/1/u9nSAezXBC2N7s_k8TCY7FcVOKYGz_xb.webp",
+      "ts": 1794144638.7449918
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 15
+    "count": 16
   }
 }

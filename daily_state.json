@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794148243.710028,
+  "last_post_ts": 1794150051.484014,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbekiston toʻqqiz oyda gaz va benzin importini keskin oshirdi",
-      "headline": "O'zbekistonda gaz va benzin importi keskin oshdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/89a8e4f2e0ed2f4ee9360a52e4f8d4b2d73929d1ffcda5dd596a2651edcd48b8.webp",
-      "ts": 1794020453.3572035
-    },
     {
       "source_title": "Bankomatdan pul chiqmasa, operatsiyaning “muvaffaqiyatli” qayd etilgani bank uchun yetarli dalil bo‘lmaydi — Markaziy bank",
       "headline": "Bankomatda pul chiqmasa, “muvaffaqiyatli” deb belgilash yetarli emas ⚠️",
@@ -240,11 +234,17 @@
       "headline": "Chegara bojxonasida kuchli ta'sirli dorilar topildi",
       "image": "https://storage.kun.uz/source/1/zOBnbscIKPF1MldOQz4o-fS5kdM3v39A.jpg",
       "ts": 1794148241.7058074
+    },
+    {
+      "source_title": "Poytaxt va Toşkent viloyatining bir qismidagi elektr yuklamalarini qayta taqsimlovçi «Halqa» podstansiyasiga kuçlaniş berildi",
+      "headline": "Halqa” podstansiyasi – Toshkent elektr ta'minotini mustahkamlaydi",
+      "image": "https://storage.kun.uz/source/1/TWQns1fgGQtM9PwLh0QHjaKSSV3A48PC.jpg",
+      "ts": 1794150049.4805555
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 18
+    "count": 19
   }
 }

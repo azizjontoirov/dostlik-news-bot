@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794123040.5813036,
+  "last_post_ts": 1794124844.1725402,
   "recent_posts": [
     {
       "source_title": "HUMO, Octobank va UZINFOCOM Toshkent metropolitenida yo‘l haqini kaft bilan to‘lashni yo‘lga qo‘ydi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794119434.9544144,
+    "last_ad_ts": 1794124844.1701534,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 64,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 62,
+      "ad_water": 63,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3
@@ -261,14 +261,14 @@
     "permanent_index": 2,
     "day": "2026-11-08",
     "today": {
-      "ad_water": 2,
+      "ad_water": 3,
       "ad_flour": 2
     },
     "last_shown": {
       "ad_flour": 1794119434.954412,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794114048.315487,
+      "ad_water": 1794124844.1701515,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

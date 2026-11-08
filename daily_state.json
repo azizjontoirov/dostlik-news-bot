@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794155445.1823566,
+  "last_post_ts": 1794157256.8359754,
   "recent_posts": [
-    {
-      "source_title": "Xitoyning xususiy raketasi bir yöla 18 ta internet sunʼiy yöldoşini orbitaga çiqardi",
-      "headline": "Xitoyning xususiy raketasi 18 ta internet sun'iy yöldoşini orbitaga chiqardi 🚀",
-      "image": "https://storage.kun.uz/source/1/7KYbIMtN2v11sKu_uyRmO5DD1io7lzje.webp",
-      "ts": 1794031249.8375676
-    },
     {
       "source_title": "Işlab çiqarişdan eksportgaça: Toşkentda sanoat körgazmasi taşkil etildi",
       "headline": "To'shkentda sanoat ko'rgazmasi tashkil etildi",
@@ -240,11 +234,17 @@
       "headline": "Jizzaxda davlat zaxirasidagi yer sotuviga uringan shaxs ushlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/bbcfa614e9af2473f81a654c8fcb7d109a2cd7838c42c114f6067da344baa1cb.webp",
       "ts": 1794155443.1781058
+    },
+    {
+      "source_title": "Ўзбекистонда 9−15 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
+      "headline": "9‑15 noyabr ob‑havo prognozi 🌦️",
+      "image": "https://www.gazeta.uz/media/img/2026/05/66oi48n66kp10pY4DP917796907116613_210392_og.webp?r=1794156803",
+      "ts": 1794157254.385552
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 22
+    "count": 23
   }
 }

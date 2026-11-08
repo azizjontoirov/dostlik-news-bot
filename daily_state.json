@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794137440.2030272,
+  "last_post_ts": 1794139256.0211878,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonga sovuq havo massalari kirib keladi. Ayrim hududlarda harorat 7 darajagacha sovuq bo‘ladi",
-      "headline": "Sovuq havo massalari O'zbekistonga kiradi (9‑12 noyabr) ❄️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/bb047e9e4d87684b4aa7f05376205e29648c75aa55a06e71842be5f0e4bb4aee.webp",
-      "ts": 1793979050.1349275
-    },
     {
       "source_title": "Toşkentda isitiş tizimi 9-noyabrdan bosqiçma-bosqiç işga tuşiriladi",
       "headline": "Toshkentda issiqlik tizimi bosqichma‑bosqich ishga tushiriladi (9‑noyabr) 🔥",
@@ -240,11 +234,17 @@
       "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/eb2fae601f665db60fe92ba3353c9bc6f5362a0315efcd692cef97142e440a26.webp",
       "ts": 1794137438.198695
+    },
+    {
+      "source_title": "«2027 йилдан пахтани 100 фоиз машинада терамиз» — қишлоқ хўжалиги вазири",
+      "headline": "Pahta terimini 100% mashinaga o'tkazamiz!",
+      "image": "https://www.gazeta.uz/media/img/2026/11/3rm7nh65otn60f29aCy17941323300132_210388_og.webp?r=1794138566",
+      "ts": 1794139254.0167456
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794135646.843798,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 13
+    "count": 14
   }
 }

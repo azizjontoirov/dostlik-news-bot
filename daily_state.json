@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794108635.9996016,
+  "last_post_ts": 1794110453.639705,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистондан Қирғизистонга ўтган Кара-Жантак қишлоғи аҳолисига уй-жой ҳужжатлари берилди",
-      "headline": "Karajantak qishlog'ida uy-joy hujjatlari topshirildi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/8fhehe04u5q55DYDqAR17939524998913_210297_og.webp?r=1793953475",
-      "ts": 1793953844.9792454
-    },
     {
       "source_title": "Samarqandda to‘rt kishini umraga yuborish uchun 5 ming dollar talab qilgan turfirma operatori ushlandi",
       "headline": "Samarqandda umra firibgarligi – 5 000 $ talab qilgan operator ushlangan",
@@ -240,11 +234,17 @@
       "headline": "Eldor Shomurodov “Gyoztepe”ga qarshi qanday baholandi? ⚽️",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/254d4cd7ccf345538d95ca763503974027e4502ff8d56e20fd542f945ccf2991.webp",
       "ts": 1794106853.8108842
+    },
+    {
+      "source_title": "Turkiya Superligasi. Shomurodov to‘liq o‘ynagan bahsda “Bashakshehir” muhim g‘alabaga erishdi",
+      "headline": "Turkiya Superligasida Shomurodov yetakchilik qildi – “Bashakshehir” 2:1 g'alaba qozondi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/07/82848b83730a60b8ec7fd79d9b52b0f50add0560b398f871479412cf3bd39bca.webp",
+      "ts": 1794110451.6360807
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794108635.9973094,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 2
+    "count": 3
   }
 }

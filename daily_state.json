@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794144640.7497754,
+  "last_post_ts": 1794146454.0535371,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда 9 ноябрдан иситиш мавсуми бошланади",
-      "headline": "Toshkentda issiqlik mavsumi 9‑noyabrdan boshlanadi",
-      "image": "https://www.gazeta.uz/media/img/2023/02/SKHXtW16757713053020_b.jpg",
-      "ts": 1793984454.008038
-    },
     {
       "source_title": "ИИББ хонандани ўлдиришга тарғиб қилган блогернинг видеоролиги бўйича текширув бошлади",
       "headline": "IIBB blogerining video roliklari bo'yicha tekshiruv boshlandi",
@@ -240,11 +234,17 @@
       "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin 📞💰",
       "image": "https://storage.kun.uz/source/1/u9nSAezXBC2N7s_k8TCY7FcVOKYGz_xb.webp",
       "ts": 1794144638.7449918
+    },
+    {
+      "source_title": "Firibgarlikda gumonlanib qidiruvda bölgan Özbekiston fuqarosi Turkiyada qölga olindi",
+      "headline": "Turkiyada firibgarlikda gumonlangan O'zbekiston fuqarosi qolg'a olindi",
+      "image": "https://storage.kun.uz/source/1/S_pfLFesZM2fv2DHd6UQ7xuG2QWrL75R.jpg",
+      "ts": 1794146452.0500352
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794141037.3469517,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 16
+    "count": 17
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794115843.6117535,
+  "last_post_ts": 1794117651.6705728,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev: kibermakon asosiy töqnaşuvlar maydoniga aylandi",
-      "headline": "KIBERMAKON – YANGI XAVF MAYDONIGA AYLANDI",
-      "image": "https://storage.kun.uz/source/1/b60jEhmgUrcV9YF_3xxjdiU-D2WzraVw.webp",
-      "ts": 1793961045.1073062
-    },
     {
       "source_title": "“BRB Lizing” MCHJ biznes uchun yangi moliyaviy imkoniyatlar yaratmoqda",
       "headline": "BRB Lizing – tadbirkorlar uchun yangi lizing imkoniyati 🚀",
@@ -240,11 +234,17 @@
       "headline": "Firibgarlikda gumonlangan o'zbeksiz Turkiyada ushlanib, vatanga qaytarildi 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/ba60e600303379e1aef25a8b8852c47f591c8fadb4bd6324ee1756cb473c0a3e.webp",
       "ts": 1794115841.6075516
+    },
+    {
+      "source_title": "Янги «Ҳалқа» подстанцияси Тошкент шаҳри ва вилоятининг электр таъминоти ишончлилигини оширади",
+      "headline": "Yangi “Halqa” podstansiyasi – Toshkent va viloyatning elektr ta'minotini mustahkamlaydi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/6bronr3rjda73qKF49e17940648575212_210382_og.webp?r=1794117011",
+      "ts": 1794117649.6672645
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794114048.3154893,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 5
+    "count": 6
   }
 }

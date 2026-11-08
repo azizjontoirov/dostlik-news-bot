@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794135646.8463783,
+  "last_post_ts": 1794137440.2030272,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистоннинг 24 йиллик раҳбари Шароф Рашидов уй-музейидан репортаж",
-      "headline": "Sharof Rashidov uy-muzeyidan eksklyuziv reportaj",
-      "image": "https://www.gazeta.uz/media/img/2026/11/2f2i4dlbgh1laV3mxGP17939705536948_210262_og.webp?r=1793977222",
-      "ts": 1793977253.7424865
-    },
     {
       "source_title": "O‘zbekistonga sovuq havo massalari kirib keladi. Ayrim hududlarda harorat 7 darajagacha sovuq bo‘ladi",
       "headline": "Sovuq havo massalari O'zbekistonga kiradi (9‑12 noyabr) ❄️",
@@ -240,11 +234,17 @@
       "headline": "Tashkent‑Seul reysida shifokor qahramon bo'ldi! 🏅",
       "image": "https://www.gazeta.uz/media/img/2026/11/n2siklil33fs5cVv8Ww17941335859560_210389_og.webp?r=1794133649",
       "ts": 1794133840.125873
+    },
+    {
+      "source_title": "O‘zbekistonda mahkumlar bilan uchrashuv va telefon orqali suhbatlar narxi oshishi mumkin",
+      "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/eb2fae601f665db60fe92ba3353c9bc6f5362a0315efcd692cef97142e440a26.webp",
+      "ts": 1794137438.198695
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794135646.843798,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 12
+    "count": 13
   }
 }

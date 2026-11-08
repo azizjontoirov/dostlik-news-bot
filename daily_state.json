@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794128450.4349682,
+  "last_post_ts": 1794130232.4664104,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev Iordaniya podshohi bilan uchrashuv oʻtkazdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794124844.1701534,
+    "last_ad_ts": 1794130232.4645705,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 64,
+      "ad_flour": 65,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 63,
@@ -262,10 +262,10 @@
     "day": "2026-11-08",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794119434.954412,
+      "ad_flour": 1794130232.4645686,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794124844.1701515,

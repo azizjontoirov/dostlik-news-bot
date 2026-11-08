@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794110453.639705,
+  "last_post_ts": 1794112240.2448127,
   "recent_posts": [
-    {
-      "source_title": "Samarqandda to‘rt kishini umraga yuborish uchun 5 ming dollar talab qilgan turfirma operatori ushlandi",
-      "headline": "Samarqandda umra firibgarligi – 5 000 $ talab qilgan operator ushlangan",
-      "image": "https://gocdn.daryo.uz/large/2026/11/06/0cf8b44f1346b9c383ed6168e2ad0438cd3c3c24e7e60ffdbd76ee2214780d3c.webp",
-      "ts": 1793955654.8355486
-    },
     {
       "source_title": "Рақобат қўмитаси 132 та қурилиш ташкилоти шартномасида истеъмолчи ҳуқуқларини чекловчи шартларни аниқлади",
       "headline": "Raqobat qo'mitasi qurilish shartnomalarida iste'molchi huquqlarini himoya qildi",
@@ -240,11 +234,17 @@
       "headline": "Turkiya Superligasida Shomurodov yetakchilik qildi – “Bashakshehir” 2:1 g'alaba qozondi",
       "image": "https://gocdn.daryo.uz/large/2026/11/07/82848b83730a60b8ec7fd79d9b52b0f50add0560b398f871479412cf3bd39bca.webp",
       "ts": 1794110451.6360807
+    },
+    {
+      "source_title": "Qurilişda yana mojaro, tezlaşgan inflyatsiya va talabalarga majburiyat - hafta dayjesti",
+      "headline": "Qurilishda mojaro va tezlashgan inflyatsiya",
+      "image": "https://storage.kun.uz/source/1/EcJdC4NpbUYoGlBarkDC6CrVW0cZyOE2.jpg",
+      "ts": 1794112238.2410417
     }
   ],
   "morning_sent_date": "2026-11-08",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794108635.9973094,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-08",
-    "count": 3
+    "count": 4
   }
 }

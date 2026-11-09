@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794232853.2529438,
+  "last_post_ts": 1794234656.3414907,
   "recent_posts": [
-    {
-      "source_title": "“Man Siti”ning eng yaxshi futbolchisi: Abduqodir Husanovning “Nottingem”ga qarshi o‘yini qanday baholandi?",
-      "headline": "Man Siti'ning eng yaxshi futbolchisi: Abduqodir Husanovning “Nottingem”ga qarshi o'yin bahosi ⚽️⭐️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/9d28196d1a5abc7203730f74a165e00742351a4d517868825554fec46d0c1cee.webp",
-      "ts": 1794105048.8619504
-    },
     {
       "source_title": "Eldor Shomurodovning “Gyoztepe”ga qarshi o‘yini qanday baholandi?",
       "headline": "Eldor Shomurodov “Gyoztepe”ga qarshi qanday baholandi? ⚽️",
@@ -240,11 +234,17 @@
       "headline": "Migrantlar O'zbekistonga to'qqiz oyda 15,2 mlrd dollar yubordi 💸📈",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/bfecaadf4aec615f6b565644827c746eeb0c2323b49cfd82584c04fbd3b36e1f.webp",
       "ts": 1794232851.2477973
+    },
+    {
+      "source_title": "O‘zbekistonda endi jarima 60 kun ichida to‘lanmasa, avtomobil jarima maydonchasiga olib ketilishi mumkin",
+      "headline": "Jarima to'lanmasa, avtomobil maydonchaga olib ketiladi (60 kun ichida) 🚨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/64eaabcc71be4f1da7a33e139ecb89cd7d35ec8a2b72c9024b6d4dbf02c5274b.webp",
+      "ts": 1794234654.3386328
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 17
+    "count": 18
   }
 }

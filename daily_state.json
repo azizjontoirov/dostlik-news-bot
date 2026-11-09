@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794222048.846583,
+  "last_post_ts": 1794223841.2959201,
   "recent_posts": [
-    {
-      "source_title": "Dunyoning eng kuchli futbol ligalari e’lon qilindi. Superliga nechanchi o‘rinda?",
-      "headline": "Dunyoning eng kuchli futbol ligalari e'lon qilindi! 🌍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/78298207b6510ac6ea7687825479da04aaaef242861cf632eb5ed673ddc80cd0.webp",
-      "ts": 1794063651.3931177
-    },
     {
       "source_title": "AQSH—Xitoy raqobatidan boylik orttirayotgan mamlakatlar qaysi?",
       "headline": "AQSH‑Xitoy raqobati va O'rta Osiyo boyliklari 🌍💰",
@@ -240,11 +234,17 @@
       "headline": "Prezident: Mahsulot bilan birga injiniring xizmatlarini ham eksport qilishimiz kerak",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/35686cc4c34d65fef970ffca23e8cab8eac14c9599605c1217e41a1dcb82a837.webp",
       "ts": 1794220247.3073502
+    },
+    {
+      "source_title": "“Men uchun biznes - bu mavjud imkoniyatlardan foydalanish emas, balki yangi imkoniyatlarni yaratish” — Railway media asoschisi Ikromjon Mamadjanov bilan suhbat",
+      "headline": "Biznesda yangi imkoniyatlar yaratish – Ikromjon Mamadjanov bilan suhbat",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/972d035e0f7e98d37321b8a618ebf92553fbae5d03a601639b7e3d26a6384997.webp",
+      "ts": 1794223839.2918036
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794222048.8435543,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 12
+    "count": 13
   }
 }

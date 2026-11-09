@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794196854.0247867,
+  "last_post_ts": 1794198644.7997162,
   "recent_posts": [
-    {
-      "source_title": "«Bir darvozaga öyin». Nega uy oliş ilinjidagi ön minglab odamlar trlnlab pulini yöqotyapti?",
-      "headline": "Uy-joy muammosi: Nega minglab odamlar pulini yo'qotmoqda?",
-      "image": "https://storage.kun.uz/source/1/67esB-vCplnT1xZ0fyZMr1XmRPK7pcal.jpg",
-      "ts": 1794042052.520958
-    },
     {
       "source_title": "Тошкентда автобус ёниб кетди",
       "headline": "Toshkentda avtobus yonib ketdi! 🔥",
@@ -240,11 +234,17 @@
       "headline": "Apex Development va Daikin strategik hamkorlikni yo'lga qo'ydi 🤝🏢",
       "image": "https://storage.kun.uz/source/1/HWAHcT-wIkO9lEzswl3JJNYA3IMJdtpe.jpg",
       "ts": 1794196852.0203536
+    },
+    {
+      "source_title": "«Halol bölişi - hali yaxşi investitsiya degani emas» - Xondamir Nusratxöjayev islom moliyasi va investitsiya platformalari haqida | Nima dard?",
+      "headline": "Halol bo'lish – yaxshi investitsiya demak emas 📈💡",
+      "image": "https://storage.kun.uz/source/1/9FsaaTagvH9N25gql0SBUyJEWoC2nnzU.jpg",
+      "ts": 1794198642.7956638
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794195036.059363,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 3
+    "count": 4
   }
 }

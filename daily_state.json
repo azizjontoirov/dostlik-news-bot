@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794207657.4648247,
+  "last_post_ts": 1794209442.2269888,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda yarim stavka farroshlik uchun 2 ming dollar talab qilgan maktab direktorining ozodligi 3 yilga cheklandi",
-      "headline": "Surxondaryoda maktab direktorining ozodligi 3 yilga cheklandi 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/d46a0587fed3174b43f8ced3de0ee8192e7970959104aa7bf1836d9336b1e99c.webp",
-      "ts": 1794052850.4173467
-    },
     {
       "source_title": "Toshkentda avtobus haydovchisi baxtsiz hodisa oqibatida vafot etdi",
       "headline": "Toshkentda avtobus haydovchisi baxtsiz hodisa oqibatida vafot etdi",
@@ -240,11 +234,17 @@
       "headline": "Nukus shahrida 50 ming aholi uchun yangi “Nukus City” massivi barpo etiladi 🏗️",
       "image": "https://www.gazeta.uz/media/img/2019/11/517O0s15735626824381_b.jpg",
       "ts": 1794207655.4614456
+    },
+    {
+      "source_title": "O‘zbekistonda reklama joylayotgan 110 nafar bloger nazoratga olindi, 12 nafari javobgarlikka tortildi",
+      "headline": "Reklama qonunchiligini buzgan 12 bloger javobgarlikka tortildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/84e11e779b2efb84d7358440590e0865b7aa64d02d97fa11a0b0173b1f6f4c2e.webp",
+      "ts": 1794209440.18279
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794205836.1385736,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 7
+    "count": 8
   }
 }

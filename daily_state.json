@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794229349.8811898,
+  "last_post_ts": 1794231044.127387,
   "recent_posts": [
-    {
-      "source_title": "Superliga. “Navbahor” mehmonda “Qizilqum” ustidan g‘alaba qozondi",
-      "headline": "Navbahor” “Qizilqum”ni mag'lub etdi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/6fa6677398a1d39186bd3477fcd9f79aa82a5d3082d074066d35f3f9c30646ad.webp",
-      "ts": 1794069042.4878273
-    },
     {
       "source_title": "Toshkent IES mazut yoqishdan voz kechishi mumkin",
       "headline": "Toshkent IES mazut yoqishdan voz kechishi mumkin 🔋🌱",
@@ -240,11 +234,17 @@
       "headline": "ERGO Samarqandda rasmiy shourumini ochdi 🏢✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/25af6832c93fb14a364c76963cac4abdb0f213efd52e0801e246c20b79604f6a.webp",
       "ts": 1794229347.8781428
+    },
+    {
+      "source_title": "“PSJ” darvozaboni O‘zbekistonga parvoz qilish oldidan yukini yo‘qotib qo‘ydi",
+      "headline": "PSJ darvozaboni Safonovning yukini yo'qotdi – o'rtoqlik uchrashuvi oldidan noxush holat",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/9e31287372fe64cb5d0ce25243ff1f2e22b21fed482b46c6c3845d302ee3640e.webp",
+      "ts": 1794231042.1230114
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 15
+    "count": 16
   }
 }

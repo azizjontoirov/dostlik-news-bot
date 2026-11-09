@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794214850.8305666,
+  "last_post_ts": 1794216635.5603468,
   "recent_posts": [
     {
       "source_title": "“Bu musobaqalarda mağlublar bölmadi” - Şavkat Mirziyoyev Prezident Olimpiadasi ğolib va iştirokçilariga tabrik yölladi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794211244.6382718,
+    "last_ad_ts": 1794216635.5550928,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 68,
+      "ad_flour": 69,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 67,
@@ -262,10 +262,10 @@
     "day": "2026-11-09",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794205836.1385715,
+      "ad_flour": 1794216635.555091,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794211244.6382692,

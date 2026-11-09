@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794200443.8477845,
+  "last_post_ts": 1794202249.630211,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда автобус ёниб кетди",
-      "headline": "Toshkentda avtobus yonib ketdi! 🔥",
-      "image": "https://www.gazeta.uz/media/img/2026/11/6r09f1r9p3oueMUQdbK17940452635128_210371_og.webp?r=1794045499",
-      "ts": 1794045649.356091
-    },
     {
       "source_title": "Toşkentda yölovçi avtobusda yonğin çiqdi",
       "headline": "Toshkentda yölovchi avtobusda yonǵın! 🔥",
@@ -240,11 +234,17 @@
       "headline": "Halol bo'lish – yaxshi investitsiya demak emas 📈💡",
       "image": "https://storage.kun.uz/source/1/9FsaaTagvH9N25gql0SBUyJEWoC2nnzU.jpg",
       "ts": 1794198642.7956638
+    },
+    {
+      "source_title": "“Bittasini ham ishdan olmadim” — Erkinjon Turdimov 5 ta rektor ishdan olingani haqidagi xabarlarni rad etdi",
+      "headline": "Ta'lim yangiliklari: “Bittasini ham ishdan olmadim” — Erkinjon Turdimov",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/a01f8fe675b44ff4a2bea2412262c704b76cd97ad592cc15eb52611d13a02fb2.webp",
+      "ts": 1794202247.625607
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794200443.8455567,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 4
+    "count": 5
   }
 }

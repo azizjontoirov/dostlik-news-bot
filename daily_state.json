@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794234656.3414907,
+  "last_post_ts": 1794236455.924281,
   "recent_posts": [
-    {
-      "source_title": "Eldor Shomurodovning “Gyoztepe”ga qarshi o‘yini qanday baholandi?",
-      "headline": "Eldor Shomurodov “Gyoztepe”ga qarshi qanday baholandi? ⚽️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/254d4cd7ccf345538d95ca763503974027e4502ff8d56e20fd542f945ccf2991.webp",
-      "ts": 1794106853.8108842
-    },
     {
       "source_title": "Turkiya Superligasi. Shomurodov to‘liq o‘ynagan bahsda “Bashakshehir” muhim g‘alabaga erishdi",
       "headline": "Turkiya Superligasida Shomurodov yetakchilik qildi – “Bashakshehir” 2:1 g'alaba qozondi",
@@ -240,11 +234,17 @@
       "headline": "Jarima to'lanmasa, avtomobil maydonchaga olib ketiladi (60 kun ichida) 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/64eaabcc71be4f1da7a33e139ecb89cd7d35ec8a2b72c9024b6d4dbf02c5274b.webp",
       "ts": 1794234654.3386328
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev 10–11-noyabr kunlari Antaliyada boʻladi",
+      "headline": "Shavkat Mirziyoyev Antaliyada iqlim sammitida 🇺🇿🌍",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/dc926d0f96bfe65087f17991972e029fb740cc4252f6bf591d4e3a558543d873.webp",
+      "ts": 1794236453.921107
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 18
+    "count": 19
   }
 }

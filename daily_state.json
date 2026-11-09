@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794193255.6632953,
+  "last_post_ts": 1794195036.0644453,
   "recent_posts": [
     {
       "source_title": "\"Kapitalbank\"ning Visa virtual kartalari bilan endi smartfon orqali to‘lov qilish mumkin",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794189647.6334467,
+    "last_ad_ts": 1794195036.059363,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 66,
+      "ad_flour": 67,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 65,
@@ -261,10 +261,11 @@
     "permanent_index": 2,
     "day": "2026-11-09",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1794141037.346949,
+      "ad_flour": 1794195036.0593612,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794189647.6334436,

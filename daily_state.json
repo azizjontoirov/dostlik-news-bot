@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794211244.6405728,
+  "last_post_ts": 1794213044.0150435,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda avtobus haydovchisi baxtsiz hodisa oqibatida vafot etdi",
-      "headline": "Toshkentda avtobus haydovchisi baxtsiz hodisa oqibatida vafot etdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/3d15f1d8d8359d9384314d7cf3c4c3520279c7c2da8ac67d6d213a56ffdb1765.webp",
-      "ts": 1794056456.504744
-    },
     {
       "source_title": "Biznes-şeriklar örtasida nizo: “Imarat işi”da voqealar rivoji",
       "headline": "Biznes‑şeriklar ortasida nizo: “Imarat işi”da voqealar rivoji ⚖️",
@@ -240,11 +234,17 @@
       "headline": "Reklama qonunchiligini buzgan 12 bloger javobgarlikka tortildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/84e11e779b2efb84d7358440590e0865b7aa64d02d97fa11a0b0173b1f6f4c2e.webp",
       "ts": 1794209440.18279
+    },
+    {
+      "source_title": "O‘zbekistonda davlat xaridlarining uch yillik rejalari oldindan e’lon qilinadi",
+      "headline": "Davlat xaridlari uch yillik rejalari e'lon qilindi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/bc6a01f81054f47fee4e3cd6b36297b1e4db4e6d6708a43822e3f346ea06789b.webp",
+      "ts": 1794213042.0102565
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794211244.6382718,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 8
+    "count": 9
   }
 }

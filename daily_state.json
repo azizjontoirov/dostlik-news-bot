@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794218412.5546985,
+  "last_post_ts": 1794220249.311634,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
-      "headline": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/56acb8cede271e16c20f4313346bd39b32f61e39c08cfbd0ca1fca29b576d8a4.webp",
-      "ts": 1794061843.5120072
-    },
     {
       "source_title": "Dunyoning eng kuchli futbol ligalari e’lon qilindi. Superliga nechanchi o‘rinda?",
       "headline": "Dunyoning eng kuchli futbol ligalari e'lon qilindi! 🌍",
@@ -240,11 +234,17 @@
       "headline": "Murad Buildings Regnum Plaza ochildi – zamonaviy uy-joy, oilaviy qadriyatlar va milliy an'analarga hurmat!",
       "image": "https://storage.kun.uz/source/1/MGtm5U9PfkhdnO5ejqeaCOnkP-qGoBAs.jpg",
       "ts": 1794218410.5514476
+    },
+    {
+      "source_title": "“Biz faqat mahsulot emas, injiniring xizmatlarini ham eksport qilishimiz kerak” — prezident",
+      "headline": "Prezident: Mahsulot bilan birga injiniring xizmatlarini ham eksport qilishimiz kerak",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/35686cc4c34d65fef970ffca23e8cab8eac14c9599605c1217e41a1dcb82a837.webp",
+      "ts": 1794220247.3073502
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794216635.5550928,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 11
+    "count": 12
   }
 }

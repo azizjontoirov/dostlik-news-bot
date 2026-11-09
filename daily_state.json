@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794198644.7997162,
+  "last_post_ts": 1794200443.8477845,
   "recent_posts": [
     {
       "source_title": "Тошкентда автобус ёниб кетди",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794195036.059363,
+    "last_ad_ts": 1794200443.8455567,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 67,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 65,
+      "ad_water": 66,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3
@@ -261,14 +261,14 @@
     "permanent_index": 2,
     "day": "2026-11-09",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1
     },
     "last_shown": {
       "ad_flour": 1794195036.0593612,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794189647.6334436,
+      "ad_water": 1794200443.8455544,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

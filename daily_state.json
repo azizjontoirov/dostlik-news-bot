@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794191483.8205237,
+  "last_post_ts": 1794193255.6632953,
   "recent_posts": [
-    {
-      "source_title": "Farg‘onada 105 bola zaharlangan ish bo‘yicha korxona rahbari va texnologi qamaldi",
-      "headline": "Farg'onada 105 bola zaharlanishi – korxona rahbari va texnologiya qamaldi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/f298a16a6cb6ba23335b1cbe6f00450973346d16f87512a70f3feb33f672e32d.webp",
-      "ts": 1794036638.2138572
-    },
     {
       "source_title": "\"Kapitalbank\"ning Visa virtual kartalari bilan endi smartfon orqali to‘lov qilish mumkin",
       "headline": "Kapitalbank Visa virtual kartalari Apple Pay'da! 📱💳",
@@ -240,11 +234,17 @@
       "headline": "Jizzaxda davlat zaxirasidagi 80 sotix yer sotishga uringan shaxs qolga olindi 🚨",
       "image": "https://storage.kun.uz/source/1/QeaCbD0wtxJiwrFCTmDJseX_JwMtrXZ7.jpg",
       "ts": 1794191481.817156
+    },
+    {
+      "source_title": "Qoraqalpog‘istonda hamshiralikka ishga joylashtirish uchun 5 ming dollar so‘ragan shaxs ushlandi",
+      "headline": "Qoraqalpog'istonda hamshira lavozimiga pora olishga urinish qo'lga olindi 💰🚓",
+      "image": "https://gocdn.daryo.uz/large/2026/11/08/4d4afd187a5d07dd96f40000c417e20ac3ddc47d766354d6f06d21aa0bbc97d5.webp",
+      "ts": 1794193253.6588166
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794189647.6334467,
@@ -278,6 +278,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 1
+    "count": 2
   }
 }

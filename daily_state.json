@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794216635.5603468,
+  "last_post_ts": 1794218412.5546985,
   "recent_posts": [
-    {
-      "source_title": "“Bu musobaqalarda mağlublar bölmadi” - Şavkat Mirziyoyev Prezident Olimpiadasi ğolib va iştirokçilariga tabrik yölladi",
-      "headline": "Bu musobaqalarda mağlublar bölmadi” – Şavkat Mirziyoyev Prezident Olimpiadasi g'oliblari va ishtirokchilariga tabrik!",
-      "image": "https://storage.kun.uz/source/1/KWX7FABGdtEuus2mPVMa-BLCIX9hQihP.jpg",
-      "ts": 1794060049.7529569
-    },
     {
       "source_title": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
       "headline": "Shavkat Mirziyoyev tibbiyot xodimlarini tabrikladi",
@@ -240,11 +234,17 @@
       "headline": "Yaxshi uxlash uchun qaysi moddalar kerak? 🛌✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/3e49724de266b2e6f460679f2b73f97419bc1f1a7dbfaca2eb00a1f13a843857.webp",
       "ts": 1794214848.8267486
+    },
+    {
+      "source_title": "Murad Buildings kompaniyasi Regnum Plaza turar joy majmuasining tantanali oçiliş marosimini ötkazdi",
+      "headline": "Murad Buildings Regnum Plaza ochildi – zamonaviy uy-joy, oilaviy qadriyatlar va milliy an'analarga hurmat!",
+      "image": "https://storage.kun.uz/source/1/MGtm5U9PfkhdnO5ejqeaCOnkP-qGoBAs.jpg",
+      "ts": 1794218410.5514476
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794216635.5550928,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 10
+    "count": 11
   }
 }

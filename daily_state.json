@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794225651.9047225,
+  "last_post_ts": 1794227437.0215554,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonliklar Yaponiyada oshpazlik bo‘yicha o‘qitilib, ishga joylashtiriladi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794222048.8435543,
+    "last_ad_ts": 1794227437.0195177,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 69,
+      "ad_flour": 70,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 68,
@@ -262,10 +262,10 @@
     "day": "2026-11-09",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1794216635.555091,
+      "ad_flour": 1794227437.0195148,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794222048.8435528,

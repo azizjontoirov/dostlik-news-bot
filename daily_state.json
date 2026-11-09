@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794227437.0215554,
+  "last_post_ts": 1794229349.8811898,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonliklar Yaponiyada oshpazlik bo‘yicha o‘qitilib, ishga joylashtiriladi",
-      "headline": "Yaponiya oshpazlik dasturi – 40 o'zbek fuqarosi uchun yangi imkoniyat 🍣👩‍🍳",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/98d722f1478514721dd007caf6f96d8f093794c3d1903c746c1cb6d4da286008.webp",
-      "ts": 1794067249.2188962
-    },
     {
       "source_title": "Superliga. “Navbahor” mehmonda “Qizilqum” ustidan g‘alaba qozondi",
       "headline": "Navbahor” “Qizilqum”ni mag'lub etdi!",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda yangi ishlab chiqarish quvvatlari!",
       "image": "https://www.gazeta.uz/media/img/2022/06/ny5kz716554674468985_b.jpg",
       "ts": 1794225649.9000225
+    },
+    {
+      "source_title": "ERGO Samarqandda rasmiy shourumini ochdi",
+      "headline": "ERGO Samarqandda rasmiy shourumini ochdi 🏢✨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/25af6832c93fb14a364c76963cac4abdb0f213efd52e0801e246c20b79604f6a.webp",
+      "ts": 1794229347.8781428
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 14
+    "count": 15
   }
 }

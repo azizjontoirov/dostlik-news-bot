@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794205836.1405728,
+  "last_post_ts": 1794207657.4648247,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон шахматчилари БААдаги ёшлар ўртасидаги жаҳон чемпионатида учта медални қўлга киритди",
-      "headline": "O'zbekiston shaxmatchilari jahon chempionatida uchta medallarni qo'lga kiritdi 🏅",
-      "image": "https://www.gazeta.uz/media/img/2026/11/p2s27h2510ip5Y6j9do17940374217745_210375_og.webp?r=1794050479",
-      "ts": 1794051037.307797
-    },
     {
       "source_title": "Surxondaryoda yarim stavka farroshlik uchun 2 ming dollar talab qilgan maktab direktorining ozodligi 3 yilga cheklandi",
       "headline": "Surxondaryoda maktab direktorining ozodligi 3 yilga cheklandi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Reklama qonunchiligini buzgan 12 blogger javobgarlikka tortildi",
       "image": "https://www.gazeta.uz/media/img/2026/03/81kb6n982s8b9rk4y3B17724293271197_210405_og.webp?r=1794203102",
       "ts": 1794204051.8990173
+    },
+    {
+      "source_title": "Нукусда 50 минг аҳолига мўлжалланган Nukus city массиви барпо этилади",
+      "headline": "Nukus shahrida 50 ming aholi uchun yangi “Nukus City” massivi barpo etiladi 🏗️",
+      "image": "https://www.gazeta.uz/media/img/2019/11/517O0s15735626824381_b.jpg",
+      "ts": 1794207655.4614456
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794205836.1385736,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 6
+    "count": 7
   }
 }

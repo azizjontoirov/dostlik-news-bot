@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794238257.1443245,
+  "last_post_ts": 1794240054.886548,
   "recent_posts": [
-    {
-      "source_title": "Qurilişda yana mojaro, tezlaşgan inflyatsiya va talabalarga majburiyat - hafta dayjesti",
-      "headline": "Qurilishda mojaro va tezlashgan inflyatsiya",
-      "image": "https://storage.kun.uz/source/1/EcJdC4NpbUYoGlBarkDC6CrVW0cZyOE2.jpg",
-      "ts": 1794112238.2410417
-    },
     {
       "source_title": "Firibgarlikda gumonlayotgan yana bir o‘zbekistonlik Turkiyada ushlandi",
       "headline": "Firibgarlikda gumonlangan o'zbeksiz Turkiyada ushlanib, vatanga qaytarildi 🚨",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston Orolni qutqariş jam'garmasiga raislik qiladi 🌊🤝",
       "image": "https://storage.kun.uz/source/1/xj_Tpje99_wvUJuZUHP9RaiYxtOWuaPM.jpg",
       "ts": 1794238255.139983
+    },
+    {
+      "source_title": "O‘zbekistonda oktyabr oyi odatdagidan iliq keldi, yog‘ingarchilik esa kam bo‘ldi",
+      "headline": "O'tkazilgan oktyabr iliqroq, yog'ingarchilik kamroq 🌡️☀️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/fc5c0d8cedba83add0fcab86f0c122532557ed1a3f3df3bcd8b2e2280b9cfb03.webp",
+      "ts": 1794240052.8820574
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 20
+    "count": 21
   }
 }

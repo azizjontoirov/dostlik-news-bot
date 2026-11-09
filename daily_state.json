@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794157256.8359754,
+  "last_post_ts": 1794191483.8205237,
   "recent_posts": [
-    {
-      "source_title": "Işlab çiqarişdan eksportgaça: Toşkentda sanoat körgazmasi taşkil etildi",
-      "headline": "To'shkentda sanoat ko'rgazmasi tashkil etildi",
-      "image": "https://storage.kun.uz/source/1/yACjYVSCwbd2z99ns10BZj4JmTqARtV-.jpg",
-      "ts": 1794034856.87185
-    },
     {
       "source_title": "Farg‘onada 105 bola zaharlangan ish bo‘yicha korxona rahbari va texnologi qamaldi",
       "headline": "Farg'onada 105 bola zaharlanishi – korxona rahbari va texnologiya qamaldi",
@@ -240,11 +234,17 @@
       "headline": "9‑15 noyabr ob‑havo prognozi 🌦️",
       "image": "https://www.gazeta.uz/media/img/2026/05/66oi48n66kp10pY4DP917796907116613_210392_og.webp?r=1794156803",
       "ts": 1794157254.385552
+    },
+    {
+      "source_title": "Jizzaxda davlat zaxirasidagi 80 sotix yerni sotişga uringan şaxs qölga olindi",
+      "headline": "Jizzaxda davlat zaxirasidagi 80 sotix yer sotishga uringan shaxs qolga olindi 🚨",
+      "image": "https://storage.kun.uz/source/1/QeaCbD0wtxJiwrFCTmDJseX_JwMtrXZ7.jpg",
+      "ts": 1794191481.817156
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794189647.6334467,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-08",
-    "count": 23
+    "day": "2026-11-09",
+    "count": 1
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794202249.630211,
+  "last_post_ts": 1794204053.9030838,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda yölovçi avtobusda yonğin çiqdi",
-      "headline": "Toshkentda yölovchi avtobusda yonǵın! 🔥",
-      "image": "https://storage.kun.uz/source/1/Md09kFHmYAM-D1WCMMqSGlFCLqXemZ4y.jpg",
-      "ts": 1794047465.574277
-    },
     {
       "source_title": "Ўзбекистон шахматчилари БААдаги ёшлар ўртасидаги жаҳон чемпионатида учта медални қўлга киритди",
       "headline": "O'zbekiston shaxmatchilari jahon chempionatida uchta medallarni qo'lga kiritdi 🏅",
@@ -240,11 +234,17 @@
       "headline": "Ta'lim yangiliklari: “Bittasini ham ishdan olmadim” — Erkinjon Turdimov",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/a01f8fe675b44ff4a2bea2412262c704b76cd97ad592cc15eb52611d13a02fb2.webp",
       "ts": 1794202247.625607
+    },
+    {
+      "source_title": "Рақобат қўмитаси 12 нафар блогерни реклама тўғрисидаги қонунчиликни бузгани учун жавобгарликка тортди",
+      "headline": "Reklama qonunchiligini buzgan 12 blogger javobgarlikka tortildi",
+      "image": "https://www.gazeta.uz/media/img/2026/03/81kb6n982s8b9rk4y3B17724293271197_210405_og.webp?r=1794203102",
+      "ts": 1794204051.8990173
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794200443.8455567,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 5
+    "count": 6
   }
 }

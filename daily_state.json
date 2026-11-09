@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794241847.7000513,
+  "last_post_ts": 1794243662.5246332,
   "recent_posts": [
-    {
-      "source_title": "Янги «Ҳалқа» подстанцияси Тошкент шаҳри ва вилоятининг электр таъминоти ишончлилигини оширади",
-      "headline": "Yangi “Halqa” podstansiyasi – Toshkent va viloyatning elektr ta'minotini mustahkamlaydi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/6bronr3rjda73qKF49e17940648575212_210382_og.webp?r=1794117011",
-      "ts": 1794117649.6672645
-    },
     {
       "source_title": "Hafta boshida O‘zbekistonga sovuq havo kirib kelishi boshlanadi",
       "headline": "Hafta boshida sovuq havo kirib keladi",
@@ -240,11 +234,17 @@
       "headline": "Darsliklar yetishmayaptimi?",
       "image": "https://www.gazeta.uz/media/img/2023/09/8a7S9a16938160305013_b.jpg",
       "ts": 1794241845.6968675
+    },
+    {
+      "source_title": "Rossiyada Leningrad mudofaasida qatnashgan o‘zbekistonlik jangchilar xotirasiga yodgorlik ochildi",
+      "headline": "Rossiyada Leningrad mudofasidagi o'zbek jangchilar xotirasiga yodgorlik ochildi 🕊️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/78cbab8ad8230a97df62d726e8483aeb0ce0699da993467f8ea9b8291e2fd213.webp",
+      "ts": 1794243660.5199554
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 22
+    "count": 23
   }
 }

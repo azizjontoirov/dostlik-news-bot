@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794231044.127387,
+  "last_post_ts": 1794232853.2529438,
   "recent_posts": [
-    {
-      "source_title": "Toshkent IES mazut yoqishdan voz kechishi mumkin",
-      "headline": "Toshkent IES mazut yoqishdan voz kechishi mumkin 🔋🌱",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/714b793748a7ac70602c9961716360ecacda799685db2381c5ba4ff892667c83.webp",
-      "ts": 1794070852.5338528
-    },
     {
       "source_title": "“Man Siti”ning eng yaxshi futbolchisi: Abduqodir Husanovning “Nottingem”ga qarshi o‘yini qanday baholandi?",
       "headline": "Man Siti'ning eng yaxshi futbolchisi: Abduqodir Husanovning “Nottingem”ga qarshi o'yin bahosi ⚽️⭐️",
@@ -240,11 +234,17 @@
       "headline": "PSJ darvozaboni Safonovning yukini yo'qotdi – o'rtoqlik uchrashuvi oldidan noxush holat",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/9e31287372fe64cb5d0ce25243ff1f2e22b21fed482b46c6c3845d302ee3640e.webp",
       "ts": 1794231042.1230114
+    },
+    {
+      "source_title": "Migrantlar Oʻzbekistonga toʻqqiz oyda 15,2 mlrd dollar yubordi",
+      "headline": "Migrantlar O'zbekistonga to'qqiz oyda 15,2 mlrd dollar yubordi 💸📈",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/bfecaadf4aec615f6b565644827c746eeb0c2323b49cfd82584c04fbd3b36e1f.webp",
+      "ts": 1794232851.2477973
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794227437.0195177,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 16
+    "count": 17
   }
 }

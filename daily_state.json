@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794195036.0644453,
+  "last_post_ts": 1794196854.0247867,
   "recent_posts": [
-    {
-      "source_title": "\"Kapitalbank\"ning Visa virtual kartalari bilan endi smartfon orqali to‘lov qilish mumkin",
-      "headline": "Kapitalbank Visa virtual kartalari Apple Pay'da! 📱💳",
-      "image": "https://gocdn.daryo.uz/large/2026/11/07/663d434acb3375f7239a7bbc11cb1c9d2b55078d52d7fd90a9b3a33ccd6ea890.webp",
-      "ts": 1794040240.13641
-    },
     {
       "source_title": "«Bir darvozaga öyin». Nega uy oliş ilinjidagi ön minglab odamlar trlnlab pulini yöqotyapti?",
       "headline": "Uy-joy muammosi: Nega minglab odamlar pulini yo'qotmoqda?",
@@ -240,11 +234,17 @@
       "headline": "Qoraqalpog'istonda hamshira lavozimiga pora olishga urinish qo'lga olindi 💰🚓",
       "image": "https://gocdn.daryo.uz/large/2026/11/08/4d4afd187a5d07dd96f40000c417e20ac3ddc47d766354d6f06d21aa0bbc97d5.webp",
       "ts": 1794193253.6588166
+    },
+    {
+      "source_title": "Apex Development va Daikin strategik hamkorlikni yölga qöydi",
+      "headline": "Apex Development va Daikin strategik hamkorlikni yo'lga qo'ydi 🤝🏢",
+      "image": "https://storage.kun.uz/source/1/HWAHcT-wIkO9lEzswl3JJNYA3IMJdtpe.jpg",
+      "ts": 1794196852.0203536
     }
   ],
   "morning_sent_date": "2026-11-09",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794195036.059363,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-09",
-    "count": 2
+    "count": 3
   }
 }

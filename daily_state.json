@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794286842.381297,
+  "last_post_ts": 1794288642.942268,
   "recent_posts": [
-    {
-      "source_title": "“Muhtasham yuz yil” serialida Xurram va Mohidavron haqidagi qaysi faktlar o‘zgartirilgan edi?",
-      "headline": "Muhtasham yuz yil” serialida tarixiy faktlar o'zgartirildi 📺🔍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/85982b83a6196f9c5efff3afdece8b2d291cbd03a1e6f4874ccdc3bfe6931325.webp",
-      "ts": 1794132045.372008
-    },
     {
       "source_title": "Тошкент — Сеул рейсида йўловчи аёл ҳаётини сақлаб қолган шифокор мукофотланди",
       "headline": "Tashkent‑Seul reysida shifokor qahramon bo'ldi! 🏅",
@@ -240,11 +234,17 @@
       "headline": "Xavfsizlik tahdidi: Yaroqsiz isitish qozonlari sotildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/42b4948420b88afa6b20b270709e787543fab63365297f043ea7157f4ed31ab4.webp",
       "ts": 1794285040.8232365
+    },
+    {
+      "source_title": "O‘zbekistonda eng ko‘p YTH qayd etilgan hudud ma’lum qilindi",
+      "headline": "O'zbekistonda eng ko'p YTH qayd etilgan hudud ma'lum qilindi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/ef9e619ac30b59deb8fc06599de2feefc610af3a4574d62a753e78acdef2118f.webp",
+      "ts": 1794288640.9381337
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794286842.3779743,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 4
+    "count": 5
   }
 }

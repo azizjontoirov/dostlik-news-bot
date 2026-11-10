@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794281437.4249964,
+  "last_post_ts": 1794283251.2294874,
   "recent_posts": [
-    {
-      "source_title": "Qonunchilik palatasi yonidagi ko‘l qayta tiklanadi",
-      "headline": "Qonunchilik palatasi yonidagi ko'l qayta tiklanadi 🌿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/cf3ce49810e8a7b02e3665df771742e512ce240a6ce4f923ec02e581d58a7c61.webp",
-      "ts": 1794126640.7190971
-    },
     {
       "source_title": "Rossiyada majburlab uruşga yuborilgan özbekistonlik kvadrotsiklda harbiy lagerdan qoçib ketdi",
       "headline": "Rossiyada majburlab urushga yuborilgan o'zbekistonlik kvadrotsiklda harbiy lagerdan qochib ketdi",
@@ -240,11 +234,17 @@
       "headline": "G'azalkent” – “Respublika FA” uchrashuvidagi janjal bayonoti (video)",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/d8dca6eb81fe5c1d2b1c976cd7afa8e062ab8b457aa78a49ca8fc03f1c66e0a4.webp",
       "ts": 1794279655.7166185
+    },
+    {
+      "source_title": "Qarşi şahrida bino tomi harakatdagi maşina ustiga qulab tuşdi",
+      "headline": "Qarshi shahrida bino tomi harakatdagi mashina ustiga tushdi 🚗💨",
+      "image": "https://storage.kun.uz/source/1/i75puGctG1CU1CW06QWilMgMqqMz5GHp.jpg",
+      "ts": 1794283249.2257078
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794281437.4229712,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 2
+    "count": 3
   }
 }

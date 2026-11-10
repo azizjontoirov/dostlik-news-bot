@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794297643.0661147,
+  "last_post_ts": 1794299445.1079845,
   "recent_posts": [
-    {
-      "source_title": "Navoiyda Damas’da 33 nafar bolani olib ketayotgan haydovchi aniqlandi",
-      "headline": "Navoiyda Damas mashinasida 33 nafar bola olib ketilmoqda!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/5dc4654261c911149f80f6218a4edd188eaa6a12a3b54df03da62aaa4f625c4f.webp",
-      "ts": 1794142848.0751095
-    },
     {
       "source_title": "Mahkumlar bilan uçraşuv, videomuloqot va telefon orqali suhbatlaşiş narxi oşişi mumkin",
       "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin 📞💰",
@@ -240,11 +234,17 @@
       "headline": "11-noyabrda harorat keskin pasayadi, yomg'ir va qor ehtimoli",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/d595af5b3b84930e2bd9ee964aedcd177e9a596e09256edf8bba43e3ff7f1040.webp",
       "ts": 1794295839.9583619
+    },
+    {
+      "source_title": "O‘zbekistonda eskrou tizimi to‘g‘risidagi qonun loyihasi Senatga yuborildi",
+      "headline": "O'zbekistonda eskrou tizimi bo'yicha yangi qonun loyihasi Senatga yuborildi",
+      "image": "https://gocdn.daryo.uz/large/2026/10/03/e9dbadc302e8206b7126f22001551fe9633395cdb5064f272eaaf49318fac475.webp",
+      "ts": 1794299443.1037643
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794297643.0643616,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 8
+    "count": 9
   }
 }

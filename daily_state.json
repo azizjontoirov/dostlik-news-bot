@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794315651.892124,
+  "last_post_ts": 1794317446.953928,
   "recent_posts": [
-    {
-      "source_title": "Jizzaxda davlat zaxirasidagi yerni 230 mln so‘mga sotmoqchi bo‘lgan shaxs ushlandi",
-      "headline": "Jizzaxda davlat zaxirasidagi yer sotuviga uringan shaxs ushlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/bbcfa614e9af2473f81a654c8fcb7d109a2cd7838c42c114f6067da344baa1cb.webp",
-      "ts": 1794155443.1781058
-    },
     {
       "source_title": "Ўзбекистонда 9−15 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
       "headline": "9‑15 noyabr ob‑havo prognozi 🌦️",
@@ -240,11 +234,17 @@
       "headline": "Genom tadqiqoti: “1000 genom” loyihasi boshladi 🧬",
       "image": "https://www.gazeta.uz/media/img/2026/11/jtc2f60ptbq9aCpCZLK17942242724190_210534_og.webp?r=1794315593",
       "ts": 1794315649.8862293
+    },
+    {
+      "source_title": "Toshkent aeroportida 433 mln so‘mlik mobil qurilmalarni noqonuniy olib kirishga urinishlar aniqlandi",
+      "headline": "Toshkent aeroportida 433 mln so'mlik mobil qurilmalar noqonuniy kirishga urinish aniqlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/f421ba473f52588f2ff6425eea1b6f509468f0ec95ee9fccc542a8c6240baf18.webp",
+      "ts": 1794317444.94892
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794313836.694251,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 15
+    "count": 16
   }
 }

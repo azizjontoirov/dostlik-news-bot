@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794303039.1625988,
+  "last_post_ts": 1794304858.01588,
   "recent_posts": [
-    {
-      "source_title": "Firibgarlikda gumonlanib qidiruvda bölgan Özbekiston fuqarosi Turkiyada qölga olindi",
-      "headline": "Turkiyada firibgarlikda gumonlangan O'zbekiston fuqarosi qolg'a olindi",
-      "image": "https://storage.kun.uz/source/1/S_pfLFesZM2fv2DHd6UQ7xuG2QWrL75R.jpg",
-      "ts": 1794146452.0500352
-    },
     {
       "source_title": "Qöşni davlatdan kirib kelgan avtomobil eşiklari orasiga kuçli taʼsir qiluvçi dorilar yaşirilgani maʼlum böldi",
       "headline": "Chegara bojxonasida kuchli ta'sirli dorilar topildi",
@@ -240,11 +234,17 @@
       "headline": "Eldor Shomurodov milliy jamoaga qo'shildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/c10f8e8d40fac3c9a30f0f073ef55cdafe6d8d6be3777153824dda10aa421be0.webp",
       "ts": 1794301255.8549852
+    },
+    {
+      "source_title": "Тошкентда ҳайдовчини ҳақорат қилган ЙПХ инспектори лавозимидан четлатилди",
+      "headline": "Тошкентда ЙПХ инспектори лавозимидан четлатилди",
+      "image": "https://www.gazeta.uz/media/img/2026/11/0siu43s0rijf1fQSxK017943041598041_210509_og.webp?r=1794304511",
+      "ts": 1794304856.011551
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794303039.1600733,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 10
+    "count": 11
   }
 }

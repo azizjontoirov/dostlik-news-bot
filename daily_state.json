@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794328239.8238132,
+  "last_post_ts": 1794330054.8333175,
   "recent_posts": [
-    {
-      "source_title": "«Halol bölişi - hali yaxşi investitsiya degani emas» - Xondamir Nusratxöjayev islom moliyasi va investitsiya platformalari haqida | Nima dard?",
-      "headline": "Halol bo'lish – yaxshi investitsiya demak emas 📈💡",
-      "image": "https://storage.kun.uz/source/1/9FsaaTagvH9N25gql0SBUyJEWoC2nnzU.jpg",
-      "ts": 1794198642.7956638
-    },
     {
       "source_title": "“Bittasini ham ishdan olmadim” — Erkinjon Turdimov 5 ta rektor ishdan olingani haqidagi xabarlarni rad etdi",
       "headline": "Ta'lim yangiliklari: “Bittasini ham ishdan olmadim” — Erkinjon Turdimov",
@@ -240,11 +234,17 @@
       "headline": "Fuqarolik holati yozuvlaridagi xatolarni sud orqali aniqlash tartibi joriy etildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/928207c76398656662be436ebddf99a475dfc254e24a4bfbedc2b2506ef81637.webp",
       "ts": 1794326459.1216419
+    },
+    {
+      "source_title": "Şavkat Mirziyoyevning Turkiyaga amaliy taşrifi boşlandi",
+      "headline": "Şavkat Mirziyoyev Turkiyaga amaliy tashrif bilan bordi ✈️",
+      "image": "https://storage.kun.uz/source/1/HY1nX2AEWMoLu_IBU66gfSGGXvZVAjkX.jpg",
+      "ts": 1794330052.8298335
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794328239.7406285,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 20
+    "count": 21
   }
 }

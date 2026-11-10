@@ -4,14 +4,31 @@
       "id": "ad_flour",
       "active": true,
       "image_file": "flour.jpg",
-      "text": "🌾 **UN MARKAZI** 🌾\n🚚 **BEPUL YETKAZIB BERISH!**\n\n🥖 **50 KG UNLAR (so'm):**\n🔸 330 000 — Salamat\n🔸 310 000 — Dasturxon\n🔸 290 000 — Manzur\n🔸 280 000 — Besh Yulduz, Medalion\n🔸 270 000 — Milliy, Bonjur, Millora, A'lo Don, Marvarid\n🔸 265 000 — Tanho, Havakand, Saodat, Munavvar, Asmo, Milter\n🔸 260 000 — Rayhon\n🔸 250 000 — Kostanay, Marjon\n🔸 245 000 — Antiqa, Oqqo‘rg‘on, Gulinan, Ezgu\n\n🥐 **25 KG UNLAR (so'm):**\n🔸 270 000 — Salamat Vishiy\n🔸 260 000 — Motabbar Vishiy\n🔸 170 000 — Motabbar\n🔸 160 000 — Dasturxon\n🔸 150 000 — Manzur\n🔸 140 000 — Besh Yulduz, Milliy, Medalion, Millora, Bonjur, Marvarid, A'lo Don\n🔸 135 000 — Tanho, Havakand, Saodat, Asmo, Munavvar, Milter\n🔸 130 000 — Kostanay\n🔸 125 000 — Korner, Oqqo‘rg‘on, Gulinan, Ezgu\n\n🛢 **MOYLAR:**\n🔸 Paxta moyi 4.2 L — 100 000 | 5 L — 110 000\n🔸 Semichka (Qozog‘iston, Rossiya) — 105 000\n\n📍 Do‘stlik, Dehqon bozori orqasi (Korea Stroy yonida)\n📞 +998992735874 | +998938279090"
+      "text": "🌾 UN MARKAZI 🌾\n🚚 BEPUL YETKAZIB BERISH!\n\n🥖 50 KG UNLAR (so'm):\n🔸 330 000 — Salamat\n🔸 310 000 — Dasturxon\n🔸 290 000 — Manzur\n🔸 280 000 — Besh Yulduz, Medalion\n🔸 270 000 — Milliy, Bonjur, Millora, A'lo Don, Marvarid\n🔸 265 000 — Tanho, Havakand, Saodat, Munavvar, Asmo, Milter\n🔸 260 000 — Rayhon\n🔸 250 000 — Kostanay, Marjon\n🔸 245 000 — Antiqa, Oqqo‘rg‘on, Gulinan, Ezgu\n\n🥐 25 KG UNLAR (so'm):\n🔸 270 000 — Salamat Vishiy\n🔸 260 000 — Motabbar Vishiy\n🔸 170 000 — Motabbar\n🔸 160 000 — Dasturxon\n🔸 150 000 — Manzur\n🔸 140 000 — Besh Yulduz, Milliy, Medalion, Millora, Bonjur, Marvarid, A'lo Don\n🔸 135 000 — Tanho, Havakand, Saodat, Asmo, Munavvar, Milter\n🔸 130 000 — Kostanay\n🔸 125 000 — Korner, Oqqo‘rg‘on, Gulinan, Ezgu\n\n🛢 MOYLAR:\n🔸 Paxta moyi 4.2 L — 100 000 | 5 L — 110 000\n🔸 Semichka (Qozog‘iston, Rossiya) — 105 000\n\n📍 Do‘stlik, Dehqon bozori orqasi (Korea Stroy yonida)\n📞 +998992735874 | +998938279090"
     },
     {
       "id": "ad_water",
       "active": true,
       "image_file": "water.jpg",
-      "text": "💧 **TOZA SUV — SOG‘LOM HAYOT GAROVI!**\n🔥 Issiq kunlar boshlendi — organizmga sifatli suv zarur!\n💎 **Do‘stlik Bio Water** — har tomchisi toza, foydali va ishonchli!\n🌿 Har kuni iching — o‘zingizni yengil va tetik his qiling!\n\n━━━━━━━━━━━━━━━\n💰 **YANGI NARXLAR:**\n💧 1L — 750 so‘m\n💧 10L — 7 500 so‘m\n💧 20L — 15 000 so‘m\n🚚 Yetkazib berish — **BEPUL!**\n\n━━━━━━━━━━━━━━━\n📞 **Buyurtma bering:**\n☎️ +998992735874\n☎️ +998938279090\n☎️ +998882761177\n\n━━━━━━━━━━━━━━━\n⚡️ Tez va ishonchli xizmat!\n💧 **Do‘stlik Bio Water** — tozalikni tanlang!"
+      "text": "💧 TOZA SUV — SOG‘LOM HAYOT GAROVI!\n🔥 Issiq kunlar boshlendi — organizmga sifatli suv zarur!\n💎 Do‘stlik Bio Water — har tomchisi toza, foydali va ishonchli!\n🌿 Har kuni iching — o‘zingizni yengil va tetik his qiling!\n\n━━━━━━━━━━━━━━━\n💰 YANGI NARXLAR:\n💧 1L — 750 so‘m\n💧 10L — 7 500 so‘m\n💧 20L — 15 000 so‘m\n🚚 Yetkazib berish — BEPUL!\n\n━━━━━━━━━━━━━━━\n📞 Buyurtma bering:\n☎️ +998992735874\n☎️ +998938279090\n☎️ +998882761177\n\n━━━━━━━━━━━━━━━\n⚡️ Tez va ishonchli xizmat!\n💧 Do‘stlik Bio Water — tozalikni tanlang!"
     }
   ],
-  "paid": []
+  "paid": [
+    {
+      "id": "ad_wedding",
+      "active": true,
+      "start_date": "2026-11-10",
+      "days": 3,
+      "image_file": "wedding.jpg",
+      "text": "🎺 **TO‘Y VA MAROSIMLAR UCHUN KARNAY-SURNAY XIZMATI** 🥁\n\nTo‘yingiz shukuhini karnay-surnay sadolari bilan boshlang! 🎉\n\n✨ **Xizmatlarimiz:**\n▫️ Nikoh to‘ylari\n▫️ Kelin tushdi, kuyov navkar\n▫️ Sunnat to‘ylari, beshik to‘yi\n▫️ Yubiley va tantanali marosimlar\n▫️ Ochilish marosimlari va tadbirlar\n\n🎶 **Bizda:**\n✅ Karnay, surnay, nog‘ora, doira\n✅ Tajribali sozandalar jamoasi\n✅ Milliy liboslarda chiqish\n✅ O‘z vaqtida yetib borish\n✅ Hamyonbop narxlar\n\nBaxtli kuningiz esda qolarli va shukuhli o‘tsin! 🌟\n📍 Oldindan band qiling — sanalar tez to‘lib qoladi!\n\n📞 **Buyurtma uchun:** +998945723252\n\n#karnaysurnay #toy #toyxizmati #marosim #nogora"
+    },
+    {
+      "id": "ad_moto",
+      "active": true,
+      "start_date": "2026-11-10",
+      "days": 3,
+      "image_file": "moto.jpg",
+      "text": "⚡️ **ZUDLIK BILAN SOTILADI — ELEKTR SKUTER** 🛵\n\nHolati zo‘r, deyarli yangi!\n\n✅ Olinganiga atigi 3 oy bo‘lgan\n✅ Birinchi qo‘l\n✅ Bir zaryadda 50 km yuradi\n✅ Tezligi: 65 km/soat\n✅ Faqat uydan bog‘chaga qatnagan, kam yurgan\n\n💰 5 500 000 so‘mga olingan\n🔥 **Narxi: 3 800 000 so‘m**\n\nZudlik bilan sotilgani uchun arzon berilmoqda. Ulgurib qoling!\n\n📞 **Murojaat uchun:** +998940299100"
+    }
+  ]
 }

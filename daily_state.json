@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794285042.8276498,
+  "last_post_ts": 1794286842.381297,
   "recent_posts": [
     {
       "source_title": "“Muhtasham yuz yil” serialida Xurram va Mohidavron haqidagi qaysi faktlar o‘zgartirilgan edi?",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794281437.4229712,
+    "last_ad_ts": 1794286842.3779743,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 71,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 69,
+      "ad_water": 70,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3
@@ -261,14 +261,14 @@
     "permanent_index": 2,
     "day": "2026-11-10",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1
     },
     "last_shown": {
       "ad_flour": 1794281437.422969,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794276052.9339042,
+      "ad_water": 1794286842.377972,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

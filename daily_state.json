@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794288642.942268,
+  "last_post_ts": 1794290456.7786782,
   "recent_posts": [
-    {
-      "source_title": "Тошкент — Сеул рейсида йўловчи аёл ҳаётини сақлаб қолган шифокор мукофотланди",
-      "headline": "Tashkent‑Seul reysida shifokor qahramon bo'ldi! 🏅",
-      "image": "https://www.gazeta.uz/media/img/2026/11/n2siklil33fs5cVv8Ww17941335859560_210389_og.webp?r=1794133649",
-      "ts": 1794133840.125873
-    },
     {
       "source_title": "O‘zbekistonda mahkumlar bilan uchrashuv va telefon orqali suhbatlar narxi oshishi mumkin",
       "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda eng ko'p YTH qayd etilgan hudud ma'lum qilindi",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/ef9e619ac30b59deb8fc06599de2feefc610af3a4574d62a753e78acdef2118f.webp",
       "ts": 1794288640.9381337
+    },
+    {
+      "source_title": "“Pari” bilganni qari bilmaydi yoxud katta avlod raqamli tahdidlardan qanchalik himoya qilin(ma)yapti?",
+      "headline": "Raqamli platformalardan kim ko'proq foydalanadi?",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/41a143b3c7f437648c571c4fb84fe3babcc3ff440b6746bdfe45ec2e66289acc.webp",
+      "ts": 1794290454.7741544
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794286842.3779743,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 5
+    "count": 6
   }
 }

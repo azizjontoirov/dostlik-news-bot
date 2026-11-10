@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794292234.7517877,
+  "last_post_ts": 1794294055.0228422,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda mahkumlar bilan uchrashuv va telefon orqali suhbatlar narxi oshishi mumkin",
-      "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/eb2fae601f665db60fe92ba3353c9bc6f5362a0315efcd692cef97142e440a26.webp",
-      "ts": 1794137438.198695
-    },
     {
       "source_title": "«2027 йилдан пахтани 100 фоиз машинада терамиз» — қишлоқ хўжалиги вазири",
       "headline": "Pahta terimini 100% mashinaga o'tkazamiz!",
@@ -240,11 +234,17 @@
       "headline": "Raqamli platformalardan kim ko'proq foydalanadi?",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/41a143b3c7f437648c571c4fb84fe3babcc3ff440b6746bdfe45ec2e66289acc.webp",
       "ts": 1794290454.7741544
+    },
+    {
+      "source_title": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to‘siqlar",
+      "headline": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to'siqlar 🌐🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/aedb87b004afd9b54657c5e34e49c4b74eae014ee6faa91251880ceac3e740a4.webp",
+      "ts": 1794294053.018038
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794292234.7469733,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 6
+    "count": 7
   }
 }

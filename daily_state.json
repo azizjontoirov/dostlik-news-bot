@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794313836.696048,
+  "last_post_ts": 1794315651.892124,
   "recent_posts": [
-    {
-      "source_title": "Superliga. “Nasaf” “Buxoro”dan ustun keldi, ”Neftchi” esa “OKMK”ni kambek evaziga mag‘lub etdi",
-      "headline": "Superliga natijalari: “Nasaf” “Buxoro”ni mag'lub etdi, “Neftchi” “OKMK”ni kambek bilan yengdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/fd85ebedc9d2eaba4768971146db2d1870718cafdbd104a5464c7bf513868c33.webp",
-      "ts": 1794153678.694013
-    },
     {
       "source_title": "Jizzaxda davlat zaxirasidagi yerni 230 mln so‘mga sotmoqchi bo‘lgan shaxs ushlandi",
       "headline": "Jizzaxda davlat zaxirasidagi yer sotuviga uringan shaxs ushlandi",
@@ -240,11 +234,17 @@
       "headline": "Xorijga ko'chish keskin kamaydi 🌍📉",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/aa3fdb907b71b895af887d98ecf425c0fdf26587bfbf75618c02f619780bb078.webp",
       "ts": 1794312049.7314963
+    },
+    {
+      "source_title": "Мамлакат аҳолиси геномини ўрганиш Ўзбекистонга нима беради? Тошкентдаги Илғор технологиялар марказидан репортаж",
+      "headline": "Genom tadqiqoti: “1000 genom” loyihasi boshladi 🧬",
+      "image": "https://www.gazeta.uz/media/img/2026/11/jtc2f60ptbq9aCpCZLK17942242724190_210534_og.webp?r=1794315593",
+      "ts": 1794315649.8862293
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794313836.694251,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 14
+    "count": 15
   }
 }

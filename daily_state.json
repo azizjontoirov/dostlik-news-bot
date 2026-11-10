@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794299445.1079845,
+  "last_post_ts": 1794301257.8595834,
   "recent_posts": [
-    {
-      "source_title": "Mahkumlar bilan uçraşuv, videomuloqot va telefon orqali suhbatlaşiş narxi oşişi mumkin",
-      "headline": "Mahkumlar bilan aloqa narxi oshishi mumkin 📞💰",
-      "image": "https://storage.kun.uz/source/1/u9nSAezXBC2N7s_k8TCY7FcVOKYGz_xb.webp",
-      "ts": 1794144638.7449918
-    },
     {
       "source_title": "Firibgarlikda gumonlanib qidiruvda bölgan Özbekiston fuqarosi Turkiyada qölga olindi",
       "headline": "Turkiyada firibgarlikda gumonlangan O'zbekiston fuqarosi qolg'a olindi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda eskrou tizimi bo'yicha yangi qonun loyihasi Senatga yuborildi",
       "image": "https://gocdn.daryo.uz/large/2026/10/03/e9dbadc302e8206b7126f22001551fe9633395cdb5064f272eaaf49318fac475.webp",
       "ts": 1794299443.1037643
+    },
+    {
+      "source_title": "Eldor Shomurodov O‘zbekiston milliy jamoasi yig‘iniga qo‘shildi",
+      "headline": "Eldor Shomurodov milliy jamoaga qo'shildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/c10f8e8d40fac3c9a30f0f073ef55cdafe6d8d6be3777153824dda10aa421be0.webp",
+      "ts": 1794301255.8549852
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794297643.0643616,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 9
+    "count": 10
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794294055.0228422,
+  "last_post_ts": 1794295841.9633617,
   "recent_posts": [
-    {
-      "source_title": "«2027 йилдан пахтани 100 фоиз машинада терамиз» — қишлоқ хўжалиги вазири",
-      "headline": "Pahta terimini 100% mashinaga o'tkazamiz!",
-      "image": "https://www.gazeta.uz/media/img/2026/11/3rm7nh65otn60f29aCy17941323300132_210388_og.webp?r=1794138566",
-      "ts": 1794139254.0167456
-    },
     {
       "source_title": "Navoiyda Damas’da 33 nafar bolani olib ketayotgan haydovchi aniqlandi",
       "headline": "Navoiyda Damas mashinasida 33 nafar bola olib ketilmoqda!",
@@ -240,11 +234,17 @@
       "headline": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to'siqlar 🌐🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/aedb87b004afd9b54657c5e34e49c4b74eae014ee6faa91251880ceac3e740a4.webp",
       "ts": 1794294053.018038
+    },
+    {
+      "source_title": "O‘zbekistonda 11-noyabrda harorat keskin pasayadi",
+      "headline": "11-noyabrda harorat keskin pasayadi, yomg'ir va qor ehtimoli",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/d595af5b3b84930e2bd9ee964aedcd177e9a596e09256edf8bba43e3ff7f1040.webp",
+      "ts": 1794295839.9583619
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794292234.7469733,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 7
+    "count": 8
   }
 }

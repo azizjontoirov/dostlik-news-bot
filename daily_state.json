@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794283251.2294874,
+  "last_post_ts": 1794285042.8276498,
   "recent_posts": [
-    {
-      "source_title": "Rossiyada majburlab uruşga yuborilgan özbekistonlik kvadrotsiklda harbiy lagerdan qoçib ketdi",
-      "headline": "Rossiyada majburlab urushga yuborilgan o'zbekistonlik kvadrotsiklda harbiy lagerdan qochib ketdi",
-      "image": "https://storage.kun.uz/source/1/tPGXje1KWx6WjPvUeSb34Ftb5A802OK6.png",
-      "ts": 1794128448.432457
-    },
     {
       "source_title": "“Muhtasham yuz yil” serialida Xurram va Mohidavron haqidagi qaysi faktlar o‘zgartirilgan edi?",
       "headline": "Muhtasham yuz yil” serialida tarixiy faktlar o'zgartirildi 📺🔍",
@@ -240,11 +234,17 @@
       "headline": "Qarshi shahrida bino tomi harakatdagi mashina ustiga tushdi 🚗💨",
       "image": "https://storage.kun.uz/source/1/i75puGctG1CU1CW06QWilMgMqqMz5GHp.jpg",
       "ts": 1794283249.2257078
+    },
+    {
+      "source_title": "Foydalanishga yaroqsiz isitish qozonlarini sotgan tadbirkor va gaz ta’minoti xodimi ushlandi",
+      "headline": "Xavfsizlik tahdidi: Yaroqsiz isitish qozonlari sotildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/42b4948420b88afa6b20b270709e787543fab63365297f043ea7157f4ed31ab4.webp",
+      "ts": 1794285040.8232365
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794281437.4229712,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 3
+    "count": 4
   }
 }

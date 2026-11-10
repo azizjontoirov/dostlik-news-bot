@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794322856.2915812,
+  "last_post_ts": 1794324647.9889765,
   "recent_posts": [
-    {
-      "source_title": "Qoraqalpog‘istonda hamshiralikka ishga joylashtirish uchun 5 ming dollar so‘ragan shaxs ushlandi",
-      "headline": "Qoraqalpog'istonda hamshira lavozimiga pora olishga urinish qo'lga olindi 💰🚓",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/4d4afd187a5d07dd96f40000c417e20ac3ddc47d766354d6f06d21aa0bbc97d5.webp",
-      "ts": 1794193253.6588166
-    },
     {
       "source_title": "Apex Development va Daikin strategik hamkorlikni yölga qöydi",
       "headline": "Apex Development va Daikin strategik hamkorlikni yo'lga qo'ydi 🤝🏢",
@@ -240,11 +234,17 @@
       "headline": "Buxoro viloyati hokimiga ikki yangi örinbosar tayinlandi 🏛️✨",
       "image": "https://storage.kun.uz/source/1/aDfRHulmRCDHmdJfAoaimStQXsEaNh1R.jpg",
       "ts": 1794321045.0861545
+    },
+    {
+      "source_title": "АҚШдан Ўзбекистонга 12 йилдан бери қидирувда бўлган фуқаро қайтарилди",
+      "headline": "12 yildan keyin AQShdan qaytarildi!",
+      "image": "https://www.gazeta.uz/media/img/2026/11/uqq6vlc6m7bt051pUIO17943138295649_210544_og.webp?r=1794322904",
+      "ts": 1794324645.985552
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794322856.2889132,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 18
+    "count": 19
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794308446.6613631,
+  "last_post_ts": 1794310244.560087,
   "recent_posts": [
-    {
-      "source_title": "Poytaxt va Toşkent viloyatining bir qismidagi elektr yuklamalarini qayta taqsimlovçi «Halqa» podstansiyasiga kuçlaniş berildi",
-      "headline": "Halqa” podstansiyasi – Toshkent elektr ta'minotini mustahkamlaydi",
-      "image": "https://storage.kun.uz/source/1/TWQns1fgGQtM9PwLh0QHjaKSSV3A48PC.jpg",
-      "ts": 1794150049.4805555
-    },
     {
       "source_title": "Superliga. “Paxtakor” o‘z maydonida muhim g‘alabaga erishdi",
       "headline": "Paxtakor “Sherlar”ni o'z maydonida mag'lub etdi!",
@@ -240,11 +234,17 @@
       "headline": "Qashqadaryoda yo'l qurish bahonasida 33 tup daraxt va 3 000 ga yaqin buta yo'q qilindi 🌳🚧",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/6df771f15b1ed963855a740ff06182452d7d9ac9620aa326a459ebdebf2a8280.webp",
       "ts": 1794306643.3563025
+    },
+    {
+      "source_title": "Депутатлар Ўзбекистонда уй-жойларни улушли қуриш тўғрисидаги қонунни қабул қилди. Нималар ўзгаради?",
+      "headline": "Uy‑joylarni ulushli qurish qonuni qabul qilindi",
+      "image": "https://www.gazeta.uz/media/img/2026/09/45cc1su0lgsqeR0RWt817907555794580_210525_og.webp?r=1794309488",
+      "ts": 1794310242.5554934
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794308446.6595833,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 12
+    "count": 13
   }
 }

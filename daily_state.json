@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794312051.7524736,
+  "last_post_ts": 1794313836.696048,
   "recent_posts": [
     {
       "source_title": "Superliga. “Nasaf” “Buxoro”dan ustun keldi, ”Neftchi” esa “OKMK”ni kambek evaziga mag‘lub etdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794308446.6595833,
+    "last_ad_ts": 1794313836.694251,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 73,
+      "ad_flour": 74,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 72,
@@ -262,10 +262,10 @@
     "day": "2026-11-10",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1794303039.1600707,
+      "ad_flour": 1794313836.6942492,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794308446.6595817,

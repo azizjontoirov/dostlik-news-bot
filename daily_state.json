@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794319260.864224,
+  "last_post_ts": 1794321047.0908158,
   "recent_posts": [
-    {
-      "source_title": "Jizzaxda davlat zaxirasidagi 80 sotix yerni sotişga uringan şaxs qölga olindi",
-      "headline": "Jizzaxda davlat zaxirasidagi 80 sotix yer sotishga uringan shaxs qolga olindi 🚨",
-      "image": "https://storage.kun.uz/source/1/QeaCbD0wtxJiwrFCTmDJseX_JwMtrXZ7.jpg",
-      "ts": 1794191481.817156
-    },
     {
       "source_title": "Qoraqalpog‘istonda hamshiralikka ishga joylashtirish uchun 5 ming dollar so‘ragan shaxs ushlandi",
       "headline": "Qoraqalpog'istonda hamshira lavozimiga pora olishga urinish qo'lga olindi 💰🚓",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston COP31 Antaliya konferensiyasida iqlim tashabbuslarini namoyish etadi 🌿",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/3a1620216bf721cefd6d95500f3e2687b486491465e141ea3a272d8fcedd3a75.webp",
       "ts": 1794319258.8595161
+    },
+    {
+      "source_title": "Buxoro viloyati hokimiga yangi örinbosar tayinlandi",
+      "headline": "Buxoro viloyati hokimiga ikki yangi örinbosar tayinlandi 🏛️✨",
+      "image": "https://storage.kun.uz/source/1/aDfRHulmRCDHmdJfAoaimStQXsEaNh1R.jpg",
+      "ts": 1794321045.0861545
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794313836.694251,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 17
+    "count": 18
   }
 }

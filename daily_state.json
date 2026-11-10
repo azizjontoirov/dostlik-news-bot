@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794304858.01588,
+  "last_post_ts": 1794306645.3602836,
   "recent_posts": [
-    {
-      "source_title": "Qöşni davlatdan kirib kelgan avtomobil eşiklari orasiga kuçli taʼsir qiluvçi dorilar yaşirilgani maʼlum böldi",
-      "headline": "Chegara bojxonasida kuchli ta'sirli dorilar topildi",
-      "image": "https://storage.kun.uz/source/1/zOBnbscIKPF1MldOQz4o-fS5kdM3v39A.jpg",
-      "ts": 1794148241.7058074
-    },
     {
       "source_title": "Poytaxt va Toşkent viloyatining bir qismidagi elektr yuklamalarini qayta taqsimlovçi «Halqa» podstansiyasiga kuçlaniş berildi",
       "headline": "Halqa” podstansiyasi – Toshkent elektr ta'minotini mustahkamlaydi",
@@ -240,11 +234,17 @@
       "headline": "Тошкентда ЙПХ инспектори лавозимидан четлатилди",
       "image": "https://www.gazeta.uz/media/img/2026/11/0siu43s0rijf1fQSxK017943041598041_210509_og.webp?r=1794304511",
       "ts": 1794304856.011551
+    },
+    {
+      "source_title": "Qashqadaryoda yo‘l ochish bahonasida 33 tup daraxt va uch mingga yaqin buta qo‘porib tashlandi",
+      "headline": "Qashqadaryoda yo'l qurish bahonasida 33 tup daraxt va 3 000 ga yaqin buta yo'q qilindi 🌳🚧",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/6df771f15b1ed963855a740ff06182452d7d9ac9620aa326a459ebdebf2a8280.webp",
+      "ts": 1794306643.3563025
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794303039.1600733,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 11
+    "count": 12
   }
 }

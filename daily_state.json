@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794317446.953928,
+  "last_post_ts": 1794319260.864224,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда 9−15 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
-      "headline": "9‑15 noyabr ob‑havo prognozi 🌦️",
-      "image": "https://www.gazeta.uz/media/img/2026/05/66oi48n66kp10pY4DP917796907116613_210392_og.webp?r=1794156803",
-      "ts": 1794157254.385552
-    },
     {
       "source_title": "Jizzaxda davlat zaxirasidagi 80 sotix yerni sotişga uringan şaxs qölga olindi",
       "headline": "Jizzaxda davlat zaxirasidagi 80 sotix yer sotishga uringan shaxs qolga olindi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Toshkent aeroportida 433 mln so'mlik mobil qurilmalar noqonuniy kirishga urinish aniqlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/10/f421ba473f52588f2ff6425eea1b6f509468f0ec95ee9fccc542a8c6240baf18.webp",
       "ts": 1794317444.94892
+    },
+    {
+      "source_title": "Antaliyadagi COP31: Oʻzbekiston iqlim oʻzgarishiga qarshi kurash boʻyicha tashabbuslarini taqdim etmoqda — fotojamlanma",
+      "headline": "O'zbekiston COP31 Antaliya konferensiyasida iqlim tashabbuslarini namoyish etadi 🌿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/3a1620216bf721cefd6d95500f3e2687b486491465e141ea3a272d8fcedd3a75.webp",
+      "ts": 1794319258.8595161
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794313836.694251,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 16
+    "count": 17
   }
 }

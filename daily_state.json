@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794310244.560087,
+  "last_post_ts": 1794312051.7524736,
   "recent_posts": [
-    {
-      "source_title": "Superliga. “Paxtakor” o‘z maydonida muhim g‘alabaga erishdi",
-      "headline": "Paxtakor “Sherlar”ni o'z maydonida mag'lub etdi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/e87ba14945b00179464a83eb73c1818389a4ed46e451a87b710acf88edf2d1a1.webp",
-      "ts": 1794151844.2590036
-    },
     {
       "source_title": "Superliga. “Nasaf” “Buxoro”dan ustun keldi, ”Neftchi” esa “OKMK”ni kambek evaziga mag‘lub etdi",
       "headline": "Superliga natijalari: “Nasaf” “Buxoro”ni mag'lub etdi, “Neftchi” “OKMK”ni kambek bilan yengdi",
@@ -240,11 +234,17 @@
       "headline": "Uy‑joylarni ulushli qurish qonuni qabul qilindi",
       "image": "https://www.gazeta.uz/media/img/2026/09/45cc1su0lgsqeR0RWt817907555794580_210525_og.webp?r=1794309488",
       "ts": 1794310242.5554934
+    },
+    {
+      "source_title": "Xorijda yashash uchun Oʻzbekistonni tark etayotganlar keskin kamaydi",
+      "headline": "Xorijga ko'chish keskin kamaydi 🌍📉",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/aa3fdb907b71b895af887d98ecf425c0fdf26587bfbf75618c02f619780bb078.webp",
+      "ts": 1794312049.7314963
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794308446.6595833,
@@ -279,6 +279,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 13
+    "count": 14
   }
 }

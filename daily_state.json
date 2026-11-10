@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794324647.9889765,
+  "last_post_ts": 1794326461.1260214,
   "recent_posts": [
-    {
-      "source_title": "Apex Development va Daikin strategik hamkorlikni yölga qöydi",
-      "headline": "Apex Development va Daikin strategik hamkorlikni yo'lga qo'ydi 🤝🏢",
-      "image": "https://storage.kun.uz/source/1/HWAHcT-wIkO9lEzswl3JJNYA3IMJdtpe.jpg",
-      "ts": 1794196852.0203536
-    },
     {
       "source_title": "«Halol bölişi - hali yaxşi investitsiya degani emas» - Xondamir Nusratxöjayev islom moliyasi va investitsiya platformalari haqida | Nima dard?",
       "headline": "Halol bo'lish – yaxshi investitsiya demak emas 📈💡",
@@ -240,11 +234,17 @@
       "headline": "12 yildan keyin AQShdan qaytarildi!",
       "image": "https://www.gazeta.uz/media/img/2026/11/uqq6vlc6m7bt051pUIO17943138295649_210544_og.webp?r=1794322904",
       "ts": 1794324645.985552
+    },
+    {
+      "source_title": "Fuqarolik holati yozuvlaridagi xatolarni sud orqali aniqlashning aniq tartibi joriy etiladi",
+      "headline": "Fuqarolik holati yozuvlaridagi xatolarni sud orqali aniqlash tartibi joriy etildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/10/928207c76398656662be436ebddf99a475dfc254e24a4bfbedc2b2506ef81637.webp",
+      "ts": 1794326459.1216419
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794322856.2889132,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-10",
-    "count": 19
+    "count": 20
   }
 }

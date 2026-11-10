@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794243662.5246332,
+  "last_post_ts": 1794277845.655743,
   "recent_posts": [
-    {
-      "source_title": "Hafta boshida O‘zbekistonga sovuq havo kirib kelishi boshlanadi",
-      "headline": "Hafta boshida sovuq havo kirib keladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/08/23900e2cb1e908974ff88ceeca1893aa23e95af0190fe7708c6baabc7ad45582.webp",
-      "ts": 1794121251.6552231
-    },
     {
       "source_title": "Buxoroda uy talashib, ota-onasini yoqib yuborishga uringan erkak 15,5 yilga qamaldi",
       "headline": "Buxoroda yong'in: ota-onasini yoqib yuborishga uringan erkak 15,5 yilga qamaldi 🔥",
@@ -240,11 +234,17 @@
       "headline": "Rossiyada Leningrad mudofasidagi o'zbek jangchilar xotirasiga yodgorlik ochildi 🕊️",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/78cbab8ad8230a97df62d726e8483aeb0ce0699da993467f8ea9b8291e2fd213.webp",
       "ts": 1794243660.5199554
+    },
+    {
+      "source_title": "Ўзбекистоннинг олтин-валюта захиралари йил бошидан буён энг паст даражага тушди, бироқ олтин ҳажми рекорд ўрнатди",
+      "headline": "Oltin‑valyuta zahiralari rekordga yetdi, lekin qiymati pasaydi",
+      "image": "https://www.gazeta.uz/media/img/2025/06/CORMXC17504259984207_210479_og.webp?r=1794252690",
+      "ts": 1794277843.6503272
     }
   ],
   "morning_sent_date": "2026-11-10",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794276052.9339063,
@@ -277,7 +277,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-09",
-    "count": 23
+    "day": "2026-11-10",
+    "count": 1
   }
 }

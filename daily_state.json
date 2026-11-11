@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794369649.6118917,
+  "last_post_ts": 1794371444.4153645,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda reklama joylayotgan 110 nafar bloger nazoratga olindi, 12 nafari javobgarlikka tortildi",
-      "headline": "Reklama qonunchiligini buzgan 12 bloger javobgarlikka tortildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/84e11e779b2efb84d7358440590e0865b7aa64d02d97fa11a0b0173b1f6f4c2e.webp",
-      "ts": 1794209440.18279
-    },
     {
       "source_title": "O‘zbekistonda davlat xaridlarining uch yillik rejalari oldindan e’lon qilinadi",
       "headline": "Davlat xaridlari uch yillik rejalari e'lon qilindi",
@@ -240,11 +234,17 @@
       "headline": "Şavkat Mirziyoyev Gurjiston bilan savdo‑tranzitga urğu berdi 🌍🤝",
       "image": "https://storage.kun.uz/source/1/i4W-8QhNrtCd4VX3Og08-WWc9G8QyOMV.jpg",
       "ts": 1794369647.607632
+    },
+    {
+      "source_title": "Qöqonda 13 yoşli qizga nisbatan jinsiy zöravonlik böyiça qözğatilgan jinoyat işi qayta malakalandi",
+      "headline": "Qo'qonda 13‑yoshli qizga nisbatan jinsiy zo'ravonlik bo'yicha jinoyat ishi qayta malakalandi",
+      "image": "https://storage.kun.uz/source/1/12Urhe3yUbxArCQG3p1OTXnML-XkfnJC.webp",
+      "ts": 1794371442.4109159
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794367834.3825905,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 3
+    "count": 4
   }
 }

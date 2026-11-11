@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794405645.97726,
+  "last_post_ts": 1794407453.302661,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda oktyabr oyi odatdagidan iliq keldi, yog‘ingarchilik esa kam bo‘ldi",
-      "headline": "O'tkazilgan oktyabr iliqroq, yog'ingarchilik kamroq 🌡️☀️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/fc5c0d8cedba83add0fcab86f0c122532557ed1a3f3df3bcd8b2e2280b9cfb03.webp",
-      "ts": 1794240052.8820574
-    },
     {
       "source_title": "«Дарсликлар етишмаяптими?» Депутат нашриётларга солиқ имтиёзлари берилишини асослашни талаб қилди",
       "headline": "Darsliklar yetishmayaptimi?",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva Parij tinçlik forumida qatnadi 🌍🤝",
       "image": "https://storage.kun.uz/source/1/wZBVkRaSSkLPcR83GVOP7YFZ4rRTdUny.jpg",
       "ts": 1794403845.1747615
+    },
+    {
+      "source_title": "Röyxatga olinmagan qurilişda reklama taqiqi va sel «keçgan» öquvçilar - mahalliy dayjest",
+      "headline": "Röyxatga olinmagan qurilishda reklama taqiqi 🚫🏗️",
+      "image": "https://storage.kun.uz/source/1/43CKX7k3hVloa3ubZv9jS2RapK1WsY9O.jpg",
+      "ts": 1794407451.2979712
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794405645.974874,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 16
+    "count": 17
   }
 }

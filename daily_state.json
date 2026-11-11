@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794396642.2424426,
+  "last_post_ts": 1794398454.9415765,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda endi jarima 60 kun ichida to‘lanmasa, avtomobil jarima maydonchasiga olib ketilishi mumkin",
-      "headline": "Jarima to'lanmasa, avtomobil maydonchaga olib ketiladi (60 kun ichida) 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/64eaabcc71be4f1da7a33e139ecb89cd7d35ec8a2b72c9024b6d4dbf02c5274b.webp",
-      "ts": 1794234654.3386328
-    },
     {
       "source_title": "Shavkat Mirziyoyev 10–11-noyabr kunlari Antaliyada boʻladi",
       "headline": "Shavkat Mirziyoyev Antaliyada iqlim sammitida 🇺🇿🌍",
@@ -240,11 +234,17 @@
       "headline": "Uluşli qurilish obyektlarini reklama qilish taqiqlanadi 🏗️🚫",
       "image": "https://storage.kun.uz/source/1/fGkQ8LMVNbhUB9b4WlXKFX9_j3yPYDBQ.jpg",
       "ts": 1794396640.239542
+    },
+    {
+      "source_title": "Тошкент аэропортида янги мобил қурилмаларни расмийлаштирувдан ўтказиш қайта тикланди",
+      "headline": "Toshkent aeroportida yangi mobil qurilmalar bojxona rasmiylashtiruvi qayta tiklandi",
+      "image": "https://www.gazeta.uz/media/img/2026/08/cdmpb2egqf4l2cw14KW17879922000167_210608_og.webp?r=1794398400",
+      "ts": 1794398452.9374363
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794394842.8967254,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 13
+    "count": 14
   }
 }

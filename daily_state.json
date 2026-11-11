@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794364243.8201978,
+  "last_post_ts": 1794366049.5453944,
   "recent_posts": [
-    {
-      "source_title": "Рақобат қўмитаси 12 нафар блогерни реклама тўғрисидаги қонунчиликни бузгани учун жавобгарликка тортди",
-      "headline": "Reklama qonunchiligini buzgan 12 blogger javobgarlikka tortildi",
-      "image": "https://www.gazeta.uz/media/img/2026/03/81kb6n982s8b9rk4y3B17724293271197_210405_og.webp?r=1794203102",
-      "ts": 1794204051.8990173
-    },
     {
       "source_title": "Нукусда 50 минг аҳолига мўлжалланган Nukus city массиви барпо этилади",
       "headline": "Nukus shahrida 50 ming aholi uchun yangi “Nukus City” massivi barpo etiladi 🏗️",
@@ -240,11 +234,17 @@
       "headline": "Toshkent aeroportida yangi telefonlar bojxona rasmiylashtirish to'xtatildi",
       "image": "https://www.gazeta.uz/media/img/2026/11/fmo6ecq2os2e40yylAC17943336010364_210559_og.webp?r=1794346660",
       "ts": 1794364241.8151207
+    },
+    {
+      "source_title": "Qo‘qonda 13 yoshli qizga nisbatan jinsiy zo‘ravonlik bo‘yicha ish qayta malakalandi",
+      "headline": "Qo'qonda 13 yoshli qizga nisbatan jinsiy zo'ravonlik ishi qayta malakalandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/a7b50c156c4a701196cd7f8400fd7dddc66b30226255b3774431b4a073ff7dbf.webp",
+      "ts": 1794366047.5420613
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794362443.840016,
@@ -282,6 +282,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 1
+    "count": 2
   }
 }

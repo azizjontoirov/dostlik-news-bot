@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794398454.9415765,
+  "last_post_ts": 1794400234.5208325,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev 10–11-noyabr kunlari Antaliyada boʻladi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794394842.8967254,
+    "last_ad_ts": 1794400234.5179174,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 76,
+      "ad_flour": 77,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 75,
@@ -266,11 +266,11 @@
     "today": {
       "ad_water": 3,
       "ad_home2": 1,
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_wedding": 1
     },
     "last_shown": {
-      "ad_flour": 1794389442.892401,
+      "ad_flour": 1794400234.5179155,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794394842.8967233,

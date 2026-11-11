@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794384051.5854144,
+  "last_post_ts": 1794385846.3595526,
   "recent_posts": [
-    {
-      "source_title": "“Men uchun biznes - bu mavjud imkoniyatlardan foydalanish emas, balki yangi imkoniyatlarni yaratish” — Railway media asoschisi Ikromjon Mamadjanov bilan suhbat",
-      "headline": "Biznesda yangi imkoniyatlar yaratish – Ikromjon Mamadjanov bilan suhbat",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/972d035e0f7e98d37321b8a618ebf92553fbae5d03a601639b7e3d26a6384997.webp",
-      "ts": 1794223839.2918036
-    },
     {
       "source_title": "Серверлардан электромобиллар компонентларигача. Ўзбекистонда қандай ишлаб чиқариш қувватлари йўлга қўйилади?",
       "headline": "O'zbekistonda yangi ishlab chiqarish quvvatlari!",
@@ -240,11 +234,17 @@
       "headline": "Osiyo Taraqqiyot Banki O'zbekistonda chorvachilikni qo'llab-quvvatlaydi 🐄💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/15b2fc94df1ac06d9ac05ee0489c03c37b45993317b5c8bbc3e240303bcfdc05.webp",
       "ts": 1794382237.171674
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev TDTning yangi tayinlangan bosh kotibini qabul qildi",
+      "headline": "Shavkat Mirziyoyev TDTning yangi bosh kotibini qabul qildi 🤝🗣️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/11a78cbde58d15bd33fd521984c8e4bc93f0fd25783a2a2ab4a6eb569c778f9e.webp",
+      "ts": 1794385844.3524225
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794384051.5803237,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 8
+    "count": 9
   }
 }

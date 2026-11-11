@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794402050.8154657,
+  "last_post_ts": 1794403847.1779523,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonning Orolni qutqariş xalqaro jamğarmasiga raisligida amalga oşiriladigan loyihalar körib çiqildi",
-      "headline": "O'zbekiston Orolni qutqariş jam'garmasiga raislik qiladi 🌊🤝",
-      "image": "https://storage.kun.uz/source/1/xj_Tpje99_wvUJuZUHP9RaiYxtOWuaPM.jpg",
-      "ts": 1794238255.139983
-    },
     {
       "source_title": "O‘zbekistonda oktyabr oyi odatdagidan iliq keldi, yog‘ingarchilik esa kam bo‘ldi",
       "headline": "O'tkazilgan oktyabr iliqroq, yog'ingarchilik kamroq 🌡️☀️",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashdi 🌍🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/770e94ab2bd8a0387dfeb02bdd7c6a21714b8b26ff41f53858b40af78e39a40a.webp",
       "ts": 1794402048.8098955
+    },
+    {
+      "source_title": "Saida Mirziyoyeva Parij tinçlik forumida iştirok etdi",
+      "headline": "Saida Mirziyoyeva Parij tinçlik forumida qatnadi 🌍🤝",
+      "image": "https://storage.kun.uz/source/1/wZBVkRaSSkLPcR83GVOP7YFZ4rRTdUny.jpg",
+      "ts": 1794403845.1747615
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794400234.5179174,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 15
+    "count": 16
   }
 }

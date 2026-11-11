@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794411040.006388,
+  "last_post_ts": 1794412856.8241818,
   "recent_posts": [
-    {
-      "source_title": "Rossiyada Leningrad mudofaasida qatnashgan o‘zbekistonlik jangchilar xotirasiga yodgorlik ochildi",
-      "headline": "Rossiyada Leningrad mudofasidagi o'zbek jangchilar xotirasiga yodgorlik ochildi 🕊️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/78cbab8ad8230a97df62d726e8483aeb0ce0699da993467f8ea9b8291e2fd213.webp",
-      "ts": 1794243660.5199554
-    },
     {
       "source_title": "Ўзбекистоннинг олтин-валюта захиралари йил бошидан буён энг паст даражага тушди, бироқ олтин ҳажми рекорд ўрнатди",
       "headline": "Oltin‑valyuta zahiralari rekordga yetdi, lekin qiymati pasaydi",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva: Tinçlik davrida maktab va shifoxonalarni himoya qilish zarur! 🌍🛡️",
       "image": "https://www.gazeta.uz/media/img/2026/11/cnte4mmtm6185byi8WL17944025955168_210624_og.webp?r=1794409059",
       "ts": 1794409251.6291122
+    },
+    {
+      "source_title": "O‘zbekiston JSTga a’zo bo‘lishi bilan mobil telefonlar uchun import boji nolga tushiriladi — Bojxona qo‘mitasi",
+      "headline": "Mobil telefonlar import bojiga nol!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/3fcca8f33ac214bb80ee74987a1b2feba49da9dee3423b02627e99856acb254e.webp",
+      "ts": 1794412854.8178606
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794411040.003781,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 18
+    "count": 19
   }
 }

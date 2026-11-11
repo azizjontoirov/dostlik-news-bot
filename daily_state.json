@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794389442.8976948,
+  "last_post_ts": 1794391255.1333659,
   "recent_posts": [
-    {
-      "source_title": "ERGO Samarqandda rasmiy shourumini ochdi",
-      "headline": "ERGO Samarqandda rasmiy shourumini ochdi 🏢✨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/25af6832c93fb14a364c76963cac4abdb0f213efd52e0801e246c20b79604f6a.webp",
-      "ts": 1794229347.8781428
-    },
     {
       "source_title": "“PSJ” darvozaboni O‘zbekistonga parvoz qilish oldidan yukini yo‘qotib qo‘ydi",
       "headline": "PSJ darvozaboni Safonovning yukini yo'qotdi – o'rtoqlik uchrashuvi oldidan noxush holat",
@@ -240,11 +234,17 @@
       "headline": "Turkiy Davlatlar Sammiti 2027‑yilda O'zbekistonda o'tkaziladi 🌍🤝",
       "image": "https://storage.kun.uz/source/1/r2insuGneBqodYmpiAWRohSsiM5fTaxG.jpg",
       "ts": 1794387646.9435635
+    },
+    {
+      "source_title": "ОТБ Ўзбекистонга чорвачилик маҳсулдорлигини ошириш учун $60 млн ажратади",
+      "headline": "OTB O'zbekiston chorvachilik mahsuldorligini oshirishga $60 mln ajratdi 🐄💰",
+      "image": "https://www.gazeta.uz/media/img/2026/04/bcg8o9mu20110CMXDTt17774629517291_210589_og.webp?r=1794390592",
+      "ts": 1794391253.1305535
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794389442.8924031,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 10
+    "count": 11
   }
 }

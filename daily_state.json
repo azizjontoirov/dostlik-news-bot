@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794378639.6038423,
+  "last_post_ts": 1794380450.2925048,
   "recent_posts": [
-    {
-      "source_title": "Murad Buildings kompaniyasi Regnum Plaza turar joy majmuasining tantanali oçiliş marosimini ötkazdi",
-      "headline": "Murad Buildings Regnum Plaza ochildi – zamonaviy uy-joy, oilaviy qadriyatlar va milliy an'analarga hurmat!",
-      "image": "https://storage.kun.uz/source/1/MGtm5U9PfkhdnO5ejqeaCOnkP-qGoBAs.jpg",
-      "ts": 1794218410.5514476
-    },
     {
       "source_title": "“Biz faqat mahsulot emas, injiniring xizmatlarini ham eksport qilishimiz kerak” — prezident",
       "headline": "Prezident: Mahsulot bilan birga injiniring xizmatlarini ham eksport qilishimiz kerak",
@@ -240,11 +234,17 @@
       "headline": "Namangandagi 5‑yoshli qizga qarshi jinsiy zo'ravonlik ishi sudga topshirildi 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/b5f34ce0546dc63ef1e18e9dce4e0a086a304b98cd720b46da5132ffa79fb5ce.webp",
       "ts": 1794376855.403962
+    },
+    {
+      "source_title": "Navoiyda AloqaBank’ning “Yoshlar biznes-inkubatori” faoliyati yo‘lga qo‘yildi",
+      "headline": "Navoiyda “Yoshlar biznes‑inkubatori” ishga tushdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/0034fe39ac32d1b72bb86defe1b375ff317408b5a6fe74f46f307f5a924fd47a.webp",
+      "ts": 1794380448.2883916
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794378639.6011083,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 6
+    "count": 7
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794407453.302661,
+  "last_post_ts": 1794409253.6335585,
   "recent_posts": [
-    {
-      "source_title": "«Дарсликлар етишмаяптими?» Депутат нашриётларга солиқ имтиёзлари берилишини асослашни талаб қилди",
-      "headline": "Darsliklar yetishmayaptimi?",
-      "image": "https://www.gazeta.uz/media/img/2023/09/8a7S9a16938160305013_b.jpg",
-      "ts": 1794241845.6968675
-    },
     {
       "source_title": "Rossiyada Leningrad mudofaasida qatnashgan o‘zbekistonlik jangchilar xotirasiga yodgorlik ochildi",
       "headline": "Rossiyada Leningrad mudofasidagi o'zbek jangchilar xotirasiga yodgorlik ochildi 🕊️",
@@ -240,11 +234,17 @@
       "headline": "Röyxatga olinmagan qurilishda reklama taqiqi 🚫🏗️",
       "image": "https://storage.kun.uz/source/1/43CKX7k3hVloa3ubZv9jS2RapK1WsY9O.jpg",
       "ts": 1794407451.2979712
+    },
+    {
+      "source_title": "«Тинчлик даврида қурилган мактаб ва шифохоналар урушда кўпинча илк йўқотишларга айланади» — Саида Мирзиёева",
+      "headline": "Saida Mirziyoyeva: Tinçlik davrida maktab va shifoxonalarni himoya qilish zarur! 🌍🛡️",
+      "image": "https://www.gazeta.uz/media/img/2026/11/cnte4mmtm6185byi8WL17944025955168_210624_og.webp?r=1794409059",
+      "ts": 1794409251.6291122
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794405645.974874,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 17
+    "count": 18
   }
 }

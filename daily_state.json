@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794385846.3595526,
+  "last_post_ts": 1794387648.948291,
   "recent_posts": [
-    {
-      "source_title": "Серверлардан электромобиллар компонентларигача. Ўзбекистонда қандай ишлаб чиқариш қувватлари йўлга қўйилади?",
-      "headline": "O'zbekistonda yangi ishlab chiqarish quvvatlari!",
-      "image": "https://www.gazeta.uz/media/img/2022/06/ny5kz716554674468985_b.jpg",
-      "ts": 1794225649.9000225
-    },
     {
       "source_title": "ERGO Samarqandda rasmiy shourumini ochdi",
       "headline": "ERGO Samarqandda rasmiy shourumini ochdi 🏢✨",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev TDTning yangi bosh kotibini qabul qildi 🤝🗣️",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/11a78cbde58d15bd33fd521984c8e4bc93f0fd25783a2a2ab4a6eb569c778f9e.webp",
       "ts": 1794385844.3524225
+    },
+    {
+      "source_title": "Turkiy davlatlar sammiti 2027-yilda Özbekistonda ötkaziladi",
+      "headline": "Turkiy Davlatlar Sammiti 2027‑yilda O'zbekistonda o'tkaziladi 🌍🤝",
+      "image": "https://storage.kun.uz/source/1/r2insuGneBqodYmpiAWRohSsiM5fTaxG.jpg",
+      "ts": 1794387646.9435635
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794384051.5803237,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 9
+    "count": 10
   }
 }

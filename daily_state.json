@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794400234.5208325,
+  "last_post_ts": 1794402050.8154657,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev 10–11-noyabr kunlari Antaliyada boʻladi",
-      "headline": "Shavkat Mirziyoyev Antaliyada iqlim sammitida 🇺🇿🌍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/dc926d0f96bfe65087f17991972e029fb740cc4252f6bf591d4e3a558543d873.webp",
-      "ts": 1794236453.921107
-    },
     {
       "source_title": "Özbekistonning Orolni qutqariş xalqaro jamğarmasiga raisligida amalga oşiriladigan loyihalar körib çiqildi",
       "headline": "O'zbekiston Orolni qutqariş jam'garmasiga raislik qiladi 🌊🤝",
@@ -240,11 +234,17 @@
       "headline": "Toshkent aeroportida yangi mobil qurilmalar bojxona rasmiylashtiruvi qayta tiklandi",
       "image": "https://www.gazeta.uz/media/img/2026/08/cdmpb2egqf4l2cw14KW17879922000167_210608_og.webp?r=1794398400",
       "ts": 1794398452.9374363
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashuv o‘tkazdi",
+      "headline": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashdi 🌍🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/770e94ab2bd8a0387dfeb02bdd7c6a21714b8b26ff41f53858b40af78e39a40a.webp",
+      "ts": 1794402048.8098955
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794400234.5179174,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 14
+    "count": 15
   }
 }

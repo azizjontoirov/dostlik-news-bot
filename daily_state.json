@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794375047.5571933,
+  "last_post_ts": 1794376857.408244,
   "recent_posts": [
-    {
-      "source_title": "Yaxshi uxlash uchun organizmga qaysi moddalar kerak?",
-      "headline": "Yaxshi uxlash uchun qaysi moddalar kerak? 🛌✨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/3e49724de266b2e6f460679f2b73f97419bc1f1a7dbfaca2eb00a1f13a843857.webp",
-      "ts": 1794214848.8267486
-    },
     {
       "source_title": "Murad Buildings kompaniyasi Regnum Plaza turar joy majmuasining tantanali oçiliş marosimini ötkazdi",
       "headline": "Murad Buildings Regnum Plaza ochildi – zamonaviy uy-joy, oilaviy qadriyatlar va milliy an'analarga hurmat!",
@@ -240,11 +234,17 @@
       "headline": "Haval – O'zbekiston hayot maromida o'tgan uch yil",
       "image": "https://gocdn.daryo.uz/large/2026/11/09/ff217b4452877931aa2284ab7e39b25561f033ff411f2fe0dd577dd70e94e09f.webp",
       "ts": 1794375045.5531118
+    },
+    {
+      "source_title": "Namangandagi bog‘chada 5 yoshli qiz zo‘rlangani bo‘yicha ish sudga oshirildi",
+      "headline": "Namangandagi 5‑yoshli qizga qarshi jinsiy zo'ravonlik ishi sudga topshirildi 🚨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/b5f34ce0546dc63ef1e18e9dce4e0a086a304b98cd720b46da5132ffa79fb5ce.webp",
+      "ts": 1794376855.403962
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794373240.8095102,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 5
+    "count": 6
   }
 }

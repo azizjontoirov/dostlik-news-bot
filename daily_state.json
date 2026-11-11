@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794394842.8985934,
+  "last_post_ts": 1794396642.2424426,
   "recent_posts": [
-    {
-      "source_title": "Migrantlar Oʻzbekistonga toʻqqiz oyda 15,2 mlrd dollar yubordi",
-      "headline": "Migrantlar O'zbekistonga to'qqiz oyda 15,2 mlrd dollar yubordi 💸📈",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/bfecaadf4aec615f6b565644827c746eeb0c2323b49cfd82584c04fbd3b36e1f.webp",
-      "ts": 1794232851.2477973
-    },
     {
       "source_title": "O‘zbekistonda endi jarima 60 kun ichida to‘lanmasa, avtomobil jarima maydonchasiga olib ketilishi mumkin",
       "headline": "Jarima to'lanmasa, avtomobil maydonchaga olib ketiladi (60 kun ichida) 🚨",
@@ -240,11 +234,17 @@
       "headline": "Yangi Toshkent shaharsozlik loyihalariga soliq imtiyozlari 🏙️✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/297b12f849689fb16eeb33a1eac87cbd7c9b2f380451658a2107202644cc6ad9.webp",
       "ts": 1794393040.2891042
+    },
+    {
+      "source_title": "Röyxatga olinmagan uluşli quriliş obyektlarini reklama qiliş taqiqlanadi",
+      "headline": "Uluşli qurilish obyektlarini reklama qilish taqiqlanadi 🏗️🚫",
+      "image": "https://storage.kun.uz/source/1/fGkQ8LMVNbhUB9b4WlXKFX9_j3yPYDBQ.jpg",
+      "ts": 1794396640.239542
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794394842.8967254,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 12
+    "count": 13
   }
 }

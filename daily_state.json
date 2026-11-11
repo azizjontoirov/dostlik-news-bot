@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794412856.8241818,
+  "last_post_ts": 1794414645.8587828,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистоннинг олтин-валюта захиралари йил бошидан буён энг паст даражага тушди, бироқ олтин ҳажми рекорд ўрнатди",
-      "headline": "Oltin‑valyuta zahiralari rekordga yetdi, lekin qiymati pasaydi",
-      "image": "https://www.gazeta.uz/media/img/2025/06/CORMXC17504259984207_210479_og.webp?r=1794252690",
-      "ts": 1794277843.6503272
-    },
     {
       "source_title": "“G‘azalkent” — “Respublika FA” uchrashuvidagi janjal yuzasidan bayonot berildi (video)",
       "headline": "G'azalkent” – “Respublika FA” uchrashuvidagi janjal bayonoti (video)",
@@ -240,11 +234,17 @@
       "headline": "Mobil telefonlar import bojiga nol!",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/3fcca8f33ac214bb80ee74987a1b2feba49da9dee3423b02627e99856acb254e.webp",
       "ts": 1794412854.8178606
+    },
+    {
+      "source_title": "Пахтаобод тумани ҳокими ўринбосари ва кадастр ходими 30 минг доллар олганликда гумонланиб ушланди",
+      "headline": "Pahtaobod tumanida korrupsiya holati",
+      "image": "https://www.gazeta.uz/media/img/2026/11/3aqs4ct02icgeu2wvuc17944030012154_210627_og.webp?r=1794414402",
+      "ts": 1794414643.854775
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794411040.003781,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 19
+    "count": 20
   }
 }

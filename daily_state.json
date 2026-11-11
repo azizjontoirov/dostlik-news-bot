@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794380450.2925048,
+  "last_post_ts": 1794382239.175232,
   "recent_posts": [
-    {
-      "source_title": "“Biz faqat mahsulot emas, injiniring xizmatlarini ham eksport qilishimiz kerak” — prezident",
-      "headline": "Prezident: Mahsulot bilan birga injiniring xizmatlarini ham eksport qilishimiz kerak",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/35686cc4c34d65fef970ffca23e8cab8eac14c9599605c1217e41a1dcb82a837.webp",
-      "ts": 1794220247.3073502
-    },
     {
       "source_title": "“Men uchun biznes - bu mavjud imkoniyatlardan foydalanish emas, balki yangi imkoniyatlarni yaratish” — Railway media asoschisi Ikromjon Mamadjanov bilan suhbat",
       "headline": "Biznesda yangi imkoniyatlar yaratish – Ikromjon Mamadjanov bilan suhbat",
@@ -240,11 +234,17 @@
       "headline": "Navoiyda “Yoshlar biznes‑inkubatori” ishga tushdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/0034fe39ac32d1b72bb86defe1b375ff317408b5a6fe74f46f307f5a924fd47a.webp",
       "ts": 1794380448.2883916
+    },
+    {
+      "source_title": "Osiyo taraqqiyot banki O‘zbekiston chorvachiligi uchun 60 mln dollar ajratadi",
+      "headline": "Osiyo Taraqqiyot Banki O'zbekistonda chorvachilikni qo'llab-quvvatlaydi 🐄💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/15b2fc94df1ac06d9ac05ee0489c03c37b45993317b5c8bbc3e240303bcfdc05.webp",
+      "ts": 1794382237.171674
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794378639.6011083,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 7
+    "count": 8
   }
 }

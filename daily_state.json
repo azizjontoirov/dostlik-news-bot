@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794367834.3846729,
+  "last_post_ts": 1794369649.6118917,
   "recent_posts": [
-    {
-      "source_title": "Нукусда 50 минг аҳолига мўлжалланган Nukus city массиви барпо этилади",
-      "headline": "Nukus shahrida 50 ming aholi uchun yangi “Nukus City” massivi barpo etiladi 🏗️",
-      "image": "https://www.gazeta.uz/media/img/2019/11/517O0s15735626824381_b.jpg",
-      "ts": 1794207655.4614456
-    },
     {
       "source_title": "O‘zbekistonda reklama joylayotgan 110 nafar bloger nazoratga olindi, 12 nafari javobgarlikka tortildi",
       "headline": "Reklama qonunchiligini buzgan 12 bloger javobgarlikka tortildi",
@@ -240,11 +234,17 @@
       "headline": "Qo'qonda 13 yoshli qizga nisbatan jinsiy zo'ravonlik ishi qayta malakalandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/11/a7b50c156c4a701196cd7f8400fd7dddc66b30226255b3774431b4a073ff7dbf.webp",
       "ts": 1794366047.5420613
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev Gurjiston bilan savdo va tranzitga urğu berdi",
+      "headline": "Şavkat Mirziyoyev Gurjiston bilan savdo‑tranzitga urğu berdi 🌍🤝",
+      "image": "https://storage.kun.uz/source/1/i4W-8QhNrtCd4VX3Og08-WWc9G8QyOMV.jpg",
+      "ts": 1794369647.607632
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794367834.3825905,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 2
+    "count": 3
   }
 }

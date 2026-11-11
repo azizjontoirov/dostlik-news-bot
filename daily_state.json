@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794391255.1333659,
+  "last_post_ts": 1794393042.2933102,
   "recent_posts": [
-    {
-      "source_title": "“PSJ” darvozaboni O‘zbekistonga parvoz qilish oldidan yukini yo‘qotib qo‘ydi",
-      "headline": "PSJ darvozaboni Safonovning yukini yo'qotdi – o'rtoqlik uchrashuvi oldidan noxush holat",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/9e31287372fe64cb5d0ce25243ff1f2e22b21fed482b46c6c3845d302ee3640e.webp",
-      "ts": 1794231042.1230114
-    },
     {
       "source_title": "Migrantlar Oʻzbekistonga toʻqqiz oyda 15,2 mlrd dollar yubordi",
       "headline": "Migrantlar O'zbekistonga to'qqiz oyda 15,2 mlrd dollar yubordi 💸📈",
@@ -240,11 +234,17 @@
       "headline": "OTB O'zbekiston chorvachilik mahsuldorligini oshirishga $60 mln ajratdi 🐄💰",
       "image": "https://www.gazeta.uz/media/img/2026/04/bcg8o9mu20110CMXDTt17774629517291_210589_og.webp?r=1794390592",
       "ts": 1794391253.1305535
+    },
+    {
+      "source_title": "Yangi Toshkentdagi yirik shaharsozlik loyihalari uchun imtiyozlar beriladi",
+      "headline": "Yangi Toshkent shaharsozlik loyihalariga soliq imtiyozlari 🏙️✨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/297b12f849689fb16eeb33a1eac87cbd7c9b2f380451658a2107202644cc6ad9.webp",
+      "ts": 1794393040.2891042
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794389442.8924031,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 11
+    "count": 12
   }
 }

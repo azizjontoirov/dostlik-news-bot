@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794373240.8111954,
+  "last_post_ts": 1794375047.5571933,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda davlat xaridlarining uch yillik rejalari oldindan e’lon qilinadi",
-      "headline": "Davlat xaridlari uch yillik rejalari e'lon qilindi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/bc6a01f81054f47fee4e3cd6b36297b1e4db4e6d6708a43822e3f346ea06789b.webp",
-      "ts": 1794213042.0102565
-    },
     {
       "source_title": "Yaxshi uxlash uchun organizmga qaysi moddalar kerak?",
       "headline": "Yaxshi uxlash uchun qaysi moddalar kerak? 🛌✨",
@@ -240,11 +234,17 @@
       "headline": "Qo'qonda 13‑yoshli qizga nisbatan jinsiy zo'ravonlik bo'yicha jinoyat ishi qayta malakalandi",
       "image": "https://storage.kun.uz/source/1/12Urhe3yUbxArCQG3p1OTXnML-XkfnJC.webp",
       "ts": 1794371442.4109159
+    },
+    {
+      "source_title": "Haval – O‘zbekiston hayot maromida o‘tgan uch yil: birinchi avtomobillardan mamlakat yo‘llaridagi minglab voqealargacha",
+      "headline": "Haval – O'zbekiston hayot maromida o'tgan uch yil",
+      "image": "https://gocdn.daryo.uz/large/2026/11/09/ff217b4452877931aa2284ab7e39b25561f033ff411f2fe0dd577dd70e94e09f.webp",
+      "ts": 1794375045.5531118
     }
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794373240.8095102,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-11",
-    "count": 4
+    "count": 5
   }
 }

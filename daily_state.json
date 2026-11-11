@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794371444.4153645,
+  "last_post_ts": 1794373240.8111954,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda davlat xaridlarining uch yillik rejalari oldindan e’lon qilinadi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-11",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794367834.3825905,
+    "last_ad_ts": 1794373240.8095102,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 74,
+      "ad_flour": 75,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 73,
@@ -265,10 +265,11 @@
     "day": "2026-11-11",
     "today": {
       "ad_water": 1,
-      "ad_home2": 1
+      "ad_home2": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1794313836.6942492,
+      "ad_flour": 1794373240.8095088,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794362443.8400137,

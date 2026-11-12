@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794465035.6756878,
+  "last_post_ts": 1794466848.4553525,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 11-noyabrda harorat keskin pasayadi",
-      "headline": "11-noyabrda harorat keskin pasayadi, yomg'ir va qor ehtimoli",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/d595af5b3b84930e2bd9ee964aedcd177e9a596e09256edf8bba43e3ff7f1040.webp",
-      "ts": 1794295839.9583619
-    },
     {
       "source_title": "O‘zbekistonda eskrou tizimi to‘g‘risidagi qonun loyihasi Senatga yuborildi",
       "headline": "O'zbekistonda eskrou tizimi bo'yicha yangi qonun loyihasi Senatga yuborildi",
@@ -240,11 +234,17 @@
       "headline": "Sel xavfi ogohlantirildi – 13‑noyabr",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/60ac337bceec1d26e11166cf8f64a0e71770ad38040626d40db1daa8f3327d91.webp",
       "ts": 1794463248.0880554
+    },
+    {
+      "source_title": "“Demokrat.uz” rahbari 10,3 yilga ozodlikdan mahrum etildi",
+      "headline": "Demokrat.uz” rahbari 10 yil 3 oyga ozodlikdan mahrum etildi 🏛️⚖️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/b73dac9c3073fe39fa81d7cc82458387fe484c38335018746de83c1abcb3a9eb.webp",
+      "ts": 1794466846.4516048
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794465035.6737263,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 6
+    "count": 7
   }
 }

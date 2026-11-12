@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794475833.1547031,
+  "last_post_ts": 1794477652.0917864,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda yo‘l ochish bahonasida 33 tup daraxt va uch mingga yaqin buta qo‘porib tashlandi",
-      "headline": "Qashqadaryoda yo'l qurish bahonasida 33 tup daraxt va 3 000 ga yaqin buta yo'q qilindi 🌳🚧",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/6df771f15b1ed963855a740ff06182452d7d9ac9620aa326a459ebdebf2a8280.webp",
-      "ts": 1794306643.3563025
-    },
     {
       "source_title": "Депутатлар Ўзбекистонда уй-жойларни улушли қуриш тўғрисидаги қонунни қабул қилди. Нималар ўзгаради?",
       "headline": "Uy‑joylarni ulushli qurish qonuni qabul qilindi",
@@ -240,11 +234,17 @@
       "headline": "WB Taxi O'zbekistonda raqamli taksi bozorida yetakchi deb topildi",
       "image": "https://storage.kun.uz/source/1/cYeyJ6ZzIo84DXgR-HW8T1G_rbC2yOW7.jpg",
       "ts": 1794474048.4296439
+    },
+    {
+      "source_title": "Fitch Ratings: Qoraqalpog‘iston — iqtisodiyoti eng jadal rivojlanayotgan hududlardan biri",
+      "headline": "Fitch Ratings: Qoraqalpog'iston iqtisodiyoti jadal rivojlanmoqda 📈🌟",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/18f2de34bfcb2323f08c26c31f983e83017f517e46a5bbeaeb692fe702a3c0e1.webp",
+      "ts": 1794477650.0875528
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794475833.1522477,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 10
+    "count": 11
   }
 }

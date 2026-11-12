@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794474050.4350896,
+  "last_post_ts": 1794475833.1547031,
   "recent_posts": [
     {
       "source_title": "Qashqadaryoda yo‘l ochish bahonasida 33 tup daraxt va uch mingga yaqin buta qo‘porib tashlandi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794470442.5804243,
+    "last_ad_ts": 1794475833.1522477,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 79,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 77,
+      "ad_water": 78,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -266,14 +266,14 @@
     "today": {
       "ad_flour": 2,
       "ad_home2": 1,
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_wedding": 1
     },
     "last_shown": {
       "ad_flour": 1794465035.6737237,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794459643.029088,
+      "ad_water": 1794475833.152245,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

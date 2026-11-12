@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794490251.218624,
+  "last_post_ts": 1794492045.8433976,
   "recent_posts": [
     {
       "source_title": "Buxoro viloyati hokimiga yangi örinbosar tayinlandi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794486635.1826465,
+    "last_ad_ts": 1794492045.8405519,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 80,
@@ -259,13 +259,13 @@
       "uchastka_sale": 3,
       "ad_wedding": 4,
       "ad_moto": 1,
-      "ad_home2": 3
+      "ad_home2": 4
     },
     "permanent_index": 2,
     "day": "2026-11-12",
     "today": {
       "ad_flour": 3,
-      "ad_home2": 1,
+      "ad_home2": 2,
       "ad_water": 3,
       "ad_wedding": 1
     },
@@ -280,7 +280,7 @@
       "uchastka_sale": 1793763036.8346071,
       "ad_wedding": 1794470442.580422,
       "ad_moto": 1794328239.7406266,
-      "ad_home2": 1794454235.9325123
+      "ad_home2": 1794492045.8405488
     },
     "morning_ad_date": "2026-11-12"
   },

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794459643.0317922,
+  "last_post_ts": 1794461442.941338,
   "recent_posts": [
-    {
-      "source_title": "“Pari” bilganni qari bilmaydi yoxud katta avlod raqamli tahdidlardan qanchalik himoya qilin(ma)yapti?",
-      "headline": "Raqamli platformalardan kim ko'proq foydalanadi?",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/41a143b3c7f437648c571c4fb84fe3babcc3ff440b6746bdfe45ec2e66289acc.webp",
-      "ts": 1794290454.7741544
-    },
     {
       "source_title": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to‘siqlar",
       "headline": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to'siqlar 🌐🤝",
@@ -240,11 +234,17 @@
       "headline": "Tashkentda yangi tezkor avtobus koridori! 🚦",
       "image": "https://storage.kun.uz/source/1/Xtsb4cqU5OyFUZ3BznUfsXGbOcrrUYA2.jpg",
       "ts": 1794457844.1229382
+    },
+    {
+      "source_title": "Yangi Toşkent öz hokimiga ega böladi",
+      "headline": "Yangi Toshkent hokimligi tashkil etildi 🏛️✨",
+      "image": "https://storage.kun.uz/source/1/FNSWh5_b360HvtuuBilOap8XlmXmcBze.webp",
+      "ts": 1794461440.9366415
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794459643.0290906,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 4
+    "count": 5
   }
 }

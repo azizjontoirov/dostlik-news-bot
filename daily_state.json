@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794450645.9421012,
+  "last_post_ts": 1794452452.8088799,
   "recent_posts": [
-    {
-      "source_title": "Qarşi şahrida bino tomi harakatdagi maşina ustiga qulab tuşdi",
-      "headline": "Qarshi shahrida bino tomi harakatdagi mashina ustiga tushdi 🚗💨",
-      "image": "https://storage.kun.uz/source/1/i75puGctG1CU1CW06QWilMgMqqMz5GHp.jpg",
-      "ts": 1794283249.2257078
-    },
     {
       "source_title": "Foydalanishga yaroqsiz isitish qozonlarini sotgan tadbirkor va gaz ta’minoti xodimi ushlandi",
       "headline": "Xavfsizlik tahdidi: Yaroqsiz isitish qozonlari sotildi",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda “Nomsiz” MO eksperimental filmlari festivali",
       "image": "https://www.gazeta.uz/media/img/2026/11/m9u0hp5klumb7mdW9pU17944002235088_210631_og.webp?r=1794423487",
       "ts": 1794450643.9372
+    },
+    {
+      "source_title": "Qozog‘istonga aloqadorligi taxmin qilinayotgan hakerlar Tojikiston xavfsizligiga oid 2000 dan ortiq hujjatni o‘g‘irladi — Reuters",
+      "headline": "Kiberxavfsizlik tahdidi: O'zbekiston platformasiga ham kirishildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/11/8360742e90070dad9bc4e678520f0fcfbfc2d52e76a662f931aa42abf19dbcd7.webp",
+      "ts": 1794452450.7341547
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794448844.4703522,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 1
+    "count": 2
   }
 }

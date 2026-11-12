@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794495656.0353837,
+  "last_post_ts": 1794497442.8348923,
   "recent_posts": [
     {
       "source_title": "Fuqarolik holati yozuvlaridagi xatolarni sud orqali aniqlashning aniq tartibi joriy etiladi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794492045.8405519,
+    "last_ad_ts": 1794497442.8322177,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 80,
@@ -257,7 +257,7 @@
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
-      "ad_wedding": 4,
+      "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4
     },
@@ -267,7 +267,7 @@
       "ad_flour": 3,
       "ad_home2": 2,
       "ad_water": 3,
-      "ad_wedding": 1
+      "ad_wedding": 2
     },
     "last_shown": {
       "ad_flour": 1794481245.8257227,
@@ -278,7 +278,7 @@
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,
       "uchastka_sale": 1793763036.8346071,
-      "ad_wedding": 1794470442.580422,
+      "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488
     },

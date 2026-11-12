@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794481245.8274698,
+  "last_post_ts": 1794483049.4424598,
   "recent_posts": [
-    {
-      "source_title": "Xorijda yashash uchun Oʻzbekistonni tark etayotganlar keskin kamaydi",
-      "headline": "Xorijga ko'chish keskin kamaydi 🌍📉",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/aa3fdb907b71b895af887d98ecf425c0fdf26587bfbf75618c02f619780bb078.webp",
-      "ts": 1794312049.7314963
-    },
     {
       "source_title": "Мамлакат аҳолиси геномини ўрганиш Ўзбекистонга нима беради? Тошкентдаги Илғор технологиялар марказидан репортаж",
       "headline": "Genom tadqiqoti: “1000 genom” loyihasi boshladi 🧬",
@@ -240,11 +234,17 @@
       "headline": "Ўзбекистон 2030 йилга ЯИМни 300 млрд долларгача ошириш режаси 📈💡",
       "image": "https://www.gazeta.uz/media/img/2026/10/oq7k2237qj2g3RgaUV817934367014628_210686_og.webp?r=1794479332",
       "ts": 1794479439.3999066
+    },
+    {
+      "source_title": "«Биринчи хато иккинчи хатони яратади». Жамоатчилик нега UzIMEI’ни танқид қилмоқда ва Ўзбекистон ҳукумати бунга нима дейди?",
+      "headline": "Birinchi xato ikkinchi hatoni yaratadi",
+      "image": "https://www.gazeta.uz/media/img/2025/07/qHAbze17520661071766_210688_og.webp?r=1794482591",
+      "ts": 1794483047.4365718
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794481245.8257256,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 12
+    "count": 13
   }
 }

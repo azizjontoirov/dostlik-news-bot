@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794488455.063188,
+  "last_post_ts": 1794490251.218624,
   "recent_posts": [
-    {
-      "source_title": "Antaliyadagi COP31: Oʻzbekiston iqlim oʻzgarishiga qarshi kurash boʻyicha tashabbuslarini taqdim etmoqda — fotojamlanma",
-      "headline": "O'zbekiston COP31 Antaliya konferensiyasida iqlim tashabbuslarini namoyish etadi 🌿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/3a1620216bf721cefd6d95500f3e2687b486491465e141ea3a272d8fcedd3a75.webp",
-      "ts": 1794319258.8595161
-    },
     {
       "source_title": "Buxoro viloyati hokimiga yangi örinbosar tayinlandi",
       "headline": "Buxoro viloyati hokimiga ikki yangi örinbosar tayinlandi 🏛️✨",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston‑Tojikiston o'rtasidagi yuk tashish to'siqlari bartaraf etildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/d7b625f686ab1ab827d9c84e7e8fb37a4899d7d6dd2401e09aa4eb38fc4db345.webp",
       "ts": 1794488453.0591526
+    },
+    {
+      "source_title": "Фойда камайди, захиралар ўсди ва сотувлар қисқарди. UzAuto Motors ҳисоботи нималарни кўрсатди?",
+      "headline": "UzAuto Motors hisobotida: foyda kamaydi, zahiralar oshdi",
+      "image": "https://www.gazeta.uz/media/img/2025/10/PuY0B617617331911810_210699_og.webp?r=1794490014",
+      "ts": 1794490249.2133534
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794486635.1826465,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 15
+    "count": 16
   }
 }

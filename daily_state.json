@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794493845.3309872,
+  "last_post_ts": 1794495656.0353837,
   "recent_posts": [
-    {
-      "source_title": "АҚШдан Ўзбекистонга 12 йилдан бери қидирувда бўлган фуқаро қайтарилди",
-      "headline": "12 yildan keyin AQShdan qaytarildi!",
-      "image": "https://www.gazeta.uz/media/img/2026/11/uqq6vlc6m7bt051pUIO17943138295649_210544_og.webp?r=1794322904",
-      "ts": 1794324645.985552
-    },
     {
       "source_title": "Fuqarolik holati yozuvlaridagi xatolarni sud orqali aniqlashning aniq tartibi joriy etiladi",
       "headline": "Fuqarolik holati yozuvlaridagi xatolarni sud orqali aniqlash tartibi joriy etildi",
@@ -240,11 +234,17 @@
       "headline": "Yangi Toshkentda AMAN Development tantanali ochilishi 🏢✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/cb06044ef244ac65f57832bf0f4ba32fe2c768edeb543ecd0c8227cc72da539e.webp",
       "ts": 1794493843.326417
+    },
+    {
+      "source_title": "Миландаги кўргазмада Холчаён ва Афросиёб қадимий шаҳар харобаларидан топилган артефактлар намойиш этилди",
+      "headline": "Global Antiquity ko'rgazmasida O'zbekiston merosi namoyish etildi 🌟",
+      "image": "https://www.gazeta.uz/media/img/2026/11/rj66onstqbq5anFu4r517944850928421_210706_og.webp?r=1794495647",
+      "ts": 1794495654.0287971
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794492045.8405519,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 17
+    "count": 18
   }
 }

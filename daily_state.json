@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794486635.185368,
+  "last_post_ts": 1794488455.063188,
   "recent_posts": [
-    {
-      "source_title": "Toshkent aeroportida 433 mln so‘mlik mobil qurilmalarni noqonuniy olib kirishga urinishlar aniqlandi",
-      "headline": "Toshkent aeroportida 433 mln so'mlik mobil qurilmalar noqonuniy kirishga urinish aniqlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/f421ba473f52588f2ff6425eea1b6f509468f0ec95ee9fccc542a8c6240baf18.webp",
-      "ts": 1794317444.94892
-    },
     {
       "source_title": "Antaliyadagi COP31: Oʻzbekiston iqlim oʻzgarishiga qarshi kurash boʻyicha tashabbuslarini taqdim etmoqda — fotojamlanma",
       "headline": "O'zbekiston COP31 Antaliya konferensiyasida iqlim tashabbuslarini namoyish etadi 🌿",
@@ -240,11 +234,17 @@
       "headline": "Turk seriallari aktyorlari gonorarini kamaytirishga rozi bo'ldi 🎬💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/85d27372d8cfae4acb7a16d5a94d68e1eca8147e34fd204beb00744e2517c803.webp",
       "ts": 1794484846.747407
+    },
+    {
+      "source_title": "O‘zbekiston va Tojikiston yuk tashishdagi to‘siqlarni bartaraf etishga kelishib oldi",
+      "headline": "O'zbekiston‑Tojikiston o'rtasidagi yuk tashish to'siqlari bartaraf etildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/d7b625f686ab1ab827d9c84e7e8fb37a4899d7d6dd2401e09aa4eb38fc4db345.webp",
+      "ts": 1794488453.0591526
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794486635.1826465,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 14
+    "count": 15
   }
 }

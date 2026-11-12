@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794461442.941338,
+  "last_post_ts": 1794463250.0912745,
   "recent_posts": [
-    {
-      "source_title": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to‘siqlar",
-      "headline": "Markaziy Osiyo birlashuvi: 8 yillik yaqinlashuv va hal etilmagan to'siqlar 🌐🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/aedb87b004afd9b54657c5e34e49c4b74eae014ee6faa91251880ceac3e740a4.webp",
-      "ts": 1794294053.018038
-    },
     {
       "source_title": "O‘zbekistonda 11-noyabrda harorat keskin pasayadi",
       "headline": "11-noyabrda harorat keskin pasayadi, yomg'ir va qor ehtimoli",
@@ -240,11 +234,17 @@
       "headline": "Yangi Toshkent hokimligi tashkil etildi 🏛️✨",
       "image": "https://storage.kun.uz/source/1/FNSWh5_b360HvtuuBilOap8XlmXmcBze.webp",
       "ts": 1794461440.9366415
+    },
+    {
+      "source_title": "“O‘zgidromet” 13-noyabr kuni sel xavfi borligidan ogohlantirdi",
+      "headline": "Sel xavfi ogohlantirildi – 13‑noyabr",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/60ac337bceec1d26e11166cf8f64a0e71770ad38040626d40db1daa8f3327d91.webp",
+      "ts": 1794463248.0880554
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794459643.0290906,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 5
+    "count": 6
   }
 }

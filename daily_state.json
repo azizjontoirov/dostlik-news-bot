@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794492045.8433976,
+  "last_post_ts": 1794493845.3309872,
   "recent_posts": [
-    {
-      "source_title": "Buxoro viloyati hokimiga yangi örinbosar tayinlandi",
-      "headline": "Buxoro viloyati hokimiga ikki yangi örinbosar tayinlandi 🏛️✨",
-      "image": "https://storage.kun.uz/source/1/aDfRHulmRCDHmdJfAoaimStQXsEaNh1R.jpg",
-      "ts": 1794321045.0861545
-    },
     {
       "source_title": "АҚШдан Ўзбекистонга 12 йилдан бери қидирувда бўлган фуқаро қайтарилди",
       "headline": "12 yildan keyin AQShdan qaytarildi!",
@@ -240,11 +234,17 @@
       "headline": "UzAuto Motors hisobotida: foyda kamaydi, zahiralar oshdi",
       "image": "https://www.gazeta.uz/media/img/2025/10/PuY0B617617331911810_210699_og.webp?r=1794490014",
       "ts": 1794490249.2133534
+    },
+    {
+      "source_title": "14-noyabr kuni Yangi Toshkentda AMAN Developmentʼning tantanali ochilishi va Geraldika Residence taqdimoti boʻlib oʻtadi",
+      "headline": "Yangi Toshkentda AMAN Development tantanali ochilishi 🏢✨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/cb06044ef244ac65f57832bf0f4ba32fe2c768edeb543ecd0c8227cc72da539e.webp",
+      "ts": 1794493843.326417
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794492045.8405519,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 16
+    "count": 17
   }
 }

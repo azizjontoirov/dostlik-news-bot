@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794452452.8088799,
+  "last_post_ts": 1794454235.9350736,
   "recent_posts": [
     {
       "source_title": "Foydalanishga yaroqsiz isitish qozonlarini sotgan tadbirkor va gaz ta’minoti xodimi ushlandi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794448844.4703522,
+    "last_ad_ts": 1794454235.9325151,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 78,
@@ -259,12 +259,13 @@
       "uchastka_sale": 3,
       "ad_wedding": 3,
       "ad_moto": 1,
-      "ad_home2": 2
+      "ad_home2": 3
     },
     "permanent_index": 2,
     "day": "2026-11-12",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "ad_home2": 1
     },
     "last_shown": {
       "ad_flour": 1794448844.470349,
@@ -277,7 +278,7 @@
       "uchastka_sale": 1793763036.8346071,
       "ad_wedding": 1794411040.003779,
       "ad_moto": 1794328239.7406266,
-      "ad_home2": 1794405645.9748719
+      "ad_home2": 1794454235.9325123
     },
     "morning_ad_date": "2026-11-12"
   },

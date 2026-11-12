@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794466848.4553525,
+  "last_post_ts": 1794468637.8267515,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda eskrou tizimi to‘g‘risidagi qonun loyihasi Senatga yuborildi",
-      "headline": "O'zbekistonda eskrou tizimi bo'yicha yangi qonun loyihasi Senatga yuborildi",
-      "image": "https://gocdn.daryo.uz/large/2026/10/03/e9dbadc302e8206b7126f22001551fe9633395cdb5064f272eaaf49318fac475.webp",
-      "ts": 1794299443.1037643
-    },
     {
       "source_title": "Eldor Shomurodov O‘zbekiston milliy jamoasi yig‘iniga qo‘shildi",
       "headline": "Eldor Shomurodov milliy jamoaga qo'shildi",
@@ -240,11 +234,17 @@
       "headline": "Demokrat.uz” rahbari 10 yil 3 oyga ozodlikdan mahrum etildi 🏛️⚖️",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/b73dac9c3073fe39fa81d7cc82458387fe484c38335018746de83c1abcb3a9eb.webp",
       "ts": 1794466846.4516048
+    },
+    {
+      "source_title": "Бешариқ тумани ҳокими ёрдамчиси кредит ажратиб бериш эвазига фуқародан iPhone 17 олаётганида ушланди",
+      "headline": "Beshariq tumanida korrupsiya holati – iPhone 17 Pro Max evaziga kredit! 📱🚨",
+      "image": "https://www.gazeta.uz/media/img/2026/11/j7lc15lap29i0tN5zRy17944680404264_210677_og.webp?r=1794468557",
+      "ts": 1794468635.8230555
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794465035.6737263,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 7
+    "count": 8
   }
 }

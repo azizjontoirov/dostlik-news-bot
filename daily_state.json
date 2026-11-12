@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794472240.5479672,
+  "last_post_ts": 1794474050.4350896,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда ҳайдовчини ҳақорат қилган ЙПХ инспектори лавозимидан четлатилди",
-      "headline": "Тошкентда ЙПХ инспектори лавозимидан четлатилди",
-      "image": "https://www.gazeta.uz/media/img/2026/11/0siu43s0rijf1fQSxK017943041598041_210509_og.webp?r=1794304511",
-      "ts": 1794304856.011551
-    },
     {
       "source_title": "Qashqadaryoda yo‘l ochish bahonasida 33 tup daraxt va uch mingga yaqin buta qo‘porib tashlandi",
       "headline": "Qashqadaryoda yo'l qurish bahonasida 33 tup daraxt va 3 000 ga yaqin buta yo'q qilindi 🌳🚧",
@@ -240,11 +234,17 @@
       "headline": "Madaniyat va san'at grantlari tanlovi e'lon qilindi 🎭✨",
       "image": "https://gocdn.daryo.uz/large/2026/10/13/4738958f6a640ba6d524139ad370df90739e1a79273dd91e363c952ba7b6882a.webp",
       "ts": 1794472238.5304136
+    },
+    {
+      "source_title": "WB Taxi Özbekistonda ustun mavqega ega raqamli platforma operatori deb topildi",
+      "headline": "WB Taxi O'zbekistonda raqamli taksi bozorida yetakchi deb topildi",
+      "image": "https://storage.kun.uz/source/1/cYeyJ6ZzIo84DXgR-HW8T1G_rbC2yOW7.jpg",
+      "ts": 1794474048.4296439
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794470442.5804243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 9
+    "count": 10
   }
 }

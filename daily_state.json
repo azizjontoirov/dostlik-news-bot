@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794500953.2109091,
+  "last_post_ts": 1794502848.9016645,
   "recent_posts": [
     {
       "source_title": "Тошкент аэропортида янги телефонларни божхона расмийлаштирувидан ўтказиш вақтинча тўхтатилди",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794497442.8322177,
+    "last_ad_ts": 1794502848.8995514,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 80,
+      "ad_flour": 81,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 79,
@@ -264,13 +264,13 @@
     "permanent_index": 2,
     "day": "2026-11-12",
     "today": {
-      "ad_flour": 3,
+      "ad_flour": 4,
       "ad_home2": 2,
       "ad_water": 3,
       "ad_wedding": 2
     },
     "last_shown": {
-      "ad_flour": 1794481245.8257227,
+      "ad_flour": 1794502848.8995492,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794486635.182644,

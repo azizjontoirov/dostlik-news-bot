@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794483049.4424598,
+  "last_post_ts": 1794484848.7549937,
   "recent_posts": [
-    {
-      "source_title": "Мамлакат аҳолиси геномини ўрганиш Ўзбекистонга нима беради? Тошкентдаги Илғор технологиялар марказидан репортаж",
-      "headline": "Genom tadqiqoti: “1000 genom” loyihasi boshladi 🧬",
-      "image": "https://www.gazeta.uz/media/img/2026/11/jtc2f60ptbq9aCpCZLK17942242724190_210534_og.webp?r=1794315593",
-      "ts": 1794315649.8862293
-    },
     {
       "source_title": "Toshkent aeroportida 433 mln so‘mlik mobil qurilmalarni noqonuniy olib kirishga urinishlar aniqlandi",
       "headline": "Toshkent aeroportida 433 mln so'mlik mobil qurilmalar noqonuniy kirishga urinish aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "Birinchi xato ikkinchi hatoni yaratadi",
       "image": "https://www.gazeta.uz/media/img/2025/07/qHAbze17520661071766_210688_og.webp?r=1794482591",
       "ts": 1794483047.4365718
+    },
+    {
+      "source_title": "Turk aktyorlari suratga olish ishlari to‘xtab qolmasligi uchun gonorarlarini ommaviy ravishda kamaytirishga rozi bo‘lmoqda",
+      "headline": "Turk seriallari aktyorlari gonorarini kamaytirishga rozi bo'ldi 🎬💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/85d27372d8cfae4acb7a16d5a94d68e1eca8147e34fd204beb00744e2517c803.webp",
+      "ts": 1794484846.747407
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794481245.8257256,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 13
+    "count": 14
   }
 }

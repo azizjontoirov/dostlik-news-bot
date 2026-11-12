@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794499254.8374047,
+  "last_post_ts": 1794500953.2109091,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyevning Turkiyaga amaliy taşrifi boşlandi",
-      "headline": "Şavkat Mirziyoyev Turkiyaga amaliy tashrif bilan bordi ✈️",
-      "image": "https://storage.kun.uz/source/1/HY1nX2AEWMoLu_IBU66gfSGGXvZVAjkX.jpg",
-      "ts": 1794330052.8298335
-    },
     {
       "source_title": "Тошкент аэропортида янги телефонларни божхона расмийлаштирувидан ўтказиш вақтинча тўхтатилди",
       "headline": "Toshkent aeroportida yangi telefonlar bojxona rasmiylashtirish to'xtatildi",
@@ -240,11 +234,17 @@
       "headline": "Bukhoroda yangi aeroport qurilishi – Turkiya va Qatar konsorsiumi g'olib!",
       "image": "https://www.gazeta.uz/media/img/2026/11/keifhepaihjh2OQkb8h17944920460202_210717_og.webp?r=1794498789",
       "ts": 1794499252.8339853
+    },
+    {
+      "source_title": "Ўзбекистон ва Украина ТИВ раҳбарлари савдо-иқтисодий ҳамкорликни кенгайтиришни муҳокама қилди",
+      "headline": "Ўzbekiston va Ukraina TIV rahbarlari savdo-iktisodiy hamkorlikni kengaytirish bo'yicha muhokama qildi 🤝🌍",
+      "image": "https://www.gazeta.uz/media/img/2026/11/9jmq7aciqckb0HmLHKX17944909631322_210720_og.webp?r=1794499888",
+      "ts": 1794500951.2065768
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794497442.8322177,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 19
+    "count": 20
   }
 }

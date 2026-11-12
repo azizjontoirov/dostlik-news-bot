@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794470442.582894,
+  "last_post_ts": 1794472240.5479672,
   "recent_posts": [
-    {
-      "source_title": "Eldor Shomurodov O‘zbekiston milliy jamoasi yig‘iniga qo‘shildi",
-      "headline": "Eldor Shomurodov milliy jamoaga qo'shildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/c10f8e8d40fac3c9a30f0f073ef55cdafe6d8d6be3777153824dda10aa421be0.webp",
-      "ts": 1794301255.8549852
-    },
     {
       "source_title": "Тошкентда ҳайдовчини ҳақорат қилган ЙПХ инспектори лавозимидан четлатилди",
       "headline": "Тошкентда ЙПХ инспектори лавозимидан четлатилди",
@@ -240,11 +234,17 @@
       "headline": "Beshariq tumanida korrupsiya holati – iPhone 17 Pro Max evaziga kredit! 📱🚨",
       "image": "https://www.gazeta.uz/media/img/2026/11/j7lc15lap29i0tN5zRy17944680404264_210677_og.webp?r=1794468557",
       "ts": 1794468635.8230555
+    },
+    {
+      "source_title": "O‘zbekistonda madaniyat va san’at sohasida grant ajratish tartibi belgilandi",
+      "headline": "Madaniyat va san'at grantlari tanlovi e'lon qilindi 🎭✨",
+      "image": "https://gocdn.daryo.uz/large/2026/10/13/4738958f6a640ba6d524139ad370df90739e1a79273dd91e363c952ba7b6882a.webp",
+      "ts": 1794472238.5304136
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794470442.5804243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 8
+    "count": 9
   }
 }

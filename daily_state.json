@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794416450.4241006,
+  "last_post_ts": 1794450645.9421012,
   "recent_posts": [
-    {
-      "source_title": "“G‘azalkent” — “Respublika FA” uchrashuvidagi janjal yuzasidan bayonot berildi (video)",
-      "headline": "G'azalkent” – “Respublika FA” uchrashuvidagi janjal bayonoti (video)",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/d8dca6eb81fe5c1d2b1c976cd7afa8e062ab8b457aa78a49ca8fc03f1c66e0a4.webp",
-      "ts": 1794279655.7166185
-    },
     {
       "source_title": "Qarşi şahrida bino tomi harakatdagi maşina ustiga qulab tuşdi",
       "headline": "Qarshi shahrida bino tomi harakatdagi mashina ustiga tushdi 🚗💨",
@@ -240,11 +234,17 @@
       "headline": "Pahtaobod tumanida korrupsiya holati",
       "image": "https://www.gazeta.uz/media/img/2026/11/3aqs4ct02icgeu2wvuc17944030012154_210627_og.webp?r=1794414402",
       "ts": 1794414643.854775
+    },
+    {
+      "source_title": "Тошкентда «Nomsiz» МО экспериментал фильмлари фестивали бўлади. Дастур",
+      "headline": "Toshkentda “Nomsiz” MO eksperimental filmlari festivali",
+      "image": "https://www.gazeta.uz/media/img/2026/11/m9u0hp5klumb7mdW9pU17944002235088_210631_og.webp?r=1794423487",
+      "ts": 1794450643.9372
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794448844.4703522,
@@ -283,7 +283,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-11",
-    "count": 20
+    "day": "2026-11-12",
+    "count": 1
   }
 }

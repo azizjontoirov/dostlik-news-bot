@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794456049.2236829,
+  "last_post_ts": 1794457846.1269217,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda eng ko‘p YTH qayd etilgan hudud ma’lum qilindi",
-      "headline": "O'zbekistonda eng ko'p YTH qayd etilgan hudud ma'lum qilindi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/10/ef9e619ac30b59deb8fc06599de2feefc610af3a4574d62a753e78acdef2118f.webp",
-      "ts": 1794288640.9381337
-    },
     {
       "source_title": "“Pari” bilganni qari bilmaydi yoxud katta avlod raqamli tahdidlardan qanchalik himoya qilin(ma)yapti?",
       "headline": "Raqamli platformalardan kim ko'proq foydalanadi?",
@@ -240,11 +234,17 @@
       "headline": "Ziroat Mirziyoyeva “Nol chiqindi” global alyansini tashkil etishga bag'ishlangan uchrashuvda ishtirok etdi 🌍",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/e34902d60127a14b00194ec5d279a06e94510e2dba3f6d49b8b3f6b5c7ebba05.webp",
       "ts": 1794456047.219487
+    },
+    {
+      "source_title": "Toşkentda Sergeli va Yunusobod tezkor avtobus yölagi bilan boğlanadi",
+      "headline": "Tashkentda yangi tezkor avtobus koridori! 🚦",
+      "image": "https://storage.kun.uz/source/1/Xtsb4cqU5OyFUZ3BznUfsXGbOcrrUYA2.jpg",
+      "ts": 1794457844.1229382
     }
   ],
   "morning_sent_date": "2026-11-12",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794454235.9325151,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-12",
-    "count": 3
+    "count": 4
   }
 }

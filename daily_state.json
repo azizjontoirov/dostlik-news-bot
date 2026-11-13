@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794580244.2063487,
+  "last_post_ts": 1794582056.6657166,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston JSTga a’zo bo‘lishi bilan mobil telefonlar uchun import boji nolga tushiriladi — Bojxona qo‘mitasi",
-      "headline": "Mobil telefonlar import bojiga nol!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/3fcca8f33ac214bb80ee74987a1b2feba49da9dee3423b02627e99856acb254e.webp",
-      "ts": 1794412854.8178606
-    },
     {
       "source_title": "Пахтаобод тумани ҳокими ўринбосари ва кадастр ходими 30 минг доллар олганликда гумонланиб ушланди",
       "headline": "Pahtaobod tumanida korrupsiya holati",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda uy ijarasida firibgarlik – ikki nafar soxta rieltordan hibsga olindi",
       "image": "https://www.gazeta.uz/media/img/2026/11/a7ifgfol2erbbZhEIC417945737321346_210797_og.webp?r=1794580075",
       "ts": 1794580242.2015796
+    },
+    {
+      "source_title": "“O‘zbekiston futbol o‘ynashni bilmaydi” — rossiyalik sobiq futbolchi",
+      "headline": "O'zbekiston futbol o'ynashni bilmaydi” – Rossiyalik sobiq futbolchi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/655043881ff335bb2ab16ebfdf60827fa1f72802cdf427294f4fce7cb74b108c.webp",
+      "ts": 1794582054.6614196
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 18
+    "count": 19
   }
 }

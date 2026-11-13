@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794574853.700823,
+  "last_post_ts": 1794576644.773667,
   "recent_posts": [
-    {
-      "source_title": "Saida Mirziyoyeva Parij tinçlik forumida iştirok etdi",
-      "headline": "Saida Mirziyoyeva Parij tinçlik forumida qatnadi 🌍🤝",
-      "image": "https://storage.kun.uz/source/1/wZBVkRaSSkLPcR83GVOP7YFZ4rRTdUny.jpg",
-      "ts": 1794403845.1747615
-    },
     {
       "source_title": "Röyxatga olinmagan qurilişda reklama taqiqi va sel «keçgan» öquvçilar - mahalliy dayjest",
       "headline": "Röyxatga olinmagan qurilishda reklama taqiqi 🚫🏗️",
@@ -240,11 +234,17 @@
       "headline": "Ucell 5G tarmog'i mamlakat bo'ylab kengaymoqda 🚀📶",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/56a6792fc048eadef97d45941f564cda1b3bb73e7503d36bd6af54a2fd0d4c64.webp",
       "ts": 1794574851.6971614
+    },
+    {
+      "source_title": "Özbekiston prezidenti dunyoning eng nufuzli musulmonlari reytingiga kiritildi",
+      "headline": "Prezident Shavkat Mirziyoyev The Muslim 500 reytingida 40‑o'rinni egalladi",
+      "image": "https://storage.kun.uz/source/1/rOCaY5pTuNMoRh8waKW7RtlIe0AJnSqS.jpg",
+      "ts": 1794576642.769924
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 15
+    "count": 16
   }
 }

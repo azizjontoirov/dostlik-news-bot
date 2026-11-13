@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794562234.6383705,
+  "last_post_ts": 1794564057.566279,
   "recent_posts": [
-    {
-      "source_title": "ОТБ Ўзбекистонга чорвачилик маҳсулдорлигини ошириш учун $60 млн ажратади",
-      "headline": "OTB O'zbekiston chorvachilik mahsuldorligini oshirishga $60 mln ajratdi 🐄💰",
-      "image": "https://www.gazeta.uz/media/img/2026/04/bcg8o9mu20110CMXDTt17774629517291_210589_og.webp?r=1794390592",
-      "ts": 1794391253.1305535
-    },
     {
       "source_title": "Yangi Toshkentdagi yirik shaharsozlik loyihalari uchun imtiyozlar beriladi",
       "headline": "Yangi Toshkent shaharsozlik loyihalariga soliq imtiyozlari 🏙️✨",
@@ -240,11 +234,17 @@
       "headline": "Qibrayda bolalarga devor tozalash majburligi ⚠️",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/6df4ef399e60ecb9f64f8e915f8c471cf708b61bb27120cd80b437c679116521.webp",
       "ts": 1794560453.489315
+    },
+    {
+      "source_title": "Biznesingiz uçun Apple Pay’ni Click orqali ulang!",
+      "headline": "Apple Pay'ni Click orqali biznesingizga qo'shing! 📲💳",
+      "image": "https://storage.kun.uz/source/1/H4Qp53kQYSP-h766dpTai6dlx3RvbpSq.jpg",
+      "ts": 1794564055.5618699
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794562234.6358044,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 10
+    "count": 11
   }
 }

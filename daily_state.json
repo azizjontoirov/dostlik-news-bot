@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794569444.057654,
+  "last_post_ts": 1794571250.8810847,
   "recent_posts": [
-    {
-      "source_title": "Тошкент аэропортида янги мобил қурилмаларни расмийлаштирувдан ўтказиш қайта тикланди",
-      "headline": "Toshkent aeroportida yangi mobil qurilmalar bojxona rasmiylashtiruvi qayta tiklandi",
-      "image": "https://www.gazeta.uz/media/img/2026/08/cdmpb2egqf4l2cw14KW17879922000167_210608_og.webp?r=1794398400",
-      "ts": 1794398452.9374363
-    },
     {
       "source_title": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashuv o‘tkazdi",
       "headline": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashdi 🌍🤝",
@@ -240,11 +234,17 @@
       "headline": "Mening yo'lim me'morlik yo'li bo'ldi» – Yuriy Miroshnichenko xotirasi",
       "image": "https://www.gazeta.uz/media/img/2026/11/3fjas3savqv8ewaF7Hw17944901697673_210751_og.webp?r=1794568390",
       "ts": 1794569442.054834
+    },
+    {
+      "source_title": "Акмал Шукуровнинг жазосини енгиллаштирган собиқ судьялар ва суд раиси ўринбосарига ҳукм ўқилди",
+      "headline": "Akmal Shukurovning jazosi yumshatildi – sobiq sudyalar va sud raisi o'rinbosariga hukm",
+      "image": "https://www.gazeta.uz/media/img/2023/11/mV3tYi17007638485862_b.jpg",
+      "ts": 1794571248.876128
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794567646.045625,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 13
+    "count": 14
   }
 }

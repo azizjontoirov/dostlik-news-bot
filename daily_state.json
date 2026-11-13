@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794551444.8901243,
+  "last_post_ts": 1794553255.612054,
   "recent_posts": [
-    {
-      "source_title": "Navoiyda AloqaBank’ning “Yoshlar biznes-inkubatori” faoliyati yo‘lga qo‘yildi",
-      "headline": "Navoiyda “Yoshlar biznes‑inkubatori” ishga tushdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/0034fe39ac32d1b72bb86defe1b375ff317408b5a6fe74f46f307f5a924fd47a.webp",
-      "ts": 1794380448.2883916
-    },
     {
       "source_title": "Osiyo taraqqiyot banki O‘zbekiston chorvachiligi uchun 60 mln dollar ajratadi",
       "headline": "Osiyo Taraqqiyot Banki O'zbekistonda chorvachilikni qo'llab-quvvatlaydi 🐄💰",
@@ -240,11 +234,17 @@
       "headline": "Hafta oxirida havo yana ilişi kutilmoqda 🌤️❄️",
       "image": "https://storage.kun.uz/source/1/xpBMZxi9a6QUnK97nZRLOq8nK8mcsuZx.jpg",
       "ts": 1794549648.9784968
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro‘yxatidan o‘rin oldi",
+      "headline": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro'yxatida 40‑o'rinni egalladi 🌍🕌",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/1be3d2f8dae580e1664404a1afaccefe1de4fa6282afbfeed5eac517da5563ae.webp",
+      "ts": 1794553253.6077068
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794551444.8876355,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 6
+    "count": 7
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794547839.1404538,
+  "last_post_ts": 1794549650.983017,
   "recent_posts": [
-    {
-      "source_title": "Namangandagi bog‘chada 5 yoshli qiz zo‘rlangani bo‘yicha ish sudga oshirildi",
-      "headline": "Namangandagi 5‑yoshli qizga qarshi jinsiy zo'ravonlik ishi sudga topshirildi 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/b5f34ce0546dc63ef1e18e9dce4e0a086a304b98cd720b46da5132ffa79fb5ce.webp",
-      "ts": 1794376855.403962
-    },
     {
       "source_title": "Navoiyda AloqaBank’ning “Yoshlar biznes-inkubatori” faoliyati yo‘lga qo‘yildi",
       "headline": "Navoiyda “Yoshlar biznes‑inkubatori” ishga tushdi",
@@ -240,11 +234,17 @@
       "headline": "9 oyda 39 mingdan ortiq oila ijtimoiy reyestrdan chiqarildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/f325a1f40929555d33ddcdf9aae929c9a31554db3e75e19dadc47ec7a526ff16.webp",
       "ts": 1794547837.1368706
+    },
+    {
+      "source_title": "Hafta oxirida havo yana ilişi kutilmoqda",
+      "headline": "Hafta oxirida havo yana ilişi kutilmoqda 🌤️❄️",
+      "image": "https://storage.kun.uz/source/1/xpBMZxi9a6QUnK97nZRLOq8nK8mcsuZx.jpg",
+      "ts": 1794549648.9784968
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794546045.6696877,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 5
+    "count": 6
   }
 }

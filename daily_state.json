@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794553255.612054,
+  "last_post_ts": 1794555044.8418357,
   "recent_posts": [
-    {
-      "source_title": "Osiyo taraqqiyot banki O‘zbekiston chorvachiligi uchun 60 mln dollar ajratadi",
-      "headline": "Osiyo Taraqqiyot Banki O'zbekistonda chorvachilikni qo'llab-quvvatlaydi 🐄💰",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/15b2fc94df1ac06d9ac05ee0489c03c37b45993317b5c8bbc3e240303bcfdc05.webp",
-      "ts": 1794382237.171674
-    },
     {
       "source_title": "Shavkat Mirziyoyev TDTning yangi tayinlangan bosh kotibini qabul qildi",
       "headline": "Shavkat Mirziyoyev TDTning yangi bosh kotibini qabul qildi 🤝🗣️",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro'yxatida 40‑o'rinni egalladi 🌍🕌",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/1be3d2f8dae580e1664404a1afaccefe1de4fa6282afbfeed5eac517da5563ae.webp",
       "ts": 1794553253.6077068
+    },
+    {
+      "source_title": "Oʻzbek bunday gapirmaydi: nega bu xatolar ommalashyapti?",
+      "headline": "O'zbek tilida noto'g'ri iboralar nega ommalashmoqda? 🤔📢",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/89693fb6c4700a8c826cd2f05aaae3df766134a1d2eb379f1d69dfbc4e842ed6.webp",
+      "ts": 1794555042.8388348
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794551444.8876355,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 7
+    "count": 8
   }
 }

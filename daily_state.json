@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794542452.3429356,
+  "last_post_ts": 1794544240.1561172,
   "recent_posts": [
-    {
-      "source_title": "Qöqonda 13 yoşli qizga nisbatan jinsiy zöravonlik böyiça qözğatilgan jinoyat işi qayta malakalandi",
-      "headline": "Qo'qonda 13‑yoshli qizga nisbatan jinsiy zo'ravonlik bo'yicha jinoyat ishi qayta malakalandi",
-      "image": "https://storage.kun.uz/source/1/12Urhe3yUbxArCQG3p1OTXnML-XkfnJC.webp",
-      "ts": 1794371442.4109159
-    },
     {
       "source_title": "Haval – O‘zbekiston hayot maromida o‘tgan uch yil: birinchi avtomobillardan mamlakat yo‘llaridagi minglab voqealargacha",
       "headline": "Haval – O'zbekiston hayot maromida o'tgan uch yil",
@@ -240,11 +234,17 @@
       "headline": "Aliment miqdorini belgilash tartibi o'zgartirilishi mumkin",
       "image": "https://storage.kun.uz/source/1/tf9Mj8_mPj_vRSjeMKcfb--Al7aKag8E.webp",
       "ts": 1794542450.3387227
+    },
+    {
+      "source_title": "Toshkentdagi o‘quv markaziga bosqinchilik qilmoqchi bo‘lganlar qamoqqa olindi",
+      "headline": "Toshkentda o'quv markaziga bosqinchilik rejasini qo'riqchilar qo'riqiga tushdi 🚨🔒",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/ce643ab3e468c7d37e5e6eb64f2a6cee7b835c785d3064790d962a5749b98d37.webp",
+      "ts": 1794544238.1520545
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794540638.8022132,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 3
+    "count": 4
   }
 }

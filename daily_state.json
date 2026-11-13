@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794564057.566279,
+  "last_post_ts": 1794565841.201204,
   "recent_posts": [
-    {
-      "source_title": "Yangi Toshkentdagi yirik shaharsozlik loyihalari uchun imtiyozlar beriladi",
-      "headline": "Yangi Toshkent shaharsozlik loyihalariga soliq imtiyozlari 🏙️✨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/297b12f849689fb16eeb33a1eac87cbd7c9b2f380451658a2107202644cc6ad9.webp",
-      "ts": 1794393040.2891042
-    },
     {
       "source_title": "Röyxatga olinmagan uluşli quriliş obyektlarini reklama qiliş taqiqlanadi",
       "headline": "Uluşli qurilish obyektlarini reklama qilish taqiqlanadi 🏗️🚫",
@@ -240,11 +234,17 @@
       "headline": "Apple Pay'ni Click orqali biznesingizga qo'shing! 📲💳",
       "image": "https://storage.kun.uz/source/1/H4Qp53kQYSP-h766dpTai6dlx3RvbpSq.jpg",
       "ts": 1794564055.5618699
+    },
+    {
+      "source_title": "“O‘zbekistonga qarshi o‘yinda noodatiy gollar o‘tkazib yubordik” — Matvey Safonov",
+      "headline": "Rossiya darvozaboni: “Noodatiy gollar ham bo'lishi mumkin”",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/99aeab3ab7eb68694849ab941882310fa987f7a41a16fe90ee783af7fb159fdf.webp",
+      "ts": 1794565839.19656
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794562234.6358044,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 11
+    "count": 12
   }
 }

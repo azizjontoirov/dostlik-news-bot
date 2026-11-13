@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794585656.1263874,
+  "last_post_ts": 1794587447.9858704,
   "recent_posts": [
-    {
-      "source_title": "Qozog‘istonga aloqadorligi taxmin qilinayotgan hakerlar Tojikiston xavfsizligiga oid 2000 dan ortiq hujjatni o‘g‘irladi — Reuters",
-      "headline": "Kiberxavfsizlik tahdidi: O'zbekiston platformasiga ham kirishildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/8360742e90070dad9bc4e678520f0fcfbfc2d52e76a662f931aa42abf19dbcd7.webp",
-      "ts": 1794452450.7341547
-    },
     {
       "source_title": "Ziroat Mirziyoyeva “Nol chiqindi” Global alyansini tashkil etishga bag‘ishlangan uchrashuvda ishtirok etdi",
       "headline": "Ziroat Mirziyoyeva “Nol chiqindi” global alyansini tashkil etishga bag'ishlangan uchrashuvda ishtirok etdi 🌍",
@@ -240,11 +234,17 @@
       "headline": "2027‑yilda soliq stavkalari o'zgarmas bo'ladi 📊",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/8f5abb58d000e27a35f367ceb8aa5e4841989a330fa0413e80813e8679d4eb05.webp",
       "ts": 1794585654.1227646
+    },
+    {
+      "source_title": "2027-yilgi Davlat byudjeti ijtimoiy yönaltirilgan böladi",
+      "headline": "2027‑yilgi Davlat byudjeti ijtimoiy yo'nalishga qaratildi 📊💡",
+      "image": "https://storage.kun.uz/source/1/lJOHx0dG-ZIYkTHfgekecu23_y2Ea6DV.jpg",
+      "ts": 1794587445.9817173
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 21
+    "count": 22
   }
 }

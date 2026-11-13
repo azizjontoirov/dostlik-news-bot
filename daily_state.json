@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794560455.4938736,
+  "last_post_ts": 1794562234.6383705,
   "recent_posts": [
     {
       "source_title": "ОТБ Ўзбекистонга чорвачилик маҳсулдорлигини ошириш учун $60 млн ажратади",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794556845.0966213,
+    "last_ad_ts": 1794562234.6358044,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 83,
+      "ad_flour": 84,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 82,
@@ -265,10 +265,10 @@
     "day": "2026-11-13",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794551444.8876333,
+      "ad_flour": 1794562234.6358023,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794556845.096619,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794567646.0481336,
+  "last_post_ts": 1794569444.057654,
   "recent_posts": [
-    {
-      "source_title": "Röyxatga olinmagan uluşli quriliş obyektlarini reklama qiliş taqiqlanadi",
-      "headline": "Uluşli qurilish obyektlarini reklama qilish taqiqlanadi 🏗️🚫",
-      "image": "https://storage.kun.uz/source/1/fGkQ8LMVNbhUB9b4WlXKFX9_j3yPYDBQ.jpg",
-      "ts": 1794396640.239542
-    },
     {
       "source_title": "Тошкент аэропортида янги мобил қурилмаларни расмийлаштирувдан ўтказиш қайта тикланди",
       "headline": "Toshkent aeroportida yangi mobil qurilmalar bojxona rasmiylashtiruvi qayta tiklandi",
@@ -240,11 +234,17 @@
       "headline": "Rossiya darvozaboni: “Noodatiy gollar ham bo'lishi mumkin”",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/99aeab3ab7eb68694849ab941882310fa987f7a41a16fe90ee783af7fb159fdf.webp",
       "ts": 1794565839.19656
+    },
+    {
+      "source_title": "«Менинг йўлим меъморлик йўли бўлди». Меъмор Юрий Мирошниченко хотирасига",
+      "headline": "Mening yo'lim me'morlik yo'li bo'ldi» – Yuriy Miroshnichenko xotirasi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/3fjas3savqv8ewaF7Hw17944901697673_210751_og.webp?r=1794568390",
+      "ts": 1794569442.054834
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794567646.045625,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 12
+    "count": 13
   }
 }

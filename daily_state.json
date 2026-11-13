@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794502848.9016645,
+  "last_post_ts": 1794537046.981418,
   "recent_posts": [
-    {
-      "source_title": "Тошкент аэропортида янги телефонларни божхона расмийлаштирувидан ўтказиш вақтинча тўхтатилди",
-      "headline": "Toshkent aeroportida yangi telefonlar bojxona rasmiylashtirish to'xtatildi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/fmo6ecq2os2e40yylAC17943336010364_210559_og.webp?r=1794346660",
-      "ts": 1794364241.8151207
-    },
     {
       "source_title": "Qo‘qonda 13 yoshli qizga nisbatan jinsiy zo‘ravonlik bo‘yicha ish qayta malakalandi",
       "headline": "Qo'qonda 13 yoshli qizga nisbatan jinsiy zo'ravonlik ishi qayta malakalandi",
@@ -240,11 +234,17 @@
       "headline": "Ўzbekiston va Ukraina TIV rahbarlari savdo-iktisodiy hamkorlikni kengaytirish bo'yicha muhokama qildi 🤝🌍",
       "image": "https://www.gazeta.uz/media/img/2026/11/9jmq7aciqckb0HmLHKX17944909631322_210720_og.webp?r=1794499888",
       "ts": 1794500951.2065768
+    },
+    {
+      "source_title": "13-noyabr kuni ayrim hududlarda yomğir yoğişi kutilmoqda",
+      "headline": "13‑noyabr kuni ayrim hududlarda yomg'ir va tuman kutilmoqda 🌧️❄️",
+      "image": "https://storage.kun.uz/source/1/OUVF_-q0iJKW8x65h-QylaY0uOG95bmY.webp",
+      "ts": 1794537044.9773211
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794535243.8088534,
@@ -283,7 +283,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-12",
-    "count": 20
+    "day": "2026-11-13",
+    "count": 1
   }
 }

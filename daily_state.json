@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794583845.7269242,
+  "last_post_ts": 1794585656.1263874,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда «Nomsiz» МО экспериментал фильмлари фестивали бўлади. Дастур",
-      "headline": "Toshkentda “Nomsiz” MO eksperimental filmlari festivali",
-      "image": "https://www.gazeta.uz/media/img/2026/11/m9u0hp5klumb7mdW9pU17944002235088_210631_og.webp?r=1794423487",
-      "ts": 1794450643.9372
-    },
     {
       "source_title": "Qozog‘istonga aloqadorligi taxmin qilinayotgan hakerlar Tojikiston xavfsizligiga oid 2000 dan ortiq hujjatni o‘g‘irladi — Reuters",
       "headline": "Kiberxavfsizlik tahdidi: O'zbekiston platformasiga ham kirishildi",
@@ -240,11 +234,17 @@
       "headline": "Rossiyalik va Belaruslik sportchilarga kirish taqiqlanadi",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/07127e5a854cb21ccec4e7f76aa449adc076a6a994270ab20c35bb173f64641a.webp",
       "ts": 1794583843.722409
+    },
+    {
+      "source_title": "O‘zbekistonda 2027-yilda ham asosiy soliq stavkalarini o‘zgarishsiz saqlash rejalashtirilmoqda",
+      "headline": "2027‑yilda soliq stavkalari o'zgarmas bo'ladi 📊",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/8f5abb58d000e27a35f367ceb8aa5e4841989a330fa0413e80813e8679d4eb05.webp",
+      "ts": 1794585654.1227646
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 20
+    "count": 21
   }
 }

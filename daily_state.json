@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794576644.773667,
+  "last_post_ts": 1794578451.6892955,
   "recent_posts": [
-    {
-      "source_title": "Röyxatga olinmagan qurilişda reklama taqiqi va sel «keçgan» öquvçilar - mahalliy dayjest",
-      "headline": "Röyxatga olinmagan qurilishda reklama taqiqi 🚫🏗️",
-      "image": "https://storage.kun.uz/source/1/43CKX7k3hVloa3ubZv9jS2RapK1WsY9O.jpg",
-      "ts": 1794407451.2979712
-    },
     {
       "source_title": "«Тинчлик даврида қурилган мактаб ва шифохоналар урушда кўпинча илк йўқотишларга айланади» — Саида Мирзиёева",
       "headline": "Saida Mirziyoyeva: Tinçlik davrida maktab va shifoxonalarni himoya qilish zarur! 🌍🛡️",
@@ -240,11 +234,17 @@
       "headline": "Prezident Shavkat Mirziyoyev The Muslim 500 reytingida 40‑o'rinni egalladi",
       "image": "https://storage.kun.uz/source/1/rOCaY5pTuNMoRh8waKW7RtlIe0AJnSqS.jpg",
       "ts": 1794576642.769924
+    },
+    {
+      "source_title": "Özbekiston Respublikasi Turkiya fuqarolariga qarşi xalqaro investitsiyaviy arbitraj işida ğalaba qozondi",
+      "headline": "Uzbekistan – Turkiya investitsiyaviy arbitrajida yirik g'alaba 🏛️",
+      "image": "https://storage.kun.uz/source/1/J6XI_Y1PvVqLXnh-xZvELklqEZaX3Vo2.jpg",
+      "ts": 1794578449.6849728
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 16
+    "count": 17
   }
 }

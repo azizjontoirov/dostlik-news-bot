@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794558640.078702,
+  "last_post_ts": 1794560455.4938736,
   "recent_posts": [
-    {
-      "source_title": "Turkiy davlatlar sammiti 2027-yilda Özbekistonda ötkaziladi",
-      "headline": "Turkiy Davlatlar Sammiti 2027‑yilda O'zbekistonda o'tkaziladi 🌍🤝",
-      "image": "https://storage.kun.uz/source/1/r2insuGneBqodYmpiAWRohSsiM5fTaxG.jpg",
-      "ts": 1794387646.9435635
-    },
     {
       "source_title": "ОТБ Ўзбекистонга чорвачилик маҳсулдорлигини ошириш учун $60 млн ажратади",
       "headline": "OTB O'zbekiston chorvachilik mahsuldorligini oshirishga $60 mln ajratdi 🐄💰",
@@ -240,11 +234,17 @@
       "headline": "Aholi ro'yxatiga olish natijalari: 39 mln kishi! 🇺🇿",
       "image": "https://www.gazeta.uz/media/img/2020/12/ef5a7016091610197518_b.jpg",
       "ts": 1794558638.0742989
+    },
+    {
+      "source_title": "Qibraydagi tibbiy reabilitatsiya markazida bolalarga devor tozalatildi",
+      "headline": "Qibrayda bolalarga devor tozalash majburligi ⚠️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/6df4ef399e60ecb9f64f8e915f8c471cf708b61bb27120cd80b437c679116521.webp",
+      "ts": 1794560453.489315
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794556845.0966213,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 9
+    "count": 10
   }
 }

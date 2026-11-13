@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794573040.145088,
+  "last_post_ts": 1794574853.700823,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashuv o‘tkazdi",
-      "headline": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashdi 🌍🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/770e94ab2bd8a0387dfeb02bdd7c6a21714b8b26ff41f53858b40af78e39a40a.webp",
-      "ts": 1794402048.8098955
-    },
     {
       "source_title": "Saida Mirziyoyeva Parij tinçlik forumida iştirok etdi",
       "headline": "Saida Mirziyoyeva Parij tinçlik forumida qatnadi 🌍🤝",
@@ -240,11 +234,17 @@
       "headline": "Akmal Shukurovning jazosi yumshatildi – sobiq sudyalar va sud raisi o'rinbosariga hukm",
       "image": "https://www.gazeta.uz/media/img/2023/11/mV3tYi17007638485862_b.jpg",
       "ts": 1794571248.876128
+    },
+    {
+      "source_title": "Ucell 5G tarmog‘i — O‘zbekistonning barcha viloyat markazlarida",
+      "headline": "Ucell 5G tarmog'i mamlakat bo'ylab kengaymoqda 🚀📶",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/56a6792fc048eadef97d45941f564cda1b3bb73e7503d36bd6af54a2fd0d4c64.webp",
+      "ts": 1794574851.6971614
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 14
+    "count": 15
   }
 }

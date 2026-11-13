@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794587447.9858704,
+  "last_post_ts": 1794590140.7195833,
   "recent_posts": [
-    {
-      "source_title": "Ziroat Mirziyoyeva “Nol chiqindi” Global alyansini tashkil etishga bag‘ishlangan uchrashuvda ishtirok etdi",
-      "headline": "Ziroat Mirziyoyeva “Nol chiqindi” global alyansini tashkil etishga bag'ishlangan uchrashuvda ishtirok etdi 🌍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/e34902d60127a14b00194ec5d279a06e94510e2dba3f6d49b8b3f6b5c7ebba05.webp",
-      "ts": 1794456047.219487
-    },
     {
       "source_title": "Toşkentda Sergeli va Yunusobod tezkor avtobus yölagi bilan boğlanadi",
       "headline": "Tashkentda yangi tezkor avtobus koridori! 🚦",
@@ -240,11 +234,17 @@
       "headline": "2027‑yilgi Davlat byudjeti ijtimoiy yo'nalishga qaratildi 📊💡",
       "image": "https://storage.kun.uz/source/1/lJOHx0dG-ZIYkTHfgekecu23_y2Ea6DV.jpg",
       "ts": 1794587445.9817173
+    },
+    {
+      "source_title": "“O‘zbekistonda Britaniya universitetlari ishtiroki yanada kengayadi” — Britaniya kengashi rahbari",
+      "headline": "Britaniya universitetlari O'zbekistonda yanada kengaymoqda! 🇬🇧📚",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/f5cdd86d04726b828326b682cc8f0b1c70596b0f61d9053861e685cd003d4bd5.webp",
+      "ts": 1794590138.7153554
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 22
+    "count": 23
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794578451.6892955,
+  "last_post_ts": 1794580244.2063487,
   "recent_posts": [
-    {
-      "source_title": "«Тинчлик даврида қурилган мактаб ва шифохоналар урушда кўпинча илк йўқотишларга айланади» — Саида Мирзиёева",
-      "headline": "Saida Mirziyoyeva: Tinçlik davrida maktab va shifoxonalarni himoya qilish zarur! 🌍🛡️",
-      "image": "https://www.gazeta.uz/media/img/2026/11/cnte4mmtm6185byi8WL17944025955168_210624_og.webp?r=1794409059",
-      "ts": 1794409251.6291122
-    },
     {
       "source_title": "O‘zbekiston JSTga a’zo bo‘lishi bilan mobil telefonlar uchun import boji nolga tushiriladi — Bojxona qo‘mitasi",
       "headline": "Mobil telefonlar import bojiga nol!",
@@ -240,11 +234,17 @@
       "headline": "Uzbekistan – Turkiya investitsiyaviy arbitrajida yirik g'alaba 🏛️",
       "image": "https://storage.kun.uz/source/1/J6XI_Y1PvVqLXnh-xZvELklqEZaX3Vo2.jpg",
       "ts": 1794578449.6849728
+    },
+    {
+      "source_title": "Тошкентда уйни ижарага бериш учун олдиндан тўлов олиб, кейин алоқани узган икки нафар сохта риелтор ушланди",
+      "headline": "Toshkentda uy ijarasida firibgarlik – ikki nafar soxta rieltordan hibsga olindi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/a7ifgfol2erbbZhEIC417945737321346_210797_og.webp?r=1794580075",
+      "ts": 1794580242.2015796
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794573040.1422787,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 17
+    "count": 18
   }
 }

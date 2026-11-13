@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794538851.7316258,
+  "last_post_ts": 1794540638.8057492,
   "recent_posts": [
     {
       "source_title": "Şavkat Mirziyoyev Gurjiston bilan savdo va tranzitga urğu berdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794535243.8088534,
+    "last_ad_ts": 1794540638.8022132,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 81,
+      "ad_flour": 82,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 80,
@@ -264,10 +264,11 @@
     "permanent_index": 2,
     "day": "2026-11-13",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1794502848.8995492,
+      "ad_flour": 1794540638.8022113,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794535243.808851,

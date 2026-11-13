@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794546045.6715589,
+  "last_post_ts": 1794547839.1404538,
   "recent_posts": [
-    {
-      "source_title": "Haval – O‘zbekiston hayot maromida o‘tgan uch yil: birinchi avtomobillardan mamlakat yo‘llaridagi minglab voqealargacha",
-      "headline": "Haval – O'zbekiston hayot maromida o'tgan uch yil",
-      "image": "https://gocdn.daryo.uz/large/2026/11/09/ff217b4452877931aa2284ab7e39b25561f033ff411f2fe0dd577dd70e94e09f.webp",
-      "ts": 1794375045.5531118
-    },
     {
       "source_title": "Namangandagi bog‘chada 5 yoshli qiz zo‘rlangani bo‘yicha ish sudga oshirildi",
       "headline": "Namangandagi 5‑yoshli qizga qarshi jinsiy zo'ravonlik ishi sudga topshirildi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda o'quv markaziga bosqinchilik rejasini qo'riqchilar qo'riqiga tushdi 🚨🔒",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/ce643ab3e468c7d37e5e6eb64f2a6cee7b835c785d3064790d962a5749b98d37.webp",
       "ts": 1794544238.1520545
+    },
+    {
+      "source_title": "O‘zbekistonda 9 oyda qancha oila Ijtimoiy reyestrdan chiqarilgani ma’lum qilindi",
+      "headline": "9 oyda 39 mingdan ortiq oila ijtimoiy reyestrdan chiqarildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/13/f325a1f40929555d33ddcdf9aae929c9a31554db3e75e19dadc47ec7a526ff16.webp",
+      "ts": 1794547837.1368706
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794546045.6696877,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 4
+    "count": 5
   }
 }

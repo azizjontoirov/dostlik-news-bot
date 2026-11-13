@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794537046.981418,
+  "last_post_ts": 1794538851.7316258,
   "recent_posts": [
-    {
-      "source_title": "Qo‘qonda 13 yoshli qizga nisbatan jinsiy zo‘ravonlik bo‘yicha ish qayta malakalandi",
-      "headline": "Qo'qonda 13 yoshli qizga nisbatan jinsiy zo'ravonlik ishi qayta malakalandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/a7b50c156c4a701196cd7f8400fd7dddc66b30226255b3774431b4a073ff7dbf.webp",
-      "ts": 1794366047.5420613
-    },
     {
       "source_title": "Şavkat Mirziyoyev Gurjiston bilan savdo va tranzitga urğu berdi",
       "headline": "Şavkat Mirziyoyev Gurjiston bilan savdo‑tranzitga urğu berdi 🌍🤝",
@@ -240,11 +234,17 @@
       "headline": "13‑noyabr kuni ayrim hududlarda yomg'ir va tuman kutilmoqda 🌧️❄️",
       "image": "https://storage.kun.uz/source/1/OUVF_-q0iJKW8x65h-QylaY0uOG95bmY.webp",
       "ts": 1794537044.9773211
+    },
+    {
+      "source_title": "Toshkentdagi ayrim maktablar velosipedlar bilan ta’minlanadi",
+      "headline": "Toshkentda maktablar velosipedlar bilan ta'minlanadi! 🚲",
+      "image": "https://gocdn.daryo.uz/large/2026/11/12/95374e52e404c29aadf7a41df074b0f38a0c4ed71911fb8667c2c5bdafc05ec0.webp",
+      "ts": 1794538849.728538
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794535243.8088534,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 1
+    "count": 2
   }
 }

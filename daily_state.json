@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794556845.099038,
+  "last_post_ts": 1794558640.078702,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev TDTning yangi tayinlangan bosh kotibini qabul qildi",
-      "headline": "Shavkat Mirziyoyev TDTning yangi bosh kotibini qabul qildi 🤝🗣️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/11/11a78cbde58d15bd33fd521984c8e4bc93f0fd25783a2a2ab4a6eb569c778f9e.webp",
-      "ts": 1794385844.3524225
-    },
     {
       "source_title": "Turkiy davlatlar sammiti 2027-yilda Özbekistonda ötkaziladi",
       "headline": "Turkiy Davlatlar Sammiti 2027‑yilda O'zbekistonda o'tkaziladi 🌍🤝",
@@ -240,11 +234,17 @@
       "headline": "O'zbek tilida noto'g'ri iboralar nega ommalashmoqda? 🤔📢",
       "image": "https://gocdn.daryo.uz/large/2026/11/13/89693fb6c4700a8c826cd2f05aaae3df766134a1d2eb379f1d69dfbc4e842ed6.webp",
       "ts": 1794555042.8388348
+    },
+    {
+      "source_title": "Аҳоли кўпайган, умр давомийлиги ошган, кўп фарзандли оналар камайган. Аҳолини рўйхатга олиш нималарни кўрсатди?",
+      "headline": "Aholi ro'yxatiga olish natijalari: 39 mln kishi! 🇺🇿",
+      "image": "https://www.gazeta.uz/media/img/2020/12/ef5a7016091610197518_b.jpg",
+      "ts": 1794558638.0742989
     }
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794556845.0966213,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-13",
-    "count": 8
+    "count": 9
   }
 }

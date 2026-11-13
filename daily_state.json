@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794571250.8810847,
+  "last_post_ts": 1794573040.145088,
   "recent_posts": [
     {
       "source_title": "Shavkat Mirziyoyev Sloveniya prezidenti bilan uchrashuv o‘tkazdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-13",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794567646.045625,
+    "last_ad_ts": 1794573040.1422787,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 84,
+      "ad_flour": 85,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 83,
@@ -265,10 +265,10 @@
     "day": "2026-11-13",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1794562234.6358023,
+      "ad_flour": 1794573040.1422765,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794567646.045623,

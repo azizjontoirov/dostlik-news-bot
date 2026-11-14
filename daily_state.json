@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794654042.400749,
+  "last_post_ts": 1794655840.3733869,
   "recent_posts": [
-    {
-      "source_title": "Фойда камайди, захиралар ўсди ва сотувлар қисқарди. UzAuto Motors ҳисоботи нималарни кўрсатди?",
-      "headline": "UzAuto Motors hisobotida: foyda kamaydi, zahiralar oshdi",
-      "image": "https://www.gazeta.uz/media/img/2025/10/PuY0B617617331911810_210699_og.webp?r=1794490014",
-      "ts": 1794490249.2133534
-    },
     {
       "source_title": "14-noyabr kuni Yangi Toshkentda AMAN Developmentʼning tantanali ochilishi va Geraldika Residence taqdimoti boʻlib oʻtadi",
       "headline": "Yangi Toshkentda AMAN Development tantanali ochilishi 🏢✨",
@@ -240,11 +234,17 @@
       "headline": "Qon bosimini pasaytirish: Qaysi odatdan voz kechish kerak? 🩺🚫",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/2fc0e1814aec644151fb77b2c73c58db36ff34b5a04ec1fc53042712236cd1e2.webp",
       "ts": 1794652237.9746163
+    },
+    {
+      "source_title": "Aeroport bojxonasida nima bölgandi? IMEI voqeasiga izohlar",
+      "headline": "Tashkent aeroportida IMEI tekshiruvi to'xtadi!",
+      "image": "https://storage.kun.uz/source/1/j5RpJECciegwgMM1G8t8rp64vRPOBQmt.png",
+      "ts": 1794655838.3696334
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794654042.398917,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 12
+    "count": 13
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794657651.1703103,
+  "last_post_ts": 1794659433.4374292,
   "recent_posts": [
     {
       "source_title": "Миландаги кўргазмада Холчаён ва Афросиёб қадимий шаҳар харобаларидан топилган артефактлар намойиш этилди",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794654042.398917,
+    "last_ad_ts": 1794659433.4349906,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 88,
+      "ad_flour": 89,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 87,
@@ -265,10 +265,10 @@
     "day": "2026-11-14",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1794648632.9352722,
+      "ad_flour": 1794659433.434988,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794654042.3989153,

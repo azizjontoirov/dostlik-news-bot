@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794590140.7195833,
+  "last_post_ts": 1794623440.7226737,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda Sergeli va Yunusobod tezkor avtobus yölagi bilan boğlanadi",
-      "headline": "Tashkentda yangi tezkor avtobus koridori! 🚦",
-      "image": "https://storage.kun.uz/source/1/Xtsb4cqU5OyFUZ3BznUfsXGbOcrrUYA2.jpg",
-      "ts": 1794457844.1229382
-    },
     {
       "source_title": "Yangi Toşkent öz hokimiga ega böladi",
       "headline": "Yangi Toshkent hokimligi tashkil etildi 🏛️✨",
@@ -240,11 +234,17 @@
       "headline": "Britaniya universitetlari O'zbekistonda yanada kengaymoqda! 🇬🇧📚",
       "image": "https://gocdn.daryo.uz/large/2026/11/12/f5cdd86d04726b828326b682cc8f0b1c70596b0f61d9053861e685cd003d4bd5.webp",
       "ts": 1794590138.7153554
+    },
+    {
+      "source_title": "Ўзбекистоннинг 2025 йилги ЯИМ кўрсаткичи $147 млрддан $169 млрдгача қайта ҳисобланди. Нима ўзгарди ва нега?",
+      "headline": "2025‑yilgi YIM ko'rsatkichi yangilandi – $147 mlrd → $169 mlrd!",
+      "image": "https://www.gazeta.uz/media/img/2026/10/v4fvtg5c160v4zdY9Vy17929428398595_210800_og.webp?r=1794622208",
+      "ts": 1794623438.7188437
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794621643.2594202,
@@ -283,7 +283,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-13",
-    "count": 23
+    "day": "2026-11-14",
+    "count": 1
   }
 }

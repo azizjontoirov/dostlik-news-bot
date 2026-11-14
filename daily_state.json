@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794661251.7722714,
+  "last_post_ts": 1794663041.4201546,
   "recent_posts": [
-    {
-      "source_title": "Бухорода янги аэропорт қуриш ва уни бошқариш бўйича тендерда Туркия ва Қатар консорциуми ғолиб бўлди",
-      "headline": "Bukhoroda yangi aeroport qurilishi – Turkiya va Qatar konsorsiumi g'olib!",
-      "image": "https://www.gazeta.uz/media/img/2026/11/keifhepaihjh2OQkb8h17944920460202_210717_og.webp?r=1794498789",
-      "ts": 1794499252.8339853
-    },
     {
       "source_title": "Ўзбекистон ва Украина ТИВ раҳбарлари савдо-иқтисодий ҳамкорликни кенгайтиришни муҳокама қилди",
       "headline": "Ўzbekiston va Ukraina TIV rahbarlari savdo-iktisodiy hamkorlikni kengaytirish bo'yicha muhokama qildi 🤝🌍",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda kommunal tariflar jadvalini oldindan belgilash taklifi 📊",
       "image": "https://www.gazeta.uz/media/img/2026/07/ucuvppd5nb5m3AAFM9417852188714793_210832_og.webp?r=1794660773",
       "ts": 1794661249.7672553
+    },
+    {
+      "source_title": "Toshkentda kiberjinoyatchilikda gumonlanayotgan ikki guruh fosh etildi, 72 kishi ushlandi",
+      "headline": "Toshkentda kiberjinoyatchilikda ikki guruh fosh etildi 🚨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/606e5dd6eae0d8859a0ac530708ea3faa7c1b8a6d33789e3059a851a0fda7287.webp",
+      "ts": 1794663039.4161277
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 15
+    "count": 16
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794673849.740614,
+  "last_post_ts": 1794675662.7127771,
   "recent_posts": [
-    {
-      "source_title": "Hafta oxirida havo yana ilişi kutilmoqda",
-      "headline": "Hafta oxirida havo yana ilişi kutilmoqda 🌤️❄️",
-      "image": "https://storage.kun.uz/source/1/xpBMZxi9a6QUnK97nZRLOq8nK8mcsuZx.jpg",
-      "ts": 1794549648.9784968
-    },
     {
       "source_title": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro‘yxatidan o‘rin oldi",
       "headline": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro'yxatida 40‑o'rinni egalladi 🌍🕌",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda erkaklar ayollardan 485 ming nafarga ko'p! 📊",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/b22d51cbd7c563dd811ad9e2bd3baefd85b847bfada78b268336fc8b96ce8d24.webp",
       "ts": 1794673847.7373347
+    },
+    {
+      "source_title": "Arzon avtoaksessuarlar sotishni va’da qilgan 18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
+      "headline": "18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/c6ffc2c3a7de3d9a4def5bccec2a6f8d5030411f84e9c46061ab0ea578afb2b7.webp",
+      "ts": 1794675660.7097986
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 22
+    "count": 23
   }
 }

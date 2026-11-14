@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794643246.6983242,
+  "last_post_ts": 1794645040.3766909,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон 2030 йилга бориб иқтисодиётни 300 млрд долларгача қандай оширишни режалаштирмоқда ва бу қанчалик реал?",
-      "headline": "Ўзбекистон 2030 йилга ЯИМни 300 млрд долларгача ошириш режаси 📈💡",
-      "image": "https://www.gazeta.uz/media/img/2026/10/oq7k2237qj2g3RgaUV817934367014628_210686_og.webp?r=1794479332",
-      "ts": 1794479439.3999066
-    },
     {
       "source_title": "«Биринчи хато иккинчи хатони яратади». Жамоатчилик нега UzIMEI’ни танқид қилмоқда ва Ўзбекистон ҳукумати бунга нима дейди?",
       "headline": "Birinchi xato ikkinchi hatoni yaratadi",
@@ -240,11 +234,17 @@
       "headline": "Dorilar retseptsiz sotish mezonlari yangilandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/fdced06204adbf0ff22564c3404833cc23b69d4267063815648562cf5d2a9382.webp",
       "ts": 1794641448.9983222
+    },
+    {
+      "source_title": "Marraga yetish terim tugaganini anglatmaydi — Qishloq xo‘jaligi vazirligi 5 mln tonna paxta haqida",
+      "headline": "Marraga yetish terim tugamadi – 5 mln+ tonna paxta tayyor! 🌾",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/c845530cad87c5453b3594a8092a7142002bb439bb1cdb94df0fa026d206d1d0.webp",
+      "ts": 1794645038.3727968
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794643246.6946511,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 8
+    "count": 9
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794637832.8436155,
+  "last_post_ts": 1794639647.5263567,
   "recent_posts": [
-    {
-      "source_title": "WB Taxi Özbekistonda ustun mavqega ega raqamli platforma operatori deb topildi",
-      "headline": "WB Taxi O'zbekistonda raqamli taksi bozorida yetakchi deb topildi",
-      "image": "https://storage.kun.uz/source/1/cYeyJ6ZzIo84DXgR-HW8T1G_rbC2yOW7.jpg",
-      "ts": 1794474048.4296439
-    },
     {
       "source_title": "Fitch Ratings: Qoraqalpog‘iston — iqtisodiyoti eng jadal rivojlanayotgan hududlardan biri",
       "headline": "Fitch Ratings: Qoraqalpog'iston iqtisodiyoti jadal rivojlanmoqda 📈🌟",
@@ -240,11 +234,17 @@
       "headline": "Diyora Keldiyorova Zagrebda bronza medalga erishdi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/cff5d8be695f1313e3d75d76088d05f10d9c535ff023c745e67ec058e5e6f7d7.webp",
       "ts": 1794636046.6301916
+    },
+    {
+      "source_title": "Ўзбекистон қишлоқ хўжалиги янги рақамларда: рўйхатга олиш қандай тафовутларни аниқлади?",
+      "headline": "O'zbekiston qishloq xo'jaligi yangi raqamlarda: ro'yxatga olish qanday farqlarni aniqladi?",
+      "image": "https://www.gazeta.uz/media/img/2024/09/b1TXfQ17273290182728_b.jpg",
+      "ts": 1794639645.522593
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794637832.841026,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 6
+    "count": 7
   }
 }

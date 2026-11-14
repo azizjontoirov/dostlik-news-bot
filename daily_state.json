@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794634248.7655754,
+  "last_post_ts": 1794636048.6355479,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda madaniyat va san’at sohasida grant ajratish tartibi belgilandi",
-      "headline": "Madaniyat va san'at grantlari tanlovi e'lon qilindi 🎭✨",
-      "image": "https://gocdn.daryo.uz/large/2026/10/13/4738958f6a640ba6d524139ad370df90739e1a79273dd91e363c952ba7b6882a.webp",
-      "ts": 1794472238.5304136
-    },
     {
       "source_title": "WB Taxi Özbekistonda ustun mavqega ega raqamli platforma operatori deb topildi",
       "headline": "WB Taxi O'zbekistonda raqamli taksi bozorida yetakchi deb topildi",
@@ -240,11 +234,17 @@
       "headline": "Tashkentda qalbaki dollar savdosi to'xtatildi",
       "image": "https://storage.kun.uz/source/1/gIzAlJjDWPAlpUqP90EIjlsVVPg-4V_-.jpg",
       "ts": 1794634246.7625134
+    },
+    {
+      "source_title": "Diyora Keldiyorova Zagrebdagi nufuzli musobaqada sovrindor bo‘ldi",
+      "headline": "Diyora Keldiyorova Zagrebda bronza medalga erishdi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/cff5d8be695f1313e3d75d76088d05f10d9c535ff023c745e67ec058e5e6f7d7.webp",
+      "ts": 1794636046.6301916
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794632447.080269,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794639647.5263567,
+  "last_post_ts": 1794641451.0088134,
   "recent_posts": [
-    {
-      "source_title": "Fitch Ratings: Qoraqalpog‘iston — iqtisodiyoti eng jadal rivojlanayotgan hududlardan biri",
-      "headline": "Fitch Ratings: Qoraqalpog'iston iqtisodiyoti jadal rivojlanmoqda 📈🌟",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/18f2de34bfcb2323f08c26c31f983e83017f517e46a5bbeaeb692fe702a3c0e1.webp",
-      "ts": 1794477650.0875528
-    },
     {
       "source_title": "Ўзбекистон 2030 йилга бориб иқтисодиётни 300 млрд долларгача қандай оширишни режалаштирмоқда ва бу қанчалик реал?",
       "headline": "Ўзбекистон 2030 йилга ЯИМни 300 млрд долларгача ошириш режаси 📈💡",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston qishloq xo'jaligi yangi raqamlarda: ro'yxatga olish qanday farqlarni aniqladi?",
       "image": "https://www.gazeta.uz/media/img/2024/09/b1TXfQ17273290182728_b.jpg",
       "ts": 1794639645.522593
+    },
+    {
+      "source_title": "O‘zbekistonda dorilarni retseptsiz sotish mezonlari o‘zgartirildi",
+      "headline": "Dorilar retseptsiz sotish mezonlari yangilandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/fdced06204adbf0ff22564c3404833cc23b69d4267063815648562cf5d2a9382.webp",
+      "ts": 1794641448.9983222
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794637832.841026,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 7
+    "count": 8
   }
 }

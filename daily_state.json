@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794648632.938019,
+  "last_post_ts": 1794650447.2374601,
   "recent_posts": [
-    {
-      "source_title": "Turk aktyorlari suratga olish ishlari to‘xtab qolmasligi uchun gonorarlarini ommaviy ravishda kamaytirishga rozi bo‘lmoqda",
-      "headline": "Turk seriallari aktyorlari gonorarini kamaytirishga rozi bo'ldi 🎬💰",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/85d27372d8cfae4acb7a16d5a94d68e1eca8147e34fd204beb00744e2517c803.webp",
-      "ts": 1794484846.747407
-    },
     {
       "source_title": "O‘zbekiston va Tojikiston yuk tashishdagi to‘siqlarni bartaraf etishga kelishib oldi",
       "headline": "O'zbekiston‑Tojikiston o'rtasidagi yuk tashish to'siqlari bartaraf etildi",
@@ -240,11 +234,17 @@
       "headline": "Amerikaning mashhur televizion shoulari O'zbekistonda suratga olinadi!",
       "image": "https://storage.kun.uz/source/1/7B6sGqEneKIzxMv2cfuZ50M8W2WLRLj5.png",
       "ts": 1794646853.478473
+    },
+    {
+      "source_title": "O‘zbekistonda qishda gaz birinchi navbatda aholi va ijtimoiy soha obyektlariga yetkazib beriladi",
+      "headline": "Qishda gaz birinchi navbatda aholi va ijtimoiy obyektlarga yetkaziladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/0f5091f7756415caa2dbcf64b9afabb7929ec1ce96ceee267aca1ccef5b53b3e.webp",
+      "ts": 1794650445.2324421
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794648632.935274,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 10
+    "count": 11
   }
 }

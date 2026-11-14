@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794628849.0619981,
+  "last_post_ts": 1794630641.0910363,
   "recent_posts": [
-    {
-      "source_title": "“Demokrat.uz” rahbari 10,3 yilga ozodlikdan mahrum etildi",
-      "headline": "Demokrat.uz” rahbari 10 yil 3 oyga ozodlikdan mahrum etildi 🏛️⚖️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/b73dac9c3073fe39fa81d7cc82458387fe484c38335018746de83c1abcb3a9eb.webp",
-      "ts": 1794466846.4516048
-    },
     {
       "source_title": "Бешариқ тумани ҳокими ёрдамчиси кредит ажратиб бериш эвазига фуқародан iPhone 17 олаётганида ушланди",
       "headline": "Beshariq tumanida korrupsiya holati – iPhone 17 Pro Max evaziga kredit! 📱🚨",
@@ -240,11 +234,17 @@
       "headline": "Özbekiston Parijda 15 mlrd dollardan ortiq 7 yirik loyiha taqdim etdi 🚀",
       "image": "https://storage.kun.uz/source/1/YWCzcTF8kDgQ99sT_rTBa33UKse37lzZ.webp",
       "ts": 1794628847.0573852
+    },
+    {
+      "source_title": "Toşkent viloyati kollejlarida yapon tili öqitilişi mumkin",
+      "headline": "Toshkent viloyatidagi kollejlar endi yapon tilini o'qitadi! 🇯🇵",
+      "image": "https://storage.kun.uz/source/1/uH824SxLm4fCifO9lQpcMpjNZiBU_ZCF.webp",
+      "ts": 1794630639.0866754
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794627033.8042588,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 3
+    "count": 4
   }
 }

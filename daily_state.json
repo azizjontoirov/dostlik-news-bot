@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794636048.6355479,
+  "last_post_ts": 1794637832.8436155,
   "recent_posts": [
     {
       "source_title": "WB Taxi Özbekistonda ustun mavqega ega raqamli platforma operatori deb topildi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794632447.080269,
+    "last_ad_ts": 1794637832.841026,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 86,
+      "ad_flour": 87,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 85,
@@ -265,10 +265,10 @@
     "day": "2026-11-14",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1794627033.8042562,
+      "ad_flour": 1794637832.8410237,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794632447.080266,

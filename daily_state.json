@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794627033.8063416,
+  "last_post_ts": 1794628849.0619981,
   "recent_posts": [
-    {
-      "source_title": "“O‘zgidromet” 13-noyabr kuni sel xavfi borligidan ogohlantirdi",
-      "headline": "Sel xavfi ogohlantirildi – 13‑noyabr",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/60ac337bceec1d26e11166cf8f64a0e71770ad38040626d40db1daa8f3327d91.webp",
-      "ts": 1794463248.0880554
-    },
     {
       "source_title": "“Demokrat.uz” rahbari 10,3 yilga ozodlikdan mahrum etildi",
       "headline": "Demokrat.uz” rahbari 10 yil 3 oyga ozodlikdan mahrum etildi 🏛️⚖️",
@@ -240,11 +234,17 @@
       "headline": "9 oyda 18 mingdan ortiq kishi qamoqqa hukm qilindi",
       "image": "https://www.gazeta.uz/media/img/2025/10/ALYR0917603371973419_210807_og.webp?r=1794596615",
       "ts": 1794625249.510616
+    },
+    {
+      "source_title": "Özbekiston Parijda 15 milliard dollardan ortiq 7 loyihani taqdim etdi",
+      "headline": "Özbekiston Parijda 15 mlrd dollardan ortiq 7 yirik loyiha taqdim etdi 🚀",
+      "image": "https://storage.kun.uz/source/1/YWCzcTF8kDgQ99sT_rTBa33UKse37lzZ.webp",
+      "ts": 1794628847.0573852
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794627033.8042588,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 2
+    "count": 3
   }
 }

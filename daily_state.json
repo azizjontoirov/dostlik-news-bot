@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794664849.871943,
+  "last_post_ts": 1794666640.9139757,
   "recent_posts": [
-    {
-      "source_title": "13-noyabr kuni ayrim hududlarda yomğir yoğişi kutilmoqda",
-      "headline": "13‑noyabr kuni ayrim hududlarda yomg'ir va tuman kutilmoqda 🌧️❄️",
-      "image": "https://storage.kun.uz/source/1/OUVF_-q0iJKW8x65h-QylaY0uOG95bmY.webp",
-      "ts": 1794537044.9773211
-    },
     {
       "source_title": "Toshkentdagi ayrim maktablar velosipedlar bilan ta’minlanadi",
       "headline": "Toshkentda maktablar velosipedlar bilan ta'minlanadi! 🚲",
@@ -240,11 +234,17 @@
       "headline": "Xon Saroy qurilish eshiklarini ochdi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/a9794dabaa938271dbd9ef15cd63c242dc749f7d5ee3cd3da7a0faf06217633c.webp",
       "ts": 1794664847.8674915
+    },
+    {
+      "source_title": "Toshkentda gaz ta’minotida uzilishlar kuzatilmoqda. Energetika vazirligi gaz bosimini oshirdi",
+      "headline": "Toshkentda gaz ta'minotida uzilishlar – bosim oshirildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/47a0cbfbeb1f214383a2c0436a4a69c6bba93a684a0ab4f490c46d3930ffbb36.webp",
+      "ts": 1794666638.9106154
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 17
+    "count": 18
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794623440.7226737,
+  "last_post_ts": 1794625251.5148468,
   "recent_posts": [
-    {
-      "source_title": "Yangi Toşkent öz hokimiga ega böladi",
-      "headline": "Yangi Toshkent hokimligi tashkil etildi 🏛️✨",
-      "image": "https://storage.kun.uz/source/1/FNSWh5_b360HvtuuBilOap8XlmXmcBze.webp",
-      "ts": 1794461440.9366415
-    },
     {
       "source_title": "“O‘zgidromet” 13-noyabr kuni sel xavfi borligidan ogohlantirdi",
       "headline": "Sel xavfi ogohlantirildi – 13‑noyabr",
@@ -240,11 +234,17 @@
       "headline": "2025‑yilgi YIM ko'rsatkichi yangilandi – $147 mlrd → $169 mlrd!",
       "image": "https://www.gazeta.uz/media/img/2026/10/v4fvtg5c160v4zdY9Vy17929428398595_210800_og.webp?r=1794622208",
       "ts": 1794623438.7188437
+    },
+    {
+      "source_title": "Ўзбекистонда 9 ойда 18 мингдан ортиқ киши қамоқ жазосига ҳукм қилинди",
+      "headline": "9 oyda 18 mingdan ortiq kishi qamoqqa hukm qilindi",
+      "image": "https://www.gazeta.uz/media/img/2025/10/ALYR0917603371973419_210807_og.webp?r=1794596615",
+      "ts": 1794625249.510616
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794621643.2594202,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 1
+    "count": 2
   }
 }

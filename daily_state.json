@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794663041.4201546,
+  "last_post_ts": 1794664849.871943,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон ва Украина ТИВ раҳбарлари савдо-иқтисодий ҳамкорликни кенгайтиришни муҳокама қилди",
-      "headline": "Ўzbekiston va Ukraina TIV rahbarlari savdo-iktisodiy hamkorlikni kengaytirish bo'yicha muhokama qildi 🤝🌍",
-      "image": "https://www.gazeta.uz/media/img/2026/11/9jmq7aciqckb0HmLHKX17944909631322_210720_og.webp?r=1794499888",
-      "ts": 1794500951.2065768
-    },
     {
       "source_title": "13-noyabr kuni ayrim hududlarda yomğir yoğişi kutilmoqda",
       "headline": "13‑noyabr kuni ayrim hududlarda yomg'ir va tuman kutilmoqda 🌧️❄️",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda kiberjinoyatchilikda ikki guruh fosh etildi 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/606e5dd6eae0d8859a0ac530708ea3faa7c1b8a6d33789e3059a851a0fda7287.webp",
       "ts": 1794663039.4161277
+    },
+    {
+      "source_title": "Xon Saroy qurilish eshiklarini ochdi",
+      "headline": "Xon Saroy qurilish eshiklarini ochdi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/a9794dabaa938271dbd9ef15cd63c242dc749f7d5ee3cd3da7a0faf06217633c.webp",
+      "ts": 1794664847.8674915
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 16
+    "count": 17
   }
 }

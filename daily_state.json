@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794670239.6115901,
+  "last_post_ts": 1794672057.425914,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi o‘quv markaziga bosqinchilik qilmoqchi bo‘lganlar qamoqqa olindi",
-      "headline": "Toshkentda o'quv markaziga bosqinchilik rejasini qo'riqchilar qo'riqiga tushdi 🚨🔒",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/ce643ab3e468c7d37e5e6eb64f2a6cee7b835c785d3064790d962a5749b98d37.webp",
-      "ts": 1794544238.1520545
-    },
     {
       "source_title": "O‘zbekistonda 9 oyda qancha oila Ijtimoiy reyestrdan chiqarilgani ma’lum qilindi",
       "headline": "9 oyda 39 mingdan ortiq oila ijtimoiy reyestrdan chiqarildi",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda 5 ta kanal bo'ylari sayr va dam olish maskanlariga aylantirilmoqda",
       "image": "https://cdnpresona.kundalik.xyz/2026/11/12/07/28/k7iXX06N7eCXjXF0nA.png",
       "ts": 1794670237.607958
+    },
+    {
+      "source_title": "Yevropa Ittifoqining beshta davlati Ruandada deportatsiya markazi ochmoqchi",
+      "headline": "Yevropa Ittifoqi Ruandada yangi deportatsiya markazi ochadi 🌍🚧",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/262915776aa5556ae0a6fee72d1b789629054f759ddd961324038a27a8188349.webp",
+      "ts": 1794672055.419828
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 20
+    "count": 21
   }
 }

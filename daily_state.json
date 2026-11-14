@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794659433.4374292,
+  "last_post_ts": 1794661251.7722714,
   "recent_posts": [
-    {
-      "source_title": "Миландаги кўргазмада Холчаён ва Афросиёб қадимий шаҳар харобаларидан топилган артефактлар намойиш этилди",
-      "headline": "Global Antiquity ko'rgazmasida O'zbekiston merosi namoyish etildi 🌟",
-      "image": "https://www.gazeta.uz/media/img/2026/11/rj66onstqbq5anFu4r517944850928421_210706_og.webp?r=1794495647",
-      "ts": 1794495654.0287971
-    },
     {
       "source_title": "Бухорода янги аэропорт қуриш ва уни бошқариш бўйича тендерда Туркия ва Қатар консорциуми ғолиб бўлди",
       "headline": "Bukhoroda yangi aeroport qurilishi – Turkiya va Qatar konsorsiumi g'olib!",
@@ -240,11 +234,17 @@
       "headline": "Norvegiyada 5 minggacha payvandchiga ehtiyoj – O'zbek mutaxassislarini tayyorlash taklif qilindi 🔧🌍",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/eccdf2b38f63b4d8a88ad891175665af4686ee5e1dadf2f12ab1754b98229240.webp",
       "ts": 1794657649.1664934
+    },
+    {
+      "source_title": "Ўзбекистонда коммунал тарифлар ўзгариши жадвалини бир неча йил олдиндан тасдиқлаш таклиф этилмоқда",
+      "headline": "O'zbekistonda kommunal tariflar jadvalini oldindan belgilash taklifi 📊",
+      "image": "https://www.gazeta.uz/media/img/2026/07/ucuvppd5nb5m3AAFM9417852188714793_210832_og.webp?r=1794660773",
+      "ts": 1794661249.7672553
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 14
+    "count": 15
   }
 }

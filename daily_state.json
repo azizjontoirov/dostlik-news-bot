@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794668448.1801178,
+  "last_post_ts": 1794670239.6115901,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonda aliment miqdorini belgilaş tartibi özgarişi mumkin",
-      "headline": "Aliment miqdorini belgilash tartibi o'zgartirilishi mumkin",
-      "image": "https://storage.kun.uz/source/1/tf9Mj8_mPj_vRSjeMKcfb--Al7aKag8E.webp",
-      "ts": 1794542450.3387227
-    },
     {
       "source_title": "Toshkentdagi o‘quv markaziga bosqinchilik qilmoqchi bo‘lganlar qamoqqa olindi",
       "headline": "Toshkentda o'quv markaziga bosqinchilik rejasini qo'riqchilar qo'riqiga tushdi 🚨🔒",
@@ -240,11 +234,17 @@
       "headline": "Tashkentda gaz bosimi pasaydi – 2‑3 soat ichida ta'minot tiklanadi",
       "image": "https://www.gazeta.uz/media/img/2025/01/tzz1YD17375399143560_b.jpg",
       "ts": 1794668446.1754918
+    },
+    {
+      "source_title": "Toşkentdagi beşta kanal böylari sayr va dam oliş maskanlariga aylantirilmoqda",
+      "headline": "Toshkentda 5 ta kanal bo'ylari sayr va dam olish maskanlariga aylantirilmoqda",
+      "image": "https://cdnpresona.kundalik.xyz/2026/11/12/07/28/k7iXX06N7eCXjXF0nA.png",
+      "ts": 1794670237.607958
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 19
+    "count": 20
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794666640.9139757,
+  "last_post_ts": 1794668448.1801178,
   "recent_posts": [
-    {
-      "source_title": "Toshkentdagi ayrim maktablar velosipedlar bilan ta’minlanadi",
-      "headline": "Toshkentda maktablar velosipedlar bilan ta'minlanadi! 🚲",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/95374e52e404c29aadf7a41df074b0f38a0c4ed71911fb8667c2c5bdafc05ec0.webp",
-      "ts": 1794538849.728538
-    },
     {
       "source_title": "Özbekistonda aliment miqdorini belgilaş tartibi özgarişi mumkin",
       "headline": "Aliment miqdorini belgilash tartibi o'zgartirilishi mumkin",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda gaz ta'minotida uzilishlar – bosim oshirildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/47a0cbfbeb1f214383a2c0436a4a69c6bba93a684a0ab4f490c46d3930ffbb36.webp",
       "ts": 1794666638.9106154
+    },
+    {
+      "source_title": "Тошкентда газ босими пасайди. Энергетика вазирлиги 2−3 соат ичида таъминотни тиклашга ваъда берди",
+      "headline": "Tashkentda gaz bosimi pasaydi – 2‑3 soat ichida ta'minot tiklanadi",
+      "image": "https://www.gazeta.uz/media/img/2025/01/tzz1YD17375399143560_b.jpg",
+      "ts": 1794668446.1754918
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 18
+    "count": 19
   }
 }

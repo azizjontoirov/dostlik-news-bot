@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794672057.425914,
+  "last_post_ts": 1794673849.740614,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 9 oyda qancha oila Ijtimoiy reyestrdan chiqarilgani ma’lum qilindi",
-      "headline": "9 oyda 39 mingdan ortiq oila ijtimoiy reyestrdan chiqarildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/f325a1f40929555d33ddcdf9aae929c9a31554db3e75e19dadc47ec7a526ff16.webp",
-      "ts": 1794547837.1368706
-    },
     {
       "source_title": "Hafta oxirida havo yana ilişi kutilmoqda",
       "headline": "Hafta oxirida havo yana ilişi kutilmoqda 🌤️❄️",
@@ -240,11 +234,17 @@
       "headline": "Yevropa Ittifoqi Ruandada yangi deportatsiya markazi ochadi 🌍🚧",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/262915776aa5556ae0a6fee72d1b789629054f759ddd961324038a27a8188349.webp",
       "ts": 1794672055.419828
+    },
+    {
+      "source_title": "O‘zbekistonda erkaklar ayollardan 485 ming nafarga ko‘p ekani aniqlandi",
+      "headline": "O'zbekistonda erkaklar ayollardan 485 ming nafarga ko'p! 📊",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/b22d51cbd7c563dd811ad9e2bd3baefd85b847bfada78b268336fc8b96ce8d24.webp",
+      "ts": 1794673847.7373347
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794659433.4349906,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 21
+    "count": 22
   }
 }

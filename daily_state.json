@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794650447.2374601,
+  "last_post_ts": 1794652239.9792585,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston va Tojikiston yuk tashishdagi to‘siqlarni bartaraf etishga kelishib oldi",
-      "headline": "O'zbekiston‑Tojikiston o'rtasidagi yuk tashish to'siqlari bartaraf etildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/d7b625f686ab1ab827d9c84e7e8fb37a4899d7d6dd2401e09aa4eb38fc4db345.webp",
-      "ts": 1794488453.0591526
-    },
     {
       "source_title": "Фойда камайди, захиралар ўсди ва сотувлар қисқарди. UzAuto Motors ҳисоботи нималарни кўрсатди?",
       "headline": "UzAuto Motors hisobotida: foyda kamaydi, zahiralar oshdi",
@@ -240,11 +234,17 @@
       "headline": "Qishda gaz birinchi navbatda aholi va ijtimoiy obyektlarga yetkaziladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/0f5091f7756415caa2dbcf64b9afabb7929ec1ce96ceee267aca1ccef5b53b3e.webp",
       "ts": 1794650445.2324421
+    },
+    {
+      "source_title": "Qon bosimi yuqori insonlar qaysi odatdan voz kechishi kerak?",
+      "headline": "Qon bosimini pasaytirish: Qaysi odatdan voz kechish kerak? 🩺🚫",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/2fc0e1814aec644151fb77b2c73c58db36ff34b5a04ec1fc53042712236cd1e2.webp",
+      "ts": 1794652237.9746163
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794648632.935274,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 11
+    "count": 12
   }
 }

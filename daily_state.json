@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794632447.0829735,
+  "last_post_ts": 1794634248.7655754,
   "recent_posts": [
-    {
-      "source_title": "Бешариқ тумани ҳокими ёрдамчиси кредит ажратиб бериш эвазига фуқародан iPhone 17 олаётганида ушланди",
-      "headline": "Beshariq tumanida korrupsiya holati – iPhone 17 Pro Max evaziga kredit! 📱🚨",
-      "image": "https://www.gazeta.uz/media/img/2026/11/j7lc15lap29i0tN5zRy17944680404264_210677_og.webp?r=1794468557",
-      "ts": 1794468635.8230555
-    },
     {
       "source_title": "O‘zbekistonda madaniyat va san’at sohasida grant ajratish tartibi belgilandi",
       "headline": "Madaniyat va san'at grantlari tanlovi e'lon qilindi 🎭✨",
@@ -240,11 +234,17 @@
       "headline": "Toshkent viloyatidagi kollejlar endi yapon tilini o'qitadi! 🇯🇵",
       "image": "https://storage.kun.uz/source/1/uH824SxLm4fCifO9lQpcMpjNZiBU_ZCF.webp",
       "ts": 1794630639.0866754
+    },
+    {
+      "source_title": "Toşkentda qalbaki dollarlar savdosiga çek qöyildi",
+      "headline": "Tashkentda qalbaki dollar savdosi to'xtatildi",
+      "image": "https://storage.kun.uz/source/1/gIzAlJjDWPAlpUqP90EIjlsVVPg-4V_-.jpg",
+      "ts": 1794634246.7625134
     }
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794632447.080269,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-14",
-    "count": 4
+    "count": 5
   }
 }

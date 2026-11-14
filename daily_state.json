@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794646855.4824305,
+  "last_post_ts": 1794648632.938019,
   "recent_posts": [
     {
       "source_title": "Turk aktyorlari suratga olish ishlari to‘xtab qolmasligi uchun gonorarlarini ommaviy ravishda kamaytirishga rozi bo‘lmoqda",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-14",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794643246.6946511,
+    "last_ad_ts": 1794648632.935274,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 87,
+      "ad_flour": 88,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 86,
@@ -265,10 +265,10 @@
     "day": "2026-11-14",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794637832.8410237,
+      "ad_flour": 1794648632.9352722,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794643246.6946487,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794720644.5830836,
+  "last_post_ts": 1794722451.7080197,
   "recent_posts": [
-    {
-      "source_title": "“O‘zbekistonga qarshi o‘yinda noodatiy gollar o‘tkazib yubordik” — Matvey Safonov",
-      "headline": "Rossiya darvozaboni: “Noodatiy gollar ham bo'lishi mumkin”",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/99aeab3ab7eb68694849ab941882310fa987f7a41a16fe90ee783af7fb159fdf.webp",
-      "ts": 1794565839.19656
-    },
     {
       "source_title": "«Менинг йўлим меъморлик йўли бўлди». Меъмор Юрий Мирошниченко хотирасига",
       "headline": "Mening yo'lim me'morlik yo'li bo'ldi» – Yuriy Miroshnichenko xotirasi",
@@ -240,11 +234,17 @@
       "headline": "O'zgidromet”ning 16‑noyabr ob‑havo prognozi",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/08fd239bbfe1cf30726525841fa149f1afd7a04395abf5cdcaf209931646bd1b.webp",
       "ts": 1794720642.5796459
+    },
+    {
+      "source_title": "Farg‘onadagi YTHda velosipedchi vafot etdi",
+      "headline": "Farg'onada velosipedchi halok bo'ldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/c5e363dde41c3ec65a1cbe6b1cfc85694a9c318be3a4a40b88fc0218e54f0750.webp",
+      "ts": 1794722449.7036495
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794718846.7545738,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 5
+    "count": 6
   }
 }

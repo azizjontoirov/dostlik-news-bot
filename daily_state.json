@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794713434.0999012,
+  "last_post_ts": 1794715259.3648748,
   "recent_posts": [
-    {
-      "source_title": "Аҳоли кўпайган, умр давомийлиги ошган, кўп фарзандли оналар камайган. Аҳолини рўйхатга олиш нималарни кўрсатди?",
-      "headline": "Aholi ro'yxatiga olish natijalari: 39 mln kishi! 🇺🇿",
-      "image": "https://www.gazeta.uz/media/img/2020/12/ef5a7016091610197518_b.jpg",
-      "ts": 1794558638.0742989
-    },
     {
       "source_title": "Qibraydagi tibbiy reabilitatsiya markazida bolalarga devor tozalatildi",
       "headline": "Qibrayda bolalarga devor tozalash majburligi ⚠️",
@@ -240,11 +234,17 @@
       "headline": "Jizzaxda 2,6 mlrd so'mlik noqonuniy kriptoaktiv aylanmasi aniqlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/54c45e1518d7a3d82acd30362feab747a88c58ffdee23c8f271f6326d3386a49.webp",
       "ts": 1794711649.4346938
+    },
+    {
+      "source_title": "Eskrou qonuni, IMEI mojarosi va 6 yillik xatoning tuzatilişi - hafta dayjesti",
+      "headline": "Eskrou qonuni, IMEI mojarosi va 6 yillik xatoning tuzatilişi",
+      "image": "https://storage.kun.uz/source/1/xxTiOa4gvxcrVJCtYsbFj-fFc7iAhQaa.png",
+      "ts": 1794715257.3616571
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794713434.098037,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 2
+    "count": 3
   }
 }

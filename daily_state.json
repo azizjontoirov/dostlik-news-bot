@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794747649.429775,
+  "last_post_ts": 1794749442.508581,
   "recent_posts": [
-    {
-      "source_title": "2027-yilgi Davlat byudjeti ijtimoiy yönaltirilgan böladi",
-      "headline": "2027‑yilgi Davlat byudjeti ijtimoiy yo'nalishga qaratildi 📊💡",
-      "image": "https://storage.kun.uz/source/1/lJOHx0dG-ZIYkTHfgekecu23_y2Ea6DV.jpg",
-      "ts": 1794587445.9817173
-    },
     {
       "source_title": "“O‘zbekistonda Britaniya universitetlari ishtiroki yanada kengayadi” — Britaniya kengashi rahbari",
       "headline": "Britaniya universitetlari O'zbekistonda yanada kengaymoqda! 🇬🇧📚",
@@ -240,11 +234,17 @@
       "headline": "Magic City'da bolalar yo'qolganligi haqidagi mish-mishlar rad etildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/5e5045edcb95ee0e2f1750444f34530e93b2f9096782d6639c644ffd89882f1d.webp",
       "ts": 1794747647.426575
+    },
+    {
+      "source_title": "Fransiyada oğir xastalikka çalingan özbekistonlik erkak vatanga qaytarildi",
+      "headline": "Fransiyada sog'liq muammosi tufayli qaytgan o'zbek haydovchi 🇺🇿✈️",
+      "image": "https://storage.kun.uz/source/1/ZaFjdCBFHTKK3YH38SJ3wiIvUUJ57fiI.webp",
+      "ts": 1794749440.5051823
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 15
+    "count": 16
   }
 }

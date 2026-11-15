@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794709843.217731,
+  "last_post_ts": 1794711651.4422524,
   "recent_posts": [
-    {
-      "source_title": "Oʻzbek bunday gapirmaydi: nega bu xatolar ommalashyapti?",
-      "headline": "O'zbek tilida noto'g'ri iboralar nega ommalashmoqda? 🤔📢",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/89693fb6c4700a8c826cd2f05aaae3df766134a1d2eb379f1d69dfbc4e842ed6.webp",
-      "ts": 1794555042.8388348
-    },
     {
       "source_title": "Аҳоли кўпайган, умр давомийлиги ошган, кўп фарзандли оналар камайган. Аҳолини рўйхатга олиш нималарни кўрсатди?",
       "headline": "Aholi ro'yxatiga olish natijalari: 39 mln kishi! 🇺🇿",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda OLX orqali soxta uy ijarasi e'lonlari fosh qilindi",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/aebd576cbf836707bbdb046240198fc2bf4c6b3685a57093eda48c36128b6cbe.webp",
       "ts": 1794709841.2138655
+    },
+    {
+      "source_title": "Jizzaxda 2,6 mlrd so‘mlik noqonuniy kriptoaktivlar aylanmasiga aloqador shaxs aniqlandi",
+      "headline": "Jizzaxda 2,6 mlrd so'mlik noqonuniy kriptoaktiv aylanmasi aniqlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/54c45e1518d7a3d82acd30362feab747a88c58ffdee23c8f271f6326d3386a49.webp",
+      "ts": 1794711649.4346938
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794708043.4398332,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 1
+    "count": 2
   }
 }

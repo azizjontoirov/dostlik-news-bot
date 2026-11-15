@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794722451.7080197,
+  "last_post_ts": 1794724234.39343,
   "recent_posts": [
     {
       "source_title": "«Менинг йўлим меъморлик йўли бўлди». Меъмор Юрий Мирошниченко хотирасига",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794718846.7545738,
+    "last_ad_ts": 1794724234.390042,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 90,
+      "ad_flour": 91,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 89,
@@ -265,10 +265,10 @@
     "day": "2026-11-15",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1794713434.0980344,
+      "ad_flour": 1794724234.3900394,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794718846.7545714,

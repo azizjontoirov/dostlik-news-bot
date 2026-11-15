@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794740445.1826346,
+  "last_post_ts": 1794742243.9473512,
   "recent_posts": [
-    {
-      "source_title": "“O‘zbekiston futbol o‘ynashni bilmaydi” — rossiyalik sobiq futbolchi",
-      "headline": "O'zbekiston futbol o'ynashni bilmaydi” – Rossiyalik sobiq futbolchi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/655043881ff335bb2ab16ebfdf60827fa1f72802cdf427294f4fce7cb74b108c.webp",
-      "ts": 1794582054.6614196
-    },
     {
       "source_title": "Norvegiya rossiyalik va belaruslik sportchilarning mamlakatga kirishini taqiqladi",
       "headline": "Rossiyalik va Belaruslik sportchilarga kirish taqiqlanadi",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev Oman davlat tashrifida 🇴🇲🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/df0eee1a86e54ddbb206953d489060becd0101ddf44f082175efb0f759653d8d.webp",
       "ts": 1794738641.4567983
+    },
+    {
+      "source_title": "O‘zbekistonda ta’lim va tibbiyot muassasalarida joylashgan yerlar xususiylashtirilishi taqiqlanadi",
+      "headline": "YERLAR XUSUSIYATLASHILISHI TAQIQLANADI 🌿📚",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/80581c6c475b013318bff59545b7c30d773e4104ca5af4ee24b327d4adf0c016.webp",
+      "ts": 1794742241.943476
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794740445.17919,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 12
+    "count": 13
   }
 }

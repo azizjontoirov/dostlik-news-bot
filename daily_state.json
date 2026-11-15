@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794724234.39343,
+  "last_post_ts": 1794726050.649143,
   "recent_posts": [
-    {
-      "source_title": "«Менинг йўлим меъморлик йўли бўлди». Меъмор Юрий Мирошниченко хотирасига",
-      "headline": "Mening yo'lim me'morlik yo'li bo'ldi» – Yuriy Miroshnichenko xotirasi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/3fjas3savqv8ewaF7Hw17944901697673_210751_og.webp?r=1794568390",
-      "ts": 1794569442.054834
-    },
     {
       "source_title": "Акмал Шукуровнинг жазосини енгиллаштирган собиқ судьялар ва суд раиси ўринбосарига ҳукм ўқилди",
       "headline": "Akmal Shukurovning jazosi yumshatildi – sobiq sudyalar va sud raisi o'rinbosariga hukm",
@@ -240,11 +234,17 @@
       "headline": "Farg'onada velosipedchi halok bo'ldi",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/c5e363dde41c3ec65a1cbe6b1cfc85694a9c318be3a4a40b88fc0218e54f0750.webp",
       "ts": 1794722449.7036495
+    },
+    {
+      "source_title": "Toshkentda onalar o‘limiga doir holatlar uchun 48 nafar tibbiyot xodimi jazolandi",
+      "headline": "Toshkentda onalar o'limi holatlariga 48 nafar tibbiyot xodimi jazolandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/3cc4303b5f62f92bc9cb10155a9a47701a24e8b99b42724e9bb5c0d975c84464.webp",
+      "ts": 1794726048.6444187
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794724234.390042,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 6
+    "count": 7
   }
 }

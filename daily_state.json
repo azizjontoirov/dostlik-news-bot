@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794711651.4422524,
+  "last_post_ts": 1794713434.0999012,
   "recent_posts": [
     {
       "source_title": "Аҳоли кўпайган, умр давомийлиги ошган, кўп фарзандли оналар камайган. Аҳолини рўйхатга олиш нималарни кўрсатди?",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794708043.4398332,
+    "last_ad_ts": 1794713434.098037,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 89,
+      "ad_flour": 90,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 88,
@@ -264,10 +264,11 @@
     "permanent_index": 2,
     "day": "2026-11-15",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1794659433.434988,
+      "ad_flour": 1794713434.0980344,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794708043.439831,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794751250.2795389,
+  "last_post_ts": 1794752852.3381376,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистоннинг 2025 йилги ЯИМ кўрсаткичи $147 млрддан $169 млрдгача қайта ҳисобланди. Нима ўзгарди ва нега?",
-      "headline": "2025‑yilgi YIM ko'rsatkichi yangilandi – $147 mlrd → $169 mlrd!",
-      "image": "https://www.gazeta.uz/media/img/2026/10/v4fvtg5c160v4zdY9Vy17929428398595_210800_og.webp?r=1794622208",
-      "ts": 1794623438.7188437
-    },
     {
       "source_title": "Ўзбекистонда 9 ойда 18 мингдан ортиқ киши қамоқ жазосига ҳукм қилинди",
       "headline": "9 oyda 18 mingdan ortiq kishi qamoqqa hukm qilindi",
@@ -240,11 +234,17 @@
       "headline": "Ish haqini kechiktirgan ish beruvchilarga 832 mlrd so'm undirilmoqda",
       "image": "https://www.gazeta.uz/media/img/2025/07/QuKyPO17514373953864_210868_og.webp?r=1794745124",
       "ts": 1794751248.2760775
+    },
+    {
+      "source_title": "Moskva sönggi muzokaralarda Ğarbga öz talablarini maʼlum qilgan",
+      "headline": "Moskva so'nggi muzokaralarda G'arbga o'z talablarini bildirdi 🌍🗣️",
+      "image": "https://storage.kun.uz/source/1/Eg8Dr9Mw9HEejfsAcotcIyx4_XrvvBc0.jpg",
+      "ts": 1794752850.3340201
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 17
+    "count": 18
   }
 }

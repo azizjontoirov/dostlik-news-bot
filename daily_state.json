@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794729651.3835485,
+  "last_post_ts": 1794731443.926513,
   "recent_posts": [
-    {
-      "source_title": "Ucell 5G tarmog‘i — O‘zbekistonning barcha viloyat markazlarida",
-      "headline": "Ucell 5G tarmog'i mamlakat bo'ylab kengaymoqda 🚀📶",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/56a6792fc048eadef97d45941f564cda1b3bb73e7503d36bd6af54a2fd0d4c64.webp",
-      "ts": 1794574851.6971614
-    },
     {
       "source_title": "Özbekiston prezidenti dunyoning eng nufuzli musulmonlari reytingiga kiritildi",
       "headline": "Prezident Shavkat Mirziyoyev The Muslim 500 reytingida 40‑o'rinni egalladi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston: Mahkuma ayollarning bolalari uchun maxsus bog'cha ochildi 👶🏽🧒🏽",
       "image": "https://www.gazeta.uz/media/img/2025/06/yXBlg317500687498537_210861_og.webp?r=1794723931",
       "ts": 1794727838.5796237
+    },
+    {
+      "source_title": "Qashqadaryoda keliniga muntazam zo‘ravonlik qilib, o‘limiga sabab bo‘lgan qaynona 5 yilga qamaldi",
+      "headline": "Qashqadaryoda zo'ravon qaynona 5 yilga jazolandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/08cfd6179e65a60f87b288da846f0f5a3666f4559b268f97e9f77e49c60a055a.webp",
+      "ts": 1794731441.8083756
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794729651.3815348,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 8
+    "count": 9
   }
 }

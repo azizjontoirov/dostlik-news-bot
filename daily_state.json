@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794745835.3477945,
+  "last_post_ts": 1794747649.429775,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 2027-yilda ham asosiy soliq stavkalarini o‘zgarishsiz saqlash rejalashtirilmoqda",
-      "headline": "2027‑yilda soliq stavkalari o'zgarmas bo'ladi 📊",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/8f5abb58d000e27a35f367ceb8aa5e4841989a330fa0413e80813e8679d4eb05.webp",
-      "ts": 1794585654.1227646
-    },
     {
       "source_title": "2027-yilgi Davlat byudjeti ijtimoiy yönaltirilgan böladi",
       "headline": "2027‑yilgi Davlat byudjeti ijtimoiy yo'nalishga qaratildi 📊💡",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev O'monda davlat tashrifida 🌍🤝",
       "image": "https://www.gazeta.uz/media/img/2026/10/r775qdetdb5hcKCStwn17918986421000_210865_og.webp?r=1794737685",
       "ts": 1794744057.8788536
+    },
+    {
+      "source_title": "Magic City’da yosh bolalar yo‘qolgani haqidagi xabarlar rad etildi",
+      "headline": "Magic City'da bolalar yo'qolganligi haqidagi mish-mishlar rad etildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/5e5045edcb95ee0e2f1750444f34530e93b2f9096782d6639c644ffd89882f1d.webp",
+      "ts": 1794747647.426575
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 14
+    "count": 15
   }
 }

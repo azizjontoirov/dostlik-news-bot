@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794752852.3381376,
+  "last_post_ts": 1794754855.9434693,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда 9 ойда 18 мингдан ортиқ киши қамоқ жазосига ҳукм қилинди",
-      "headline": "9 oyda 18 mingdan ortiq kishi qamoqqa hukm qilindi",
-      "image": "https://www.gazeta.uz/media/img/2025/10/ALYR0917603371973419_210807_og.webp?r=1794596615",
-      "ts": 1794625249.510616
-    },
     {
       "source_title": "Özbekiston Parijda 15 milliard dollardan ortiq 7 loyihani taqdim etdi",
       "headline": "Özbekiston Parijda 15 mlrd dollardan ortiq 7 yirik loyiha taqdim etdi 🚀",
@@ -240,11 +234,17 @@
       "headline": "Moskva so'nggi muzokaralarda G'arbga o'z talablarini bildirdi 🌍🗣️",
       "image": "https://storage.kun.uz/source/1/Eg8Dr9Mw9HEejfsAcotcIyx4_XrvvBc0.jpg",
       "ts": 1794752850.3340201
+    },
+    {
+      "source_title": "O‘zbekiston sayyohlar uchun qanchalik qulay — xalqaro reyting e’lon qilindi",
+      "headline": "O'zbekiston turizm reytingida 76‑o'rinda! 🇺🇿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/b314c80a50205846ed9fba3db0ea993e4a5a70ecaa23d402795059e664903214.webp",
+      "ts": 1794754853.9381769
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 18
+    "count": 19
   }
 }

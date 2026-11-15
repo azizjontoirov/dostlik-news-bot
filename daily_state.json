@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794735042.4060793,
+  "last_post_ts": 1794736852.6618457,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston Respublikasi Turkiya fuqarolariga qarşi xalqaro investitsiyaviy arbitraj işida ğalaba qozondi",
-      "headline": "Uzbekistan – Turkiya investitsiyaviy arbitrajida yirik g'alaba 🏛️",
-      "image": "https://storage.kun.uz/source/1/J6XI_Y1PvVqLXnh-xZvELklqEZaX3Vo2.jpg",
-      "ts": 1794578449.6849728
-    },
     {
       "source_title": "Тошкентда уйни ижарага бериш учун олдиндан тўлов олиб, кейин алоқани узган икки нафар сохта риелтор ушланди",
       "headline": "Toshkentda uy ijarasida firibgarlik – ikki nafar soxta rieltordan hibsga olindi",
@@ -240,11 +234,17 @@
       "headline": "Shakar – yurak va teri uchun xavfli!",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/cfe855d04f63a1c4866a3c54d3132d2c2c660ed65d520a7170fd3a5d8aaa3be6.webp",
       "ts": 1794733245.893433
+    },
+    {
+      "source_title": "Toshkentda to‘qqiz oyda 307 kishi OIV bilan kasallangani aniqlandi",
+      "headline": "Toshkentda OIV yangi holatlari oshdi 🦠📈",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/69e6964dd91448c9bf837f7b3e3ef197ea3ef4b7607205903c783083869cc477.webp",
+      "ts": 1794736850.6573193
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794735042.4040742,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 10
+    "count": 11
   }
 }

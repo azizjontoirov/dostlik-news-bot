@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794736852.6618457,
+  "last_post_ts": 1794738643.4602935,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда уйни ижарага бериш учун олдиндан тўлов олиб, кейин алоқани узган икки нафар сохта риелтор ушланди",
-      "headline": "Toshkentda uy ijarasida firibgarlik – ikki nafar soxta rieltordan hibsga olindi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/a7ifgfol2erbbZhEIC417945737321346_210797_og.webp?r=1794580075",
-      "ts": 1794580242.2015796
-    },
     {
       "source_title": "“O‘zbekiston futbol o‘ynashni bilmaydi” — rossiyalik sobiq futbolchi",
       "headline": "O'zbekiston futbol o'ynashni bilmaydi” – Rossiyalik sobiq futbolchi",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda OIV yangi holatlari oshdi 🦠📈",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/69e6964dd91448c9bf837f7b3e3ef197ea3ef4b7607205903c783083869cc477.webp",
       "ts": 1794736850.6573193
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev davlat tashrifi bilan Ummonga boradi",
+      "headline": "Shavkat Mirziyoyev Oman davlat tashrifida 🇴🇲🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/df0eee1a86e54ddbb206953d489060becd0101ddf44f082175efb0f759653d8d.webp",
+      "ts": 1794738641.4567983
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794735042.4040742,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 11
+    "count": 12
   }
 }

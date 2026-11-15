@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794749442.508581,
+  "last_post_ts": 1794751250.2795389,
   "recent_posts": [
-    {
-      "source_title": "“O‘zbekistonda Britaniya universitetlari ishtiroki yanada kengayadi” — Britaniya kengashi rahbari",
-      "headline": "Britaniya universitetlari O'zbekistonda yanada kengaymoqda! 🇬🇧📚",
-      "image": "https://gocdn.daryo.uz/large/2026/11/12/f5cdd86d04726b828326b682cc8f0b1c70596b0f61d9053861e685cd003d4bd5.webp",
-      "ts": 1794590138.7153554
-    },
     {
       "source_title": "Ўзбекистоннинг 2025 йилги ЯИМ кўрсаткичи $147 млрддан $169 млрдгача қайта ҳисобланди. Нима ўзгарди ва нега?",
       "headline": "2025‑yilgi YIM ko'rsatkichi yangilandi – $147 mlrd → $169 mlrd!",
@@ -240,11 +234,17 @@
       "headline": "Fransiyada sog'liq muammosi tufayli qaytgan o'zbek haydovchi 🇺🇿✈️",
       "image": "https://storage.kun.uz/source/1/ZaFjdCBFHTKK3YH38SJ3wiIvUUJ57fiI.webp",
       "ts": 1794749440.5051823
+    },
+    {
+      "source_title": "Иш ҳақини кечиктирган иш берувчилардан 9 ойда 832 млрд сўм ундирилди",
+      "headline": "Ish haqini kechiktirgan ish beruvchilarga 832 mlrd so'm undirilmoqda",
+      "image": "https://www.gazeta.uz/media/img/2025/07/QuKyPO17514373953864_210868_og.webp?r=1794745124",
+      "ts": 1794751248.2760775
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 16
+    "count": 17
   }
 }

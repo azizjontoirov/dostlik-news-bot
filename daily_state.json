@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794742243.9473512,
+  "last_post_ts": 1794744059.8823118,
   "recent_posts": [
-    {
-      "source_title": "Norvegiya rossiyalik va belaruslik sportchilarning mamlakatga kirishini taqiqladi",
-      "headline": "Rossiyalik va Belaruslik sportchilarga kirish taqiqlanadi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/07127e5a854cb21ccec4e7f76aa449adc076a6a994270ab20c35bb173f64641a.webp",
-      "ts": 1794583843.722409
-    },
     {
       "source_title": "O‘zbekistonda 2027-yilda ham asosiy soliq stavkalarini o‘zgarishsiz saqlash rejalashtirilmoqda",
       "headline": "2027‑yilda soliq stavkalari o'zgarmas bo'ladi 📊",
@@ -240,11 +234,17 @@
       "headline": "YERLAR XUSUSIYATLASHILISHI TAQIQLANADI 🌿📚",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/80581c6c475b013318bff59545b7c30d773e4104ca5af4ee24b327d4adf0c016.webp",
       "ts": 1794742241.943476
+    },
+    {
+      "source_title": "Шавкат Мирзиёев 16−17 ноябрь кунлари давлат ташрифи билан Ўмонда бўлади",
+      "headline": "Shavkat Mirziyoyev O'monda davlat tashrifida 🌍🤝",
+      "image": "https://www.gazeta.uz/media/img/2026/10/r775qdetdb5hcKCStwn17918986421000_210865_og.webp?r=1794737685",
+      "ts": 1794744057.8788536
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794740445.17919,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 13
+    "count": 14
   }
 }

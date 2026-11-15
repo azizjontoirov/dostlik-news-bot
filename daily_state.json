@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794756639.6704118,
+  "last_post_ts": 1794758447.6346383,
   "recent_posts": [
-    {
-      "source_title": "Toşkent viloyati kollejlarida yapon tili öqitilişi mumkin",
-      "headline": "Toshkent viloyatidagi kollejlar endi yapon tilini o'qitadi! 🇯🇵",
-      "image": "https://storage.kun.uz/source/1/uH824SxLm4fCifO9lQpcMpjNZiBU_ZCF.webp",
-      "ts": 1794630639.0866754
-    },
     {
       "source_title": "Toşkentda qalbaki dollarlar savdosiga çek qöyildi",
       "headline": "Tashkentda qalbaki dollar savdosi to'xtatildi",
@@ -240,11 +234,17 @@
       "headline": "Talabalar xonasi Instagram'da: FVV reydida shaxsiy daxlsizlik buzildimi? 📸🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/aae6139f2d012903ee9fb508ef15b6c3282f5a310cfa5cd07b86bdd8350812bb.webp",
       "ts": 1794756637.6360567
+    },
+    {
+      "source_title": "Özbekistonda Norvegiyada işlaş uçun payvandçilar tayyorlaş rejalaştirilmoqda",
+      "headline": "Norvegiyada ishga joylashish uchun payvandchilar tayyorlanmoqda 🔧🇳🇴",
+      "image": "https://storage.kun.uz/source/1/waqe6VS0-wsRVs3PhOruQtks_bf_FGQB.webp",
+      "ts": 1794758445.6320345
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 20
+    "count": 21
   }
 }

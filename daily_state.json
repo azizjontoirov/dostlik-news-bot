@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794758447.6346383,
+  "last_post_ts": 1794760243.1745396,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda qalbaki dollarlar savdosiga çek qöyildi",
-      "headline": "Tashkentda qalbaki dollar savdosi to'xtatildi",
-      "image": "https://storage.kun.uz/source/1/gIzAlJjDWPAlpUqP90EIjlsVVPg-4V_-.jpg",
-      "ts": 1794634246.7625134
-    },
     {
       "source_title": "Diyora Keldiyorova Zagrebdagi nufuzli musobaqada sovrindor bo‘ldi",
       "headline": "Diyora Keldiyorova Zagrebda bronza medalga erishdi!",
@@ -240,11 +234,17 @@
       "headline": "Norvegiyada ishga joylashish uchun payvandchilar tayyorlanmoqda 🔧🇳🇴",
       "image": "https://storage.kun.uz/source/1/waqe6VS0-wsRVs3PhOruQtks_bf_FGQB.webp",
       "ts": 1794758445.6320345
+    },
+    {
+      "source_title": "“Kamera orqali uch kunda topildim”. Farg‘onada soxta avtoraqam bilan yurgan haydovchilar ushlandi",
+      "headline": "Kamera orqali uch kunda topildim – soxta avtoraqamlar fosh etildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/3b60f07311ca3476f7bea62367350567c60122f96d929b575004ad9b6bd8a130.webp",
+      "ts": 1794760241.1703773
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794745835.3460898,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 21
+    "count": 22
   }
 }

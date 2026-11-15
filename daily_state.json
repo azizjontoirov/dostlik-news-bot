@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794718846.7571163,
+  "last_post_ts": 1794720644.5830836,
   "recent_posts": [
-    {
-      "source_title": "Biznesingiz uçun Apple Pay’ni Click orqali ulang!",
-      "headline": "Apple Pay'ni Click orqali biznesingizga qo'shing! 📲💳",
-      "image": "https://storage.kun.uz/source/1/H4Qp53kQYSP-h766dpTai6dlx3RvbpSq.jpg",
-      "ts": 1794564055.5618699
-    },
     {
       "source_title": "“O‘zbekistonga qarshi o‘yinda noodatiy gollar o‘tkazib yubordik” — Matvey Safonov",
       "headline": "Rossiya darvozaboni: “Noodatiy gollar ham bo'lishi mumkin”",
@@ -240,11 +234,17 @@
       "headline": "Ish joylarida shahvoniy shilqimlikka yo'l qo'ymaslik qoidasi kuchga kirdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/abd4413fbe094936ce90403d336046df06c2c7a96cdfe6d4337885f8d8e9304c.webp",
       "ts": 1794717037.1215112
+    },
+    {
+      "source_title": "“O‘zgidromet” hafta boshida qanday ob-havo kutilayotganini ma’lum qildi",
+      "headline": "O'zgidromet”ning 16‑noyabr ob‑havo prognozi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/08fd239bbfe1cf30726525841fa149f1afd7a04395abf5cdcaf209931646bd1b.webp",
+      "ts": 1794720642.5796459
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794718846.7545738,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 4
+    "count": 5
   }
 }

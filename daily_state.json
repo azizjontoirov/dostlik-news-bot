@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794675662.7127771,
+  "last_post_ts": 1794709843.217731,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro‘yxatidan o‘rin oldi",
-      "headline": "Shavkat Mirziyoyev dunyoning eng nufuzli musulmonlari ro'yxatida 40‑o'rinni egalladi 🌍🕌",
-      "image": "https://gocdn.daryo.uz/large/2026/11/13/1be3d2f8dae580e1664404a1afaccefe1de4fa6282afbfeed5eac517da5563ae.webp",
-      "ts": 1794553253.6077068
-    },
     {
       "source_title": "Oʻzbek bunday gapirmaydi: nega bu xatolar ommalashyapti?",
       "headline": "O'zbek tilida noto'g'ri iboralar nega ommalashmoqda? 🤔📢",
@@ -240,11 +234,17 @@
       "headline": "18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/c6ffc2c3a7de3d9a4def5bccec2a6f8d5030411f84e9c46061ab0ea578afb2b7.webp",
       "ts": 1794675660.7097986
+    },
+    {
+      "source_title": "Toshkentda OLX orqali soxta uy ijarasi e’lonlarini joylashtirgan ikki shaxs ushlandi",
+      "headline": "Toshkentda OLX orqali soxta uy ijarasi e'lonlari fosh qilindi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/aebd576cbf836707bbdb046240198fc2bf4c6b3685a57093eda48c36128b6cbe.webp",
+      "ts": 1794709841.2138655
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794708043.4398332,
@@ -283,7 +283,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-14",
-    "count": 23
+    "day": "2026-11-15",
+    "count": 1
   }
 }

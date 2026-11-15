@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794731443.926513,
+  "last_post_ts": 1794733247.8975399,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston prezidenti dunyoning eng nufuzli musulmonlari reytingiga kiritildi",
-      "headline": "Prezident Shavkat Mirziyoyev The Muslim 500 reytingida 40‑o'rinni egalladi",
-      "image": "https://storage.kun.uz/source/1/rOCaY5pTuNMoRh8waKW7RtlIe0AJnSqS.jpg",
-      "ts": 1794576642.769924
-    },
     {
       "source_title": "Özbekiston Respublikasi Turkiya fuqarolariga qarşi xalqaro investitsiyaviy arbitraj işida ğalaba qozondi",
       "headline": "Uzbekistan – Turkiya investitsiyaviy arbitrajida yirik g'alaba 🏛️",
@@ -240,11 +234,17 @@
       "headline": "Qashqadaryoda zo'ravon qaynona 5 yilga jazolandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/15/08cfd6179e65a60f87b288da846f0f5a3666f4559b268f97e9f77e49c60a055a.webp",
       "ts": 1794731441.8083756
+    },
+    {
+      "source_title": "Yurakni ishdan chiqarib, terini qaritadi: shifokorlar umrni qisqartiradigan mahsulot turidan ogohlantiradi",
+      "headline": "Shakar – yurak va teri uchun xavfli!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/15/cfe855d04f63a1c4866a3c54d3132d2c2c660ed65d520a7170fd3a5d8aaa3be6.webp",
+      "ts": 1794733245.893433
     }
   ],
   "morning_sent_date": "2026-11-15",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794729651.3815348,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-15",
-    "count": 9
+    "count": 10
   }
 }

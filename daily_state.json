@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794819660.4822435,
+  "last_post_ts": 1794821439.8708353,
   "recent_posts": [
     {
       "source_title": "Xon Saroy qurilish eshiklarini ochdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794816043.3601177,
+    "last_ad_ts": 1794821439.8688998,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 95,
+      "ad_flour": 96,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 94,
@@ -265,10 +265,10 @@
     "day": "2026-11-16",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794810637.3790114,
+      "ad_flour": 1794821439.8688972,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794816043.3601158,

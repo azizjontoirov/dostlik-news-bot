@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794798051.6725595,
+  "last_post_ts": 1794799835.6598911,
   "recent_posts": [
     {
       "source_title": "Marraga yetish terim tugaganini anglatmaydi — Qishloq xo‘jaligi vazirligi 5 mln tonna paxta haqida",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794794441.4188132,
+    "last_ad_ts": 1794799835.6573393,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 93,
+      "ad_flour": 94,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 92,
@@ -264,10 +264,11 @@
     "permanent_index": 2,
     "day": "2026-11-16",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1794745835.3460877,
+      "ad_flour": 1794799835.6573365,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794794441.4187708,

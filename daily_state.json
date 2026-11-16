@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794846645.8718638,
+  "last_post_ts": 1794848454.4062696,
   "recent_posts": [
-    {
-      "source_title": "Farg‘onadagi YTHda velosipedchi vafot etdi",
-      "headline": "Farg'onada velosipedchi halok bo'ldi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/c5e363dde41c3ec65a1cbe6b1cfc85694a9c318be3a4a40b88fc0218e54f0750.webp",
-      "ts": 1794722449.7036495
-    },
     {
       "source_title": "Toshkentda onalar o‘limiga doir holatlar uchun 48 nafar tibbiyot xodimi jazolandi",
       "headline": "Toshkentda onalar o'limi holatlariga 48 nafar tibbiyot xodimi jazolandi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston va Oman o'rtasidagi aloqalar yanada mustahkamlanmoqda 🤝",
       "image": "https://storage.kun.uz/source/1/a_r83gyOauUVM-D51zIgBUiMd4UYQNt9.jpg",
       "ts": 1794846643.866483
+    },
+    {
+      "source_title": "Ўзбекистонда ипотекани асосан бюджет эмас, банклар ҳисобидан молиялаштириш режалаштирилмоқда",
+      "headline": "Ipoteka moliyalashtirish rejasi: banklar ulushi oshadi",
+      "image": "https://www.gazeta.uz/media/img/2024/10/WixIiD17282942802156_b.jpg",
+      "ts": 1794848452.329083
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 22
+    "count": 23
   }
 }

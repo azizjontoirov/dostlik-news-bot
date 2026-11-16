@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794807045.042119,
+  "last_post_ts": 1794808857.3792958,
   "recent_posts": [
-    {
-      "source_title": "Qon bosimi yuqori insonlar qaysi odatdan voz kechishi kerak?",
-      "headline": "Qon bosimini pasaytirish: Qaysi odatdan voz kechish kerak? 🩺🚫",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/2fc0e1814aec644151fb77b2c73c58db36ff34b5a04ec1fc53042712236cd1e2.webp",
-      "ts": 1794652237.9746163
-    },
     {
       "source_title": "Aeroport bojxonasida nima bölgandi? IMEI voqeasiga izohlar",
       "headline": "Tashkent aeroportida IMEI tekshiruvi to'xtadi!",
@@ -240,11 +234,17 @@
       "headline": "Radarlar tezlikni o'lchash aniqiligi tekshirilmoqda",
       "image": "https://www.gazeta.uz/media/img/2026/11/di1776vsuco8fQJ2z2817948060082373_210878_og.webp?r=1794806067",
       "ts": 1794807043.0389764
+    },
+    {
+      "source_title": "Қашқадарёда 65 туп дарахт ноқонуний кесилиб, табиатга 207 млн сўмдан ортиқ зарар етказилди",
+      "headline": "Qashqadaryoda 65 ta daraxt noqonuniy kesildi – 207 mln so'm zarar! 🌳",
+      "image": "https://www.gazeta.uz/media/img/2026/11/0tndp2btth8614rzUiY17948084650343_210882_og.webp?r=1794808814",
+      "ts": 1794808855.374576
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794805243.3809485,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 5
+    "count": 6
   }
 }

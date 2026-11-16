@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794796240.8696551,
+  "last_post_ts": 1794798051.6725595,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda dorilarni retseptsiz sotish mezonlari o‘zgartirildi",
-      "headline": "Dorilar retseptsiz sotish mezonlari yangilandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/fdced06204adbf0ff22564c3404833cc23b69d4267063815648562cf5d2a9382.webp",
-      "ts": 1794641448.9983222
-    },
     {
       "source_title": "Marraga yetish terim tugaganini anglatmaydi — Qishloq xo‘jaligi vazirligi 5 mln tonna paxta haqida",
       "headline": "Marraga yetish terim tugamadi – 5 mln+ tonna paxta tayyor! 🌾",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda Bo'zsuv kanali bo'ylab yangi sayohat yo'li! 🌳",
       "image": "https://www.gazeta.uz/media/img/2026/11/cmd8fgiurveh8Oojvlw17946480056142_210871_og.webp?r=1794779148",
       "ts": 1794796238.8658412
+    },
+    {
+      "source_title": "Dunyo mamlakatlarining davlat qarzi qancha?",
+      "headline": "Dunyo davlat qarzi prognozi 2026",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/6f92410e762b43a962f7d7209528c0adee811cfd90891b4b5d9148200e7530dd.webp",
+      "ts": 1794798049.6693287
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794794441.4188132,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 1
+    "count": 2
   }
 }

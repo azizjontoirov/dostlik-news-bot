@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794812452.3081868,
+  "last_post_ts": 1794814239.953542,
   "recent_posts": [
-    {
-      "source_title": "Norvegiyada 5 minggacha payvandchiga ehtiyoj bor, o‘zbekistonlik mutaxassislarni tayyorlash taklif qilindi",
-      "headline": "Norvegiyada 5 minggacha payvandchiga ehtiyoj – O'zbek mutaxassislarini tayyorlash taklif qilindi 🔧🌍",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/eccdf2b38f63b4d8a88ad891175665af4686ee5e1dadf2f12ab1754b98229240.webp",
-      "ts": 1794657649.1664934
-    },
     {
       "source_title": "Ўзбекистонда коммунал тарифлар ўзгариши жадвалини бир неча йил олдиндан тасдиқлаш таклиф этилмоқда",
       "headline": "O'zbekistonda kommunal tariflar jadvalini oldindan belgilash taklifi 📊",
@@ -240,11 +234,17 @@
       "headline": "19‑noyabrda Toshkentda CAEx Build & Co. 2026 ko'rgazmasi ochiladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/1728c4225c26a986904b9c77fcca8579cf3c38f01a0986a497f8ebdd2b1424bf.webp",
       "ts": 1794812450.303429
+    },
+    {
+      "source_title": "Qozog‘iston milliy xavfsizlik qo‘mitasi raisi lavozimidan olindi",
+      "headline": "Qozog'iston milliy xavfsizlik qo'mitasi raisi lavozimidan olindi 🇰🇿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/715090154779248d882f84e2d5ff85a28dd30bf84bc653eeb95f9b8ab7e2f16a.webp",
+      "ts": 1794814237.9506032
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794810637.3790138,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 7
+    "count": 8
   }
 }

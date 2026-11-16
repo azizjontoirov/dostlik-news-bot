@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794834058.7786286,
+  "last_post_ts": 1794835842.4010792,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda erkaklar ayollardan 485 ming nafarga ko‘p ekani aniqlandi",
-      "headline": "O'zbekistonda erkaklar ayollardan 485 ming nafarga ko'p! 📊",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/b22d51cbd7c563dd811ad9e2bd3baefd85b847bfada78b268336fc8b96ce8d24.webp",
-      "ts": 1794673847.7373347
-    },
     {
       "source_title": "Arzon avtoaksessuarlar sotishni va’da qilgan 18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
       "headline": "18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
@@ -240,11 +234,17 @@
       "headline": "Listee + UzPost: O'zbekistonda onlayn savdoning yangi imkoniyati! 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/14/11f61bf44f95bb18887ce8d6d5b4892759b9eb5e60415cb0e717fb0375314c9b.webp",
       "ts": 1794834056.4950268
+    },
+    {
+      "source_title": "Özbekiston fuqarolari Rossiyaga işlaş uçun borgan çet elliklar orasida köpçilik bölib qolmoqda",
+      "headline": "Rossiyada ishga joylashishda O'zbekiston fuqarolari yetakchi",
+      "image": "https://storage.kun.uz/source/1/__N05Yp7X1mARt4mv463m5YxnFUR7TPR.jpg",
+      "ts": 1794835840.3973172
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 15
+    "count": 16
   }
 }

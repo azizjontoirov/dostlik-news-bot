@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794799835.6598911,
+  "last_post_ts": 1794801666.3565795,
   "recent_posts": [
-    {
-      "source_title": "Marraga yetish terim tugaganini anglatmaydi — Qishloq xo‘jaligi vazirligi 5 mln tonna paxta haqida",
-      "headline": "Marraga yetish terim tugamadi – 5 mln+ tonna paxta tayyor! 🌾",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/c845530cad87c5453b3594a8092a7142002bb439bb1cdb94df0fa026d206d1d0.webp",
-      "ts": 1794645038.3727968
-    },
     {
       "source_title": "Amerikaning maşhur televizion şoulari Özbekistonda suratga olinadi",
       "headline": "Amerikaning mashhur televizion shoulari O'zbekistonda suratga olinadi!",
@@ -240,11 +234,17 @@
       "headline": "Dunyo davlat qarzi prognozi 2026",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/6f92410e762b43a962f7d7209528c0adee811cfd90891b4b5d9148200e7530dd.webp",
       "ts": 1794798049.6693287
+    },
+    {
+      "source_title": "Davlat tibbiy suğurtasi barça xonadonlarni qamrab oladi",
+      "headline": "Davlat tibbiy sug'urtasi barcha xonadonlarni qamrab oladi 🏥✅",
+      "image": "https://storage.kun.uz/source/1/tsOCDn4N8JUWqryOLEydGDNum3dO3wBE.webp",
+      "ts": 1794801664.353632
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794799835.6573393,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 2
+    "count": 3
   }
 }

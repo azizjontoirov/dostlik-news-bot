@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794837656.3623736,
+  "last_post_ts": 1794839450.120917,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda OLX orqali soxta uy ijarasi e’lonlarini joylashtirgan ikki shaxs ushlandi",
-      "headline": "Toshkentda OLX orqali soxta uy ijarasi e'lonlari fosh qilindi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/aebd576cbf836707bbdb046240198fc2bf4c6b3685a57093eda48c36128b6cbe.webp",
-      "ts": 1794709841.2138655
-    },
     {
       "source_title": "Jizzaxda 2,6 mlrd so‘mlik noqonuniy kriptoaktivlar aylanmasiga aloqador shaxs aniqlandi",
       "headline": "Jizzaxda 2,6 mlrd so'mlik noqonuniy kriptoaktiv aylanmasi aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "Nogiron fuqarolar uchun reabilitatsiya imtiyozlari 🏥✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/66fc571f4b4cb37113b66c2d525ab0338ae2ee3c0f05fbdab5506551ef171e59.webp",
       "ts": 1794837654.3581564
+    },
+    {
+      "source_title": "O‘zbekiston va Eron dengiz portlaridan foydalanish imkoniyatlarini kengaytiradi",
+      "headline": "O'zbekiston‑Eron dengiz portlari hamkorligini kengaytiradi 🚢🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/3011aacbae10df1d409e8d4393fd2f4957a29ae387d11b06ba85e05a20cd823b.webp",
+      "ts": 1794839448.1168666
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 17
+    "count": 18
   }
 }

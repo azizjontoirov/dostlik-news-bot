@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794832240.6791358,
+  "last_post_ts": 1794834058.7786286,
   "recent_posts": [
-    {
-      "source_title": "Yevropa Ittifoqining beshta davlati Ruandada deportatsiya markazi ochmoqchi",
-      "headline": "Yevropa Ittifoqi Ruandada yangi deportatsiya markazi ochadi 🌍🚧",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/262915776aa5556ae0a6fee72d1b789629054f759ddd961324038a27a8188349.webp",
-      "ts": 1794672055.419828
-    },
     {
       "source_title": "O‘zbekistonda erkaklar ayollardan 485 ming nafarga ko‘p ekani aniqlandi",
       "headline": "O'zbekistonda erkaklar ayollardan 485 ming nafarga ko'p! 📊",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda 83 kishini 1 mlrd so'mga aldagan kiberjinoiy guruh fosh etildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/a5748306c13618cce203263fc6bfdb3336befce2f136b1f41d150067af42c6b7.webp",
       "ts": 1794830460.7125802
+    },
+    {
+      "source_title": "Buyumlarni qayta sotish platformasi Listee va UzPost O‘zbekiston shaharlari o‘rtasida tovarlarni yetkazib berish imkoniyatlarini kengaytirmoqda",
+      "headline": "Listee + UzPost: O'zbekistonda onlayn savdoning yangi imkoniyati! 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/14/11f61bf44f95bb18887ce8d6d5b4892759b9eb5e60415cb0e717fb0375314c9b.webp",
+      "ts": 1794834056.4950268
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 14
+    "count": 15
   }
 }

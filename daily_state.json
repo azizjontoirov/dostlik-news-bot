@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794803442.8529365,
+  "last_post_ts": 1794805243.3833592,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda qishda gaz birinchi navbatda aholi va ijtimoiy soha obyektlariga yetkazib beriladi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794799835.6573393,
+    "last_ad_ts": 1794805243.3809485,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 94,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 92,
+      "ad_water": 93,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -264,14 +264,14 @@
     "permanent_index": 2,
     "day": "2026-11-16",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1
     },
     "last_shown": {
       "ad_flour": 1794799835.6573365,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794794441.4187708,
+      "ad_water": 1794805243.380946,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

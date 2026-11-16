@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794835842.4010792,
+  "last_post_ts": 1794837656.3623736,
   "recent_posts": [
-    {
-      "source_title": "Arzon avtoaksessuarlar sotishni va’da qilgan 18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
-      "headline": "18 yoshli yigit 11 ta firibgarlikda gumonlanmoqda",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/c6ffc2c3a7de3d9a4def5bccec2a6f8d5030411f84e9c46061ab0ea578afb2b7.webp",
-      "ts": 1794675660.7097986
-    },
     {
       "source_title": "Toshkentda OLX orqali soxta uy ijarasi e’lonlarini joylashtirgan ikki shaxs ushlandi",
       "headline": "Toshkentda OLX orqali soxta uy ijarasi e'lonlari fosh qilindi",
@@ -240,11 +234,17 @@
       "headline": "Rossiyada ishga joylashishda O'zbekiston fuqarolari yetakchi",
       "image": "https://storage.kun.uz/source/1/__N05Yp7X1mARt4mv463m5YxnFUR7TPR.jpg",
       "ts": 1794835840.3973172
+    },
+    {
+      "source_title": "O‘zbekistonda nogironligi bo‘lgan shaxslar ambulator reabilitatsiyaga yiliga uch martagacha yuboriladi",
+      "headline": "Nogiron fuqarolar uchun reabilitatsiya imtiyozlari 🏥✨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/66fc571f4b4cb37113b66c2d525ab0338ae2ee3c0f05fbdab5506551ef171e59.webp",
+      "ts": 1794837654.3581564
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 16
+    "count": 17
   }
 }

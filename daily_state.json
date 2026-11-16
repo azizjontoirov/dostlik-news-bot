@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794843043.80168,
+  "last_post_ts": 1794844855.5126045,
   "recent_posts": [
-    {
-      "source_title": "Ish joylarida shahvoniy shilqimlikka yo‘l qo‘yilmasligiga oid norma kuchga kirdi",
-      "headline": "Ish joylarida shahvoniy shilqimlikka yo'l qo'ymaslik qoidasi kuchga kirdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/abd4413fbe094936ce90403d336046df06c2c7a96cdfe6d4337885f8d8e9304c.webp",
-      "ts": 1794717037.1215112
-    },
     {
       "source_title": "“O‘zgidromet” hafta boshida qanday ob-havo kutilayotganini ma’lum qildi",
       "headline": "O'zgidromet”ning 16‑noyabr ob‑havo prognozi",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyevni Ummon sultonligida rasmiy kutib olish 🇴🇲",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/cb12de189f6272065c737b7b1094c067cbeaeac5bff3014f6372d66c05b82d2c.webp",
       "ts": 1794843041.7973845
+    },
+    {
+      "source_title": "Markaziy bank kommunal tariflarni o‘zgartirish jadvalini bir necha yil oldindan e’lon qilishni taklif etdi",
+      "headline": "Markaziy bank kommunal tariflarni oldindan e'lon qilishni taklif etdi 📊",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/27e5abe6b9cb92ed9ce9bfd24c26a5ba615e5888a1080cbd0d981ee1873febdd.webp",
+      "ts": 1794844853.5091176
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 20
+    "count": 21
   }
 }

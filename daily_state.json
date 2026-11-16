@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794839450.120917,
+  "last_post_ts": 1794841255.140936,
   "recent_posts": [
-    {
-      "source_title": "Jizzaxda 2,6 mlrd so‘mlik noqonuniy kriptoaktivlar aylanmasiga aloqador shaxs aniqlandi",
-      "headline": "Jizzaxda 2,6 mlrd so'mlik noqonuniy kriptoaktiv aylanmasi aniqlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/54c45e1518d7a3d82acd30362feab747a88c58ffdee23c8f271f6326d3386a49.webp",
-      "ts": 1794711649.4346938
-    },
     {
       "source_title": "Eskrou qonuni, IMEI mojarosi va 6 yillik xatoning tuzatilişi - hafta dayjesti",
       "headline": "Eskrou qonuni, IMEI mojarosi va 6 yillik xatoning tuzatilişi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston‑Eron dengiz portlari hamkorligini kengaytiradi 🚢🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/3011aacbae10df1d409e8d4393fd2f4957a29ae387d11b06ba85e05a20cd823b.webp",
       "ts": 1794839448.1168666
+    },
+    {
+      "source_title": "Qashqadaryoda 36 gektar yerni 18,5 ming dollarga sotib berishni va’da qilgan shaxs ushlandi",
+      "headline": "Qashqadaryoda 36 gektar yer sotib berish va'da qilgan shaxs ushladi 🌐🚔",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/c64b7d087922063016578bc6fb6705493e2765505a40f562df6767e7e9fc21d5.webp",
+      "ts": 1794841253.1369123
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 18
+    "count": 19
   }
 }

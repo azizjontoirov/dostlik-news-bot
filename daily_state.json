@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794816043.3646822,
+  "last_post_ts": 1794817841.2717469,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда коммунал тарифлар ўзгариши жадвалини бир неча йил олдиндан тасдиқлаш таклиф этилмоқда",
-      "headline": "O'zbekistonda kommunal tariflar jadvalini oldindan belgilash taklifi 📊",
-      "image": "https://www.gazeta.uz/media/img/2026/07/ucuvppd5nb5m3AAFM9417852188714793_210832_og.webp?r=1794660773",
-      "ts": 1794661249.7672553
-    },
     {
       "source_title": "Toshkentda kiberjinoyatchilikda gumonlanayotgan ikki guruh fosh etildi, 72 kishi ushlandi",
       "headline": "Toshkentda kiberjinoyatchilikda ikki guruh fosh etildi 🚨",
@@ -240,11 +234,17 @@
       "headline": "Qozog'iston milliy xavfsizlik qo'mitasi raisi lavozimidan olindi 🇰🇿",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/715090154779248d882f84e2d5ff85a28dd30bf84bc653eeb95f9b8ab7e2f16a.webp",
       "ts": 1794814237.9506032
+    },
+    {
+      "source_title": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi",
+      "headline": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi 🚫📺",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/73cc72fbd2748c31612f2f13098c8724438a40124982e82d160f5e2c32a46420.webp",
+      "ts": 1794817839.2668467
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794816043.3601177,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 8
+    "count": 9
   }
 }

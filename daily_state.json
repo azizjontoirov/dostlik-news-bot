@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794810637.3835645,
+  "last_post_ts": 1794812452.3081868,
   "recent_posts": [
-    {
-      "source_title": "Aeroport bojxonasida nima bölgandi? IMEI voqeasiga izohlar",
-      "headline": "Tashkent aeroportida IMEI tekshiruvi to'xtadi!",
-      "image": "https://storage.kun.uz/source/1/j5RpJECciegwgMM1G8t8rp64vRPOBQmt.png",
-      "ts": 1794655838.3696334
-    },
     {
       "source_title": "Norvegiyada 5 minggacha payvandchiga ehtiyoj bor, o‘zbekistonlik mutaxassislarni tayyorlash taklif qilindi",
       "headline": "Norvegiyada 5 minggacha payvandchiga ehtiyoj – O'zbek mutaxassislarini tayyorlash taklif qilindi 🔧🌍",
@@ -240,11 +234,17 @@
       "headline": "Qashqadaryoda 65 ta daraxt noqonuniy kesildi – 207 mln so'm zarar! 🌳",
       "image": "https://www.gazeta.uz/media/img/2026/11/0tndp2btth8614rzUiY17948084650343_210882_og.webp?r=1794808814",
       "ts": 1794808855.374576
+    },
+    {
+      "source_title": "19-noyabr kuni Toshkentda CAEx Build & Co. 2026 ko‘rgazmasi boshlanadi",
+      "headline": "19‑noyabrda Toshkentda CAEx Build & Co. 2026 ko'rgazmasi ochiladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/1728c4225c26a986904b9c77fcca8579cf3c38f01a0986a497f8ebdd2b1424bf.webp",
+      "ts": 1794812450.303429
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794810637.3790138,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 6
+    "count": 7
   }
 }

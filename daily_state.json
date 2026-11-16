@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794808857.3792958,
+  "last_post_ts": 1794810637.3835645,
   "recent_posts": [
     {
       "source_title": "Aeroport bojxonasida nima bölgandi? IMEI voqeasiga izohlar",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794805243.3809485,
+    "last_ad_ts": 1794810637.3790138,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 94,
+      "ad_flour": 95,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 93,
@@ -265,10 +265,10 @@
     "day": "2026-11-16",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1794799835.6573365,
+      "ad_flour": 1794810637.3790114,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794805243.380946,

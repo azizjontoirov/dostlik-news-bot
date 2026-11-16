@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794817841.2717469,
+  "last_post_ts": 1794819660.4822435,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda kiberjinoyatchilikda gumonlanayotgan ikki guruh fosh etildi, 72 kishi ushlandi",
-      "headline": "Toshkentda kiberjinoyatchilikda ikki guruh fosh etildi 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/606e5dd6eae0d8859a0ac530708ea3faa7c1b8a6d33789e3059a851a0fda7287.webp",
-      "ts": 1794663039.4161277
-    },
     {
       "source_title": "Xon Saroy qurilish eshiklarini ochdi",
       "headline": "Xon Saroy qurilish eshiklarini ochdi!",
@@ -240,11 +234,17 @@
       "headline": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi 🚫📺",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/73cc72fbd2748c31612f2f13098c8724438a40124982e82d160f5e2c32a46420.webp",
       "ts": 1794817839.2668467
+    },
+    {
+      "source_title": "Endokrinolog qabuliga yozilish uchun asos bo‘ladigan simptomlar",
+      "headline": "Endokrinologga murojaat qilish kerak bo'ladigan alomatlar 🩺✨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/bcdf5f9fcc1923a57dff4d63645f21917330b8fb3700a1b31b7f826ca66249ed.webp",
+      "ts": 1794819658.4790537
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794816043.3601177,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 9
+    "count": 10
   }
 }

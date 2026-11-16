@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794826846.3907695,
+  "last_post_ts": 1794828643.3532746,
   "recent_posts": [
-    {
-      "source_title": "Тошкентда газ босими пасайди. Энергетика вазирлиги 2−3 соат ичида таъминотни тиклашга ваъда берди",
-      "headline": "Tashkentda gaz bosimi pasaydi – 2‑3 soat ichida ta'minot tiklanadi",
-      "image": "https://www.gazeta.uz/media/img/2025/01/tzz1YD17375399143560_b.jpg",
-      "ts": 1794668446.1754918
-    },
     {
       "source_title": "Toşkentdagi beşta kanal böylari sayr va dam oliş maskanlariga aylantirilmoqda",
       "headline": "Toshkentda 5 ta kanal bo'ylari sayr va dam olish maskanlariga aylantirilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Xitoy kapitali ishtirokidagi korxonalar soni 7 106 taga yetdi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/95224ed9042bfe25d899756409db4dde316014a46edce2dd30e6a05e419a95a6.webp",
       "ts": 1794825043.8537383
+    },
+    {
+      "source_title": "Ўзбекистонлик ҳамширалар Германияга ишга таклиф этилмоқда, маош — 2050 еврогача",
+      "headline": "O'zbekistonlik hamshiralarga Germaniyada ish taklifi! 💼",
+      "image": "https://www.gazeta.uz/media/img/2025/07/H9kkzN17532596825053_210913_og.webp?r=1794828456",
+      "ts": 1794828641.349558
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794826846.3881958,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 12
+    "count": 13
   }
 }

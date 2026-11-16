@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794821439.8708353,
+  "last_post_ts": 1794823250.5543134,
   "recent_posts": [
-    {
-      "source_title": "Xon Saroy qurilish eshiklarini ochdi",
-      "headline": "Xon Saroy qurilish eshiklarini ochdi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/a9794dabaa938271dbd9ef15cd63c242dc749f7d5ee3cd3da7a0faf06217633c.webp",
-      "ts": 1794664847.8674915
-    },
     {
       "source_title": "Toshkentda gaz ta’minotida uzilishlar kuzatilmoqda. Energetika vazirligi gaz bosimini oshirdi",
       "headline": "Toshkentda gaz ta'minotida uzilishlar – bosim oshirildi",
@@ -240,11 +234,17 @@
       "headline": "Endokrinologga murojaat qilish kerak bo'ladigan alomatlar 🩺✨",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/bcdf5f9fcc1923a57dff4d63645f21917330b8fb3700a1b31b7f826ca66249ed.webp",
       "ts": 1794819658.4790537
+    },
+    {
+      "source_title": "Listee va UzPost: Buyumlarni qayta sotiş platformasi Özbekiston böylab tovarlarni yetkazib beriş imkoniyatlarini kengaytirmoqda",
+      "headline": "Listee va UzPost: To'lovsiz savdo platformasi kengaymoqda 🚚🛒",
+      "image": "https://storage.kun.uz/source/1/3GeEo6tXqT96d1Kpblda54qeDsen0qVN.jpg",
+      "ts": 1794823248.5508447
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794821439.8688998,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 10
+    "count": 11
   }
 }

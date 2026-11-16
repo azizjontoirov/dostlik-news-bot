@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794805243.3833592,
+  "last_post_ts": 1794807045.042119,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda qishda gaz birinchi navbatda aholi va ijtimoiy soha obyektlariga yetkazib beriladi",
-      "headline": "Qishda gaz birinchi navbatda aholi va ijtimoiy obyektlarga yetkaziladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/0f5091f7756415caa2dbcf64b9afabb7929ec1ce96ceee267aca1ccef5b53b3e.webp",
-      "ts": 1794650445.2324421
-    },
     {
       "source_title": "Qon bosimi yuqori insonlar qaysi odatdan voz kechishi kerak?",
       "headline": "Qon bosimini pasaytirish: Qaysi odatdan voz kechish kerak? 🩺🚫",
@@ -240,11 +234,17 @@
       "headline": "Total Chess World Championship – Nodirbek Abdusattorov oxirgi o'rinda",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/244cafb9c2e4f5d275a1cc46df120b98ad2992e46acd7c925fbdc5adf94b0655.webp",
       "ts": 1794803440.8490443
+    },
+    {
+      "source_title": "Ўзбекистонда радарларнинг тезликни ўлчаш аниқлиги текширилмоқда",
+      "headline": "Radarlar tezlikni o'lchash aniqiligi tekshirilmoqda",
+      "image": "https://www.gazeta.uz/media/img/2026/11/di1776vsuco8fQJ2z2817948060082373_210878_og.webp?r=1794806067",
+      "ts": 1794807043.0389764
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794805243.3809485,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 4
+    "count": 5
   }
 }

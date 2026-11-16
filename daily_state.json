@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794844855.5126045,
+  "last_post_ts": 1794846645.8718638,
   "recent_posts": [
-    {
-      "source_title": "“O‘zgidromet” hafta boshida qanday ob-havo kutilayotganini ma’lum qildi",
-      "headline": "O'zgidromet”ning 16‑noyabr ob‑havo prognozi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/08fd239bbfe1cf30726525841fa149f1afd7a04395abf5cdcaf209931646bd1b.webp",
-      "ts": 1794720642.5796459
-    },
     {
       "source_title": "Farg‘onadagi YTHda velosipedchi vafot etdi",
       "headline": "Farg'onada velosipedchi halok bo'ldi",
@@ -240,11 +234,17 @@
       "headline": "Markaziy bank kommunal tariflarni oldindan e'lon qilishni taklif etdi 📊",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/27e5abe6b9cb92ed9ce9bfd24c26a5ba615e5888a1080cbd0d981ee1873febdd.webp",
       "ts": 1794844853.5091176
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev Ömon sultoni bilan uçraşdi",
+      "headline": "O'zbekiston va Oman o'rtasidagi aloqalar yanada mustahkamlanmoqda 🤝",
+      "image": "https://storage.kun.uz/source/1/a_r83gyOauUVM-D51zIgBUiMd4UYQNt9.jpg",
+      "ts": 1794846643.866483
     }
   ],
   "morning_sent_date": "2026-11-16",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794832240.6737034,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-16",
-    "count": 21
+    "count": 22
   }
 }

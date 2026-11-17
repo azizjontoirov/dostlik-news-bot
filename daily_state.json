@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794906055.004564,
+  "last_post_ts": 1794907838.893335,
   "recent_posts": [
     {
       "source_title": "Иш ҳақини кечиктирган иш берувчилардан 9 ойда 832 млрд сўм ундирилди",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794902443.9588354,
+    "last_ad_ts": 1794907838.8907106,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 99,
+      "ad_flour": 100,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 98,
@@ -265,10 +265,10 @@
     "day": "2026-11-17",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794897035.5437222,
+      "ad_flour": 1794907838.8907084,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794902443.9588337,

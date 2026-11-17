@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794911446.0553255,
+  "last_post_ts": 1794913246.044346,
   "recent_posts": [
     {
       "source_title": "O‘zbekiston sayyohlar uchun qanchalik qulay — xalqaro reyting e’lon qilindi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794907838.8907106,
+    "last_ad_ts": 1794913246.0423737,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 100,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 98,
+      "ad_water": 99,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -264,14 +264,14 @@
     "permanent_index": 2,
     "day": "2026-11-17",
     "today": {
-      "ad_water": 3,
+      "ad_water": 4,
       "ad_flour": 3
     },
     "last_shown": {
       "ad_flour": 1794907838.8907084,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794902443.9588337,
+      "ad_water": 1794913246.0423715,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

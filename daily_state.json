@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794931257.8942866,
+  "last_post_ts": 1794933047.554882,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда радарларнинг тезликни ўлчаш аниқлиги текширилмоқда",
-      "headline": "Radarlar tezlikni o'lchash aniqiligi tekshirilmoqda",
-      "image": "https://www.gazeta.uz/media/img/2026/11/di1776vsuco8fQJ2z2817948060082373_210878_og.webp?r=1794806067",
-      "ts": 1794807043.0389764
-    },
     {
       "source_title": "Қашқадарёда 65 туп дарахт ноқонуний кесилиб, табиатга 207 млн сўмдан ортиқ зарар етказилди",
       "headline": "Qashqadaryoda 65 ta daraxt noqonuniy kesildi – 207 mln so'm zarar! 🌳",
@@ -240,11 +234,17 @@
       "headline": "Farg'onada 500 MW quyosh elektr stansiyasi qurilishi bo'yicha kelishuv imzolandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/d2fb7fd652dc49c8070adc129bbda4db93d21b640d8adc9f43df3cd7b5fcf164.webp",
       "ts": 1794931255.8880882
+    },
+    {
+      "source_title": "Toshkentning markaziy ko‘chalarida harbiylarning bayroq bilan tantanali yurishi o‘tkaziladi",
+      "headline": "Harbiy bayroq bilan tantanali yurish – 35‑yillik yubiley",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/26d5a96706006f6e8709fc0bc21cfcf62e45c3c4188705fd1d6fb3577e126f71.webp",
+      "ts": 1794933045.5503025
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 21
+    "count": 22
   }
 }

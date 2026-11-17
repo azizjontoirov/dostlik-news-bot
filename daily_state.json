@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794927662.875901,
+  "last_post_ts": 1794929456.087709,
   "recent_posts": [
-    {
-      "source_title": "Davlat tibbiy suğurtasi barça xonadonlarni qamrab oladi",
-      "headline": "Davlat tibbiy sug'urtasi barcha xonadonlarni qamrab oladi 🏥✅",
-      "image": "https://storage.kun.uz/source/1/tsOCDn4N8JUWqryOLEydGDNum3dO3wBE.webp",
-      "ts": 1794801664.353632
-    },
     {
       "source_title": "Total Chess World Championship. Nodirbek Abdusattorov guruh bosqichini oxirgi o‘rinda yakunladi",
       "headline": "Total Chess World Championship – Nodirbek Abdusattorov oxirgi o'rinda",
@@ -240,11 +234,17 @@
       "headline": "Andijon‑Toshkentda “umra” firibgarligi qo'lga olindi",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/2bd20a4d3eb78cdde14332ec1631ccbafd8ae2fd9508e0589a5c8d1aab7198a2.webp",
       "ts": 1794927660.8708026
+    },
+    {
+      "source_title": "Toshkent viloyatida qarindoshi va hamkasbini yolg‘on ayblov bilan sudlatgan erkak 9 yilga qamaldi",
+      "headline": "Toshkentda yolg'on ayblov bilan sudlangan erkak 9 yilga qamaldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/c8a3fd423ba256fdab6c5f307afe9aca609e8b4490142d8a37e2047a087fc462.webp",
+      "ts": 1794929454.0675879
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 19
+    "count": 20
   }
 }

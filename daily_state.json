@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794933047.554882,
+  "last_post_ts": 1794934876.4329672,
   "recent_posts": [
-    {
-      "source_title": "Қашқадарёда 65 туп дарахт ноқонуний кесилиб, табиатга 207 млн сўмдан ортиқ зарар етказилди",
-      "headline": "Qashqadaryoda 65 ta daraxt noqonuniy kesildi – 207 mln so'm zarar! 🌳",
-      "image": "https://www.gazeta.uz/media/img/2026/11/0tndp2btth8614rzUiY17948084650343_210882_og.webp?r=1794808814",
-      "ts": 1794808855.374576
-    },
     {
       "source_title": "19-noyabr kuni Toshkentda CAEx Build & Co. 2026 ko‘rgazmasi boshlanadi",
       "headline": "19‑noyabrda Toshkentda CAEx Build & Co. 2026 ko'rgazmasi ochiladi",
@@ -240,11 +234,17 @@
       "headline": "Harbiy bayroq bilan tantanali yurish – 35‑yillik yubiley",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/26d5a96706006f6e8709fc0bc21cfcf62e45c3c4188705fd1d6fb3577e126f71.webp",
       "ts": 1794933045.5503025
+    },
+    {
+      "source_title": "Saida Mirziyoyeva Kanadaning Özbekistondagi elçisi bilan uçraşdi",
+      "headline": "Saida Mirziyoyeva Kanadaning elçisi bilan uchrashdi 🌐🤝",
+      "image": "https://storage.kun.uz/source/1/DPDL3-_fivHDfLpf10MbbYlFlhHIycsj.jpg",
+      "ts": 1794934874.4283774
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 22
+    "count": 23
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794929456.087709,
+  "last_post_ts": 1794931257.8942866,
   "recent_posts": [
-    {
-      "source_title": "Total Chess World Championship. Nodirbek Abdusattorov guruh bosqichini oxirgi o‘rinda yakunladi",
-      "headline": "Total Chess World Championship – Nodirbek Abdusattorov oxirgi o'rinda",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/244cafb9c2e4f5d275a1cc46df120b98ad2992e46acd7c925fbdc5adf94b0655.webp",
-      "ts": 1794803440.8490443
-    },
     {
       "source_title": "Ўзбекистонда радарларнинг тезликни ўлчаш аниқлиги текширилмоқда",
       "headline": "Radarlar tezlikni o'lchash aniqiligi tekshirilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda yolg'on ayblov bilan sudlangan erkak 9 yilga qamaldi",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/c8a3fd423ba256fdab6c5f307afe9aca609e8b4490142d8a37e2047a087fc462.webp",
       "ts": 1794929454.0675879
+    },
+    {
+      "source_title": "Farg‘onada 500 megavattli quyosh elektr stansiyasi qurish bo‘yicha kelishuv imzolandi",
+      "headline": "Farg'onada 500 MW quyosh elektr stansiyasi qurilishi bo'yicha kelishuv imzolandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/d2fb7fd652dc49c8070adc129bbda4db93d21b640d8adc9f43df3cd7b5fcf164.webp",
+      "ts": 1794931255.8880882
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 20
+    "count": 21
   }
 }

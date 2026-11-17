@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794909659.001075,
+  "last_post_ts": 1794911446.0553255,
   "recent_posts": [
-    {
-      "source_title": "Moskva sönggi muzokaralarda Ğarbga öz talablarini maʼlum qilgan",
-      "headline": "Moskva so'nggi muzokaralarda G'arbga o'z talablarini bildirdi 🌍🗣️",
-      "image": "https://storage.kun.uz/source/1/Eg8Dr9Mw9HEejfsAcotcIyx4_XrvvBc0.jpg",
-      "ts": 1794752850.3340201
-    },
     {
       "source_title": "O‘zbekiston sayyohlar uchun qanchalik qulay — xalqaro reyting e’lon qilindi",
       "headline": "O'zbekiston turizm reytingida 76‑o'rinda! 🇺🇿",
@@ -240,11 +234,17 @@
       "headline": "Bolalarda onkologik kasalliklarning 28%i erta bosqichda aniqlanmoqda",
       "image": "https://www.gazeta.uz/media/img/2026/03/18jqmf5vv7rgaXFfQQy17733823274503_211010_og.webp?r=1794909565",
       "ts": 1794909656.9964554
+    },
+    {
+      "source_title": "Россияга қарши санкциялар сабаб Ўзбекистон 95 та насос станциясини модернизация қилиш лойиҳаси кредиторини ўзгартирди",
+      "headline": "95 ta nasos stansiyasini modernizatsiya qilish loyihasining moliyaviy sxemasi o'zgardi",
+      "image": "https://www.gazeta.uz/media/img/2024/11/NID6lC17310497655138_b.jpg",
+      "ts": 1794911444.0506425
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794907838.8907106,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 11
+    "count": 12
   }
 }

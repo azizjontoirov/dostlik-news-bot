@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794902443.96129,
+  "last_post_ts": 1794904248.261768,
   "recent_posts": [
-    {
-      "source_title": "Magic City’da yosh bolalar yo‘qolgani haqidagi xabarlar rad etildi",
-      "headline": "Magic City'da bolalar yo'qolganligi haqidagi mish-mishlar rad etildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/5e5045edcb95ee0e2f1750444f34530e93b2f9096782d6639c644ffd89882f1d.webp",
-      "ts": 1794747647.426575
-    },
     {
       "source_title": "Fransiyada oğir xastalikka çalingan özbekistonlik erkak vatanga qaytarildi",
       "headline": "Fransiyada sog'liq muammosi tufayli qaytgan o'zbek haydovchi 🇺🇿✈️",
@@ -240,11 +234,17 @@
       "headline": "Rossiya Ukrainadagi urushni tugatish talabida Markaziy Osiyoni ham kiritdi 🌍🕊️",
       "image": "https://storage.kun.uz/source/1/1PnXJ2vA2T0xWK6g9j2XtbukZ0bKpc58.jpg",
       "ts": 1794900638.0255742
+    },
+    {
+      "source_title": "“Faoliyatimni Rostovda yakunlash? O‘ylab ko‘rishim kerak” — Eldor Shomurodov",
+      "headline": "Eldor Shomurodov: “Faoliyatimni Rostovda yakunlashni o'ylab ko'rishim kerak”",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/c4c4a96e18d34f0e21dfd080f46f0b633cfb017e82ee45233a3a295b2c1f6ebe.webp",
+      "ts": 1794904246.2578788
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794902443.9588354,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 8
+    "count": 9
   }
 }

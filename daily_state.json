@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794904248.261768,
+  "last_post_ts": 1794906055.004564,
   "recent_posts": [
-    {
-      "source_title": "Fransiyada oğir xastalikka çalingan özbekistonlik erkak vatanga qaytarildi",
-      "headline": "Fransiyada sog'liq muammosi tufayli qaytgan o'zbek haydovchi 🇺🇿✈️",
-      "image": "https://storage.kun.uz/source/1/ZaFjdCBFHTKK3YH38SJ3wiIvUUJ57fiI.webp",
-      "ts": 1794749440.5051823
-    },
     {
       "source_title": "Иш ҳақини кечиктирган иш берувчилардан 9 ойда 832 млрд сўм ундирилди",
       "headline": "Ish haqini kechiktirgan ish beruvchilarga 832 mlrd so'm undirilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Eldor Shomurodov: “Faoliyatimni Rostovda yakunlashni o'ylab ko'rishim kerak”",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/c4c4a96e18d34f0e21dfd080f46f0b633cfb017e82ee45233a3a295b2c1f6ebe.webp",
       "ts": 1794904246.2578788
+    },
+    {
+      "source_title": "Хитой компаниялари Ўзбекистондаги ирригация лойиҳаларини ҳисоб-китобдан икки баравардан ортиқ қимматга амалга оширишни таклиф қилган",
+      "headline": "Xitoy kompaniyalari O'zbekistondagi irrigatsiya loyihalarini ikki baravardan ortiq narxda taklif qilyapti",
+      "image": "https://www.gazeta.uz/media/img/2026/11/266m1n7bk7smdZsl6FC17949006075934_210994_og.webp?r=1794906005",
+      "ts": 1794906052.9988105
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794902443.9588354,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 9
+    "count": 10
   }
 }

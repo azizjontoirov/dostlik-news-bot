@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794916858.1883016,
+  "last_post_ts": 1794918447.0799816,
   "recent_posts": [
     {
       "source_title": "Özbekistonda Norvegiyada işlaş uçun payvandçilar tayyorlaş rejalaştirilmoqda",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794913246.0423737,
+    "last_ad_ts": 1794918447.0773962,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 100,
+      "ad_flour": 101,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 99,
@@ -265,10 +265,10 @@
     "day": "2026-11-17",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1794907838.8907084,
+      "ad_flour": 1794918447.0773942,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794913246.0423715,

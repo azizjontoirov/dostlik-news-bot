@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794886236.264265,
+  "last_post_ts": 1794888052.367115,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda keliniga muntazam zo‘ravonlik qilib, o‘limiga sabab bo‘lgan qaynona 5 yilga qamaldi",
-      "headline": "Qashqadaryoda zo'ravon qaynona 5 yilga jazolandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/08cfd6179e65a60f87b288da846f0f5a3666f4559b268f97e9f77e49c60a055a.webp",
-      "ts": 1794731441.8083756
-    },
     {
       "source_title": "Yurakni ishdan chiqarib, terini qaritadi: shifokorlar umrni qisqartiradigan mahsulot turidan ogohlantiradi",
       "headline": "Shakar – yurak va teri uchun xavfli!",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda mahalla raisi 900 dollar pora olayotganida ushlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/aec37040cdc347388da4316aaa6e675826a791d45b5cbb32b3574f2e6e861f00.webp",
       "ts": 1794884454.7114096
+    },
+    {
+      "source_title": "S&P Global Ratings Kapitalbank reytingini O‘zbekistonning suveren reytingi darajasiga oshirdi",
+      "headline": "S&P Global Ratings Kapitalbank reytingini oshirdi 📈",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/5efa4651b6187b7836450611a7d78f9c9233c4f11ce549860e91f3c11829bbef.webp",
+      "ts": 1794888050.362961
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794886236.2619925,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 2
+    "count": 3
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794907838.893335,
+  "last_post_ts": 1794909659.001075,
   "recent_posts": [
-    {
-      "source_title": "Иш ҳақини кечиктирган иш берувчилардан 9 ойда 832 млрд сўм ундирилди",
-      "headline": "Ish haqini kechiktirgan ish beruvchilarga 832 mlrd so'm undirilmoqda",
-      "image": "https://www.gazeta.uz/media/img/2025/07/QuKyPO17514373953864_210868_og.webp?r=1794745124",
-      "ts": 1794751248.2760775
-    },
     {
       "source_title": "Moskva sönggi muzokaralarda Ğarbga öz talablarini maʼlum qilgan",
       "headline": "Moskva so'nggi muzokaralarda G'arbga o'z talablarini bildirdi 🌍🗣️",
@@ -240,11 +234,17 @@
       "headline": "Xitoy kompaniyalari O'zbekistondagi irrigatsiya loyihalarini ikki baravardan ortiq narxda taklif qilyapti",
       "image": "https://www.gazeta.uz/media/img/2026/11/266m1n7bk7smdZsl6FC17949006075934_210994_og.webp?r=1794906005",
       "ts": 1794906052.9988105
+    },
+    {
+      "source_title": "Ўзбекистонда болалардаги онкологик касалликларнинг атиги 28 фоизи эрта босқичда аниқланмоқда",
+      "headline": "Bolalarda onkologik kasalliklarning 28%i erta bosqichda aniqlanmoqda",
+      "image": "https://www.gazeta.uz/media/img/2026/03/18jqmf5vv7rgaXFfQQy17733823274503_211010_og.webp?r=1794909565",
+      "ts": 1794909656.9964554
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794907838.8907106,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 10
+    "count": 11
   }
 }

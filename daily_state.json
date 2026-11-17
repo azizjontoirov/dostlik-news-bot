@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794925847.4905477,
+  "last_post_ts": 1794927662.875901,
   "recent_posts": [
-    {
-      "source_title": "Dunyo mamlakatlarining davlat qarzi qancha?",
-      "headline": "Dunyo davlat qarzi prognozi 2026",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/6f92410e762b43a962f7d7209528c0adee811cfd90891b4b5d9148200e7530dd.webp",
-      "ts": 1794798049.6693287
-    },
     {
       "source_title": "Davlat tibbiy suğurtasi barça xonadonlarni qamrab oladi",
       "headline": "Davlat tibbiy sug'urtasi barcha xonadonlarni qamrab oladi 🏥✅",
@@ -240,11 +234,17 @@
       "headline": "HUMO bank Apple Pay'ni ishga tushirdi 📱💳",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/8f1e338cf81ee92bac7fce0c4e351723ecce50cbf5759d601dfcd9fc7262c6ee.webp",
       "ts": 1794925845.4858992
+    },
+    {
+      "source_title": "Andijon va Toshkent viloyatlarida fuqarolarni umraga yuborishni va’da qilgan shaxslar qo‘lga olindi",
+      "headline": "Andijon‑Toshkentda “umra” firibgarligi qo'lga olindi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/2bd20a4d3eb78cdde14332ec1631ccbafd8ae2fd9508e0589a5c8d1aab7198a2.webp",
+      "ts": 1794927660.8708026
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 18
+    "count": 19
   }
 }

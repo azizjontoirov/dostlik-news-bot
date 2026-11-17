@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794882652.1551833,
+  "last_post_ts": 1794884456.7153265,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда маҳкума аёлларнинг болалари учун махсус боғчалар ташкил этилади",
-      "headline": "O'zbekiston: Mahkuma ayollarning bolalari uchun maxsus bog'cha ochildi 👶🏽🧒🏽",
-      "image": "https://www.gazeta.uz/media/img/2025/06/yXBlg317500687498537_210861_og.webp?r=1794723931",
-      "ts": 1794727838.5796237
-    },
     {
       "source_title": "Qashqadaryoda keliniga muntazam zo‘ravonlik qilib, o‘limiga sabab bo‘lgan qaynona 5 yilga qamaldi",
       "headline": "Qashqadaryoda zo'ravon qaynona 5 yilga jazolandi",
@@ -240,11 +234,17 @@
       "headline": "2030 yilga qadar velosportni rivojlantirish rejasi",
       "image": "https://www.gazeta.uz/media/img/2025/04/6eNw9T17437674361007_210948_og.webp?r=1794855834",
       "ts": 1794882650.1519694
+    },
+    {
+      "source_title": "Toshkentda mahalla raisi 900 dollar pora olayotganida ushlandi",
+      "headline": "Toshkentda mahalla raisi 900 dollar pora olayotganida ushlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/16/aec37040cdc347388da4316aaa6e675826a791d45b5cbb32b3574f2e6e861f00.webp",
+      "ts": 1794884454.7114096
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794880844.7959363,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 1
+    "count": 2
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794889845.760337,
+  "last_post_ts": 1794891647.107782,
   "recent_posts": [
     {
       "source_title": "Toshkentda to‘qqiz oyda 307 kishi OIV bilan kasallangani aniqlandi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794886236.2619925,
+    "last_ad_ts": 1794891647.1051574,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 98,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 96,
+      "ad_water": 97,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -264,14 +264,14 @@
     "permanent_index": 2,
     "day": "2026-11-17",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_flour": 1
     },
     "last_shown": {
       "ad_flour": 1794886236.2619896,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1794880844.7959332,
+      "ad_water": 1794891647.1051543,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

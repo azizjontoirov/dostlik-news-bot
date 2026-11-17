@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794888052.367115,
+  "last_post_ts": 1794889845.760337,
   "recent_posts": [
-    {
-      "source_title": "Yurakni ishdan chiqarib, terini qaritadi: shifokorlar umrni qisqartiradigan mahsulot turidan ogohlantiradi",
-      "headline": "Shakar – yurak va teri uchun xavfli!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/cfe855d04f63a1c4866a3c54d3132d2c2c660ed65d520a7170fd3a5d8aaa3be6.webp",
-      "ts": 1794733245.893433
-    },
     {
       "source_title": "Toshkentda to‘qqiz oyda 307 kishi OIV bilan kasallangani aniqlandi",
       "headline": "Toshkentda OIV yangi holatlari oshdi 🦠📈",
@@ -240,11 +234,17 @@
       "headline": "S&P Global Ratings Kapitalbank reytingini oshirdi 📈",
       "image": "https://gocdn.daryo.uz/large/2026/11/16/5efa4651b6187b7836450611a7d78f9c9233c4f11ce549860e91f3c11829bbef.webp",
       "ts": 1794888050.362961
+    },
+    {
+      "source_title": "Batareyalar issiq, lekin xona sovuq: qishda uy sovib ketishining 7 ta sababi",
+      "headline": "Batareyalar issiq, lekin xona sovuq? 7 ta sabab! ❄️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/73cfe4a4ce4b38a50019c49f49da4ef41b7bede900ca472c6193ab7475634424.webp",
+      "ts": 1794889843.7568035
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794886236.2619925,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 3
+    "count": 4
   }
 }

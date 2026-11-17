@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794915058.5343118,
+  "last_post_ts": 1794916858.1883016,
   "recent_posts": [
-    {
-      "source_title": "Talabalar xonasi Instagram’da: FVV reydida shaxsiy daxlsizlik buzildimi?",
-      "headline": "Talabalar xonasi Instagram'da: FVV reydida shaxsiy daxlsizlik buzildimi? 📸🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/aae6139f2d012903ee9fb508ef15b6c3282f5a310cfa5cd07b86bdd8350812bb.webp",
-      "ts": 1794756637.6360567
-    },
     {
       "source_title": "Özbekistonda Norvegiyada işlaş uçun payvandçilar tayyorlaş rejalaştirilmoqda",
       "headline": "Norvegiyada ishga joylashish uchun payvandchilar tayyorlanmoqda 🔧🇳🇴",
@@ -240,11 +234,17 @@
       "headline": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/8bd0c5ebab8a71e5988fba9c66ab17ebd1640b34d9e2a3a187ff36fb1a8e547c.webp",
       "ts": 1794915056.5312278
+    },
+    {
+      "source_title": "Кореянинг Hana Bank банки Ўзбекистонда ваколатхона очади",
+      "headline": "Korea Hana Bank O'zbekistonda vakolatxona ochadi 🇰🇷🏦",
+      "image": "https://www.gazeta.uz/media/img/2026/11/kh7b019a6ona0NdY8Eo17949158955805_211036_og.webp?r=1794916795",
+      "ts": 1794916856.182084
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794913246.0423737,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 13
+    "count": 14
   }
 }

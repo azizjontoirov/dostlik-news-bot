@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794898852.5237637,
+  "last_post_ts": 1794900640.030049,
   "recent_posts": [
-    {
-      "source_title": "Шавкат Мирзиёев 16−17 ноябрь кунлари давлат ташрифи билан Ўмонда бўлади",
-      "headline": "Shavkat Mirziyoyev O'monda davlat tashrifida 🌍🤝",
-      "image": "https://www.gazeta.uz/media/img/2026/10/r775qdetdb5hcKCStwn17918986421000_210865_og.webp?r=1794737685",
-      "ts": 1794744057.8788536
-    },
     {
       "source_title": "Magic City’da yosh bolalar yo‘qolgani haqidagi xabarlar rad etildi",
       "headline": "Magic City'da bolalar yo'qolganligi haqidagi mish-mishlar rad etildi",
@@ -240,11 +234,17 @@
       "headline": "Chery haydovchisining halokati – Farg'onada avtohalokat",
       "image": "https://www.gazeta.uz/media/img/2024/10/r0Q6pZ17300985412479_b.jpg",
       "ts": 1794898850.5192263
+    },
+    {
+      "source_title": "Rossiya Ukrainadagi uruşni tugatişga doir talablariga Markaziy Osiyoni ham kiritdi",
+      "headline": "Rossiya Ukrainadagi urushni tugatish talabida Markaziy Osiyoni ham kiritdi 🌍🕊️",
+      "image": "https://storage.kun.uz/source/1/1PnXJ2vA2T0xWK6g9j2XtbukZ0bKpc58.jpg",
+      "ts": 1794900638.0255742
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794897035.543725,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 7
+    "count": 8
   }
 }

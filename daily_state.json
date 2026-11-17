@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794848454.4062696,
+  "last_post_ts": 1794882652.1551833,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda onalar o‘limiga doir holatlar uchun 48 nafar tibbiyot xodimi jazolandi",
-      "headline": "Toshkentda onalar o'limi holatlariga 48 nafar tibbiyot xodimi jazolandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/3cc4303b5f62f92bc9cb10155a9a47701a24e8b99b42724e9bb5c0d975c84464.webp",
-      "ts": 1794726048.6444187
-    },
     {
       "source_title": "Ўзбекистонда маҳкума аёлларнинг болалари учун махсус боғчалар ташкил этилади",
       "headline": "O'zbekiston: Mahkuma ayollarning bolalari uchun maxsus bog'cha ochildi 👶🏽🧒🏽",
@@ -240,11 +234,17 @@
       "headline": "Ipoteka moliyalashtirish rejasi: banklar ulushi oshadi",
       "image": "https://www.gazeta.uz/media/img/2024/10/WixIiD17282942802156_b.jpg",
       "ts": 1794848452.329083
+    },
+    {
+      "source_title": "Ўзбекистонда 2030 йилгача велоспорт билан шуғулланувчилар сонини 30 минг нафарга етказиш режалаштирилмоқда",
+      "headline": "2030 yilga qadar velosportni rivojlantirish rejasi",
+      "image": "https://www.gazeta.uz/media/img/2025/04/6eNw9T17437674361007_210948_og.webp?r=1794855834",
+      "ts": 1794882650.1519694
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794880844.7959363,
@@ -283,7 +283,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-16",
-    "count": 23
+    "day": "2026-11-17",
+    "count": 1
   }
 }

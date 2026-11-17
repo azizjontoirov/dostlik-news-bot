@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794893447.9415386,
+  "last_post_ts": 1794895256.812624,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev davlat tashrifi bilan Ummonga boradi",
-      "headline": "Shavkat Mirziyoyev Oman davlat tashrifida 🇴🇲🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/df0eee1a86e54ddbb206953d489060becd0101ddf44f082175efb0f759653d8d.webp",
-      "ts": 1794738641.4567983
-    },
     {
       "source_title": "O‘zbekistonda ta’lim va tibbiyot muassasalarida joylashgan yerlar xususiylashtirilishi taqiqlanadi",
       "headline": "YERLAR XUSUSIYATLASHILISHI TAQIQLANADI 🌿📚",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyevning ayvonlari Vashingtonda ochildi 🇺🇿🗽",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/faba426f2876a4356f171806facb461338ac3298e3bb58de390a7196379b49b6.webp",
       "ts": 1794893445.9384694
+    },
+    {
+      "source_title": "Toşkentda soxta gaz xodimi 3,3 mln söm olayotganda uşlandi",
+      "headline": "Soxta gaz xodimi 3,3 mln so'mda ushlandi",
+      "image": "https://storage.kun.uz/source/1/9yZ9eZDfLqngOpx0lBCMbRFNQByYiCHx.jpg",
+      "ts": 1794895254.808744
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794891647.1051574,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 5
+    "count": 6
   }
 }

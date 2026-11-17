@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794924062.5830514,
+  "last_post_ts": 1794925847.4905477,
   "recent_posts": [
-    {
-      "source_title": "Тошкентдаги Бўзсув канали бўйлаб сайилгоҳ ташкил этилмоқда (фото)",
-      "headline": "Toshkentda Bo'zsuv kanali bo'ylab yangi sayohat yo'li! 🌳",
-      "image": "https://www.gazeta.uz/media/img/2026/11/cmd8fgiurveh8Oojvlw17946480056142_210871_og.webp?r=1794779148",
-      "ts": 1794796238.8658412
-    },
     {
       "source_title": "Dunyo mamlakatlarining davlat qarzi qancha?",
       "headline": "Dunyo davlat qarzi prognozi 2026",
@@ -240,11 +234,17 @@
       "headline": "Fransiya va Janubiy Koreya banklarining vakolatxonalari O'zbekistonda akkreditatsiya qilindi 🇫🇷🇰🇷",
       "image": "https://gocdn.daryo.uz/large/2026/10/03/0efe2a2ba97fac6f53d415c3a5aca673c28a7a8097059804d533818a0941ef09.webp",
       "ts": 1794924060.5794456
+    },
+    {
+      "source_title": "HUMO O‘zbekistondagi mijozlari uchun Apple Pay’ni ishga tushirganini ma’lum qiladi",
+      "headline": "HUMO bank Apple Pay'ni ishga tushirdi 📱💳",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/8f1e338cf81ee92bac7fce0c4e351723ecce50cbf5759d601dfcd9fc7262c6ee.webp",
+      "ts": 1794925845.4858992
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 17
+    "count": 18
   }
 }

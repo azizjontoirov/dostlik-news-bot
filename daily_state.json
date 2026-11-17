@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794913246.044346,
+  "last_post_ts": 1794915058.5343118,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston sayyohlar uchun qanchalik qulay — xalqaro reyting e’lon qilindi",
-      "headline": "O'zbekiston turizm reytingida 76‑o'rinda! 🇺🇿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/b314c80a50205846ed9fba3db0ea993e4a5a70ecaa23d402795059e664903214.webp",
-      "ts": 1794754853.9381769
-    },
     {
       "source_title": "Talabalar xonasi Instagram’da: FVV reydida shaxsiy daxlsizlik buzildimi?",
       "headline": "Talabalar xonasi Instagram'da: FVV reydida shaxsiy daxlsizlik buzildimi? 📸🚨",
@@ -240,11 +234,17 @@
       "headline": "95 ta nasos stansiyasini modernizatsiya qilish loyihasining moliyaviy sxemasi o'zgardi",
       "image": "https://www.gazeta.uz/media/img/2024/11/NID6lC17310497655138_b.jpg",
       "ts": 1794911444.0506425
+    },
+    {
+      "source_title": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
+      "headline": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/8bd0c5ebab8a71e5988fba9c66ab17ebd1640b34d9e2a3a187ff36fb1a8e547c.webp",
+      "ts": 1794915056.5312278
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794913246.0423737,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 12
+    "count": 13
   }
 }

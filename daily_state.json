@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794891647.107782,
+  "last_post_ts": 1794893447.9415386,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda to‘qqiz oyda 307 kishi OIV bilan kasallangani aniqlandi",
-      "headline": "Toshkentda OIV yangi holatlari oshdi 🦠📈",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/69e6964dd91448c9bf837f7b3e3ef197ea3ef4b7607205903c783083869cc477.webp",
-      "ts": 1794736850.6573193
-    },
     {
       "source_title": "Shavkat Mirziyoyev davlat tashrifi bilan Ummonga boradi",
       "headline": "Shavkat Mirziyoyev Oman davlat tashrifida 🇴🇲🤝",
@@ -240,11 +234,17 @@
       "headline": "Batareyalar issiq, lekin xona sovuq? 7 ta sabab! ❄️",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/73cfe4a4ce4b38a50019c49f49da4ef41b7bede900ca472c6193ab7475634424.webp",
       "ts": 1794889843.7568035
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Trampga sovgʻa qilgan oʻzbek ayvonlari Vashingtonda oʻrnatildi",
+      "headline": "Shavkat Mirziyoyevning ayvonlari Vashingtonda ochildi 🇺🇿🗽",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/faba426f2876a4356f171806facb461338ac3298e3bb58de390a7196379b49b6.webp",
+      "ts": 1794893445.9384694
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794891647.1051574,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 4
+    "count": 5
   }
 }

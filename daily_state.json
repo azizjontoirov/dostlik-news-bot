@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794920468.244694,
+  "last_post_ts": 1794922255.0152137,
   "recent_posts": [
-    {
-      "source_title": "“Kamera orqali uch kunda topildim”. Farg‘onada soxta avtoraqam bilan yurgan haydovchilar ushlandi",
-      "headline": "Kamera orqali uch kunda topildim – soxta avtoraqamlar fosh etildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/15/3b60f07311ca3476f7bea62367350567c60122f96d929b575004ad9b6bd8a130.webp",
-      "ts": 1794760241.1703773
-    },
     {
       "source_title": "O‘zbekistondagi barcha maktablarda huquqiy savodxonlik dasturi joriy etiladi",
       "headline": "Huquqiy savodxonlik dasturi barcha maktablarda joriy etiladi",
@@ -240,11 +234,17 @@
       "headline": "Xalq Bankida Apple Pay ishga tushdi 📱💳",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/d6a06f2390100e5e9d54d43885fa15879618b6e15a64a6fce4d1f09ed29063d3.webp",
       "ts": 1794920466.2412214
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev Masqatda taşkil etilgan Özbekiston sanoat körgazmasiga taşrif buyurdi",
+      "headline": "Şavkat Mirziyoyev Masqatda O'zbekiston sanoat ko'rgazmasiga tashrif buyurdi",
+      "image": "https://storage.kun.uz/source/1/uMCSkeOSfycTNjdz3cZzJO7ZUEUkXisS.jpg",
+      "ts": 1794922253.012091
     }
   ],
   "morning_sent_date": "2026-11-17",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794918447.0773962,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-17",
-    "count": 15
+    "count": 16
   }
 }

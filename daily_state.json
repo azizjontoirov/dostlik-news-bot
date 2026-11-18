@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794990646.858324,
+  "last_post_ts": 1794992455.83535,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston fuqarolari Rossiyaga işlaş uçun borgan çet elliklar orasida köpçilik bölib qolmoqda",
-      "headline": "Rossiyada ishga joylashishda O'zbekiston fuqarolari yetakchi",
-      "image": "https://storage.kun.uz/source/1/__N05Yp7X1mARt4mv463m5YxnFUR7TPR.jpg",
-      "ts": 1794835840.3973172
-    },
     {
       "source_title": "O‘zbekistonda nogironligi bo‘lgan shaxslar ambulator reabilitatsiyaga yiliga uch martagacha yuboriladi",
       "headline": "Nogiron fuqarolar uchun reabilitatsiya imtiyozlari 🏥✨",
@@ -240,11 +234,17 @@
       "headline": "Yangi islomiy bank litsenziyalari berildi",
       "image": "https://www.gazeta.uz/media/img/2018/07/OpPb6V15326055580465_b.jpg",
       "ts": 1794990644.855246
+    },
+    {
+      "source_title": "Özbekistonda yana törtta bankka islomiy bank faoliyati uçun litsenziya berildi",
+      "headline": "O'zbekistonda yana 4 ta bankga islomiy bank litsenziyasi berildi",
+      "image": "https://storage.kun.uz/source/1/p9yaw7HQnMF9bxr6EDYeew3LR0HsiPI8.jpg",
+      "ts": 1794992453.8307848
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794988843.626309,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 9
+    "count": 10
   }
 }

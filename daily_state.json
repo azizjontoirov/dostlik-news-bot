@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795017651.4712498,
+  "last_post_ts": 1795019448.9106722,
   "recent_posts": [
-    {
-      "source_title": "Batareyalar issiq, lekin xona sovuq: qishda uy sovib ketishining 7 ta sababi",
-      "headline": "Batareyalar issiq, lekin xona sovuq? 7 ta sabab! ❄️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/73cfe4a4ce4b38a50019c49f49da4ef41b7bede900ca472c6193ab7475634424.webp",
-      "ts": 1794889843.7568035
-    },
     {
       "source_title": "Shavkat Mirziyoyev Trampga sovgʻa qilgan oʻzbek ayvonlari Vashingtonda oʻrnatildi",
       "headline": "Shavkat Mirziyoyevning ayvonlari Vashingtonda ochildi 🇺🇿🗽",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston‑Turkmaniston vizasiz qatnovi qayta tiklandi ✈️",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/fd094fefaff432878f5c04986de0a1b1c9177b6da1ddfbbd5de39ee0eebea44f.webp",
       "ts": 1795015846.872232
+    },
+    {
+      "source_title": "Prezident Namangan viloyatining iqtisodiy salohiyatini röyobga çiqariş böyiça ustuvor vazifalarni belgiladi",
+      "headline": "Prezident Namangan viloyatining iqtisodiy salohiyatini rivojlantirish bo'yicha ustuvor vazifalarni belgiladi 🚀",
+      "image": "https://storage.kun.uz/source/1/fad0YUg0ZOG0loWB8X9Z0-J3MMJPyfzs.jpg",
+      "ts": 1795019446.9070625
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795017651.469022,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 20
+    "count": 21
   }
 }

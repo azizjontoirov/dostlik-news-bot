@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794985267.248256,
+  "last_post_ts": 1794987057.8641226,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 83 kishini qariyb 1 mlrd so‘mga aldagan kiberjinoiy guruh fosh etildi",
-      "headline": "O'zbekistonda 83 kishini 1 mlrd so'mga aldagan kiberjinoiy guruh fosh etildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/a5748306c13618cce203263fc6bfdb3336befce2f136b1f41d150067af42c6b7.webp",
-      "ts": 1794830460.7125802
-    },
     {
       "source_title": "Buyumlarni qayta sotish platformasi Listee va UzPost O‘zbekiston shaharlari o‘rtasida tovarlarni yetkazib berish imkoniyatlarini kengaytirmoqda",
       "headline": "Listee + UzPost: O'zbekistonda onlayn savdoning yangi imkoniyati! 🚀",
@@ -240,11 +234,17 @@
       "headline": "Osiyo Millatlar Kubogida shaxmatchilarimiz ikki medalga erishdi! ♟️",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/0731588c7e956d1608154213ba4dfed6caf51cbf12e931fccc9b6efef1d81eca.webp",
       "ts": 1794985265.2429452
+    },
+    {
+      "source_title": "Навоийда тош даврига оид манзилгоҳлар, қоятош суратлари ва археологик ашёлар аниқланди",
+      "headline": "Navoi viloyatida tosh davri yodgorliklari topildi! 🏺",
+      "image": "https://www.gazeta.uz/media/img/2026/11/u40rn75buem51u93Muw17949857191984_211104_og.webp?r=1794986654",
+      "ts": 1794987055.8608828
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794983435.4293342,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 7
+    "count": 8
   }
 }

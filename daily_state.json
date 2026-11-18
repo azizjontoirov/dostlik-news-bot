@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795008649.6503048,
+  "last_post_ts": 1795010460.4659111,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда ипотекани асосан бюджет эмас, банклар ҳисобидан молиялаштириш режалаштирилмоқда",
-      "headline": "Ipoteka moliyalashtirish rejasi: banklar ulushi oshadi",
-      "image": "https://www.gazeta.uz/media/img/2024/10/WixIiD17282942802156_b.jpg",
-      "ts": 1794848452.329083
-    },
     {
       "source_title": "Ўзбекистонда 2030 йилгача велоспорт билан шуғулланувчилар сонини 30 минг нафарга етказиш режалаштирилмоқда",
       "headline": "2030 yilga qadar velosportni rivojlantirish rejasi",
@@ -240,11 +234,17 @@
       "headline": "Navoi viloyatida yangi arxeologik yodgorliklar aniqlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/9818823b3ecf5d72f33ffadfe0a286812abdd8c5766d3b7547837aad768f7cbb.webp",
       "ts": 1795008647.6425626
+    },
+    {
+      "source_title": "“Ikki baravardan ham köproq qimmat” - suv xöjaligi vaziri Xitoy kompaniyalari taklif qilgan narxlar haqida",
+      "headline": "Ikki baravardan ham ko'proq qimmat – suv sohasida yangi muammolar",
+      "image": "https://storage.kun.uz/source/1/LyahsQ1t-UupGwjXOYuxu4Evh7Asd-BF.jpg",
+      "ts": 1795010458.4610431
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795005047.3047621,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 16
+    "count": 17
   }
 }

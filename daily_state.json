@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794972643.7349586,
+  "last_post_ts": 1794974454.8137188,
   "recent_posts": [
-    {
-      "source_title": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi",
-      "headline": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi 🚫📺",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/73cc72fbd2748c31612f2f13098c8724438a40124982e82d160f5e2c32a46420.webp",
-      "ts": 1794817839.2668467
-    },
     {
       "source_title": "Endokrinolog qabuliga yozilish uchun asos bo‘ladigan simptomlar",
       "headline": "Endokrinologga murojaat qilish kerak bo'ladigan alomatlar 🩺✨",
@@ -240,11 +234,17 @@
       "headline": "Ta'lim xodimlariga 120% gacha ustama!",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/84838ce256c50ed9fcfc4cae0f245aeaab0499d6a054486e370c259670e97db3.webp",
       "ts": 1794970852.2730725
+    },
+    {
+      "source_title": "Qirg‘iziston qo‘shni davlatlar orqali umraga bormaslikka chaqirdi",
+      "headline": "Qirg'izistonlik ziyoratchilarni umra safaridan tiyilish chaqirig'i ✈️🕌",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/047ce2956a0270e28b6a50c0adf9928e04b9e76bbf8fa2a2a89b9c561e48da28.webp",
+      "ts": 1794974452.8105936
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794972643.7323916,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 2
+    "count": 3
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795003267.0301342,
+  "last_post_ts": 1795005047.306505,
   "recent_posts": [
     {
       "source_title": "Markaziy bank kommunal tariflarni o‘zgartirish jadvalini bir necha yil oldindan e’lon qilishni taklif etdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794999435.3080254,
+    "last_ad_ts": 1795005047.3047621,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 104,
+      "ad_flour": 105,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 103,
@@ -265,10 +265,10 @@
     "day": "2026-11-18",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1794994234.0192854,
+      "ad_flour": 1795005047.3047595,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794999435.308023,

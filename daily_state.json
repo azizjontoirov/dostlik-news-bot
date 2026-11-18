@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794994234.0213559,
+  "last_post_ts": 1794996064.341769,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda nogironligi bo‘lgan shaxslar ambulator reabilitatsiyaga yiliga uch martagacha yuboriladi",
-      "headline": "Nogiron fuqarolar uchun reabilitatsiya imtiyozlari 🏥✨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/66fc571f4b4cb37113b66c2d525ab0338ae2ee3c0f05fbdab5506551ef171e59.webp",
-      "ts": 1794837654.3581564
-    },
     {
       "source_title": "O‘zbekiston va Eron dengiz portlaridan foydalanish imkoniyatlarini kengaytiradi",
       "headline": "O'zbekiston‑Eron dengiz portlari hamkorligini kengaytiradi 🚢🤝",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda yana 4 ta bankga islomiy bank litsenziyasi berildi",
       "image": "https://storage.kun.uz/source/1/p9yaw7HQnMF9bxr6EDYeew3LR0HsiPI8.jpg",
       "ts": 1794992453.8307848
+    },
+    {
+      "source_title": "Юлдузлар билан кечки овқат. Gazeta — The Michelin Guide Dubai 2026 йўлкўрсаткичидан ўрин олган, атайин саёҳатга отланишга арзийдиган ресторанлар ҳақида",
+      "headline": "Dubai Michelin Guide 2026: 20 ta yulduzli restoran! 🌟",
+      "image": "https://www.gazeta.uz/sp/393372103/img/tila6163-6532-4439-a166-373734303033__-__resize__504x__photo_2026-11-12_131.jpeg",
+      "ts": 1794996062.3373892
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794994234.0192878,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 10
+    "count": 11
   }
 }

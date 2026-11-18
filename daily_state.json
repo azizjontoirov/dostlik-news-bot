@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795001457.4797757,
+  "last_post_ts": 1795003267.0301342,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyevni Ummonda rasmiy kutib olish marosimi bo‘lib o‘tdi",
-      "headline": "Shavkat Mirziyoyevni Ummon sultonligida rasmiy kutib olish 🇴🇲",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/cb12de189f6272065c737b7b1094c067cbeaeac5bff3014f6372d66c05b82d2c.webp",
-      "ts": 1794843041.7973845
-    },
     {
       "source_title": "Markaziy bank kommunal tariflarni o‘zgartirish jadvalini bir necha yil oldindan e’lon qilishni taklif etdi",
       "headline": "Markaziy bank kommunal tariflarni oldindan e'lon qilishni taklif etdi 📊",
@@ -240,11 +234,17 @@
       "headline": "Maktabga tayyorlov qonuni birinchi o'qishda qabul qilindi",
       "image": "https://www.gazeta.uz/media/img/2025/09/JlQmYb17567930746386_211131_og.webp?r=1795000985",
       "ts": 1795001455.476481
+    },
+    {
+      "source_title": "Özbekiston Qirğizistonga elektr yetkazib beriş orqali yozgi suğoriş uçun suv saqlamoqda",
+      "headline": "O'zbekiston Qirg'izistonga elektr yetkazib, yozgi suv saqlashga yordam beradi",
+      "image": "https://storage.kun.uz/source/1/BPm8NXW3b7L9hKLi7gKffEP02g_C9eGl.jpg",
+      "ts": 1795003265.0271235
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794999435.3080254,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 13
+    "count": 14
   }
 }

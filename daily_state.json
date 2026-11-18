@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794996064.341769,
+  "last_post_ts": 1794997913.3734202,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston va Eron dengiz portlaridan foydalanish imkoniyatlarini kengaytiradi",
-      "headline": "O'zbekiston‑Eron dengiz portlari hamkorligini kengaytiradi 🚢🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/3011aacbae10df1d409e8d4393fd2f4957a29ae387d11b06ba85e05a20cd823b.webp",
-      "ts": 1794839448.1168666
-    },
     {
       "source_title": "Qashqadaryoda 36 gektar yerni 18,5 ming dollarga sotib berishni va’da qilgan shaxs ushlandi",
       "headline": "Qashqadaryoda 36 gektar yer sotib berish va'da qilgan shaxs ushladi 🌐🚔",
@@ -240,11 +234,17 @@
       "headline": "Dubai Michelin Guide 2026: 20 ta yulduzli restoran! 🌟",
       "image": "https://www.gazeta.uz/sp/393372103/img/tila6163-6532-4439-a166-373734303033__-__resize__504x__photo_2026-11-12_131.jpeg",
       "ts": 1794996062.3373892
+    },
+    {
+      "source_title": "Марказий Осиёда пилот электр энергияси бозорини ишга тушириш учун компания танлаш бошланди",
+      "headline": "Markaziy Osiyoda elektr energiyasi bozorini ishga tushirish boshlangan! ⚡",
+      "image": "https://www.gazeta.uz/media/img/2026/07/7jnn0pefn16b4ncjMuq17852188729449_211119_og.webp?r=1794997906",
+      "ts": 1794997911.3698354
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794994234.0192878,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 11
+    "count": 12
   }
 }

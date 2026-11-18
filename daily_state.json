@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794999435.3235357,
+  "last_post_ts": 1795001457.4797757,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda 36 gektar yerni 18,5 ming dollarga sotib berishni va’da qilgan shaxs ushlandi",
-      "headline": "Qashqadaryoda 36 gektar yer sotib berish va'da qilgan shaxs ushladi 🌐🚔",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/c64b7d087922063016578bc6fb6705493e2765505a40f562df6767e7e9fc21d5.webp",
-      "ts": 1794841253.1369123
-    },
     {
       "source_title": "Shavkat Mirziyoyevni Ummonda rasmiy kutib olish marosimi bo‘lib o‘tdi",
       "headline": "Shavkat Mirziyoyevni Ummon sultonligida rasmiy kutib olish 🇴🇲",
@@ -240,11 +234,17 @@
       "headline": "Markaziy Osiyoda elektr energiyasi bozorini ishga tushirish boshlangan! ⚡",
       "image": "https://www.gazeta.uz/media/img/2026/07/7jnn0pefn16b4ncjMuq17852188729449_211119_og.webp?r=1794997906",
       "ts": 1794997911.3698354
+    },
+    {
+      "source_title": "Депутатлар 6 ёшли болаларнинг мактабга тайёрловини мажбурий қилишга оид қонунни биринчи ўқишда маъқуллади. Муҳокама қандай ўтди?",
+      "headline": "Maktabga tayyorlov qonuni birinchi o'qishda qabul qilindi",
+      "image": "https://www.gazeta.uz/media/img/2025/09/JlQmYb17567930746386_211131_og.webp?r=1795000985",
+      "ts": 1795001455.476481
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794999435.3080254,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 12
+    "count": 13
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794979844.79251,
+  "last_post_ts": 1794981656.6361368,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda Xitoy kapitali ishtirokidagi korxonalar soni 7 mingdan oshdi",
-      "headline": "Xitoy kapitali ishtirokidagi korxonalar soni 7 106 taga yetdi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/95224ed9042bfe25d899756409db4dde316014a46edce2dd30e6a05e419a95a6.webp",
-      "ts": 1794825043.8537383
-    },
     {
       "source_title": "Ўзбекистонлик ҳамширалар Германияга ишга таклиф этилмоқда, маош — 2050 еврогача",
       "headline": "O'zbekistonlik hamshiralarga Germaniyada ish taklifi! 💼",
@@ -240,11 +234,17 @@
       "headline": "35‑yillik Bayroq marshi va festival 🎉",
       "image": "https://www.gazeta.uz/media/img/2026/11/uao50kjqd37s6urdoxb17949703758605_211100_og.webp?r=1794978700",
       "ts": 1794979842.7882838
+    },
+    {
+      "source_title": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilash uchun 100 mln dollar ajratadi",
+      "headline": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilashga 100 mln dollar ajratdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/e62b25768e1c2f6b975369fcff1f58c153eeaf6cc560924dcf50c31ca992d09a.webp",
+      "ts": 1794981654.6326578
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794978046.751428,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 5
+    "count": 6
   }
 }

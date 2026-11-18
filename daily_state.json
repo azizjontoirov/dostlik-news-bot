@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795014060.9600222,
+  "last_post_ts": 1795015848.9599833,
   "recent_posts": [
-    {
-      "source_title": "S&P Global Ratings Kapitalbank reytingini O‘zbekistonning suveren reytingi darajasiga oshirdi",
-      "headline": "S&P Global Ratings Kapitalbank reytingini oshirdi 📈",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/5efa4651b6187b7836450611a7d78f9c9233c4f11ce549860e91f3c11829bbef.webp",
-      "ts": 1794888050.362961
-    },
     {
       "source_title": "Batareyalar issiq, lekin xona sovuq: qishda uy sovib ketishining 7 ta sababi",
       "headline": "Batareyalar issiq, lekin xona sovuq? 7 ta sabab! ❄️",
@@ -240,11 +234,17 @@
       "headline": "Gaz borgan sari kamayib boradi – energiya vaziri o'rinbosari issiqxonalarni muqobil yoqilg'iga o'tkazishga chaqirdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/e082a7b579ad0b9d07b5735703a0711108ee02ca8076d7f11919e315fdded0db.webp",
       "ts": 1795014058.9555652
+    },
+    {
+      "source_title": "O‘zbekiston va Turkmaniston 2004-yilgi vizasiz qatnov tartibini qayta tiklash masalasini ko‘rib chiqdi",
+      "headline": "O'zbekiston‑Turkmaniston vizasiz qatnovi qayta tiklandi ✈️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/fd094fefaff432878f5c04986de0a1b1c9177b6da1ddfbbd5de39ee0eebea44f.webp",
+      "ts": 1795015846.872232
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795005047.3047621,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 19
+    "count": 20
   }
 }

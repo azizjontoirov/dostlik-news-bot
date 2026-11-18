@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794934876.4329672,
+  "last_post_ts": 1794969051.5245862,
   "recent_posts": [
-    {
-      "source_title": "19-noyabr kuni Toshkentda CAEx Build & Co. 2026 ko‘rgazmasi boshlanadi",
-      "headline": "19‑noyabrda Toshkentda CAEx Build & Co. 2026 ko'rgazmasi ochiladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/1728c4225c26a986904b9c77fcca8579cf3c38f01a0986a497f8ebdd2b1424bf.webp",
-      "ts": 1794812450.303429
-    },
     {
       "source_title": "Qozog‘iston milliy xavfsizlik qo‘mitasi raisi lavozimidan olindi",
       "headline": "Qozog'iston milliy xavfsizlik qo'mitasi raisi lavozimidan olindi 🇰🇿",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva Kanadaning elçisi bilan uchrashdi 🌐🤝",
       "image": "https://storage.kun.uz/source/1/DPDL3-_fivHDfLpf10MbbYlFlhHIycsj.jpg",
       "ts": 1794934874.4283774
+    },
+    {
+      "source_title": "“Chelsi” “Barselona”ning ikki futbolchisi uchun 180 mln yevro to‘lashga tayyor",
+      "headline": "Chelsea “Barselona” futbolchilarini 180 mln yevroga qo'shishga tayyor",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/8bf1b692e090fc5ec0ac9b4acbd021ea65b0cb78924e24887ce1bda3511335c6.webp",
+      "ts": 1794969049.5217307
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794967245.5253592,
@@ -283,7 +283,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-17",
-    "count": 23
+    "day": "2026-11-18",
+    "count": 1
   }
 }

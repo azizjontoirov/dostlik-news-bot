@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795005047.306505,
+  "last_post_ts": 1795006851.0032396,
   "recent_posts": [
-    {
-      "source_title": "Markaziy bank kommunal tariflarni o‘zgartirish jadvalini bir necha yil oldindan e’lon qilishni taklif etdi",
-      "headline": "Markaziy bank kommunal tariflarni oldindan e'lon qilishni taklif etdi 📊",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/27e5abe6b9cb92ed9ce9bfd24c26a5ba615e5888a1080cbd0d981ee1873febdd.webp",
-      "ts": 1794844853.5091176
-    },
     {
       "source_title": "Şavkat Mirziyoyev Ömon sultoni bilan uçraşdi",
       "headline": "O'zbekiston va Oman o'rtasidagi aloqalar yanada mustahkamlanmoqda 🤝",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston Qirg'izistonga elektr yetkazib, yozgi suv saqlashga yordam beradi",
       "image": "https://storage.kun.uz/source/1/BPm8NXW3b7L9hKLi7gKffEP02g_C9eGl.jpg",
       "ts": 1795003265.0271235
+    },
+    {
+      "source_title": "O‘zbekistonda dollar kursi yana pasaydi",
+      "headline": "Dollar kursi yana pasaydi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/367490f21b6eeee99e30ca00088dbce73d7f22e0bbe25d7847dbee45072dac07.webp",
+      "ts": 1795006848.9998465
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795005047.3047621,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 14
+    "count": 15
   }
 }

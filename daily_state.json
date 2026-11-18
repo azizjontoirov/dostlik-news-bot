@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795015848.9599833,
+  "last_post_ts": 1795017651.4712498,
   "recent_posts": [
     {
       "source_title": "Batareyalar issiq, lekin xona sovuq: qishda uy sovib ketishining 7 ta sababi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795005047.3047621,
+    "last_ad_ts": 1795017651.469022,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 105,
@@ -259,13 +259,15 @@
       "uchastka_sale": 3,
       "ad_wedding": 5,
       "ad_moto": 1,
-      "ad_home2": 4
+      "ad_home2": 4,
+      "ad_chinor_job": 1
     },
     "permanent_index": 2,
     "day": "2026-11-18",
     "today": {
       "ad_water": 4,
-      "ad_flour": 4
+      "ad_flour": 4,
+      "ad_chinor_job": 1
     },
     "last_shown": {
       "ad_flour": 1795005047.3047595,
@@ -278,7 +280,8 @@
       "uchastka_sale": 1793763036.8346071,
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
-      "ad_home2": 1794492045.8405488
+      "ad_home2": 1794492045.8405488,
+      "ad_chinor_job": 1795017651.46902
     },
     "morning_ad_date": "2026-11-18"
   },

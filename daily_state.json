@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795012248.3895438,
+  "last_post_ts": 1795014060.9600222,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda mahalla raisi 900 dollar pora olayotganida ushlandi",
-      "headline": "Toshkentda mahalla raisi 900 dollar pora olayotganida ushlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/aec37040cdc347388da4316aaa6e675826a791d45b5cbb32b3574f2e6e861f00.webp",
-      "ts": 1794884454.7114096
-    },
     {
       "source_title": "S&P Global Ratings Kapitalbank reytingini O‘zbekistonning suveren reytingi darajasiga oshirdi",
       "headline": "S&P Global Ratings Kapitalbank reytingini oshirdi 📈",
@@ -240,11 +234,17 @@
       "headline": "OAV postlari ustidan mualliflik shikoyatlari – pul talab qilinmoqda",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/ff69de97dddbb99dc0b0bfb633ec8efe6659f22be007cc3a6540e554a7ad7745.webp",
       "ts": 1795012246.38189
+    },
+    {
+      "source_title": "“Gaz borgan sari kamayib boradi” — energetika vaziri o‘rinbosari issiqxonalarni muqobil yoqilg‘iga o‘tkazishga chaqirdi",
+      "headline": "Gaz borgan sari kamayib boradi – energiya vaziri o'rinbosari issiqxonalarni muqobil yoqilg'iga o'tkazishga chaqirdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/e082a7b579ad0b9d07b5735703a0711108ee02ca8076d7f11919e315fdded0db.webp",
+      "ts": 1795014058.9555652
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795005047.3047621,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 18
+    "count": 19
   }
 }

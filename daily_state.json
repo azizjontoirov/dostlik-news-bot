@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794974454.8137188,
+  "last_post_ts": 1794976250.1530747,
   "recent_posts": [
-    {
-      "source_title": "Endokrinolog qabuliga yozilish uchun asos bo‘ladigan simptomlar",
-      "headline": "Endokrinologga murojaat qilish kerak bo'ladigan alomatlar 🩺✨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/bcdf5f9fcc1923a57dff4d63645f21917330b8fb3700a1b31b7f826ca66249ed.webp",
-      "ts": 1794819658.4790537
-    },
     {
       "source_title": "Listee va UzPost: Buyumlarni qayta sotiş platformasi Özbekiston böylab tovarlarni yetkazib beriş imkoniyatlarini kengaytirmoqda",
       "headline": "Listee va UzPost: To'lovsiz savdo platformasi kengaymoqda 🚚🛒",
@@ -240,11 +234,17 @@
       "headline": "Qirg'izistonlik ziyoratchilarni umra safaridan tiyilish chaqirig'i ✈️🕌",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/047ce2956a0270e28b6a50c0adf9928e04b9e76bbf8fa2a2a89b9c561e48da28.webp",
       "ts": 1794974452.8105936
+    },
+    {
+      "source_title": "Ўзбекистон ва Ўмон товар айирбошлаш ҳажмини $1 млрдга етказмоқчи",
+      "headline": "O'zbekiston va Oman savdo hajmini $1 mlrdga yetkazadi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/m8b8s0929bj78NtbqGp17949207833134_211092_og.webp?r=1794975933",
+      "ts": 1794976248.1482658
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794972643.7323916,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 3
+    "count": 4
   }
 }

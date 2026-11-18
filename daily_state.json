@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794983435.4310684,
+  "last_post_ts": 1794985267.248256,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонлик ҳамширалар Германияга ишга таклиф этилмоқда, маош — 2050 еврогача",
-      "headline": "O'zbekistonlik hamshiralarga Germaniyada ish taklifi! 💼",
-      "image": "https://www.gazeta.uz/media/img/2025/07/H9kkzN17532596825053_210913_og.webp?r=1794828456",
-      "ts": 1794828641.349558
-    },
     {
       "source_title": "O‘zbekistonda 83 kishini qariyb 1 mlrd so‘mga aldagan kiberjinoiy guruh fosh etildi",
       "headline": "O'zbekistonda 83 kishini 1 mlrd so'mga aldagan kiberjinoiy guruh fosh etildi",
@@ -240,11 +234,17 @@
       "headline": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilashga 100 mln dollar ajratdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/e62b25768e1c2f6b975369fcff1f58c153eeaf6cc560924dcf50c31ca992d09a.webp",
       "ts": 1794981654.6326578
+    },
+    {
+      "source_title": "Osiyo Millatlar Kubogida o‘zbekistonlik shaxmatchilar ikkita medalni qo‘lga kiritdi",
+      "headline": "Osiyo Millatlar Kubogida shaxmatchilarimiz ikki medalga erishdi! ♟️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/0731588c7e956d1608154213ba4dfed6caf51cbf12e931fccc9b6efef1d81eca.webp",
+      "ts": 1794985265.2429452
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794983435.4293342,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 6
+    "count": 7
   }
 }

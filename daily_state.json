@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794988843.6280491,
+  "last_post_ts": 1794990646.858324,
   "recent_posts": [
-    {
-      "source_title": "Buyumlarni qayta sotish platformasi Listee va UzPost O‘zbekiston shaharlari o‘rtasida tovarlarni yetkazib berish imkoniyatlarini kengaytirmoqda",
-      "headline": "Listee + UzPost: O'zbekistonda onlayn savdoning yangi imkoniyati! 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/14/11f61bf44f95bb18887ce8d6d5b4892759b9eb5e60415cb0e717fb0375314c9b.webp",
-      "ts": 1794834056.4950268
-    },
     {
       "source_title": "Özbekiston fuqarolari Rossiyaga işlaş uçun borgan çet elliklar orasida köpçilik bölib qolmoqda",
       "headline": "Rossiyada ishga joylashishda O'zbekiston fuqarolari yetakchi",
@@ -240,11 +234,17 @@
       "headline": "Navoi viloyatida tosh davri yodgorliklari topildi! 🏺",
       "image": "https://www.gazeta.uz/media/img/2026/11/u40rn75buem51u93Muw17949857191984_211104_og.webp?r=1794986654",
       "ts": 1794987055.8608828
+    },
+    {
+      "source_title": "Ўзбекистонда яна тўртта банкка исломий банк фаолиятини амалга ошириш учун лицензия берилди",
+      "headline": "Yangi islomiy bank litsenziyalari berildi",
+      "image": "https://www.gazeta.uz/media/img/2018/07/OpPb6V15326055580465_b.jpg",
+      "ts": 1794990644.855246
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794988843.626309,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 8
+    "count": 9
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795006851.0032396,
+  "last_post_ts": 1795008649.6503048,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev Ömon sultoni bilan uçraşdi",
-      "headline": "O'zbekiston va Oman o'rtasidagi aloqalar yanada mustahkamlanmoqda 🤝",
-      "image": "https://storage.kun.uz/source/1/a_r83gyOauUVM-D51zIgBUiMd4UYQNt9.jpg",
-      "ts": 1794846643.866483
-    },
     {
       "source_title": "Ўзбекистонда ипотекани асосан бюджет эмас, банклар ҳисобидан молиялаштириш режалаштирилмоқда",
       "headline": "Ipoteka moliyalashtirish rejasi: banklar ulushi oshadi",
@@ -240,11 +234,17 @@
       "headline": "Dollar kursi yana pasaydi",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/367490f21b6eeee99e30ca00088dbce73d7f22e0bbe25d7847dbee45072dac07.webp",
       "ts": 1795006848.9998465
+    },
+    {
+      "source_title": "Navoiyda tosh davriga oid yangi arxeologik yodgorliklar aniqlandi",
+      "headline": "Navoi viloyatida yangi arxeologik yodgorliklar aniqlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/9818823b3ecf5d72f33ffadfe0a286812abdd8c5766d3b7547837aad768f7cbb.webp",
+      "ts": 1795008647.6425626
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795005047.3047621,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 15
+    "count": 16
   }
 }

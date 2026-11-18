@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795019448.9106722,
+  "last_post_ts": 1795021257.1288176,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev Trampga sovgʻa qilgan oʻzbek ayvonlari Vashingtonda oʻrnatildi",
-      "headline": "Shavkat Mirziyoyevning ayvonlari Vashingtonda ochildi 🇺🇿🗽",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/faba426f2876a4356f171806facb461338ac3298e3bb58de390a7196379b49b6.webp",
-      "ts": 1794893445.9384694
-    },
     {
       "source_title": "Toşkentda soxta gaz xodimi 3,3 mln söm olayotganda uşlandi",
       "headline": "Soxta gaz xodimi 3,3 mln so'mda ushlandi",
@@ -240,11 +234,17 @@
       "headline": "Prezident Namangan viloyatining iqtisodiy salohiyatini rivojlantirish bo'yicha ustuvor vazifalarni belgiladi 🚀",
       "image": "https://storage.kun.uz/source/1/fad0YUg0ZOG0loWB8X9Z0-J3MMJPyfzs.jpg",
       "ts": 1795019446.9070625
+    },
+    {
+      "source_title": "Фото, видео: Тошкентда Давлат байроғи куни шарафига фестиваль ва дрон-шоу ўтказилди",
+      "headline": "Foto, video: Toshkentda Davlat bayrog'i kuni festival va dron-shou! 🇺🇿",
+      "image": "https://www.gazeta.uz/media/img/2026/11/0qoibem4phcs0hHbXml17950164361461_211153_og.webp?r=1795021053",
+      "ts": 1795021255.125287
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795017651.469022,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 21
+    "count": 22
   }
 }

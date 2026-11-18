@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794978046.7542262,
+  "last_post_ts": 1794979844.79251,
   "recent_posts": [
-    {
-      "source_title": "Listee va UzPost: Buyumlarni qayta sotiş platformasi Özbekiston böylab tovarlarni yetkazib beriş imkoniyatlarini kengaytirmoqda",
-      "headline": "Listee va UzPost: To'lovsiz savdo platformasi kengaymoqda 🚚🛒",
-      "image": "https://storage.kun.uz/source/1/3GeEo6tXqT96d1Kpblda54qeDsen0qVN.jpg",
-      "ts": 1794823248.5508447
-    },
     {
       "source_title": "O‘zbekistonda Xitoy kapitali ishtirokidagi korxonalar soni 7 mingdan oshdi",
       "headline": "Xitoy kapitali ishtirokidagi korxonalar soni 7 106 taga yetdi!",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston va Oman savdo hajmini $1 mlrdga yetkazadi",
       "image": "https://www.gazeta.uz/media/img/2026/11/m8b8s0929bj78NtbqGp17949207833134_211092_og.webp?r=1794975933",
       "ts": 1794976248.1482658
+    },
+    {
+      "source_title": "Ўзбекистон байроғининг 35 йиллиги муносабати билан Тошкентда ҳарбий марш ва фестиваль ўтказилади",
+      "headline": "35‑yillik Bayroq marshi va festival 🎉",
+      "image": "https://www.gazeta.uz/media/img/2026/11/uao50kjqd37s6urdoxb17949703758605_211100_og.webp?r=1794978700",
+      "ts": 1794979842.7882838
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794978046.751428,
@@ -285,6 +285,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 4
+    "count": 5
   }
 }

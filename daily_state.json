@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1794969051.5245862,
+  "last_post_ts": 1794970854.294424,
   "recent_posts": [
-    {
-      "source_title": "Qozog‘iston milliy xavfsizlik qo‘mitasi raisi lavozimidan olindi",
-      "headline": "Qozog'iston milliy xavfsizlik qo'mitasi raisi lavozimidan olindi 🇰🇿",
-      "image": "https://gocdn.daryo.uz/large/2026/11/16/715090154779248d882f84e2d5ff85a28dd30bf84bc653eeb95f9b8ab7e2f16a.webp",
-      "ts": 1794814237.9506032
-    },
     {
       "source_title": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi",
       "headline": "Jizzaxda tungi klublarning 500 ga yaqin reklama roligi qonunga zid deb topildi 🚫📺",
@@ -240,11 +234,17 @@
       "headline": "Chelsea “Barselona” futbolchilarini 180 mln yevroga qo'shishga tayyor",
       "image": "https://gocdn.daryo.uz/large/2026/11/17/8bf1b692e090fc5ec0ac9b4acbd021ea65b0cb78924e24887ce1bda3511335c6.webp",
       "ts": 1794969049.5217307
+    },
+    {
+      "source_title": "O‘zbekistonda ayrim ta’lim muassasalarining hisobchi va kadrlar inspektorlariga 120 foizgacha ustama to‘lanadi",
+      "headline": "Ta'lim xodimlariga 120% gacha ustama!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/17/84838ce256c50ed9fcfc4cae0f245aeaab0499d6a054486e370c259670e97db3.webp",
+      "ts": 1794970852.2730725
     }
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1794967245.5253592,
@@ -284,6 +284,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-18",
-    "count": 1
+    "count": 2
   }
 }

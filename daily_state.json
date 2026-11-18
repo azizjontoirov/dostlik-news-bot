@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1794992455.83535,
+  "last_post_ts": 1794994234.0213559,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda nogironligi bo‘lgan shaxslar ambulator reabilitatsiyaga yiliga uch martagacha yuboriladi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-18",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1794988843.626309,
+    "last_ad_ts": 1794994234.0192878,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 103,
+      "ad_flour": 104,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 102,
@@ -265,10 +265,10 @@
     "day": "2026-11-18",
     "today": {
       "ad_water": 3,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1794983435.4293325,
+      "ad_flour": 1794994234.0192854,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1794988843.6263065,

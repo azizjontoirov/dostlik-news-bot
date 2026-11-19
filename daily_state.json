@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795060851.757096,
+  "last_post_ts": 1795062644.0314717,
   "recent_posts": [
-    {
-      "source_title": "“Faoliyatimni Rostovda yakunlash? O‘ylab ko‘rishim kerak” — Eldor Shomurodov",
-      "headline": "Eldor Shomurodov: “Faoliyatimni Rostovda yakunlashni o'ylab ko'rishim kerak”",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/c4c4a96e18d34f0e21dfd080f46f0b633cfb017e82ee45233a3a295b2c1f6ebe.webp",
-      "ts": 1794904246.2578788
-    },
     {
       "source_title": "Хитой компаниялари Ўзбекистондаги ирригация лойиҳаларини ҳисоб-китобдан икки баравардан ортиқ қимматга амалга оширишни таклиф қилган",
       "headline": "Xitoy kompaniyalari O'zbekistondagi irrigatsiya loyihalarini ikki baravardan ortiq narxda taklif qilyapti",
@@ -240,11 +234,17 @@
       "headline": "Samarqandda noqonuniy turistik firma rahbari ushlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/a5c3fe7b2eb9b0a0515b2d24e388c4df631a4b7c11814bd662e3f18a661cce4f.webp",
       "ts": 1795060849.7528563
+    },
+    {
+      "source_title": "10 oyda 231 kişi iş joyidagi baxtsiz hodisalar qurboni böldi",
+      "headline": "10 oyda 231 kishi ish joyidagi baxtsiz hodisalar qurboni bo'ldi",
+      "image": "https://storage.kun.uz/source/1/Fp4lFJCLlH7XfSZSiLrfcx0hNIoiQGrE.webp",
+      "ts": 1795062642.0277858
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795059036.6681917,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 3
+    "count": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795078852.9055505,
+  "last_post_ts": 1795080635.4000149,
   "recent_posts": [
     {
       "source_title": "Şavkat Mirziyoyev Masqatda taşkil etilgan Özbekiston sanoat körgazmasiga taşrif buyurdi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795075246.0047216,
+    "last_ad_ts": 1795080635.3981116,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 106,
+      "ad_flour": 107,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 105,
@@ -267,10 +267,10 @@
     "today": {
       "ad_water": 2,
       "ad_chinor_job": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1795064446.5942805,
+      "ad_flour": 1795080635.398109,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795069837.26507,

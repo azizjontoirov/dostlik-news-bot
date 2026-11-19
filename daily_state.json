@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795055447.2283819,
+  "last_post_ts": 1795057253.1555338,
   "recent_posts": [
-    {
-      "source_title": "Фарғонада Chery уриб юборган велосипед ҳайдовчиси вафот этди",
-      "headline": "Chery haydovchisining halokati – Farg'onada avtohalokat",
-      "image": "https://www.gazeta.uz/media/img/2024/10/r0Q6pZ17300985412479_b.jpg",
-      "ts": 1794898850.5192263
-    },
     {
       "source_title": "Rossiya Ukrainadagi uruşni tugatişga doir talablariga Markaziy Osiyoni ham kiritdi",
       "headline": "Rossiya Ukrainadagi urushni tugatish talabida Markaziy Osiyoni ham kiritdi 🌍🕊️",
@@ -240,11 +234,17 @@
       "headline": "Janubiy Koreyada O'zbek fuqarosi terroristik guruhga pul o'tkazgani uchun 16 oyga qamaldi",
       "image": "https://www.gazeta.uz/media/img/2026/06/lavdstvsfkaa4bNwqHp17805046012680_211168_og.webp?r=1795043885",
       "ts": 1795055445.2236671
+    },
+    {
+      "source_title": "O‘zbekistonda 2026-yil boshidan beri korrupsiyaga qarshi tekshiruvlar natijasida 1,5 ming nafar xodim ishdan bo‘shatildi",
+      "headline": "Korrupsiya qarshi tekshiruvlar natijasi – 1,5 ming xodim ishdan bo'shatildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/18/03ff182959e51fd4aac61f75c5bbe63c6b48c5174c86f57c5793cf9ef9c1bdaf.webp",
+      "ts": 1795057251.151587
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795053650.184882,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 1
+    "count": 2
   }
 }

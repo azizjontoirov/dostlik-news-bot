@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795087845.8642364,
+  "last_post_ts": 1795089655.3764708,
   "recent_posts": [
-    {
-      "source_title": "Andijon va Toshkent viloyatlarida fuqarolarni umraga yuborishni va’da qilgan shaxslar qo‘lga olindi",
-      "headline": "Andijon‑Toshkentda “umra” firibgarligi qo'lga olindi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/2bd20a4d3eb78cdde14332ec1631ccbafd8ae2fd9508e0589a5c8d1aab7198a2.webp",
-      "ts": 1794927660.8708026
-    },
     {
       "source_title": "Toshkent viloyatida qarindoshi va hamkasbini yolg‘on ayblov bilan sudlatgan erkak 9 yilga qamaldi",
       "headline": "Toshkentda yolg'on ayblov bilan sudlangan erkak 9 yilga qamaldi",
@@ -240,11 +234,17 @@
       "headline": "Kia Sonet Prime – 0% yillik stavka, muddatli to'lov! 🚗💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/b79e7797aedf141da83b6e25465c7207d03f3c813c50a80c44c6bea1d3be7fa1.webp",
       "ts": 1795087843.8595166
+    },
+    {
+      "source_title": "Qo‘shiq kuylashni internetdan o‘rgangan, “birrov” xizmatidan 30 mln so‘m topadigan, turmush o‘rtog‘i bilan to‘yda tanishgan Gulinur 32 yoshda (foto, video)",
+      "headline": "Gulinur – internetdan o'rgangan, “birrov” xizmatidan 30 mln so'm topadigan xonanda",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/2d5b4ac1b8c996331a06c2c45c29b3853ad245753eccabaf8400927e42821c9d.webp",
+      "ts": 1795089653.3734431
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795086043.4435532,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 13
+    "count": 14
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795082452.9625216,
+  "last_post_ts": 1795084242.4124827,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda Fransiya va Janubiy Koreya banklarining vakolatxonalari akkreditatsiya qilindi",
-      "headline": "Fransiya va Janubiy Koreya banklarining vakolatxonalari O'zbekistonda akkreditatsiya qilindi 🇫🇷🇰🇷",
-      "image": "https://gocdn.daryo.uz/large/2026/10/03/0efe2a2ba97fac6f53d415c3a5aca673c28a7a8097059804d533818a0941ef09.webp",
-      "ts": 1794924060.5794456
-    },
     {
       "source_title": "HUMO O‘zbekistondagi mijozlari uchun Apple Pay’ni ishga tushirganini ma’lum qiladi",
       "headline": "HUMO bank Apple Pay'ni ishga tushirdi 📱💳",
@@ -240,11 +234,17 @@
       "headline": "Forbes Kazakhstan'da Akfa Build liftlari yulduz bo'ldi 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/27907311edd52dbc4b294acebc074a6ffc008282d11214c7267238ca1767a0a9.webp",
       "ts": 1795082450.9584029
+    },
+    {
+      "source_title": "Президент турк компанияларини мамлакатга янада фаол инвестиция киритишга чорлади",
+      "headline": "Prezident turk kompaniyalarini O'zbekistonga yanada faol investitsiya kiritishga chorladı 🚀",
+      "image": "https://www.gazeta.uz/media/img/2026/11/98es9an0b8875mDleZr17950829346858_211209_og.webp?r=1795083970",
+      "ts": 1795084240.4092107
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795080635.3981116,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 11
+    "count": 12
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795084242.4124827,
+  "last_post_ts": 1795086043.5294995,
   "recent_posts": [
     {
       "source_title": "HUMO O‘zbekistondagi mijozlari uchun Apple Pay’ni ishga tushirganini ma’lum qiladi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795080635.3981116,
+    "last_ad_ts": 1795086043.4435532,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 107,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 105,
+      "ad_water": 106,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -265,7 +265,7 @@
     "permanent_index": 2,
     "day": "2026-11-19",
     "today": {
-      "ad_water": 2,
+      "ad_water": 3,
       "ad_chinor_job": 2,
       "ad_flour": 2
     },
@@ -273,7 +273,7 @@
       "ad_flour": 1795080635.398109,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1795069837.26507,
+      "ad_water": 1795086043.4435508,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

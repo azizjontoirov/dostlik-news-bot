@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795075246.0078325,
+  "last_post_ts": 1795077044.200323,
   "recent_posts": [
-    {
-      "source_title": "Кореянинг Hana Bank банки Ўзбекистонда ваколатхона очади",
-      "headline": "Korea Hana Bank O'zbekistonda vakolatxona ochadi 🇰🇷🏦",
-      "image": "https://www.gazeta.uz/media/img/2026/11/kh7b019a6ona0NdY8Eo17949158955805_211036_og.webp?r=1794916795",
-      "ts": 1794916856.182084
-    },
     {
       "source_title": "Xalq banki mijozlari uchun Apple Pay xizmati ishga tushirildi",
       "headline": "Xalq Bankida Apple Pay ishga tushdi 📱💳",
@@ -240,11 +234,17 @@
       "headline": "Tojikistondagi elektr ustuni quladi – Farg'ona vodiysida energiya cheklovlari",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/c2b6931328ad21beb4036573a8294c002178f929a0e1267c4d3fdd3baa2a177e.webp",
       "ts": 1795073445.6503677
+    },
+    {
+      "source_title": "Aholi va tadbirkorlarning naqd pul olish huquqi kafolatlanadi",
+      "headline": "Naqd pul olish huquqi kafolatlandi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/700f4aca5e1233788df9b3c60b9f5ca06c0156956a2f6f5d3a4f0e2c09ba3e28.webp",
+      "ts": 1795077042.196244
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795075246.0047216,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 8
+    "count": 9
   }
 }

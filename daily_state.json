@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795102235.1021848,
+  "last_post_ts": 1795104054.342953,
   "recent_posts": [
-    {
-      "source_title": "“Chelsi” “Barselona”ning ikki futbolchisi uchun 180 mln yevro to‘lashga tayyor",
-      "headline": "Chelsea “Barselona” futbolchilarini 180 mln yevroga qo'shishga tayyor",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/8bf1b692e090fc5ec0ac9b4acbd021ea65b0cb78924e24887ce1bda3511335c6.webp",
-      "ts": 1794969049.5217307
-    },
     {
       "source_title": "O‘zbekistonda ayrim ta’lim muassasalarining hisobchi va kadrlar inspektorlariga 120 foizgacha ustama to‘lanadi",
       "headline": "Ta'lim xodimlariga 120% gacha ustama!",
@@ -240,11 +234,17 @@
       "headline": "Erondagi urush jahon energetika tizimini qanday o'zgartiradi? 🌍⚡",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/86dc68c7a5260cb61799869d63199a04199f1cfef23a930f625c2fce27adbd56.webp",
       "ts": 1795100453.9929764
+    },
+    {
+      "source_title": "Rossiya AQSH va Xitoy bilan sammitdan ko‘p o‘tmay Kiyevga hujum qildi (video)",
+      "headline": "Rossiya Kiyevga dron hujumi (video) 🚨",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/643ca77cf172bef91698299843aa91dab88c7b272c3dad53454bf9f6549b31dc.webp",
+      "ts": 1795104052.3378544
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795102235.100301,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 18
+    "count": 19
   }
 }

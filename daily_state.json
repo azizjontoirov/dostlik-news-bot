@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795104054.342953,
+  "last_post_ts": 1795105847.4486635,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda ayrim ta’lim muassasalarining hisobchi va kadrlar inspektorlariga 120 foizgacha ustama to‘lanadi",
-      "headline": "Ta'lim xodimlariga 120% gacha ustama!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/84838ce256c50ed9fcfc4cae0f245aeaab0499d6a054486e370c259670e97db3.webp",
-      "ts": 1794970852.2730725
-    },
     {
       "source_title": "Qirg‘iziston qo‘shni davlatlar orqali umraga bormaslikka chaqirdi",
       "headline": "Qirg'izistonlik ziyoratchilarni umra safaridan tiyilish chaqirig'i ✈️🕌",
@@ -240,11 +234,17 @@
       "headline": "Rossiya Kiyevga dron hujumi (video) 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/643ca77cf172bef91698299843aa91dab88c7b272c3dad53454bf9f6549b31dc.webp",
       "ts": 1795104052.3378544
+    },
+    {
+      "source_title": "Umarali Rahmonaliyev faoliyatini Rossiya chempionatida davom ettirishi mumkin",
+      "headline": "Umarali Rahmonaliyev Rossiyada o'ynashni davom ettirishi mumkin",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/268ded34c559cad72ac261583a6822f215e84d7af61841a3e4f38a2d30dde3d8.webp",
+      "ts": 1795105845.4441974
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795102235.100301,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 19
+    "count": 20
   }
 }

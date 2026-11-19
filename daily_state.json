@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795059036.670896,
+  "last_post_ts": 1795060851.757096,
   "recent_posts": [
-    {
-      "source_title": "Rossiya Ukrainadagi uruşni tugatişga doir talablariga Markaziy Osiyoni ham kiritdi",
-      "headline": "Rossiya Ukrainadagi urushni tugatish talabida Markaziy Osiyoni ham kiritdi 🌍🕊️",
-      "image": "https://storage.kun.uz/source/1/1PnXJ2vA2T0xWK6g9j2XtbukZ0bKpc58.jpg",
-      "ts": 1794900638.0255742
-    },
     {
       "source_title": "“Faoliyatimni Rostovda yakunlash? O‘ylab ko‘rishim kerak” — Eldor Shomurodov",
       "headline": "Eldor Shomurodov: “Faoliyatimni Rostovda yakunlashni o'ylab ko'rishim kerak”",
@@ -240,11 +234,17 @@
       "headline": "Korrupsiya qarshi tekshiruvlar natijasi – 1,5 ming xodim ishdan bo'shatildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/18/03ff182959e51fd4aac61f75c5bbe63c6b48c5174c86f57c5793cf9ef9c1bdaf.webp",
       "ts": 1795057251.151587
+    },
+    {
+      "source_title": "Samarqandda umraga noqonuniy yubormoqchi bo‘lgan sayyohlik firmasi rahbari ushlandi",
+      "headline": "Samarqandda noqonuniy turistik firma rahbari ushlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/a5c3fe7b2eb9b0a0515b2d24e388c4df631a4b7c11814bd662e3f18a661cce4f.webp",
+      "ts": 1795060849.7528563
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795059036.6681917,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 2
+    "count": 3
   }
 }

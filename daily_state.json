@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795062644.0314717,
+  "last_post_ts": 1795064446.5962722,
   "recent_posts": [
     {
       "source_title": "Хитой компаниялари Ўзбекистондаги ирригация лойиҳаларини ҳисоб-китобдан икки баравардан ортиқ қимматга амалга оширишни таклиф қилган",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795059036.6681917,
+    "last_ad_ts": 1795064446.5942829,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 105,
+      "ad_flour": 106,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 104,
@@ -266,10 +266,11 @@
     "day": "2026-11-19",
     "today": {
       "ad_water": 1,
-      "ad_chinor_job": 1
+      "ad_chinor_job": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1795005047.3047595,
+      "ad_flour": 1795064446.5942805,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795053650.184879,

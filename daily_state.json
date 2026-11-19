@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795077044.200323,
+  "last_post_ts": 1795078852.9055505,
   "recent_posts": [
-    {
-      "source_title": "Xalq banki mijozlari uchun Apple Pay xizmati ishga tushirildi",
-      "headline": "Xalq Bankida Apple Pay ishga tushdi 📱💳",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/d6a06f2390100e5e9d54d43885fa15879618b6e15a64a6fce4d1f09ed29063d3.webp",
-      "ts": 1794920466.2412214
-    },
     {
       "source_title": "Şavkat Mirziyoyev Masqatda taşkil etilgan Özbekiston sanoat körgazmasiga taşrif buyurdi",
       "headline": "Şavkat Mirziyoyev Masqatda O'zbekiston sanoat ko'rgazmasiga tashrif buyurdi",
@@ -240,11 +234,17 @@
       "headline": "Naqd pul olish huquqi kafolatlandi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/700f4aca5e1233788df9b3c60b9f5ca06c0156956a2f6f5d3a4f0e2c09ba3e28.webp",
       "ts": 1795077042.196244
+    },
+    {
+      "source_title": "Toşkentda mahkum qamoqdan turib onlayn narkodökonni boşqarib kelgani maʼlum böldi",
+      "headline": "Toshkentda qamoqdan onlayn narkodokoni boshqarish aniqlandi",
+      "image": "https://storage.kun.uz/source/1/xkbPIp42GltxLYRk0wyHqpShf5epsXjq.jpg",
+      "ts": 1795078850.901976
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795075246.0047216,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 9
+    "count": 10
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795071656.8277633,
+  "last_post_ts": 1795073447.6557205,
   "recent_posts": [
-    {
-      "source_title": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
-      "headline": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/8bd0c5ebab8a71e5988fba9c66ab17ebd1640b34d9e2a3a187ff36fb1a8e547c.webp",
-      "ts": 1794915056.5312278
-    },
     {
       "source_title": "Кореянинг Hana Bank банки Ўзбекистонда ваколатхона очади",
       "headline": "Korea Hana Bank O'zbekistonda vakolatxona ochadi 🇰🇷🏦",
@@ -240,11 +234,17 @@
       "headline": "Banklar o'rtasida naqd pul taqsimoti elektron tarzda tashkil etiladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/6097518082849cc1111f60a498b86a42101f22a6fd48dcbdc54d98a2f4d74940.webp",
       "ts": 1795071654.8224504
+    },
+    {
+      "source_title": "Tojikistondagi elektr ustuni quladi: Farg‘ona vodiysida elektr ta’minotiga cheklovlar kiritiladi",
+      "headline": "Tojikistondagi elektr ustuni quladi – Farg'ona vodiysida energiya cheklovlari",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/c2b6931328ad21beb4036573a8294c002178f929a0e1267c4d3fdd3baa2a177e.webp",
+      "ts": 1795073445.6503677
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795069837.2650723,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 7
+    "count": 8
   }
 }

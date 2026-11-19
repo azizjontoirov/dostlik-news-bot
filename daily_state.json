@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795096841.0823107,
+  "last_post_ts": 1795098643.9935493,
   "recent_posts": [
-    {
-      "source_title": "Toshkentning markaziy ko‘chalarida harbiylarning bayroq bilan tantanali yurishi o‘tkaziladi",
-      "headline": "Harbiy bayroq bilan tantanali yurish – 35‑yillik yubiley",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/26d5a96706006f6e8709fc0bc21cfcf62e45c3c4188705fd1d6fb3577e126f71.webp",
-      "ts": 1794933045.5503025
-    },
     {
       "source_title": "Saida Mirziyoyeva Kanadaning Özbekistondagi elçisi bilan uçraşdi",
       "headline": "Saida Mirziyoyeva Kanadaning elçisi bilan uchrashdi 🌐🤝",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonlik professor Qozo'g'istonda josuslikda 10 yilga qamaldi",
       "image": "https://storage.kun.uz/source/1/ifLgJl9dK3EIRntPEAUKux7t7k8_mKQ3.jpg",
       "ts": 1795095051.484751
+    },
+    {
+      "source_title": "“San bola, man bilan o‘yin qilma”. BBC muxbiri Islom Karimov uni kaltaklagani haqidagi savolga javob berdi",
+      "headline": "San bola, man bilan o'yin qilma” – BBC muxbiri Islom Karimovni kaltaklagani haqidagi savolga javob berdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/eb6383850fa1e461790f2a5c9e29bb253ec5d4684f5a2ca8fd4426c27d40772b.webp",
+      "ts": 1795098641.988949
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795096840.9792907,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 16
+    "count": 17
   }
 }

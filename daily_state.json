@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795095053.4889648,
+  "last_post_ts": 1795096841.0823107,
   "recent_posts": [
     {
       "source_title": "Toshkentning markaziy ko‘chalarida harbiylarning bayroq bilan tantanali yurishi o‘tkaziladi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795091442.2453673,
+    "last_ad_ts": 1795096840.9792907,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 108,
@@ -260,13 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 3
+      "ad_chinor_job": 4
     },
     "permanent_index": 2,
     "day": "2026-11-19",
     "today": {
       "ad_water": 3,
-      "ad_chinor_job": 2,
+      "ad_chinor_job": 3,
       "ad_flour": 3
     },
     "last_shown": {
@@ -281,7 +281,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795075246.0047197
+      "ad_chinor_job": 1795096840.9792898
     },
     "morning_ad_date": "2026-11-19"
   },

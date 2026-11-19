@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795093270.6546218,
+  "last_post_ts": 1795095053.4889648,
   "recent_posts": [
-    {
-      "source_title": "Farg‘onada 500 megavattli quyosh elektr stansiyasi qurish bo‘yicha kelishuv imzolandi",
-      "headline": "Farg'onada 500 MW quyosh elektr stansiyasi qurilishi bo'yicha kelishuv imzolandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/d2fb7fd652dc49c8070adc129bbda4db93d21b640d8adc9f43df3cd7b5fcf164.webp",
-      "ts": 1794931255.8880882
-    },
     {
       "source_title": "Toshkentning markaziy ko‘chalarida harbiylarning bayroq bilan tantanali yurishi o‘tkaziladi",
       "headline": "Harbiy bayroq bilan tantanali yurish – 35‑yillik yubiley",
@@ -240,11 +234,17 @@
       "headline": "Uzum va Trendyol hamkorligi – O'zbekistonda elektron savdoning yangi sahifasi 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/f570bc8b14120c85fcf045092b15e5431ccfee8eb65e64f0c21ddc8090bbfba9.webp",
       "ts": 1795093268.65148
+    },
+    {
+      "source_title": "Özbekistonlik professor Qozoğistonda josuslik işi böyiça 10 yilga qamaldi",
+      "headline": "O'zbekistonlik professor Qozo'g'istonda josuslikda 10 yilga qamaldi",
+      "image": "https://storage.kun.uz/source/1/ifLgJl9dK3EIRntPEAUKux7t7k8_mKQ3.jpg",
+      "ts": 1795095051.484751
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795091442.2453673,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 15
+    "count": 16
   }
 }

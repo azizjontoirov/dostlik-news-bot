@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795080635.4000149,
+  "last_post_ts": 1795082452.9625216,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev Masqatda taşkil etilgan Özbekiston sanoat körgazmasiga taşrif buyurdi",
-      "headline": "Şavkat Mirziyoyev Masqatda O'zbekiston sanoat ko'rgazmasiga tashrif buyurdi",
-      "image": "https://storage.kun.uz/source/1/uMCSkeOSfycTNjdz3cZzJO7ZUEUkXisS.jpg",
-      "ts": 1794922253.012091
-    },
     {
       "source_title": "O‘zbekistonda Fransiya va Janubiy Koreya banklarining vakolatxonalari akkreditatsiya qilindi",
       "headline": "Fransiya va Janubiy Koreya banklarining vakolatxonalari O'zbekistonda akkreditatsiya qilindi 🇫🇷🇰🇷",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda qamoqdan onlayn narkodokoni boshqarish aniqlandi",
       "image": "https://storage.kun.uz/source/1/xkbPIp42GltxLYRk0wyHqpShf5epsXjq.jpg",
       "ts": 1795078850.901976
+    },
+    {
+      "source_title": "Forbes Kazakhstan Qozog‘iston bozoridagi Akfa Build liftlari haqida maqola e’lon qildi",
+      "headline": "Forbes Kazakhstan'da Akfa Build liftlari yulduz bo'ldi 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/27907311edd52dbc4b294acebc074a6ffc008282d11214c7267238ca1767a0a9.webp",
+      "ts": 1795082450.9584029
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795080635.3981116,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 10
+    "count": 11
   }
 }

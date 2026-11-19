@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795057253.1555338,
+  "last_post_ts": 1795059036.670896,
   "recent_posts": [
     {
       "source_title": "Rossiya Ukrainadagi uruşni tugatişga doir talablariga Markaziy Osiyoni ham kiritdi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795053650.184882,
+    "last_ad_ts": 1795059036.6681917,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 105,
@@ -260,12 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 1
+      "ad_chinor_job": 2
     },
     "permanent_index": 2,
     "day": "2026-11-19",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_chinor_job": 1
     },
     "last_shown": {
       "ad_flour": 1795005047.3047595,
@@ -279,7 +280,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795017651.46902
+      "ad_chinor_job": 1795059036.6681893
     },
     "morning_ad_date": "2026-11-19"
   },

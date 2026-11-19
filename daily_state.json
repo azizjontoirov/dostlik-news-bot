@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795021257.1288176,
+  "last_post_ts": 1795055447.2283819,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda soxta gaz xodimi 3,3 mln söm olayotganda uşlandi",
-      "headline": "Soxta gaz xodimi 3,3 mln so'mda ushlandi",
-      "image": "https://storage.kun.uz/source/1/9yZ9eZDfLqngOpx0lBCMbRFNQByYiCHx.jpg",
-      "ts": 1794895254.808744
-    },
     {
       "source_title": "Фарғонада Chery уриб юборган велосипед ҳайдовчиси вафот этди",
       "headline": "Chery haydovchisining halokati – Farg'onada avtohalokat",
@@ -240,11 +234,17 @@
       "headline": "Foto, video: Toshkentda Davlat bayrog'i kuni festival va dron-shou! 🇺🇿",
       "image": "https://www.gazeta.uz/media/img/2026/11/0qoibem4phcs0hHbXml17950164361461_211153_og.webp?r=1795021053",
       "ts": 1795021255.125287
+    },
+    {
+      "source_title": "Жанубий Кореяда Ўзбекистон фуқароси террорчилик гуруҳига пул ўтказгани учун 16 ойга қамалди",
+      "headline": "Janubiy Koreyada O'zbek fuqarosi terroristik guruhga pul o'tkazgani uchun 16 oyga qamaldi",
+      "image": "https://www.gazeta.uz/media/img/2026/06/lavdstvsfkaa4bNwqHp17805046012680_211168_og.webp?r=1795043885",
+      "ts": 1795055445.2236671
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795053650.184882,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-18",
-    "count": 22
+    "day": "2026-11-19",
+    "count": 1
   }
 }

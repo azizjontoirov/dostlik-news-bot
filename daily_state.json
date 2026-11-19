@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795091442.2489555,
+  "last_post_ts": 1795093270.6546218,
   "recent_posts": [
-    {
-      "source_title": "Toshkent viloyatida qarindoshi va hamkasbini yolg‘on ayblov bilan sudlatgan erkak 9 yilga qamaldi",
-      "headline": "Toshkentda yolg'on ayblov bilan sudlangan erkak 9 yilga qamaldi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/17/c8a3fd423ba256fdab6c5f307afe9aca609e8b4490142d8a37e2047a087fc462.webp",
-      "ts": 1794929454.0675879
-    },
     {
       "source_title": "Farg‘onada 500 megavattli quyosh elektr stansiyasi qurish bo‘yicha kelishuv imzolandi",
       "headline": "Farg'onada 500 MW quyosh elektr stansiyasi qurilishi bo'yicha kelishuv imzolandi",
@@ -240,11 +234,17 @@
       "headline": "Gulinur – internetdan o'rgangan, “birrov” xizmatidan 30 mln so'm topadigan xonanda",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/2d5b4ac1b8c996331a06c2c45c29b3853ad245753eccabaf8400927e42821c9d.webp",
       "ts": 1795089653.3734431
+    },
+    {
+      "source_title": "Uzum va Trendyol O‘zbekiston elektron tijorat bozorini rivojlantirish uchun sa’y-harakatlarini birlashtirmoqda",
+      "headline": "Uzum va Trendyol hamkorligi – O'zbekistonda elektron savdoning yangi sahifasi 🚀",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/f570bc8b14120c85fcf045092b15e5431ccfee8eb65e64f0c21ddc8090bbfba9.webp",
+      "ts": 1795093268.65148
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795091442.2453673,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 14
+    "count": 15
   }
 }

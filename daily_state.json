@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795098643.9935493,
+  "last_post_ts": 1795100455.9975383,
   "recent_posts": [
-    {
-      "source_title": "Saida Mirziyoyeva Kanadaning Özbekistondagi elçisi bilan uçraşdi",
-      "headline": "Saida Mirziyoyeva Kanadaning elçisi bilan uchrashdi 🌐🤝",
-      "image": "https://storage.kun.uz/source/1/DPDL3-_fivHDfLpf10MbbYlFlhHIycsj.jpg",
-      "ts": 1794934874.4283774
-    },
     {
       "source_title": "“Chelsi” “Barselona”ning ikki futbolchisi uchun 180 mln yevro to‘lashga tayyor",
       "headline": "Chelsea “Barselona” futbolchilarini 180 mln yevroga qo'shishga tayyor",
@@ -240,11 +234,17 @@
       "headline": "San bola, man bilan o'yin qilma” – BBC muxbiri Islom Karimovni kaltaklagani haqidagi savolga javob berdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/eb6383850fa1e461790f2a5c9e29bb253ec5d4684f5a2ca8fd4426c27d40772b.webp",
       "ts": 1795098641.988949
+    },
+    {
+      "source_title": "Erondagi urush jahon energetika tizimini qanday o‘zgartiradi?",
+      "headline": "Erondagi urush jahon energetika tizimini qanday o'zgartiradi? 🌍⚡",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/86dc68c7a5260cb61799869d63199a04199f1cfef23a930f625c2fce27adbd56.webp",
+      "ts": 1795100453.9929764
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795096840.9792907,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 17
+    "count": 18
   }
 }

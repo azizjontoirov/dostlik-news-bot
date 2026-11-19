@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795069837.267532,
+  "last_post_ts": 1795071656.8277633,
   "recent_posts": [
-    {
-      "source_title": "Россияга қарши санкциялар сабаб Ўзбекистон 95 та насос станциясини модернизация қилиш лойиҳаси кредиторини ўзгартирди",
-      "headline": "95 ta nasos stansiyasini modernizatsiya qilish loyihasining moliyaviy sxemasi o'zgardi",
-      "image": "https://www.gazeta.uz/media/img/2024/11/NID6lC17310497655138_b.jpg",
-      "ts": 1794911444.0506425
-    },
     {
       "source_title": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
       "headline": "Toshkentning sakkizta tumaniga yangi prokurorlar tayinlandi",
@@ -240,11 +234,17 @@
       "headline": "Super kelinchak” aktrisasi Diana Yagofarova: “Erkaklarga haddan ortiq suyanmang”",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/f0bb07646b352e2c213190bf6800527d5e8c238bca6a367459d8b7c767cd80ac.webp",
       "ts": 1795068048.6715224
+    },
+    {
+      "source_title": "O‘zbekistonda banklar o‘rtasida naqd pul taqsimoti elektron tashkil etiladi",
+      "headline": "Banklar o'rtasida naqd pul taqsimoti elektron tarzda tashkil etiladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/19/6097518082849cc1111f60a498b86a42101f22a6fd48dcbdc54d98a2f4d74940.webp",
+      "ts": 1795071654.8224504
     }
   ],
   "morning_sent_date": "2026-11-19",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795069837.2650723,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-19",
-    "count": 6
+    "count": 7
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795154451.761946,
+  "last_post_ts": 1795156234.2708976,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда яна тўртта банкка исломий банк фаолиятини амалга ошириш учун лицензия берилди",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795150847.4972959,
+    "last_ad_ts": 1795156234.2682066,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 109,
+      "ad_flour": 110,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 108,
@@ -265,12 +265,12 @@
     "permanent_index": 2,
     "day": "2026-11-20",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_chinor_job": 1,
       "ad_water": 1
     },
     "last_shown": {
-      "ad_flour": 1795140043.6271024,
+      "ad_flour": 1795156234.2682037,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795150847.4972937,

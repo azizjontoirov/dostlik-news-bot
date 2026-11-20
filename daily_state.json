@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795161643.8179448,
+  "last_post_ts": 1795163442.0272532,
   "recent_posts": [
-    {
-      "source_title": "Юлдузлар билан кечки овқат. Gazeta — The Michelin Guide Dubai 2026 йўлкўрсаткичидан ўрин олган, атайин саёҳатга отланишга арзийдиган ресторанлар ҳақида",
-      "headline": "Dubai Michelin Guide 2026: 20 ta yulduzli restoran! 🌟",
-      "image": "https://www.gazeta.uz/sp/393372103/img/tila6163-6532-4439-a166-373734303033__-__resize__504x__photo_2026-11-12_131.jpeg",
-      "ts": 1794996062.3373892
-    },
     {
       "source_title": "Марказий Осиёда пилот электр энергияси бозорини ишга тушириш учун компания танлаш бошланди",
       "headline": "Markaziy Osiyoda elektr energiyasi bozorini ishga tushirish boshlangan! ⚡",
@@ -240,11 +234,17 @@
       "headline": "Шавкат Мирзиёevning elektropoyezdda Parkentga sayohati",
       "image": "https://www.gazeta.uz/media/img/2026/11/7rsfk8ijrq31as4xThD17951592422459_211278_og.webp?r=1795159735",
       "ts": 1795159846.4060557
+    },
+    {
+      "source_title": "Ai-80 benzini birjaga chiqarildi, ammo zapravkalarda sotilmaydi — Energetika vazirligi",
+      "headline": "Ai‑80 benzin birjada, lekin zapravkalarda sotilmaydi ⛽️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/c8208352f077b0c8e94663b958a46121bb8321cb046c0fb2b9032a7ac3a21321.webp",
+      "ts": 1795163440.023229
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795161643.6676693,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 8
+    "count": 9
   }
 }

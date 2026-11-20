@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795181454.0210588,
+  "last_post_ts": 1795183248.4340937,
   "recent_posts": [
     {
       "source_title": "“Gaz borgan sari kamayib boradi” — energetika vaziri o‘rinbosari issiqxonalarni muqobil yoqilg‘iga o‘tkazishga chaqirdi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795177840.9767811,
+    "last_ad_ts": 1795183248.412919,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 111,
@@ -260,13 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 7
+      "ad_chinor_job": 8
     },
     "permanent_index": 2,
     "day": "2026-11-20",
     "today": {
       "ad_flour": 3,
-      "ad_chinor_job": 2,
+      "ad_chinor_job": 3,
       "ad_water": 3
     },
     "last_shown": {
@@ -281,7 +281,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795161643.6676664
+      "ad_chinor_job": 1795183248.4129171
     },
     "morning_ad_date": "2026-11-20"
   },

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795156234.2708976,
+  "last_post_ts": 1795158051.8848295,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда яна тўртта банкка исломий банк фаолиятини амалга ошириш учун лицензия берилди",
-      "headline": "Yangi islomiy bank litsenziyalari berildi",
-      "image": "https://www.gazeta.uz/media/img/2018/07/OpPb6V15326055580465_b.jpg",
-      "ts": 1794990644.855246
-    },
     {
       "source_title": "Özbekistonda yana törtta bankka islomiy bank faoliyati uçun litsenziya berildi",
       "headline": "O'zbekistonda yana 4 ta bankga islomiy bank litsenziyasi berildi",
@@ -240,11 +234,17 @@
       "headline": "Sun'iy intellekt uchun yirik O'zbek tilidagi korpus ochildi 📚🤖",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/f15a2899c8a746acbba90a5571346fdd3680f03c70268f803627f76ede713aa7.webp",
       "ts": 1795154449.7594993
+    },
+    {
+      "source_title": "Toşkent viloyatidagi boğçalarda köz kasalliklari tarqaldimi?",
+      "headline": "Parkent tumanida 4‑yoshli bolada köz kasalligi alomatlari aniqlandi",
+      "image": "https://storage.kun.uz/source/1/mEhA6RA7ClgfZpCfriEMjwPacj55PmIG.png",
+      "ts": 1795158049.8788936
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795156234.2682066,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 6
+    "count": 7
   }
 }

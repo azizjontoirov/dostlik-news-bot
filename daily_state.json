@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795163442.0272532,
+  "last_post_ts": 1795165255.425677,
   "recent_posts": [
-    {
-      "source_title": "Марказий Осиёда пилот электр энергияси бозорини ишга тушириш учун компания танлаш бошланди",
-      "headline": "Markaziy Osiyoda elektr energiyasi bozorini ishga tushirish boshlangan! ⚡",
-      "image": "https://www.gazeta.uz/media/img/2026/07/7jnn0pefn16b4ncjMuq17852188729449_211119_og.webp?r=1794997906",
-      "ts": 1794997911.3698354
-    },
     {
       "source_title": "Депутатлар 6 ёшли болаларнинг мактабга тайёрловини мажбурий қилишга оид қонунни биринчи ўқишда маъқуллади. Муҳокама қандай ўтди?",
       "headline": "Maktabga tayyorlov qonuni birinchi o'qishda qabul qilindi",
@@ -240,11 +234,17 @@
       "headline": "Ai‑80 benzin birjada, lekin zapravkalarda sotilmaydi ⛽️",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/c8208352f077b0c8e94663b958a46121bb8321cb046c0fb2b9032a7ac3a21321.webp",
       "ts": 1795163440.023229
+    },
+    {
+      "source_title": "Prezident Parkentdagi oilaviy dam olish majmuasini borib ko‘rdi",
+      "headline": "Prezident Shavkat Mirziyoyev Parkentdagi Silver Valley oilaviy dam olish majmuasini ko'rib chiqdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/693f3c2d64b8bdcf73949acd622bc6c2f963c8e211e27656c664cff514b39399.webp",
+      "ts": 1795165253.4219735
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795161643.6676693,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 9
+    "count": 10
   }
 }

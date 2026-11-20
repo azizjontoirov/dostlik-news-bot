@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795170651.5936124,
+  "last_post_ts": 1795172447.756532,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda dollar kursi yana pasaydi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795167040.7629292,
+    "last_ad_ts": 1795172447.7521486,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 110,
+      "ad_flour": 111,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 109,
@@ -265,12 +265,12 @@
     "permanent_index": 2,
     "day": "2026-11-20",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_chinor_job": 2,
       "ad_water": 2
     },
     "last_shown": {
-      "ad_flour": 1795156234.2682037,
+      "ad_flour": 1795172447.7521465,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795167040.7629266,

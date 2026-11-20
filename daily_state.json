@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795141846.707944,
+  "last_post_ts": 1795143656.6531286,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон ва Ўмон товар айирбошлаш ҳажмини $1 млрдга етказмоқчи",
-      "headline": "O'zbekiston va Oman savdo hajmini $1 mlrdga yetkazadi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/m8b8s0929bj78NtbqGp17949207833134_211092_og.webp?r=1794975933",
-      "ts": 1794976248.1482658
-    },
     {
       "source_title": "Ўзбекистон байроғининг 35 йиллиги муносабати билан Тошкентда ҳарбий марш ва фестиваль ўтказилади",
       "headline": "35‑yillik Bayroq marshi va festival 🎉",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva: Tadbirkorlar uçun tösiqlarni bartaraf etishga doimiy e'tibor!",
       "image": "https://storage.kun.uz/source/1/ahGsniiAZKknRCbqWGkEGwZGB4jSOSDW.jpg",
       "ts": 1795141844.704186
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev Xalqaro dzyudo federatsiyasi rahbarini qabul qildi",
+      "headline": "Şavkat Mirziyoyev Marius Vizerni qabul qildi – Judo sohasida yangi hamkorlik! 🤝",
+      "image": "https://storage.kun.uz/source/1/XpQR6e04s87KfKNqMpfO2wvmFz3h0TnO.jpg",
+      "ts": 1795143654.634017
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795140043.6271048,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 1
+    "count": 2
   }
 }

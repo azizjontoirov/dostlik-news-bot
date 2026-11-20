@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795145438.7147956,
+  "last_post_ts": 1795147255.9220498,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон байроғининг 35 йиллиги муносабати билан Тошкентда ҳарбий марш ва фестиваль ўтказилади",
-      "headline": "35‑yillik Bayroq marshi va festival 🎉",
-      "image": "https://www.gazeta.uz/media/img/2026/11/uao50kjqd37s6urdoxb17949703758605_211100_og.webp?r=1794978700",
-      "ts": 1794979842.7882838
-    },
     {
       "source_title": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilash uchun 100 mln dollar ajratadi",
       "headline": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilashga 100 mln dollar ajratdi",
@@ -240,11 +234,17 @@
       "headline": "Şavkat Mirziyoyev Marius Vizerni qabul qildi – Judo sohasida yangi hamkorlik! 🤝",
       "image": "https://storage.kun.uz/source/1/XpQR6e04s87KfKNqMpfO2wvmFz3h0TnO.jpg",
       "ts": 1795143654.634017
+    },
+    {
+      "source_title": "Samarqandda salkam ikki kilo opiyni 36 ming dollarga sotayotgan shaxs ushlandi",
+      "headline": "Samarqandda 2 kg opiyin 36 000 dollarga sotuvchi ushladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/352a59cb635a0007f0e5179f6d6c0a3fdb38765446267bbd343b48ea2dbde43f.webp",
+      "ts": 1795147253.9180424
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795145438.7124865,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 2
+    "count": 3
   }
 }

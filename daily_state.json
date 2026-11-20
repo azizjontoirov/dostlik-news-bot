@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795174244.8840039,
+  "last_post_ts": 1795176056.7668424,
   "recent_posts": [
-    {
-      "source_title": "Navoiyda tosh davriga oid yangi arxeologik yodgorliklar aniqlandi",
-      "headline": "Navoi viloyatida yangi arxeologik yodgorliklar aniqlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/9818823b3ecf5d72f33ffadfe0a286812abdd8c5766d3b7547837aad768f7cbb.webp",
-      "ts": 1795008647.6425626
-    },
     {
       "source_title": "“Ikki baravardan ham köproq qimmat” - suv xöjaligi vaziri Xitoy kompaniyalari taklif qilgan narxlar haqida",
       "headline": "Ikki baravardan ham ko'proq qimmat – suv sohasida yangi muammolar",
@@ -240,11 +234,17 @@
       "headline": "Emirates O'zbekistonga muntazam reyslar ochishi ko'rib chiqilmoqda ✈️🇺z",
       "image": "https://www.gazeta.uz/media/img/2026/11/v98m92ptsvgs9nY70Mk17951739100992_211309_og.webp?r=1795174217",
       "ts": 1795174242.879341
+    },
+    {
+      "source_title": "Дам олиш кунлари Тошкентда қаерларга бориш мумкин? (21 ва 22 ноябрь)",
+      "headline": "Dam olish kunlari Tashkentda qaerga borish mumkin? 🎬🎭 (21‑22 noyabr)",
+      "image": "",
+      "ts": 1795176054.7628567
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795172447.7521486,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 13
+    "count": 14
   }
 }

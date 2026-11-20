@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795149041.8685563,
+  "last_post_ts": 1795150847.5019302,
   "recent_posts": [
     {
       "source_title": "Osiyo Millatlar Kubogida o‘zbekistonlik shaxmatchilar ikkita medalni qo‘lga kiritdi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795145438.7124865,
+    "last_ad_ts": 1795150847.4972959,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 109,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 107,
+      "ad_water": 108,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -266,13 +266,14 @@
     "day": "2026-11-20",
     "today": {
       "ad_flour": 1,
-      "ad_chinor_job": 1
+      "ad_chinor_job": 1,
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1795140043.6271024,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1795107650.70171,
+      "ad_water": 1795150847.4972937,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

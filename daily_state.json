@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795168855.1304083,
+  "last_post_ts": 1795170651.5936124,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston Qirğizistonga elektr yetkazib beriş orqali yozgi suğoriş uçun suv saqlamoqda",
-      "headline": "O'zbekiston Qirg'izistonga elektr yetkazib, yozgi suv saqlashga yordam beradi",
-      "image": "https://storage.kun.uz/source/1/BPm8NXW3b7L9hKLi7gKffEP02g_C9eGl.jpg",
-      "ts": 1795003265.0271235
-    },
     {
       "source_title": "O‘zbekistonda dollar kursi yana pasaydi",
       "headline": "Dollar kursi yana pasaydi",
@@ -240,11 +234,17 @@
       "headline": "Ergash akani sevmaslik mumkin emasdi 💔",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/e3f38893f0fc3b987a87fe271dc6f91a55b8ba6efa3551c01bdc93dfe37eb261.webp",
       "ts": 1795168853.1261313
+    },
+    {
+      "source_title": "O‘zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazishni rejalashtirmoqda",
+      "headline": "O'zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazish maqsadi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/a0ec3146d4d7f1437a45098aca73a166deb676fe9db8644a8d88d281d972285a.webp",
+      "ts": 1795170649.5890749
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795167040.7629292,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 11
+    "count": 12
   }
 }

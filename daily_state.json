@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795158051.8848295,
+  "last_post_ts": 1795159848.409358,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonda yana törtta bankka islomiy bank faoliyati uçun litsenziya berildi",
-      "headline": "O'zbekistonda yana 4 ta bankga islomiy bank litsenziyasi berildi",
-      "image": "https://storage.kun.uz/source/1/p9yaw7HQnMF9bxr6EDYeew3LR0HsiPI8.jpg",
-      "ts": 1794992453.8307848
-    },
     {
       "source_title": "Юлдузлар билан кечки овқат. Gazeta — The Michelin Guide Dubai 2026 йўлкўрсаткичидан ўрин олган, атайин саёҳатга отланишга арзийдиган ресторанлар ҳақида",
       "headline": "Dubai Michelin Guide 2026: 20 ta yulduzli restoran! 🌟",
@@ -240,11 +234,17 @@
       "headline": "Parkent tumanida 4‑yoshli bolada köz kasalligi alomatlari aniqlandi",
       "image": "https://storage.kun.uz/source/1/mEhA6RA7ClgfZpCfriEMjwPacj55PmIG.png",
       "ts": 1795158049.8788936
+    },
+    {
+      "source_title": "Шавкат Мирзиёев Тошкентдан Паркентга электропоездда борди",
+      "headline": "Шавкат Мирзиёevning elektropoyezdda Parkentga sayohati",
+      "image": "https://www.gazeta.uz/media/img/2026/11/7rsfk8ijrq31as4xThD17951592422459_211278_og.webp?r=1795159735",
+      "ts": 1795159846.4060557
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795156234.2682066,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 7
+    "count": 8
   }
 }

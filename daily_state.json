@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795188643.155069,
+  "last_post_ts": 1795190454.3210397,
   "recent_posts": [
-    {
-      "source_title": "Prezident Namangan viloyatining iqtisodiy salohiyatini röyobga çiqariş böyiça ustuvor vazifalarni belgiladi",
-      "headline": "Prezident Namangan viloyatining iqtisodiy salohiyatini rivojlantirish bo'yicha ustuvor vazifalarni belgiladi 🚀",
-      "image": "https://storage.kun.uz/source/1/fad0YUg0ZOG0loWB8X9Z0-J3MMJPyfzs.jpg",
-      "ts": 1795019446.9070625
-    },
     {
       "source_title": "Фото, видео: Тошкентда Давлат байроғи куни шарафига фестиваль ва дрон-шоу ўтказилди",
       "headline": "Foto, video: Toshkentda Davlat bayrog'i kuni festival va dron-shou! 🇺🇿",
@@ -240,11 +234,17 @@
       "headline": "Maktab hojatxonasi – ta'limning muhim qismi",
       "image": "https://storage.kun.uz/source/1/l8-2H1gJ5XQJodrUIgUNQWm_Ug_IzOwP.png",
       "ts": 1795186856.3467093
+    },
+    {
+      "source_title": "Namanganda 8 sotix yerni 12 ming dollarga rasmiylashtirib berishni va’da qilgan shaxs ushlandi",
+      "headline": "Namanganda davlat zaxirasidagi yer sotib olishda firibgarlik holati ⚖️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/b5f56a6bc0a42b0cfd1945d58901fa4ea53811b26e286464c176d42c66b5ff4a.webp",
+      "ts": 1795190452.3172724
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795188643.1511757,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 18
+    "count": 19
   }
 }

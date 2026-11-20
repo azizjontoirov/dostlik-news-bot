@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795183248.4340937,
+  "last_post_ts": 1795185053.187099,
   "recent_posts": [
-    {
-      "source_title": "“Gaz borgan sari kamayib boradi” — energetika vaziri o‘rinbosari issiqxonalarni muqobil yoqilg‘iga o‘tkazishga chaqirdi",
-      "headline": "Gaz borgan sari kamayib boradi – energiya vaziri o'rinbosari issiqxonalarni muqobil yoqilg'iga o'tkazishga chaqirdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/e082a7b579ad0b9d07b5735703a0711108ee02ca8076d7f11919e315fdded0db.webp",
-      "ts": 1795014058.9555652
-    },
     {
       "source_title": "O‘zbekiston va Turkmaniston 2004-yilgi vizasiz qatnov tartibini qayta tiklash masalasini ko‘rib chiqdi",
       "headline": "O'zbekiston‑Turkmaniston vizasiz qatnovi qayta tiklandi ✈️",
@@ -240,11 +234,17 @@
       "headline": "Tashkent metrosida 5‑vagonli poezdlarga kengaytirish rejalashtirilmoqda",
       "image": "https://storage.kun.uz/source/1/0sogtyBqJBk5qMpMZaCS8qU59aQomRqI.jpg",
       "ts": 1795181451.990587
+    },
+    {
+      "source_title": "“Qo‘rquvlar bor” — vazir Rogʻun GESning O‘zbekistonga ta’siri haqida",
+      "headline": "Rog'un GES xavflari va O'zbekistondagi suv taqsimoti",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/5d05ef42e41e248efa1d92958a6ecba3d1302e3813a50bef94a4e89548c777f3.webp",
+      "ts": 1795185051.1827831
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795183248.412919,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 16
+    "count": 17
   }
 }

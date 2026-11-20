@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795172447.756532,
+  "last_post_ts": 1795174244.8840039,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda dollar kursi yana pasaydi",
-      "headline": "Dollar kursi yana pasaydi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/367490f21b6eeee99e30ca00088dbce73d7f22e0bbe25d7847dbee45072dac07.webp",
-      "ts": 1795006848.9998465
-    },
     {
       "source_title": "Navoiyda tosh davriga oid yangi arxeologik yodgorliklar aniqlandi",
       "headline": "Navoi viloyatida yangi arxeologik yodgorliklar aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazish maqsadi",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/a0ec3146d4d7f1437a45098aca73a166deb676fe9db8644a8d88d281d972285a.webp",
       "ts": 1795170649.5890749
+    },
+    {
+      "source_title": "Emirates авиакомпанияси Ўзбекистонга мунтазам рейслар очиш имкониятини кўриб чиқиши мумкин",
+      "headline": "Emirates O'zbekistonga muntazam reyslar ochishi ko'rib chiqilmoqda ✈️🇺z",
+      "image": "https://www.gazeta.uz/media/img/2026/11/v98m92ptsvgs9nY70Mk17951739100992_211309_og.webp?r=1795174217",
+      "ts": 1795174242.879341
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795172447.7521486,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 12
+    "count": 13
   }
 }

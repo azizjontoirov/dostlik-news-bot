@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795152643.6145618,
+  "last_post_ts": 1795154451.761946,
   "recent_posts": [
-    {
-      "source_title": "Навоийда тош даврига оид манзилгоҳлар, қоятош суратлари ва археологик ашёлар аниқланди",
-      "headline": "Navoi viloyatida tosh davri yodgorliklari topildi! 🏺",
-      "image": "https://www.gazeta.uz/media/img/2026/11/u40rn75buem51u93Muw17949857191984_211104_og.webp?r=1794986654",
-      "ts": 1794987055.8608828
-    },
     {
       "source_title": "Ўзбекистонда яна тўртта банкка исломий банк фаолиятини амалга ошириш учун лицензия берилди",
       "headline": "Yangi islomiy bank litsenziyalari berildi",
@@ -240,11 +234,17 @@
       "headline": "OFK yildagi eng yaxshi futbolchisi e'lon qilindi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/150a5c82134a315e32ba33a3a07ab05417fc80a8d52111ebf8ae0b64e493b0de.webp",
       "ts": 1795152641.6100078
+    },
+    {
+      "source_title": "Sunʼiy intellekt dasturlari oʻzbek tilini yaxshiroq tushunishi uchun 6 mlrd soʻzli baza ochildi",
+      "headline": "Sun'iy intellekt uchun yirik O'zbek tilidagi korpus ochildi 📚🤖",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/f15a2899c8a746acbba90a5571346fdd3680f03c70268f803627f76ede713aa7.webp",
+      "ts": 1795154449.7594993
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795150847.4972959,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795186858.3516085,
+  "last_post_ts": 1795188643.155069,
   "recent_posts": [
     {
       "source_title": "Prezident Namangan viloyatining iqtisodiy salohiyatini röyobga çiqariş böyiça ustuvor vazifalarni belgiladi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795183248.412919,
+    "last_ad_ts": 1795188643.1511757,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 111,
@@ -260,13 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 8
+      "ad_chinor_job": 9
     },
     "permanent_index": 2,
     "day": "2026-11-20",
     "today": {
       "ad_flour": 3,
-      "ad_chinor_job": 3,
+      "ad_chinor_job": 4,
       "ad_water": 3
     },
     "last_shown": {
@@ -281,7 +281,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795183248.4129171
+      "ad_chinor_job": 1795188643.1511729
     },
     "morning_ad_date": "2026-11-20"
   },

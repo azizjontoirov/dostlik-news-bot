@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795177840.9791882,
+  "last_post_ts": 1795179659.2852895,
   "recent_posts": [
-    {
-      "source_title": "“Ikki baravardan ham köproq qimmat” - suv xöjaligi vaziri Xitoy kompaniyalari taklif qilgan narxlar haqida",
-      "headline": "Ikki baravardan ham ko'proq qimmat – suv sohasida yangi muammolar",
-      "image": "https://storage.kun.uz/source/1/LyahsQ1t-UupGwjXOYuxu4Evh7Asd-BF.jpg",
-      "ts": 1795010458.4610431
-    },
     {
       "source_title": "O‘zbekistonda firibgarlar OAV postlari ustidan mualliflik huquqi bo‘yicha shikoyat yuborib, pul talab qilmoqda",
       "headline": "OAV postlari ustidan mualliflik shikoyatlari – pul talab qilinmoqda",
@@ -240,11 +234,17 @@
       "headline": "Dam olish kunlari Tashkentda qaerga borish mumkin? 🎬🎭 (21‑22 noyabr)",
       "image": "",
       "ts": 1795176054.7628567
+    },
+    {
+      "source_title": "Alif Shop O‘zbekistonda Apple’ning vakolatli hamkori maqomini olgan birinchi marketpleyslardan biri bo‘ldi",
+      "headline": "Alif Shop Apple'ning rasmiy hamkori bo'ldi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/d4ad3692d4d38c7f46c62c242c404d958a86db887bb2cbc1e2e25067dd41d80d.webp",
+      "ts": 1795179657.2776275
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795177840.9767811,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 14
+    "count": 15
   }
 }

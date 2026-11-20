@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795150847.5019302,
+  "last_post_ts": 1795152643.6145618,
   "recent_posts": [
-    {
-      "source_title": "Osiyo Millatlar Kubogida o‘zbekistonlik shaxmatchilar ikkita medalni qo‘lga kiritdi",
-      "headline": "Osiyo Millatlar Kubogida shaxmatchilarimiz ikki medalga erishdi! ♟️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/0731588c7e956d1608154213ba4dfed6caf51cbf12e931fccc9b6efef1d81eca.webp",
-      "ts": 1794985265.2429452
-    },
     {
       "source_title": "Навоийда тош даврига оид манзилгоҳлар, қоятош суратлари ва археологик ашёлар аниқланди",
       "headline": "Navoi viloyatida tosh davri yodgorliklari topildi! 🏺",
@@ -240,11 +234,17 @@
       "headline": "Suv va elektr energiyasi bo'yicha yangi kelishuvlar – Vazir izohi",
       "image": "https://www.gazeta.uz/media/img/2026/11/jrgef03rul4p2CRBzPK17950956809717_211250_og.webp?r=1795148725",
       "ts": 1795149039.8629951
+    },
+    {
+      "source_title": "Osiyo futbol konfederatsiyasi yilning eng yaxshi futbolchisi nomini e’lon qildi",
+      "headline": "OFK yildagi eng yaxshi futbolchisi e'lon qilindi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/20/150a5c82134a315e32ba33a3a07ab05417fc80a8d52111ebf8ae0b64e493b0de.webp",
+      "ts": 1795152641.6100078
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795150847.4972959,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 4
+    "count": 5
   }
 }

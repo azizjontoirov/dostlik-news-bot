@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795147255.9220498,
+  "last_post_ts": 1795149041.8685563,
   "recent_posts": [
-    {
-      "source_title": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilash uchun 100 mln dollar ajratadi",
-      "headline": "Jahon banki Samarqandda tibbiy xizmatlarni yaxshilashga 100 mln dollar ajratdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/e62b25768e1c2f6b975369fcff1f58c153eeaf6cc560924dcf50c31ca992d09a.webp",
-      "ts": 1794981654.6326578
-    },
     {
       "source_title": "Osiyo Millatlar Kubogida o‘zbekistonlik shaxmatchilar ikkita medalni qo‘lga kiritdi",
       "headline": "Osiyo Millatlar Kubogida shaxmatchilarimiz ikki medalga erishdi! ♟️",
@@ -240,11 +234,17 @@
       "headline": "Samarqandda 2 kg opiyin 36 000 dollarga sotuvchi ushladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/352a59cb635a0007f0e5179f6d6c0a3fdb38765446267bbd343b48ea2dbde43f.webp",
       "ts": 1795147253.9180424
+    },
+    {
+      "source_title": "Ўзбекистон қўшни давлатлар билан сув ва электр энергияси алмашинувига оид қандай келишувларга эришмоқда? Вазир изоҳи",
+      "headline": "Suv va elektr energiyasi bo'yicha yangi kelishuvlar – Vazir izohi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/jrgef03rul4p2CRBzPK17950956809717_211250_og.webp?r=1795148725",
+      "ts": 1795149039.8629951
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795145438.7124865,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 3
+    "count": 4
   }
 }

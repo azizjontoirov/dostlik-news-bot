@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795107650.7039824,
+  "last_post_ts": 1795141846.707944,
   "recent_posts": [
-    {
-      "source_title": "Qirg‘iziston qo‘shni davlatlar orqali umraga bormaslikka chaqirdi",
-      "headline": "Qirg'izistonlik ziyoratchilarni umra safaridan tiyilish chaqirig'i ✈️🕌",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/047ce2956a0270e28b6a50c0adf9928e04b9e76bbf8fa2a2a89b9c561e48da28.webp",
-      "ts": 1794974452.8105936
-    },
     {
       "source_title": "Ўзбекистон ва Ўмон товар айирбошлаш ҳажмини $1 млрдга етказмоқчи",
       "headline": "O'zbekiston va Oman savdo hajmini $1 mlrdga yetkazadi",
@@ -240,11 +234,17 @@
       "headline": "Umarali Rahmonaliyev Rossiyada o'ynashni davom ettirishi mumkin",
       "image": "https://gocdn.daryo.uz/large/2026/11/19/268ded34c559cad72ac261583a6822f215e84d7af61841a3e4f38a2d30dde3d8.webp",
       "ts": 1795105845.4441974
+    },
+    {
+      "source_title": "Tadbirkorlar uçun tösiqlarni bartaraf etişga doimiy eʼtibor qaratamiz - Saida Mirziyoyeva",
+      "headline": "Saida Mirziyoyeva: Tadbirkorlar uçun tösiqlarni bartaraf etishga doimiy e'tibor!",
+      "image": "https://storage.kun.uz/source/1/ahGsniiAZKknRCbqWGkEGwZGB4jSOSDW.jpg",
+      "ts": 1795141844.704186
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795140043.6271048,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-19",
-    "count": 20
+    "day": "2026-11-20",
+    "count": 1
   }
 }

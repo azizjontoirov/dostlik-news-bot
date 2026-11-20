@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795179659.2852895,
+  "last_post_ts": 1795181454.0210588,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda firibgarlar OAV postlari ustidan mualliflik huquqi bo‘yicha shikoyat yuborib, pul talab qilmoqda",
-      "headline": "OAV postlari ustidan mualliflik shikoyatlari – pul talab qilinmoqda",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/ff69de97dddbb99dc0b0bfb633ec8efe6659f22be007cc3a6540e554a7ad7745.webp",
-      "ts": 1795012246.38189
-    },
     {
       "source_title": "“Gaz borgan sari kamayib boradi” — energetika vaziri o‘rinbosari issiqxonalarni muqobil yoqilg‘iga o‘tkazishga chaqirdi",
       "headline": "Gaz borgan sari kamayib boradi – energiya vaziri o'rinbosari issiqxonalarni muqobil yoqilg'iga o'tkazishga chaqirdi",
@@ -240,11 +234,17 @@
       "headline": "Alif Shop Apple'ning rasmiy hamkori bo'ldi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/d4ad3692d4d38c7f46c62c242c404d958a86db887bb2cbc1e2e25067dd41d80d.webp",
       "ts": 1795179657.2776275
+    },
+    {
+      "source_title": "Toşkent metrosida poyezdlarga beşinçi vagon qöşiş rejalaştirilmoqda",
+      "headline": "Tashkent metrosida 5‑vagonli poezdlarga kengaytirish rejalashtirilmoqda",
+      "image": "https://storage.kun.uz/source/1/0sogtyBqJBk5qMpMZaCS8qU59aQomRqI.jpg",
+      "ts": 1795181451.990587
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795177840.9767811,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 15
+    "count": 16
   }
 }

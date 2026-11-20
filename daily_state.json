@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795185053.187099,
+  "last_post_ts": 1795186858.3516085,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston va Turkmaniston 2004-yilgi vizasiz qatnov tartibini qayta tiklash masalasini ko‘rib chiqdi",
-      "headline": "O'zbekiston‑Turkmaniston vizasiz qatnovi qayta tiklandi ✈️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/fd094fefaff432878f5c04986de0a1b1c9177b6da1ddfbbd5de39ee0eebea44f.webp",
-      "ts": 1795015846.872232
-    },
     {
       "source_title": "Prezident Namangan viloyatining iqtisodiy salohiyatini röyobga çiqariş böyiça ustuvor vazifalarni belgiladi",
       "headline": "Prezident Namangan viloyatining iqtisodiy salohiyatini rivojlantirish bo'yicha ustuvor vazifalarni belgiladi 🚀",
@@ -240,11 +234,17 @@
       "headline": "Rog'un GES xavflari va O'zbekistondagi suv taqsimoti",
       "image": "https://gocdn.daryo.uz/large/2026/11/20/5d05ef42e41e248efa1d92958a6ecba3d1302e3813a50bef94a4e89548c777f3.webp",
       "ts": 1795185051.1827831
+    },
+    {
+      "source_title": "Maktab hojatxonasi – taʼlimning muhim qismi",
+      "headline": "Maktab hojatxonasi – ta'limning muhim qismi",
+      "image": "https://storage.kun.uz/source/1/l8-2H1gJ5XQJodrUIgUNQWm_Ug_IzOwP.png",
+      "ts": 1795186856.3467093
     }
   ],
   "morning_sent_date": "2026-11-20",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795183248.412919,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-20",
-    "count": 17
+    "count": 18
   }
 }

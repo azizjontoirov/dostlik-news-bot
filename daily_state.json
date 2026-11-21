@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795231733.498752,
+  "last_post_ts": 1795233651.1843817,
   "recent_posts": [
-    {
-      "source_title": "Samarqandda umraga noqonuniy yubormoqchi bo‘lgan sayyohlik firmasi rahbari ushlandi",
-      "headline": "Samarqandda noqonuniy turistik firma rahbari ushlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/a5c3fe7b2eb9b0a0515b2d24e388c4df631a4b7c11814bd662e3f18a661cce4f.webp",
-      "ts": 1795060849.7528563
-    },
     {
       "source_title": "10 oyda 231 kişi iş joyidagi baxtsiz hodisalar qurboni böldi",
       "headline": "10 oyda 231 kishi ish joyidagi baxtsiz hodisalar qurboni bo'ldi",
@@ -240,11 +234,17 @@
       "headline": "Ўзбекистонда чет эл фуқароларини вақтинча saqlash markazlari tashkil etilishi 🏢🛂",
       "image": "https://www.gazeta.uz/media/img/2025/08/jA49kH17544735914874_211337_og.webp?r=1795202591",
       "ts": 1795230053.5916717
+    },
+    {
+      "source_title": "O‘zbekistonda uch yilda sinovga kirgan pedagoglarning 37,7 foizi sertifikat oldi",
+      "headline": "Pedagoglar sinovidan 37,7% sertifikat oldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/0624f826dbdd5bafd027e3b7f19eb74d17cdad63d64ad901dbfabef4bd14a979.webp",
+      "ts": 1795233649.1798081
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795231733.474233,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 2
+    "count": 3
   }
 }

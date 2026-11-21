@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795266053.7852423,
+  "last_post_ts": 1795267848.6376736,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonlik professor Qozoğistonda josuslik işi böyiça 10 yilga qamaldi",
-      "headline": "O'zbekistonlik professor Qozo'g'istonda josuslikda 10 yilga qamaldi",
-      "image": "https://storage.kun.uz/source/1/ifLgJl9dK3EIRntPEAUKux7t7k8_mKQ3.jpg",
-      "ts": 1795095051.484751
-    },
     {
       "source_title": "“San bola, man bilan o‘yin qilma”. BBC muxbiri Islom Karimov uni kaltaklagani haqidagi savolga javob berdi",
       "headline": "San bola, man bilan o'yin qilma” – BBC muxbiri Islom Karimovni kaltaklagani haqidagi savolga javob berdi",
@@ -240,11 +234,17 @@
       "headline": "Ipak yo'lining unutilgan megapolisi – qadimgi Marv tarixi",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/7db369171d51157cd37c6f64305d80145bf31d20d274838d6501e82617269c16.webp",
       "ts": 1795266051.780478
+    },
+    {
+      "source_title": "Ўзбекистон Австралия меҳнат бозорига мутахассислар юбориш бўйича музокаралар бошлади",
+      "headline": "z O'zbekiston Avstraliya mehnat bozoriga mutaxassislar yuborish bo'yicha muzokaralar boshlandi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/s1qqniud1lt48TwafqP17952669702745_211366_og.webp?r=1795267017",
+      "ts": 1795267846.6328664
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795264240.0380468,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 15
+    "count": 16
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795260646.0806832,
+  "last_post_ts": 1795262453.5340757,
   "recent_posts": [
-    {
-      "source_title": "Qo‘shiq kuylashni internetdan o‘rgangan, “birrov” xizmatidan 30 mln so‘m topadigan, turmush o‘rtog‘i bilan to‘yda tanishgan Gulinur 32 yoshda (foto, video)",
-      "headline": "Gulinur – internetdan o'rgangan, “birrov” xizmatidan 30 mln so'm topadigan xonanda",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/2d5b4ac1b8c996331a06c2c45c29b3853ad245753eccabaf8400927e42821c9d.webp",
-      "ts": 1795089653.3734431
-    },
     {
       "source_title": "Uzum va Trendyol O‘zbekiston elektron tijorat bozorini rivojlantirish uchun sa’y-harakatlarini birlashtirmoqda",
       "headline": "Uzum va Trendyol hamkorligi – O'zbekistonda elektron savdoning yangi sahifasi 🚀",
@@ -240,11 +234,17 @@
       "headline": "Erta qarishni sekinlashtiradi, vazn kamaytiradi 🍂🎃",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/cab298be8add996ea9ba0521efbe5d4c658c8aa5cc53d06f7090b1b08f3da052.webp",
       "ts": 1795260644.0765424
+    },
+    {
+      "source_title": "Давлат маблағларини ўзлаштиришда гумонланган собиқ мутасадди Туркияда ушланди",
+      "headline": "Davlat mablag'larini o'zlashtirishda gumonlangan sobiq mutasaddi Turkiyada ushlandi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/qg8jdo7972tudsx2Zxn17952606954384_211358_og.webp?r=1795261153",
+      "ts": 1795262451.529438
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795258844.3519666,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 13
+    "count": 14
   }
 }

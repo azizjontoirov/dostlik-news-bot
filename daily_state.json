@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795230055.5957265,
+  "last_post_ts": 1795231733.498752,
   "recent_posts": [
     {
       "source_title": "Samarqandda umraga noqonuniy yubormoqchi bo‘lgan sayyohlik firmasi rahbari ushlandi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795226451.3621793,
+    "last_ad_ts": 1795231733.474233,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 112,
@@ -260,12 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 9
+      "ad_chinor_job": 10
     },
     "permanent_index": 2,
     "day": "2026-11-21",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_chinor_job": 1
     },
     "last_shown": {
       "ad_flour": 1795194059.1653435,
@@ -279,7 +280,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795188643.1511729
+      "ad_chinor_job": 1795231733.4742298
     },
     "morning_ad_date": "2026-11-21"
   },

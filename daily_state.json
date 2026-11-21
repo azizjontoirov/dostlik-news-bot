@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795276864.4651206,
+  "last_post_ts": 1795278650.896206,
   "recent_posts": [
-    {
-      "source_title": "Umarali Rahmonaliyev faoliyatini Rossiya chempionatida davom ettirishi mumkin",
-      "headline": "Umarali Rahmonaliyev Rossiyada o'ynashni davom ettirishi mumkin",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/268ded34c559cad72ac261583a6822f215e84d7af61841a3e4f38a2d30dde3d8.webp",
-      "ts": 1795105845.4441974
-    },
     {
       "source_title": "Tadbirkorlar uçun tösiqlarni bartaraf etişga doimiy eʼtibor qaratamiz - Saida Mirziyoyeva",
       "headline": "Saida Mirziyoyeva: Tadbirkorlar uçun tösiqlarni bartaraf etishga doimiy e'tibor!",
@@ -240,11 +234,17 @@
       "headline": "Yangilangan alifboga o'tish tartibi belgilanmoqda 📜",
       "image": "https://storage.kun.uz/source/1/5GtU6IdoLKxthtj5h-cmcbNwKHKv0mNk.webp",
       "ts": 1795276862.4621475
+    },
+    {
+      "source_title": "O‘zbekiston va Rossiya 2027-yil uchun harbiy hamkorlik rejasini imzoladi",
+      "headline": "O'zbekiston‑Rossiya harbiy hamkorligi 2027‑yilga kengaytirildi 🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/072e17509d59c4ca6d5924c82ff7650fc3bcf09ccc690be0f852fea912f4ca6d.webp",
+      "ts": 1795278648.8919964
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795275041.5792644,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 19
+    "count": 20
   }
 }

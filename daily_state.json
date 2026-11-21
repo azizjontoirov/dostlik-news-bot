@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795228243.4495533,
+  "last_post_ts": 1795230055.5957265,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 2026-yil boshidan beri korrupsiyaga qarshi tekshiruvlar natijasida 1,5 ming nafar xodim ishdan bo‘shatildi",
-      "headline": "Korrupsiya qarshi tekshiruvlar natijasi – 1,5 ming xodim ishdan bo'shatildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/18/03ff182959e51fd4aac61f75c5bbe63c6b48c5174c86f57c5793cf9ef9c1bdaf.webp",
-      "ts": 1795057251.151587
-    },
     {
       "source_title": "Samarqandda umraga noqonuniy yubormoqchi bo‘lgan sayyohlik firmasi rahbari ushlandi",
       "headline": "Samarqandda noqonuniy turistik firma rahbari ushlandi",
@@ -240,11 +234,17 @@
       "headline": "Olting bel\" turistik majmuasi Turkiya kompaniyasiga topshirildi 🏨",
       "image": "https://www.gazeta.uz/media/img/2026/11/gqu08k2k4v3pcDfj1z917951989584342_211341_og.webp?r=1795205729",
       "ts": 1795228241.445542
+    },
+    {
+      "source_title": "Ўзбекистонда чет эл фуқароларини вақтинча сақлаш марказлари ташкил этилиши режалаштирилмоқда",
+      "headline": "Ўзбекистонда чет эл фуқароларини вақтинча saqlash markazlari tashkil etilishi 🏢🛂",
+      "image": "https://www.gazeta.uz/media/img/2025/08/jA49kH17544735914874_211337_og.webp?r=1795202591",
+      "ts": 1795230053.5916717
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795226451.3621793,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 1
+    "count": 2
   }
 }

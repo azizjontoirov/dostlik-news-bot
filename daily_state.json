@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795244463.0213873,
+  "last_post_ts": 1795246244.356135,
   "recent_posts": [
-    {
-      "source_title": "Tojikistondagi elektr ustuni quladi: Farg‘ona vodiysida elektr ta’minotiga cheklovlar kiritiladi",
-      "headline": "Tojikistondagi elektr ustuni quladi – Farg'ona vodiysida energiya cheklovlari",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/c2b6931328ad21beb4036573a8294c002178f929a0e1267c4d3fdd3baa2a177e.webp",
-      "ts": 1795073445.6503677
-    },
     {
       "source_title": "Aholi va tadbirkorlarning naqd pul olish huquqi kafolatlanadi",
       "headline": "Naqd pul olish huquqi kafolatlandi!",
@@ -240,11 +234,17 @@
       "headline": "Zang va eski batareykalardan suv tozalovchi material yaratildi",
       "image": "https://storage.kun.uz/source/1/zG474V5bVjsWUiype617xds_gSPgWOsN.webp",
       "ts": 1795244461.0172508
+    },
+    {
+      "source_title": "S&P Özbekistonning suveren kredit reytingini oşirdi",
+      "headline": "S&P O'zbekistonning suveren kredit reytingini oshirdi 📈🇺z",
+      "image": "https://storage.kun.uz/source/1/kHp_X9BbPPu69xUKLX_JfSCImHyxPoNv.webp",
+      "ts": 1795246242.3519866
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795242635.0325093,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 7
+    "count": 8
   }
 }

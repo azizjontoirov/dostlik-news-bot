@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795253437.8320587,
+  "last_post_ts": 1795255252.7466245,
   "recent_posts": [
-    {
-      "source_title": "Forbes Kazakhstan Qozog‘iston bozoridagi Akfa Build liftlari haqida maqola e’lon qildi",
-      "headline": "Forbes Kazakhstan'da Akfa Build liftlari yulduz bo'ldi 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/27907311edd52dbc4b294acebc074a6ffc008282d11214c7267238ca1767a0a9.webp",
-      "ts": 1795082450.9584029
-    },
     {
       "source_title": "Президент турк компанияларини мамлакатга янада фаол инвестиция киритишга чорлади",
       "headline": "Prezident turk kompaniyalarini O'zbekistonga yanada faol investitsiya kiritishga chorladı 🚀",
@@ -240,11 +234,17 @@
       "headline": "General Omonillaxon Hojiakbarov 15 yilga qamaldi",
       "image": "https://storage.kun.uz/source/1/wgWOWKtYCJ8DYeVD4SyeSCIeudOA3faC.jpg",
       "ts": 1795251653.6608725
+    },
+    {
+      "source_title": "S&P Ўзбекистоннинг кредит рейтингини BB+ даражасигача оширди. Инвестициявий даражагача бир поғона қолди",
+      "headline": "S&P O'zbekistonning kredit reytingini BB+ darajasiga oshirdi 📈",
+      "image": "https://www.gazeta.uz/media/img/2019/09/m2KUbx15676841903581_b.jpg",
+      "ts": 1795255250.7420244
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795253437.8293684,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 10
+    "count": 11
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795264240.0404167,
+  "last_post_ts": 1795266053.7852423,
   "recent_posts": [
-    {
-      "source_title": "Uzum va Trendyol O‘zbekiston elektron tijorat bozorini rivojlantirish uchun sa’y-harakatlarini birlashtirmoqda",
-      "headline": "Uzum va Trendyol hamkorligi – O'zbekistonda elektron savdoning yangi sahifasi 🚀",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/f570bc8b14120c85fcf045092b15e5431ccfee8eb65e64f0c21ddc8090bbfba9.webp",
-      "ts": 1795093268.65148
-    },
     {
       "source_title": "Özbekistonlik professor Qozoğistonda josuslik işi böyiça 10 yilga qamaldi",
       "headline": "O'zbekistonlik professor Qozo'g'istonda josuslikda 10 yilga qamaldi",
@@ -240,11 +234,17 @@
       "headline": "Davlat mablag'larini o'zlashtirishda gumonlangan sobiq mutasaddi Turkiyada ushlandi",
       "image": "https://www.gazeta.uz/media/img/2026/11/qg8jdo7972tudsx2Zxn17952606954384_211358_og.webp?r=1795261153",
       "ts": 1795262451.529438
+    },
+    {
+      "source_title": "Ipak yo‘lining unutilgan megapolisi: qadimgi Marv tarixi",
+      "headline": "Ipak yo'lining unutilgan megapolisi – qadimgi Marv tarixi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/7db369171d51157cd37c6f64305d80145bf31d20d274838d6501e82617269c16.webp",
+      "ts": 1795266051.780478
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795264240.0380468,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 14
+    "count": 15
   }
 }

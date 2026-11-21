@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795242635.0340495,
+  "last_post_ts": 1795244463.0213873,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda banklar o‘rtasida naqd pul taqsimoti elektron tashkil etiladi",
-      "headline": "Banklar o'rtasida naqd pul taqsimoti elektron tarzda tashkil etiladi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/6097518082849cc1111f60a498b86a42101f22a6fd48dcbdc54d98a2f4d74940.webp",
-      "ts": 1795071654.8224504
-    },
     {
       "source_title": "Tojikistondagi elektr ustuni quladi: Farg‘ona vodiysida elektr ta’minotiga cheklovlar kiritiladi",
       "headline": "Tojikistondagi elektr ustuni quladi – Farg'ona vodiysida energiya cheklovlari",
@@ -240,11 +234,17 @@
       "headline": "Abdurazzoq O'bruy vafoti – O'zbekiston jurnalistikasi uchun katta yo'qotish",
       "image": "https://www.gazeta.uz/media/img/2026/11/po9r2fhbjg59a9dZBvj17952396984757_211347_og.webp?r=1795240090",
       "ts": 1795240850.0218227
+    },
+    {
+      "source_title": "Zang va eski batareykalardan suv tozalovçi material yaratildi",
+      "headline": "Zang va eski batareykalardan suv tozalovchi material yaratildi",
+      "image": "https://storage.kun.uz/source/1/zG474V5bVjsWUiype617xds_gSPgWOsN.webp",
+      "ts": 1795244461.0172508
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795242635.0325093,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 6
+    "count": 7
   }
 }

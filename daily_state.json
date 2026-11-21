@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795251655.6728776,
+  "last_post_ts": 1795253437.8320587,
   "recent_posts": [
     {
       "source_title": "Forbes Kazakhstan Qozog‘iston bozoridagi Akfa Build liftlari haqida maqola e’lon qildi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795248048.5662036,
+    "last_ad_ts": 1795253437.8293684,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 113,
+      "ad_flour": 114,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 112,
@@ -267,10 +267,10 @@
     "today": {
       "ad_water": 2,
       "ad_chinor_job": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1795237246.265576,
+      "ad_flour": 1795253437.829366,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795242635.0325084,

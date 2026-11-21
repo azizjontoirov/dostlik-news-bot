@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795194059.1671557,
+  "last_post_ts": 1795228243.4495533,
   "recent_posts": [
-    {
-      "source_title": "Жанубий Кореяда Ўзбекистон фуқароси террорчилик гуруҳига пул ўтказгани учун 16 ойга қамалди",
-      "headline": "Janubiy Koreyada O'zbek fuqarosi terroristik guruhga pul o'tkazgani uchun 16 oyga qamaldi",
-      "image": "https://www.gazeta.uz/media/img/2026/06/lavdstvsfkaa4bNwqHp17805046012680_211168_og.webp?r=1795043885",
-      "ts": 1795055445.2236671
-    },
     {
       "source_title": "O‘zbekistonda 2026-yil boshidan beri korrupsiyaga qarshi tekshiruvlar natijasida 1,5 ming nafar xodim ishdan bo‘shatildi",
       "headline": "Korrupsiya qarshi tekshiruvlar natijasi – 1,5 ming xodim ishdan bo'shatildi",
@@ -240,11 +234,17 @@
       "headline": "Obid Yunusov tavalludi bilan test! 🎉",
       "image": "https://www.gazeta.uz/media/img/2026/11/r33fnp9i4ajcdBANNhZ17950842526264_211213_og.webp?r=1795191032",
       "ts": 1795192261.5667655
+    },
+    {
+      "source_title": "Кумушкондаги «Олтин бел» сайёҳлик мажмуасини Туркия компанияси бошқаради (+фото)",
+      "headline": "Olting bel\" turistik majmuasi Turkiya kompaniyasiga topshirildi 🏨",
+      "image": "https://www.gazeta.uz/media/img/2026/11/gqu08k2k4v3pcDfj1z917951989584342_211341_og.webp?r=1795205729",
+      "ts": 1795228241.445542
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795226451.3621793,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-20",
-    "count": 20
+    "day": "2026-11-21",
+    "count": 1
   }
 }

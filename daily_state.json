@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795249849.6444016,
+  "last_post_ts": 1795251655.6728776,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda mahkum qamoqdan turib onlayn narkodökonni boşqarib kelgani maʼlum böldi",
-      "headline": "Toshkentda qamoqdan onlayn narkodokoni boshqarish aniqlandi",
-      "image": "https://storage.kun.uz/source/1/xkbPIp42GltxLYRk0wyHqpShf5epsXjq.jpg",
-      "ts": 1795078850.901976
-    },
     {
       "source_title": "Forbes Kazakhstan Qozog‘iston bozoridagi Akfa Build liftlari haqida maqola e’lon qildi",
       "headline": "Forbes Kazakhstan'da Akfa Build liftlari yulduz bo'ldi 🚀",
@@ -240,11 +234,17 @@
       "headline": "Umra vada-sodiqligida firibgarlik – Navoiy, Namangan, Qo'qonda 3 ta ushlash 🕵️‍♂️💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/b24dde26a9683ba740aa2378e3b3ed8c866a8a14f6a04323c6d78c190ebc0876.webp",
       "ts": 1795249847.6397762
+    },
+    {
+      "source_title": "General Omonillaxon Hojiakbarov 15 yilga qamaldi",
+      "headline": "General Omonillaxon Hojiakbarov 15 yilga qamaldi",
+      "image": "https://storage.kun.uz/source/1/wgWOWKtYCJ8DYeVD4SyeSCIeudOA3faC.jpg",
+      "ts": 1795251653.6608725
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795248048.5662036,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 9
+    "count": 10
   }
 }

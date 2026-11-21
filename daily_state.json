@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795239049.2638512,
+  "last_post_ts": 1795240852.024881,
   "recent_posts": [
-    {
-      "source_title": "“Erkaklarga haddan ortiq suyanmang”. “Super kelinchak” Diana Yagofarova yolg‘iz ayollar va uch o‘g‘ilning onasi bo‘lish mas’uliyati haqida",
-      "headline": "Super kelinchak” aktrisasi Diana Yagofarova: “Erkaklarga haddan ortiq suyanmang”",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/f0bb07646b352e2c213190bf6800527d5e8c238bca6a367459d8b7c767cd80ac.webp",
-      "ts": 1795068048.6715224
-    },
     {
       "source_title": "O‘zbekistonda banklar o‘rtasida naqd pul taqsimoti elektron tashkil etiladi",
       "headline": "Banklar o'rtasida naqd pul taqsimoti elektron tarzda tashkil etiladi",
@@ -240,11 +234,17 @@
       "headline": "Toshkent viloyatidagi bog'chalarda ko'z kasalligi tarqalmadi",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/773e2ca74fe4e36cb6440bb3f424ec1c8c2f7c91fe37383902ebe33e69b4a69c.webp",
       "ts": 1795239047.2605138
+    },
+    {
+      "source_title": "Ўзбекистонда хизмат кўрсатган журналист ва ёзувчи Абдураззоқ Обрўй вафот этди",
+      "headline": "Abdurazzoq O'bruy vafoti – O'zbekiston jurnalistikasi uchun katta yo'qotish",
+      "image": "https://www.gazeta.uz/media/img/2026/11/po9r2fhbjg59a9dZBvj17952396984757_211347_og.webp?r=1795240090",
+      "ts": 1795240850.0218227
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795237246.2655783,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 5
+    "count": 6
   }
 }

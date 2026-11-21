@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795248048.568622,
+  "last_post_ts": 1795249849.6444016,
   "recent_posts": [
-    {
-      "source_title": "Aholi va tadbirkorlarning naqd pul olish huquqi kafolatlanadi",
-      "headline": "Naqd pul olish huquqi kafolatlandi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/700f4aca5e1233788df9b3c60b9f5ca06c0156956a2f6f5d3a4f0e2c09ba3e28.webp",
-      "ts": 1795077042.196244
-    },
     {
       "source_title": "Toşkentda mahkum qamoqdan turib onlayn narkodökonni boşqarib kelgani maʼlum böldi",
       "headline": "Toshkentda qamoqdan onlayn narkodokoni boshqarish aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "S&P O'zbekistonning suveren kredit reytingini oshirdi 📈🇺z",
       "image": "https://storage.kun.uz/source/1/kHp_X9BbPPu69xUKLX_JfSCImHyxPoNv.webp",
       "ts": 1795246242.3519866
+    },
+    {
+      "source_title": "Navoiy, Namangan va Qo‘qonda umraga yuborish va’dasi bilan pul olgan uch kishi ushlandi",
+      "headline": "Umra vada-sodiqligida firibgarlik – Navoiy, Namangan, Qo'qonda 3 ta ushlash 🕵️‍♂️💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/b24dde26a9683ba740aa2378e3b3ed8c866a8a14f6a04323c6d78c190ebc0876.webp",
+      "ts": 1795249847.6397762
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795248048.5662036,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 8
+    "count": 9
   }
 }

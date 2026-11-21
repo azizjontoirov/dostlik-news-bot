@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795275041.5816424,
+  "last_post_ts": 1795276864.4651206,
   "recent_posts": [
-    {
-      "source_title": "Rossiya AQSH va Xitoy bilan sammitdan ko‘p o‘tmay Kiyevga hujum qildi (video)",
-      "headline": "Rossiya Kiyevga dron hujumi (video) 🚨",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/643ca77cf172bef91698299843aa91dab88c7b272c3dad53454bf9f6549b31dc.webp",
-      "ts": 1795104052.3378544
-    },
     {
       "source_title": "Umarali Rahmonaliyev faoliyatini Rossiya chempionatida davom ettirishi mumkin",
       "headline": "Umarali Rahmonaliyev Rossiyada o'ynashni davom ettirishi mumkin",
@@ -240,11 +234,17 @@
       "headline": "OTMlarning milliy reytingini yuritish tartibiga o'zgartirishlar kiritildi 📚",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/a9404c08a361323bffd34a94a59a685101bf844626cd247f5a8b34a54259bf2e.webp",
       "ts": 1795273251.9227998
+    },
+    {
+      "source_title": "Yangilangan alifboga ötiş tartibi belgilanmoqda: pasport, darsliklar va boşqa hujjatlarda qanday özgarişlar böladi?",
+      "headline": "Yangilangan alifboga o'tish tartibi belgilanmoqda 📜",
+      "image": "https://storage.kun.uz/source/1/5GtU6IdoLKxthtj5h-cmcbNwKHKv0mNk.webp",
+      "ts": 1795276862.4621475
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795275041.5792644,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 18
+    "count": 19
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795271454.1286066,
+  "last_post_ts": 1795273253.9270663,
   "recent_posts": [
-    {
-      "source_title": "Erondagi urush jahon energetika tizimini qanday o‘zgartiradi?",
-      "headline": "Erondagi urush jahon energetika tizimini qanday o'zgartiradi? 🌍⚡",
-      "image": "https://gocdn.daryo.uz/large/2026/11/19/86dc68c7a5260cb61799869d63199a04199f1cfef23a930f625c2fce27adbd56.webp",
-      "ts": 1795100453.9929764
-    },
     {
       "source_title": "Rossiya AQSH va Xitoy bilan sammitdan ko‘p o‘tmay Kiyevga hujum qildi (video)",
       "headline": "Rossiya Kiyevga dron hujumi (video) 🚨",
@@ -240,11 +234,17 @@
       "headline": "Elektr energiyasi bazaviy meyori 350 kVt·soatga oshirildi",
       "image": "https://storage.kun.uz/source/1/yDYLz06ndm9aa7P9N3LT0LAI-PLpmwky.webp",
       "ts": 1795271452.123301
+    },
+    {
+      "source_title": "OTMlarning milliy reytingini yuritish tartibiga o‘zgartirishlar kiritildi",
+      "headline": "OTMlarning milliy reytingini yuritish tartibiga o'zgartirishlar kiritildi 📚",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/a9404c08a361323bffd34a94a59a685101bf844626cd247f5a8b34a54259bf2e.webp",
+      "ts": 1795273251.9227998
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795269643.2965841,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 17
+    "count": 18
   }
 }

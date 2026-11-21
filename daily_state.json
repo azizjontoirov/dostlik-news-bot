@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795255252.7466245,
+  "last_post_ts": 1795257046.7095609,
   "recent_posts": [
-    {
-      "source_title": "Президент турк компанияларини мамлакатга янада фаол инвестиция киритишга чорлади",
-      "headline": "Prezident turk kompaniyalarini O'zbekistonga yanada faol investitsiya kiritishga chorladı 🚀",
-      "image": "https://www.gazeta.uz/media/img/2026/11/98es9an0b8875mDleZr17950829346858_211209_og.webp?r=1795083970",
-      "ts": 1795084240.4092107
-    },
     {
       "source_title": "Kia Sonet Prime – besh yilgacha muddatli to‘lov shartlari asosida",
       "headline": "Kia Sonet Prime – 0% yillik stavka, muddatli to'lov! 🚗💰",
@@ -240,11 +234,17 @@
       "headline": "S&P O'zbekistonning kredit reytingini BB+ darajasiga oshirdi 📈",
       "image": "https://www.gazeta.uz/media/img/2019/09/m2KUbx15676841903581_b.jpg",
       "ts": 1795255250.7420244
+    },
+    {
+      "source_title": "General-mayor Omonillaxon Hojiakbarov 15 yilga ozodlikdan mahrum etildi",
+      "headline": "General-mayor Omonillaxon Hojiakbarov 15 yilga qamoqqa hukm qildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/336bf27cc4e69b536e68d3d0b5dfb6cfd80b6ebc0a93672a0cab0857956670ed.webp",
+      "ts": 1795257044.704543
     }
   ],
   "morning_sent_date": "2026-11-21",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795253437.8293684,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-21",
-    "count": 11
+    "count": 12
   }
 }

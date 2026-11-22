@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795314644.057626,
+  "last_post_ts": 1795316452.2745872,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev Xalqaro dzyudo federatsiyasi rahbarini qabul qildi",
-      "headline": "Şavkat Mirziyoyev Marius Vizerni qabul qildi – Judo sohasida yangi hamkorlik! 🤝",
-      "image": "https://storage.kun.uz/source/1/XpQR6e04s87KfKNqMpfO2wvmFz3h0TnO.jpg",
-      "ts": 1795143654.634017
-    },
     {
       "source_title": "Samarqandda salkam ikki kilo opiyni 36 ming dollarga sotayotgan shaxs ushlandi",
       "headline": "Samarqandda 2 kg opiyin 36 000 dollarga sotuvchi ushladi",
@@ -240,11 +234,17 @@
       "headline": "Samarqandda ijarada bo'lg'an qotillik",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/21f70852404710a67178389f26c2d8f092a815ac0404050ebedc9aec73ef0d2a.webp",
       "ts": 1795314642.0534928
+    },
+    {
+      "source_title": "Messi 2030-yilgi JCHda Argentina tarkibida bo‘ladimi?",
+      "headline": "Messi 2030‑yilgi JCHda Argentina shtabida bo'ladimi? ⚽️🤔",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/6811c572e5de648779b3dcade4b2bad8590cd91639305ae39bd3d0d8fb3ffc2c.webp",
+      "ts": 1795316450.2713995
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795312842.9378726,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 1
+    "count": 2
   }
 }

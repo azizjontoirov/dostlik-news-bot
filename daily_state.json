@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795361436.4238396,
+  "last_post_ts": 1795363262.087492,
   "recent_posts": [
-    {
-      "source_title": "Namanganda 8 sotix yerni 12 ming dollarga rasmiylashtirib berishni va’da qilgan shaxs ushlandi",
-      "headline": "Namanganda davlat zaxirasidagi yer sotib olishda firibgarlik holati ⚖️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/b5f56a6bc0a42b0cfd1945d58901fa4ea53811b26e286464c176d42c66b5ff4a.webp",
-      "ts": 1795190452.3172724
-    },
     {
       "source_title": "Тест: «Парвона»ни ва яна «Азиз», «Чинор остидаги дуэль» каби киноларни яхши биласизми?",
       "headline": "Obid Yunusov tavalludi bilan test! 🎉",
@@ -240,11 +234,17 @@
       "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda",
       "image": "https://storage.kun.uz/source/1/mAvB-gL2A60_Z9gKxWfuFO4WEMo1Ge_7.jpg",
       "ts": 1795359653.3302684
+    },
+    {
+      "source_title": "Ekologiya qo‘mitasi Toshkentda havo sifati yomonlashishidan ogohlantirdi",
+      "headline": "Toshkentda havo sifati yomonlashadi – ehtiyot bo'ling! 🌫️",
+      "image": "https://gocdn.daryo.uz/large/2026/10/23/37eec67ae9314b2722e8d29c376ac808b22945880ccebdcbafa9fb1f70a23332.webp",
+      "ts": 1795363260.082171
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795361436.4209075,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 18
+    "count": 19
   }
 }

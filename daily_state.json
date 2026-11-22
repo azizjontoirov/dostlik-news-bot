@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795347047.4879262,
+  "last_post_ts": 1795348853.3901935,
   "recent_posts": [
-    {
-      "source_title": "Дам олиш кунлари Тошкентда қаерларга бориш мумкин? (21 ва 22 ноябрь)",
-      "headline": "Dam olish kunlari Tashkentda qaerga borish mumkin? 🎬🎭 (21‑22 noyabr)",
-      "image": "",
-      "ts": 1795176054.7628567
-    },
     {
       "source_title": "Alif Shop O‘zbekistonda Apple’ning vakolatli hamkori maqomini olgan birinchi marketpleyslardan biri bo‘ldi",
       "headline": "Alif Shop Apple'ning rasmiy hamkori bo'ldi!",
@@ -240,11 +234,17 @@
       "headline": "Yangi banknot va tangalar haqida e'lon 📢",
       "image": "https://storage.kun.uz/source/1/ImAiFo5vCxu-WmRbxOrZCREkyLsi35wm.jpg",
       "ts": 1795347045.484904
+    },
+    {
+      "source_title": "O‘zbekistonda tadbirkorlarni anonim murojaatlar asosida tekshirish taqiqlanadi",
+      "headline": "Tadbirkorlik nazorati anonim murojaatlar asosida taqiqlanadi",
+      "image": "https://gocdn.daryo.uz/large/2026/10/06/e020c4ae9c68b57fd5e38091d097892fae2ec4fd64811da44aae239a2a5cdc45.webp",
+      "ts": 1795348851.3862922
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795345247.021884,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 13
+    "count": 14
   }
 }

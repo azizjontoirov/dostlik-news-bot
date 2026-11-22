@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795352455.0615451,
+  "last_post_ts": 1795354256.5276859,
   "recent_posts": [
-    {
-      "source_title": "Toşkent metrosida poyezdlarga beşinçi vagon qöşiş rejalaştirilmoqda",
-      "headline": "Tashkent metrosida 5‑vagonli poezdlarga kengaytirish rejalashtirilmoqda",
-      "image": "https://storage.kun.uz/source/1/0sogtyBqJBk5qMpMZaCS8qU59aQomRqI.jpg",
-      "ts": 1795181451.990587
-    },
     {
       "source_title": "“Qo‘rquvlar bor” — vazir Rogʻun GESning O‘zbekistonga ta’siri haqida",
       "headline": "Rog'un GES xavflari va O'zbekistondagi suv taqsimoti",
@@ -240,11 +234,17 @@
       "headline": "Farg'onada 15 kg narkotik bilan qo'lga olingan shaxs 11 yilga qamaldi 🚔",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/d3b41902f623cebd441e1592cc134344f816281bfbe7d889c35ebe13e6dd7f2e.webp",
       "ts": 1795352453.057184
+    },
+    {
+      "source_title": "Bugun jahon şaxmat toji uçun Sindorov-Dommaraju bellaşuvining rasmiy oçiliş marosimi bölib ötadi",
+      "headline": "Jahon shaxmat chempionati: Sindorov‑Dommaraju rasmiy ochilish marosimi 🇺🇿🤝🇮🇳",
+      "image": "https://storage.kun.uz/source/1/5trBaCY6VFgo_03xgX7dVEKn0AcM2OBG.webp",
+      "ts": 1795354254.5244856
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795350638.313513,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 15
+    "count": 16
   }
 }

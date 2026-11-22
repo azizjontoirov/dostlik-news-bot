@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795321843.834119,
+  "last_post_ts": 1795323654.5421078,
   "recent_posts": [
     {
       "source_title": "Osiyo futbol konfederatsiyasi yilning eng yaxshi futbolchisi nomini e’lon qildi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795318238.607207,
+    "last_ad_ts": 1795323654.5320585,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 116,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 114,
+      "ad_water": 115,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -266,13 +266,14 @@
     "day": "2026-11-22",
     "today": {
       "ad_flour": 1,
-      "ad_chinor_job": 1
+      "ad_chinor_job": 1,
+      "ad_water": 1
     },
     "last_shown": {
       "ad_flour": 1795312842.93787,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1795280444.1622825,
+      "ad_water": 1795323654.5320559,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

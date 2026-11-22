@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795334457.6340516,
+  "last_post_ts": 1795336252.3133621,
   "recent_posts": [
-    {
-      "source_title": "Ai-80 benzini birjaga chiqarildi, ammo zapravkalarda sotilmaydi — Energetika vazirligi",
-      "headline": "Ai‑80 benzin birjada, lekin zapravkalarda sotilmaydi ⛽️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/c8208352f077b0c8e94663b958a46121bb8321cb046c0fb2b9032a7ac3a21321.webp",
-      "ts": 1795163440.023229
-    },
     {
       "source_title": "Prezident Parkentdagi oilaviy dam olish majmuasini borib ko‘rdi",
       "headline": "Prezident Shavkat Mirziyoyev Parkentdagi Silver Valley oilaviy dam olish majmuasini ko'rib chiqdi",
@@ -240,11 +234,17 @@
       "headline": "Andijonda bank xodimi mijozlarning 3,2 mlrd so'm pulini onlayn qimorga tikib, yutqazdi 🎲🚨",
       "image": "https://storage.kun.uz/source/1/HInZydl4pP5rJvSpGeYnoMGaDuLyRcg0.png",
       "ts": 1795332638.8178706
+    },
+    {
+      "source_title": "Birinchi sinflar 2027/2028-oʻquv yilidan yangi alifboda oʻqishi kutilmoqda",
+      "headline": "Yangi alifboda birinchi sinflar o'qishi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/c8bf0f2cf30309fe7538865eca7ea527c68b5b5203ba2e636faa5bf05e0d060a.webp",
+      "ts": 1795336250.310233
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795334457.632066,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 8
+    "count": 9
   }
 }

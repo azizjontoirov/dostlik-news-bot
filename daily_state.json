@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795330853.241996,
+  "last_post_ts": 1795332640.822507,
   "recent_posts": [
-    {
-      "source_title": "Шавкат Мирзиёев Тошкентдан Паркентга электропоездда борди",
-      "headline": "Шавкат Мирзиёevning elektropoyezdda Parkentga sayohati",
-      "image": "https://www.gazeta.uz/media/img/2026/11/7rsfk8ijrq31as4xThD17951592422459_211278_og.webp?r=1795159735",
-      "ts": 1795159846.4060557
-    },
     {
       "source_title": "Ai-80 benzini birjaga chiqarildi, ammo zapravkalarda sotilmaydi — Energetika vazirligi",
       "headline": "Ai‑80 benzin birjada, lekin zapravkalarda sotilmaydi ⛽️",
@@ -240,11 +234,17 @@
       "headline": "Alifbo yangilanishi: pasport va hujjatlarda o'zgarishlar kutilmoqda",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/98af387fa14466fc99b0f32155db0a17d9e80a69f54211bbaa94fab863ca6af5.webp",
       "ts": 1795330851.2378802
+    },
+    {
+      "source_title": "Andijonda bank xodimi mijozlarning 3,2 mlrd söm pulini onlayn qimorga tikib, yutqazib qöydi",
+      "headline": "Andijonda bank xodimi mijozlarning 3,2 mlrd so'm pulini onlayn qimorga tikib, yutqazdi 🎲🚨",
+      "image": "https://storage.kun.uz/source/1/HInZydl4pP5rJvSpGeYnoMGaDuLyRcg0.png",
+      "ts": 1795332638.8178706
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795329038.3527215,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 7
+    "count": 8
   }
 }

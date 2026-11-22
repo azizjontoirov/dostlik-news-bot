@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795329038.3568957,
+  "last_post_ts": 1795330853.241996,
   "recent_posts": [
-    {
-      "source_title": "Toşkent viloyatidagi boğçalarda köz kasalliklari tarqaldimi?",
-      "headline": "Parkent tumanida 4‑yoshli bolada köz kasalligi alomatlari aniqlandi",
-      "image": "https://storage.kun.uz/source/1/mEhA6RA7ClgfZpCfriEMjwPacj55PmIG.png",
-      "ts": 1795158049.8788936
-    },
     {
       "source_title": "Шавкат Мирзиёев Тошкентдан Паркентга электропоездда борди",
       "headline": "Шавкат Мирзиёevning elektropoyezdda Parkentga sayohati",
@@ -240,11 +234,17 @@
       "headline": "Doimiy holsizlik va jigardagi muammolar o'rtasidagi bog'liqlik 🩺⚡️",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/4f298b3aa12695dd0819126986987378f754893640f32c30b30ab23a6fd01c12.webp",
       "ts": 1795327251.1155262
+    },
+    {
+      "source_title": "Yangilangan alifbo sabab pasport va boshqa hujjatlar almashtiriladimi?",
+      "headline": "Alifbo yangilanishi: pasport va hujjatlarda o'zgarishlar kutilmoqda",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/98af387fa14466fc99b0f32155db0a17d9e80a69f54211bbaa94fab863ca6af5.webp",
+      "ts": 1795330851.2378802
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795329038.3527215,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 6
+    "count": 7
   }
 }

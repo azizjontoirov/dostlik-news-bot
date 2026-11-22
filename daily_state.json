@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795320053.237521,
+  "last_post_ts": 1795321843.834119,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон қўшни давлатлар билан сув ва электр энергияси алмашинувига оид қандай келишувларга эришмоқда? Вазир изоҳи",
-      "headline": "Suv va elektr energiyasi bo'yicha yangi kelishuvlar – Vazir izohi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/jrgef03rul4p2CRBzPK17950956809717_211250_og.webp?r=1795148725",
-      "ts": 1795149039.8629951
-    },
     {
       "source_title": "Osiyo futbol konfederatsiyasi yilning eng yaxshi futbolchisi nomini e’lon qildi",
       "headline": "OFK yildagi eng yaxshi futbolchisi e'lon qilindi!",
@@ -240,11 +234,17 @@
       "headline": "Qarshi shahrida gaz portlashi – ikki kishi jarohatlandi",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/f9e8ba1b1b4cb224f6749dee22390550738735bde3292a2a2c116bf27167e75e.webp",
       "ts": 1795320051.232927
+    },
+    {
+      "source_title": "Xalqaro qidiruvda bo‘lgan sobiq davlat xodimi Turkiyadan Oʻzbekistonga qaytarildi",
+      "headline": "Sobiq davlat xodimi Turkiyadan O'zbekistonga qaytarildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/63c5749260248912c61c94bcfd40317fee51e9c75b3be87e8fe108cee8b1eed5.webp",
+      "ts": 1795321841.8305347
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795318238.607207,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 3
+    "count": 4
   }
 }

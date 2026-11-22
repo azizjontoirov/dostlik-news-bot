@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795323654.5421078,
+  "last_post_ts": 1795325452.6269143,
   "recent_posts": [
-    {
-      "source_title": "Osiyo futbol konfederatsiyasi yilning eng yaxshi futbolchisi nomini e’lon qildi",
-      "headline": "OFK yildagi eng yaxshi futbolchisi e'lon qilindi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/150a5c82134a315e32ba33a3a07ab05417fc80a8d52111ebf8ae0b64e493b0de.webp",
-      "ts": 1795152641.6100078
-    },
     {
       "source_title": "Sunʼiy intellekt dasturlari oʻzbek tilini yaxshiroq tushunishi uchun 6 mlrd soʻzli baza ochildi",
       "headline": "Sun'iy intellekt uchun yirik O'zbek tilidagi korpus ochildi 📚🤖",
@@ -240,11 +234,17 @@
       "headline": "Sobiq davlat xodimi Turkiyadan O'zbekistonga qaytarildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/63c5749260248912c61c94bcfd40317fee51e9c75b3be87e8fe108cee8b1eed5.webp",
       "ts": 1795321841.8305347
+    },
+    {
+      "source_title": "Фарғона водийсига электр энергияси узатувчи 500 кВли «Л-503» тармоғидаги авария бартараф этилди",
+      "headline": "Farxona vodiyasida 500 kV “L‑503” liniyasidagi avariya bartaraf etildi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/apa088p08v7i7k9vNke17953246668351_211381_og.webp?r=1795325087",
+      "ts": 1795325450.623796
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795323654.5320585,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 4
+    "count": 5
   }
 }

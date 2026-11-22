@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795325452.6269143,
+  "last_post_ts": 1795327253.1196272,
   "recent_posts": [
-    {
-      "source_title": "Sunʼiy intellekt dasturlari oʻzbek tilini yaxshiroq tushunishi uchun 6 mlrd soʻzli baza ochildi",
-      "headline": "Sun'iy intellekt uchun yirik O'zbek tilidagi korpus ochildi 📚🤖",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/f15a2899c8a746acbba90a5571346fdd3680f03c70268f803627f76ede713aa7.webp",
-      "ts": 1795154449.7594993
-    },
     {
       "source_title": "Toşkent viloyatidagi boğçalarda köz kasalliklari tarqaldimi?",
       "headline": "Parkent tumanida 4‑yoshli bolada köz kasalligi alomatlari aniqlandi",
@@ -240,11 +234,17 @@
       "headline": "Farxona vodiyasida 500 kV “L‑503” liniyasidagi avariya bartaraf etildi",
       "image": "https://www.gazeta.uz/media/img/2026/11/apa088p08v7i7k9vNke17953246668351_211381_og.webp?r=1795325087",
       "ts": 1795325450.623796
+    },
+    {
+      "source_title": "Doimiy holsizlik va jigardagi muammolar o‘rtasida qanday bog‘liqlik bor?",
+      "headline": "Doimiy holsizlik va jigardagi muammolar o'rtasidagi bog'liqlik 🩺⚡️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/4f298b3aa12695dd0819126986987378f754893640f32c30b30ab23a6fd01c12.webp",
+      "ts": 1795327251.1155262
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795323654.5320585,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 5
+    "count": 6
   }
 }

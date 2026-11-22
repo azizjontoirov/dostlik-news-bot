@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795339841.543005,
+  "last_post_ts": 1795341651.2524216,
   "recent_posts": [
-    {
-      "source_title": "“Ergash akani sevmaslik mumkin emasdi”. 90 yoshli Roza Karimova marhum turmush o‘rtog‘ini har kuni tushida ko‘rishi va hamkasb ayollarning hasadi haqida",
-      "headline": "Ergash akani sevmaslik mumkin emasdi 💔",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/e3f38893f0fc3b987a87fe271dc6f91a55b8ba6efa3551c01bdc93dfe37eb261.webp",
-      "ts": 1795168853.1261313
-    },
     {
       "source_title": "O‘zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazishni rejalashtirmoqda",
       "headline": "O'zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazish maqsadi",
@@ -240,11 +234,17 @@
       "headline": "Shirinlikka ruju qo'yish, uyqusizlik va kamharakatlik – immunitetga xavf! 🍭🛌",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/8626abb83ac29120add6577f6d3198aa31ea8af0e5750c853b7563692fd7a828.webp",
       "ts": 1795338062.615859
+    },
+    {
+      "source_title": "O‘zbekistonda ChatGPT, Gemini va Claude ham yangi alifboga moslashtiriladi",
+      "headline": "ChatGPT, Gemini, Claude yangi alifboga moslashadi 🤖📚",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/39ee57a296b3dff1a506d3c71210e8590c3ce1415fa09616dc36a7a3f2552fdc.webp",
+      "ts": 1795341649.2481005
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795339841.5407934,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 10
+    "count": 11
   }
 }

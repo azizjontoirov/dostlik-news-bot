@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795280444.164694,
+  "last_post_ts": 1795314644.057626,
   "recent_posts": [
-    {
-      "source_title": "Tadbirkorlar uçun tösiqlarni bartaraf etişga doimiy eʼtibor qaratamiz - Saida Mirziyoyeva",
-      "headline": "Saida Mirziyoyeva: Tadbirkorlar uçun tösiqlarni bartaraf etishga doimiy e'tibor!",
-      "image": "https://storage.kun.uz/source/1/ahGsniiAZKknRCbqWGkEGwZGB4jSOSDW.jpg",
-      "ts": 1795141844.704186
-    },
     {
       "source_title": "Şavkat Mirziyoyev Xalqaro dzyudo federatsiyasi rahbarini qabul qildi",
       "headline": "Şavkat Mirziyoyev Marius Vizerni qabul qildi – Judo sohasida yangi hamkorlik! 🤝",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston‑Rossiya harbiy hamkorligi 2027‑yilga kengaytirildi 🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/21/072e17509d59c4ca6d5924c82ff7650fc3bcf09ccc690be0f852fea912f4ca6d.webp",
       "ts": 1795278648.8919964
+    },
+    {
+      "source_title": "Samarqandda yigit ijara uyda tanish qizni bo‘g‘ib o‘ldirdi",
+      "headline": "Samarqandda ijarada bo'lg'an qotillik",
+      "image": "https://gocdn.daryo.uz/large/2026/11/21/21f70852404710a67178389f26c2d8f092a815ac0404050ebedc9aec73ef0d2a.webp",
+      "ts": 1795314642.0534928
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795312842.9378726,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-21",
-    "count": 20
+    "day": "2026-11-22",
+    "count": 1
   }
 }

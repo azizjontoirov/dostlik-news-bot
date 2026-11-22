@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795327253.1196272,
+  "last_post_ts": 1795329038.3568957,
   "recent_posts": [
     {
       "source_title": "Toşkent viloyatidagi boğçalarda köz kasalliklari tarqaldimi?",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795323654.5320585,
+    "last_ad_ts": 1795329038.3527215,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 116,
+      "ad_flour": 117,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 115,
@@ -265,12 +265,12 @@
     "permanent_index": 2,
     "day": "2026-11-22",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_chinor_job": 1,
       "ad_water": 1
     },
     "last_shown": {
-      "ad_flour": 1795312842.93787,
+      "ad_flour": 1795329038.352719,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795323654.5320559,

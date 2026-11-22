@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795343443.2004533,
+  "last_post_ts": 1795345247.0246446,
   "recent_posts": [
     {
       "source_title": "Emirates авиакомпанияси Ўзбекистонга мунтазам рейслар очиш имкониятини кўриб чиқиши мумкин",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795339841.5407934,
+    "last_ad_ts": 1795345247.021884,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 117,
+      "ad_flour": 118,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 116,
@@ -265,12 +265,12 @@
     "permanent_index": 2,
     "day": "2026-11-22",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_chinor_job": 2,
       "ad_water": 2
     },
     "last_shown": {
-      "ad_flour": 1795329038.352719,
+      "ad_flour": 1795345247.0218818,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795339841.540791,

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795316452.2745872,
+  "last_post_ts": 1795318238.610015,
   "recent_posts": [
     {
       "source_title": "Samarqandda salkam ikki kilo opiyni 36 ming dollarga sotayotgan shaxs ushlandi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795312842.9378726,
+    "last_ad_ts": 1795318238.607207,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 116,
@@ -260,12 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 13
+      "ad_chinor_job": 14
     },
     "permanent_index": 2,
     "day": "2026-11-22",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "ad_chinor_job": 1
     },
     "last_shown": {
       "ad_flour": 1795312842.93787,
@@ -279,7 +280,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795275041.5792623
+      "ad_chinor_job": 1795318238.6072044
     },
     "morning_ad_date": "2026-11-22"
   },

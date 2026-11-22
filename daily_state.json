@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795350638.3164496,
+  "last_post_ts": 1795352455.0615451,
   "recent_posts": [
-    {
-      "source_title": "Alif Shop O‘zbekistonda Apple’ning vakolatli hamkori maqomini olgan birinchi marketpleyslardan biri bo‘ldi",
-      "headline": "Alif Shop Apple'ning rasmiy hamkori bo'ldi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/d4ad3692d4d38c7f46c62c242c404d958a86db887bb2cbc1e2e25067dd41d80d.webp",
-      "ts": 1795179657.2776275
-    },
     {
       "source_title": "Toşkent metrosida poyezdlarga beşinçi vagon qöşiş rejalaştirilmoqda",
       "headline": "Tashkent metrosida 5‑vagonli poezdlarga kengaytirish rejalashtirilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Tadbirkorlik nazorati anonim murojaatlar asosida taqiqlanadi",
       "image": "https://gocdn.daryo.uz/large/2026/10/06/e020c4ae9c68b57fd5e38091d097892fae2ec4fd64811da44aae239a2a5cdc45.webp",
       "ts": 1795348851.3862922
+    },
+    {
+      "source_title": "Farg‘onada qariyb 15 kilo narkotik bilan qo‘lga olingan shaxs 11 yilga qamaldi",
+      "headline": "Farg'onada 15 kg narkotik bilan qo'lga olingan shaxs 11 yilga qamaldi 🚔",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/d3b41902f623cebd441e1592cc134344f816281bfbe7d889c35ebe13e6dd7f2e.webp",
+      "ts": 1795352453.057184
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795350638.313513,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 14
+    "count": 15
   }
 }

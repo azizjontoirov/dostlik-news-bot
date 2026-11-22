@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795356043.566012,
+  "last_post_ts": 1795357848.1366258,
   "recent_posts": [
-    {
-      "source_title": "“Qo‘rquvlar bor” — vazir Rogʻun GESning O‘zbekistonga ta’siri haqida",
-      "headline": "Rog'un GES xavflari va O'zbekistondagi suv taqsimoti",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/5d05ef42e41e248efa1d92958a6ecba3d1302e3813a50bef94a4e89548c777f3.webp",
-      "ts": 1795185051.1827831
-    },
     {
       "source_title": "Maktab hojatxonasi – taʼlimning muhim qismi",
       "headline": "Maktab hojatxonasi – ta'limning muhim qismi",
@@ -240,11 +234,17 @@
       "headline": "Jahon shaxmat chempionati: Sindorov‑Dommaraju rasmiy ochilish marosimi 🇺🇿🤝🇮🇳",
       "image": "https://storage.kun.uz/source/1/5trBaCY6VFgo_03xgX7dVEKn0AcM2OBG.webp",
       "ts": 1795354254.5244856
+    },
+    {
+      "source_title": "Qozog‘istondan Toshkentga chang massalari kirib kelayotgani kuzatilmoqda — “O‘zgidromet”",
+      "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda 🌬️🟡",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/f2b5010173b9a674fb9f724ae4335c95988b8247fdb673cb3d8e3ac837ff33e9.webp",
+      "ts": 1795357846.133558
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795356043.5636454,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 16
+    "count": 17
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795332640.822507,
+  "last_post_ts": 1795334457.6340516,
   "recent_posts": [
     {
       "source_title": "Ai-80 benzini birjaga chiqarildi, ammo zapravkalarda sotilmaydi — Energetika vazirligi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795329038.3527215,
+    "last_ad_ts": 1795334457.632066,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 117,
@@ -260,13 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 14
+      "ad_chinor_job": 15
     },
     "permanent_index": 2,
     "day": "2026-11-22",
     "today": {
       "ad_flour": 2,
-      "ad_chinor_job": 1,
+      "ad_chinor_job": 2,
       "ad_water": 1
     },
     "last_shown": {
@@ -281,7 +281,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795318238.6072044
+      "ad_chinor_job": 1795334457.6320634
     },
     "morning_ad_date": "2026-11-22"
   },

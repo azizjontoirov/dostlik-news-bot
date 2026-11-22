@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795357848.1366258,
+  "last_post_ts": 1795359655.3346908,
   "recent_posts": [
-    {
-      "source_title": "Maktab hojatxonasi – taʼlimning muhim qismi",
-      "headline": "Maktab hojatxonasi – ta'limning muhim qismi",
-      "image": "https://storage.kun.uz/source/1/l8-2H1gJ5XQJodrUIgUNQWm_Ug_IzOwP.png",
-      "ts": 1795186856.3467093
-    },
     {
       "source_title": "Namanganda 8 sotix yerni 12 ming dollarga rasmiylashtirib berishni va’da qilgan shaxs ushlandi",
       "headline": "Namanganda davlat zaxirasidagi yer sotib olishda firibgarlik holati ⚖️",
@@ -240,11 +234,17 @@
       "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda 🌬️🟡",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/f2b5010173b9a674fb9f724ae4335c95988b8247fdb673cb3d8e3ac837ff33e9.webp",
       "ts": 1795357846.133558
+    },
+    {
+      "source_title": "Qozoğistondan Toşkentga çang massalari kirib kelayotgani kuzatilmoqda – Özgidromet",
+      "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda",
+      "image": "https://storage.kun.uz/source/1/mAvB-gL2A60_Z9gKxWfuFO4WEMo1Ge_7.jpg",
+      "ts": 1795359653.3302684
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795356043.5636454,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 17
+    "count": 18
   }
 }

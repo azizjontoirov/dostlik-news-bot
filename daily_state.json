@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795336252.3133621,
+  "last_post_ts": 1795338064.6189094,
   "recent_posts": [
-    {
-      "source_title": "Prezident Parkentdagi oilaviy dam olish majmuasini borib ko‘rdi",
-      "headline": "Prezident Shavkat Mirziyoyev Parkentdagi Silver Valley oilaviy dam olish majmuasini ko'rib chiqdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/693f3c2d64b8bdcf73949acd622bc6c2f963c8e211e27656c664cff514b39399.webp",
-      "ts": 1795165253.4219735
-    },
     {
       "source_title": "“Ergash akani sevmaslik mumkin emasdi”. 90 yoshli Roza Karimova marhum turmush o‘rtog‘ini har kuni tushida ko‘rishi va hamkasb ayollarning hasadi haqida",
       "headline": "Ergash akani sevmaslik mumkin emasdi 💔",
@@ -240,11 +234,17 @@
       "headline": "Yangi alifboda birinchi sinflar o'qishi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/c8bf0f2cf30309fe7538865eca7ea527c68b5b5203ba2e636faa5bf05e0d060a.webp",
       "ts": 1795336250.310233
+    },
+    {
+      "source_title": "Shirinlikka ruju qo‘yish, uyqusizlik va kamharakatlik: immunitetga xavf soluvchi odatlar",
+      "headline": "Shirinlikka ruju qo'yish, uyqusizlik va kamharakatlik – immunitetga xavf! 🍭🛌",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/8626abb83ac29120add6577f6d3198aa31ea8af0e5750c853b7563692fd7a828.webp",
+      "ts": 1795338062.615859
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795334457.632066,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 9
+    "count": 10
   }
 }

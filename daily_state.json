@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795363262.087492,
+  "last_post_ts": 1795365045.8164663,
   "recent_posts": [
-    {
-      "source_title": "Тест: «Парвона»ни ва яна «Азиз», «Чинор остидаги дуэль» каби киноларни яхши биласизми?",
-      "headline": "Obid Yunusov tavalludi bilan test! 🎉",
-      "image": "https://www.gazeta.uz/media/img/2026/11/r33fnp9i4ajcdBANNhZ17950842526264_211213_og.webp?r=1795191032",
-      "ts": 1795192261.5667655
-    },
     {
       "source_title": "Кумушкондаги «Олтин бел» сайёҳлик мажмуасини Туркия компанияси бошқаради (+фото)",
       "headline": "Olting bel\" turistik majmuasi Turkiya kompaniyasiga topshirildi 🏨",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda havo sifati yomonlashadi – ehtiyot bo'ling! 🌫️",
       "image": "https://gocdn.daryo.uz/large/2026/10/23/37eec67ae9314b2722e8d29c376ac808b22945880ccebdcbafa9fb1f70a23332.webp",
       "ts": 1795363260.082171
+    },
+    {
+      "source_title": "Özbekistonda 1,3 milliondan ortiq köçmas mulkka bölgan huquq davlat röyxatidan ötkazildi",
+      "headline": "1,3 milliondan ortiq ko'chmas mulk davlat ro'yxatidan o'tkazildi",
+      "image": "https://storage.kun.uz/source/1/uAbE68RRV0nUHgosD4gEVrJz8mJaV8Nm.jpg",
+      "ts": 1795365043.8126981
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795361436.4209075,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 19
+    "count": 20
   }
 }

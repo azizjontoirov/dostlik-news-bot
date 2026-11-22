@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795345247.0246446,
+  "last_post_ts": 1795347047.4879262,
   "recent_posts": [
-    {
-      "source_title": "Emirates авиакомпанияси Ўзбекистонга мунтазам рейслар очиш имкониятини кўриб чиқиши мумкин",
-      "headline": "Emirates O'zbekistonga muntazam reyslar ochishi ko'rib chiqilmoqda ✈️🇺z",
-      "image": "https://www.gazeta.uz/media/img/2026/11/v98m92ptsvgs9nY70Mk17951739100992_211309_og.webp?r=1795174217",
-      "ts": 1795174242.879341
-    },
     {
       "source_title": "Дам олиш кунлари Тошкентда қаерларга бориш мумкин? (21 ва 22 ноябрь)",
       "headline": "Dam olish kunlari Tashkentda qaerga borish mumkin? 🎬🎭 (21‑22 noyabr)",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev Iordaniyaga tashrif buyuradi 🇺🇿🤝🇯🇴",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/9b6d3ee9ed9a9ddc3145ad1014e819283ebb1ac777803d1531ecc9433a77a52d.webp",
       "ts": 1795343441.1971097
+    },
+    {
+      "source_title": "Yangi banknot va tangalar haqida oldindan xabar beriladi – Markaziy bank",
+      "headline": "Yangi banknot va tangalar haqida e'lon 📢",
+      "image": "https://storage.kun.uz/source/1/ImAiFo5vCxu-WmRbxOrZCREkyLsi35wm.jpg",
+      "ts": 1795347045.484904
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795345247.021884,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 12
+    "count": 13
   }
 }

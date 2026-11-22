@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795341651.2524216,
+  "last_post_ts": 1795343443.2004533,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazishni rejalashtirmoqda",
-      "headline": "O'zbekiston qurilish materiallari eksportini 5 mlrd dollarga yetkazish maqsadi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/20/a0ec3146d4d7f1437a45098aca73a166deb676fe9db8644a8d88d281d972285a.webp",
-      "ts": 1795170649.5890749
-    },
     {
       "source_title": "Emirates авиакомпанияси Ўзбекистонга мунтазам рейслар очиш имкониятини кўриб чиқиши мумкин",
       "headline": "Emirates O'zbekistonga muntazam reyslar ochishi ko'rib chiqilmoqda ✈️🇺z",
@@ -240,11 +234,17 @@
       "headline": "ChatGPT, Gemini, Claude yangi alifboga moslashadi 🤖📚",
       "image": "https://gocdn.daryo.uz/large/2026/11/22/39ee57a296b3dff1a506d3c71210e8590c3ce1415fa09616dc36a7a3f2552fdc.webp",
       "ts": 1795341649.2481005
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev 23-noyabr kuni Iordaniyaga tashrif buyuradi",
+      "headline": "Shavkat Mirziyoyev Iordaniyaga tashrif buyuradi 🇺🇿🤝🇯🇴",
+      "image": "https://gocdn.daryo.uz/large/2026/11/22/9b6d3ee9ed9a9ddc3145ad1014e819283ebb1ac777803d1531ecc9433a77a52d.webp",
+      "ts": 1795343441.1971097
     }
   ],
   "morning_sent_date": "2026-11-22",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795339841.5407934,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-22",
-    "count": 11
+    "count": 12
   }
 }

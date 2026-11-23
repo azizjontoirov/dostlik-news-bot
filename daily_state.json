@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795438854.9527516,
+  "last_post_ts": 1795440647.224437,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон Австралия меҳнат бозорига мутахассислар юбориш бўйича музокаралар бошлади",
-      "headline": "z O'zbekiston Avstraliya mehnat bozoriga mutaxassislar yuborish bo'yicha muzokaralar boshlandi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/s1qqniud1lt48TwafqP17952669702745_211366_og.webp?r=1795267017",
-      "ts": 1795267846.6328664
-    },
     {
       "source_title": "Gazlaştirilmagan hududlardagi aholi uçun elektr energiyasining bazaviy meyori 350 kVt·soatga oşirildi",
       "headline": "Elektr energiyasi bazaviy meyori 350 kVt·soatga oshirildi",
@@ -240,11 +234,17 @@
       "headline": "Turonbank rahbari qo'lga olingani haqida izoh 🏦🔍",
       "image": "https://www.gazeta.uz/media/img/2026/11/drkclpqf1qn48acV3Ud17954370839289_211485_og.webp?r=1795438591",
       "ts": 1795438852.9477296
+    },
+    {
+      "source_title": "«O‘zbekfilm» milliy kinokompaniyasi taşkil etiladi",
+      "headline": "O'zbekfilm milliy kinokompaniyasi tashkil etildi",
+      "image": "https://cdnpresona.kundalik.xyz/2026/11/12/07/28/k7iXX06N7eCXjXF0nA.png",
+      "ts": 1795440645.2211084
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795437035.9564328,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 15
+    "count": 16
   }
 }

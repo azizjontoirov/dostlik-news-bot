@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795366844.2400198,
+  "last_post_ts": 1795401045.3362637,
   "recent_posts": [
-    {
-      "source_title": "Кумушкондаги «Олтин бел» сайёҳлик мажмуасини Туркия компанияси бошқаради (+фото)",
-      "headline": "Olting bel\" turistik majmuasi Turkiya kompaniyasiga topshirildi 🏨",
-      "image": "https://www.gazeta.uz/media/img/2026/11/gqu08k2k4v3pcDfj1z917951989584342_211341_og.webp?r=1795205729",
-      "ts": 1795228241.445542
-    },
     {
       "source_title": "Ўзбекистонда чет эл фуқароларини вақтинча сақлаш марказлари ташкил этилиши режалаштирилмоқда",
       "headline": "Ўзбекистонда чет эл фуқароларини вақтинча saqlash markazlari tashkil etilishi 🏢🛂",
@@ -240,11 +234,17 @@
       "headline": "1,3 milliondan ortiq ko'chmas mulk davlat ro'yxatidan o'tkazildi",
       "image": "https://storage.kun.uz/source/1/uAbE68RRV0nUHgosD4gEVrJz8mJaV8Nm.jpg",
       "ts": 1795365043.8126981
+    },
+    {
+      "source_title": "Ўзбекистон шаҳарлари кўчаларида жорий этиш мақсадга мувофиқ бўлмаган тажриба",
+      "headline": "Toshkentda “innovatsion” poyezdli piyodalar yo'li sinovi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/vf1susiqujdrfPtgZcv17953694914048_211408_og.webp?r=1795373574",
+      "ts": 1795401043.3317573
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795399241.6186907,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-22",
-    "count": 20
+    "day": "2026-11-23",
+    "count": 1
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795420844.2792795,
+  "last_post_ts": 1795422645.3976288,
   "recent_posts": [
-    {
-      "source_title": "Navoiy, Namangan va Qo‘qonda umraga yuborish va’dasi bilan pul olgan uch kishi ushlandi",
-      "headline": "Umra vada-sodiqligida firibgarlik – Navoiy, Namangan, Qo'qonda 3 ta ushlash 🕵️‍♂️💰",
-      "image": "https://gocdn.daryo.uz/large/2026/11/21/b24dde26a9683ba740aa2378e3b3ed8c866a8a14f6a04323c6d78c190ebc0876.webp",
-      "ts": 1795249847.6397762
-    },
     {
       "source_title": "General Omonillaxon Hojiakbarov 15 yilga qamaldi",
       "headline": "General Omonillaxon Hojiakbarov 15 yilga qamaldi",
@@ -240,11 +234,17 @@
       "headline": "Soliq qo'mitasidan soxta Telegram kanallarga ogohlantirish ⚠️",
       "image": "https://www.gazeta.uz/media/img/2022/05/hVH6yr16521980849487_b.jpg",
       "ts": 1795419053.811638
+    },
+    {
+      "source_title": "Шахмат тожи учун кураш. Синдаров ва Гукеш Женевадаги тарихий матч олдидан нималар деди?",
+      "headline": "Shaxmat toji uchun kurash – Sindorov va Gukesh Genevada! 🇺🇿🤝🇮🇳",
+      "image": "https://www.gazeta.uz/media/img/2026/11/1mlj6669u6i367A2bRE17953743901474_211456_og.webp?r=1795422135",
+      "ts": 1795422643.3935492
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795420844.2769196,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 8
+    "count": 9
   }
 }

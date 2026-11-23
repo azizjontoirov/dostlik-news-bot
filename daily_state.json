@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795428059.0859904,
+  "last_post_ts": 1795429845.9148462,
   "recent_posts": [
-    {
-      "source_title": "General-mayor Omonillaxon Hojiakbarov 15 yilga ozodlikdan mahrum etildi",
-      "headline": "General-mayor Omonillaxon Hojiakbarov 15 yilga qamoqqa hukm qildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/21/336bf27cc4e69b536e68d3d0b5dfb6cfd80b6ebc0a93672a0cab0857956670ed.webp",
-      "ts": 1795257044.704543
-    },
     {
       "source_title": "Erta qarishni sekinlashtiradi va ozishga yordam beradi: qovoqning 7 ta mo‘jizaviy xususiyati",
       "headline": "Erta qarishni sekinlashtiradi, vazn kamaytiradi 🍂🎃",
@@ -240,11 +234,17 @@
       "headline": "Bu hafta O'zbekistonda havo harorati keskin o'zgaradi",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/474c9c975874d2c8ef223665791d6e1d7e85bea8bfe199d71193a372147d5fbb.webp",
       "ts": 1795428057.0809226
+    },
+    {
+      "source_title": "Ўзбекистонда поездлар ва маҳаллий авиарейслар жадвали туристлар манфаатидан келиб чиқиб қайта кўриб чиқилади",
+      "headline": "Poezd va aviayollarning yangi jadvali – turistlarga qulaylik!",
+      "image": "https://www.gazeta.uz/media/img/2026/07/4lnu7jlea80d3thFlrH17841976068425_211463_og.webp?r=1795429223",
+      "ts": 1795429843.9102588
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795426242.3454053,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 11
+    "count": 12
   }
 }

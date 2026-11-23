@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795415435.578642,
+  "last_post_ts": 1795417254.971121,
   "recent_posts": [
-    {
-      "source_title": "Zang va eski batareykalardan suv tozalovçi material yaratildi",
-      "headline": "Zang va eski batareykalardan suv tozalovchi material yaratildi",
-      "image": "https://storage.kun.uz/source/1/zG474V5bVjsWUiype617xds_gSPgWOsN.webp",
-      "ts": 1795244461.0172508
-    },
     {
       "source_title": "S&P Özbekistonning suveren kredit reytingini oşirdi",
       "headline": "S&P O'zbekistonning suveren kredit reytingini oshirdi 📈🇺z",
@@ -240,11 +234,17 @@
       "headline": "Alifbo o'zgarishi qo'ldagi naqd pulga ta'sir qiladimi? 🤔💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/af4ccdb4fce7f29f9dfbdb40870b7fd758276c0dc857a715db594888f22ddc88.webp",
       "ts": 1795413658.2668114
+    },
+    {
+      "source_title": "Ўзбекистонлик тиббиёт ходимлари Венгрияга ишга жалб қилиниши мумкин",
+      "headline": "Uzbekistanlik tibbiyat xodimlari Vengriyada ishga jalb qilinishi mumkin 🏥",
+      "image": "https://www.gazeta.uz/media/img/2026/11/oahgguacjkohdlgYwEV17954165309145_211442_og.webp?r=1795416617",
+      "ts": 1795417252.9672134
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795415435.5756388,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 6
+    "count": 7
   }
 }

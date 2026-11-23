@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795444249.7756848,
+  "last_post_ts": 1795446058.7279792,
   "recent_posts": [
-    {
-      "source_title": "OTMlarning milliy reytingini yuritish tartibiga o‘zgartirishlar kiritildi",
-      "headline": "OTMlarning milliy reytingini yuritish tartibiga o'zgartirishlar kiritildi 📚",
-      "image": "https://gocdn.daryo.uz/large/2026/11/21/a9404c08a361323bffd34a94a59a685101bf844626cd247f5a8b34a54259bf2e.webp",
-      "ts": 1795273251.9227998
-    },
     {
       "source_title": "Yangilangan alifboga ötiş tartibi belgilanmoqda: pasport, darsliklar va boşqa hujjatlarda qanday özgarişlar böladi?",
       "headline": "Yangilangan alifboga o'tish tartibi belgilanmoqda 📜",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston va Rossiya terma jamoalari o'rtasida javob uchrashuvi rejalashtirilmoqda",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/fe984b23e9a58362379ee1a29fcce71d48253ad83f1725701c06d4b1fbaf5ec2.webp",
       "ts": 1795444247.7711325
+    },
+    {
+      "source_title": "Özbekiston ösmirlari Yamaykani mağlub etib, guruhdan çiqiş imkoniyatini saqlab qoldi",
+      "headline": "Uzbekistan U17 jamoasi Yamaykani mag'lub etdi! 🏆",
+      "image": "https://storage.kun.uz/source/1/5mvRPbY9Cn_DjxlqOl-KSYA7tX_p_ALq.jpg",
+      "ts": 1795446056.7243626
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795442447.8155422,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 17
+    "count": 18
   }
 }

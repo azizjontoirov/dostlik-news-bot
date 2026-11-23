@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795408244.6422536,
+  "last_post_ts": 1795410048.7397456,
   "recent_posts": [
     {
       "source_title": "Toshkent viloyatidagi bog‘chalarda ko‘z kasalligi tarqalmagan — SSB",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795404634.6232479,
+    "last_ad_ts": 1795410048.737163,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 119,
+      "ad_flour": 120,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 118,
@@ -266,10 +266,11 @@
     "day": "2026-11-23",
     "today": {
       "ad_water": 1,
-      "ad_chinor_job": 1
+      "ad_chinor_job": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1795366844.2372353,
+      "ad_flour": 1795410048.73716,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795399241.6186888,

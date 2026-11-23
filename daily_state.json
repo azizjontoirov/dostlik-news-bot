@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795406448.7065172,
+  "last_post_ts": 1795408244.6422536,
   "recent_posts": [
-    {
-      "source_title": "Бобоси билан илк партиялардан шахмат тожи учун матчгача. Жавоҳир Синдаров ҳикояси",
-      "headline": "Javohir Sindarov: yosh g'rossmeysterga yo'l! ♟️",
-      "image": "https://www.gazeta.uz/media/img/2026/11/ifrth2o1gbk1dsJ5Wgz17951911002467_211339_og.webp?r=1795235327",
-      "ts": 1795235445.3333032
-    },
     {
       "source_title": "Toshkent viloyatidagi bog‘chalarda ko‘z kasalligi tarqalmagan — SSB",
       "headline": "Toshkent viloyatidagi bog'chalarda ko'z kasalligi tarqalmadi",
@@ -240,11 +234,17 @@
       "headline": "Yorug'lik bilan chizilmaydigan “zebra” Toshkentda sinovdan o'tkazildi",
       "image": "https://storage.kun.uz/source/1/j1HtM_J3rYvrR2NbkFsQAUmq2gcVvQMy.jpg",
       "ts": 1795406446.7031007
+    },
+    {
+      "source_title": "Андижонда банк ходими мижозларнинг 3,2 млрд сўмдан ортиқ пулини онлайн қиморга тикиб юборгани аниқланди",
+      "headline": "Andijonda bank xodimi mijozlarning 3,2 mlrd so'mdan ortiq pulini onlayn qimorga tikdi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/pgph5rse9cp328xBIOj17954078648474_211417_og.webp?r=1795408054",
+      "ts": 1795408242.6376643
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795404634.6232479,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 3
+    "count": 4
   }
 }

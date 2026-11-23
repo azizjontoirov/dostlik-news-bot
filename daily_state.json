@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795433449.6746259,
+  "last_post_ts": 1795435252.5955703,
   "recent_posts": [
-    {
-      "source_title": "Давлат маблағларини ўзлаштиришда гумонланган собиқ мутасадди Туркияда ушланди",
-      "headline": "Davlat mablag'larini o'zlashtirishda gumonlangan sobiq mutasaddi Turkiyada ushlandi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/qg8jdo7972tudsx2Zxn17952606954384_211358_og.webp?r=1795261153",
-      "ts": 1795262451.529438
-    },
     {
       "source_title": "Ipak yo‘lining unutilgan megapolisi: qadimgi Marv tarixi",
       "headline": "Ipak yo'lining unutilgan megapolisi – qadimgi Marv tarixi",
@@ -240,11 +234,17 @@
       "headline": "Korrupsiya jinoyatlari uchun elektron reyestr joriy etiladi 📋",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/02b476c237bdb46d8c8ab040d280fd515a573993e17232dd7ebf3f4294c5d4d4.webp",
       "ts": 1795433447.6701224
+    },
+    {
+      "source_title": "Oltiariq tumaniga yangi hokim tayinlandi",
+      "headline": "Oltiariq tumaniga yangi hokim tayinlandi 🏛️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/23/d96044938f5fb775f99d72797d3b9734421cdfe767b489ff917be94121545a8f.webp",
+      "ts": 1795435250.590998
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795431648.7149813,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 13
+    "count": 14
   }
 }

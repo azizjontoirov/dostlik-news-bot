@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795426242.3474693,
+  "last_post_ts": 1795428059.0859904,
   "recent_posts": [
-    {
-      "source_title": "S&P Ўзбекистоннинг кредит рейтингини BB+ даражасигача оширди. Инвестициявий даражагача бир поғона қолди",
-      "headline": "S&P O'zbekistonning kredit reytingini BB+ darajasiga oshirdi 📈",
-      "image": "https://www.gazeta.uz/media/img/2019/09/m2KUbx15676841903581_b.jpg",
-      "ts": 1795255250.7420244
-    },
     {
       "source_title": "General-mayor Omonillaxon Hojiakbarov 15 yilga ozodlikdan mahrum etildi",
       "headline": "General-mayor Omonillaxon Hojiakbarov 15 yilga qamoqqa hukm qildi",
@@ -240,11 +234,17 @@
       "headline": "24‑noyabrda To'shkentda sel xavfi ⚠️",
       "image": "https://storage.kun.uz/source/1/uE4sNIoPBdyT3ePDSkD8k08RkmZ8fBIA.jpg",
       "ts": 1795424454.8813233
+    },
+    {
+      "source_title": "O‘zbekistonda bu hafta havo harorati keskin o‘zgarishi mumkin",
+      "headline": "Bu hafta O'zbekistonda havo harorati keskin o'zgaradi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/23/474c9c975874d2c8ef223665791d6e1d7e85bea8bfe199d71193a372147d5fbb.webp",
+      "ts": 1795428057.0809226
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795426242.3454053,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 10
+    "count": 11
   }
 }

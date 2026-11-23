@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795411845.467934,
+  "last_post_ts": 1795413660.269909,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда хизмат кўрсатган журналист ва ёзувчи Абдураззоқ Обрўй вафот этди",
-      "headline": "Abdurazzoq O'bruy vafoti – O'zbekiston jurnalistikasi uchun katta yo'qotish",
-      "image": "https://www.gazeta.uz/media/img/2026/11/po9r2fhbjg59a9dZBvj17952396984757_211347_og.webp?r=1795240090",
-      "ts": 1795240850.0218227
-    },
     {
       "source_title": "Zang va eski batareykalardan suv tozalovçi material yaratildi",
       "headline": "Zang va eski batareykalardan suv tozalovchi material yaratildi",
@@ -240,11 +234,17 @@
       "headline": "O'zLiDePning navbatdagi Kongressi tayyorlanmoqda 🗳️📅",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/a480d13dd1daba862c22c4acb1010b03122263eeb433a2265d3994739fab0390.webp",
       "ts": 1795411843.462274
+    },
+    {
+      "source_title": "Alifbo o‘zgarishi sabab qo‘ldagi naqd pulni ham almashtirish kerakmi?",
+      "headline": "Alifbo o'zgarishi qo'ldagi naqd pulga ta'sir qiladimi? 🤔💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/23/af4ccdb4fce7f29f9dfbdb40870b7fd758276c0dc857a715db594888f22ddc88.webp",
+      "ts": 1795413658.2668114
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795410048.737163,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 5
+    "count": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795446058.7279792,
+  "last_post_ts": 1795447838.3533874,
   "recent_posts": [
     {
       "source_title": "Yangilangan alifboga ötiş tartibi belgilanmoqda: pasport, darsliklar va boşqa hujjatlarda qanday özgarişlar böladi?",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795442447.8155422,
+    "last_ad_ts": 1795447838.3495734,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 122,
@@ -260,13 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 20
+      "ad_chinor_job": 21
     },
     "permanent_index": 2,
     "day": "2026-11-23",
     "today": {
       "ad_water": 3,
-      "ad_chinor_job": 3,
+      "ad_chinor_job": 4,
       "ad_flour": 3
     },
     "last_shown": {
@@ -281,7 +281,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795442447.815539
+      "ad_chinor_job": 1795447838.3495708
     },
     "morning_ad_date": "2026-11-23"
   },

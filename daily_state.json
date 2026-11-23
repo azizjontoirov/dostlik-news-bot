@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795449651.5836084,
+  "last_post_ts": 1795451446.967502,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston va Rossiya 2027-yil uchun harbiy hamkorlik rejasini imzoladi",
-      "headline": "O'zbekiston‑Rossiya harbiy hamkorligi 2027‑yilga kengaytirildi 🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/21/072e17509d59c4ca6d5924c82ff7650fc3bcf09ccc690be0f852fea912f4ca6d.webp",
-      "ts": 1795278648.8919964
-    },
     {
       "source_title": "Samarqandda yigit ijara uyda tanish qizni bo‘g‘ib o‘ldirdi",
       "headline": "Samarqandda ijarada bo'lg'an qotillik",
@@ -240,11 +234,17 @@
       "headline": "Bel og'rig'i oyoqlargacha tarqaladi? “Grija” belgisi bo'lishi mumkin! 🩺⚡",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/fd35164628f74fab0c87726f235c460be7c17750ed62cb8595f98df179dfaff6.webp",
       "ts": 1795449649.5793834
+    },
+    {
+      "source_title": "Шавкат Мирзиёев неварасига хат ёзди. Мактуб унинг бобо сифатидаги қиёфасини очиб беради",
+      "headline": "Shavkat Mirziyoyevning nevaraiga maxsus xat! ✉️🇺🇿",
+      "image": "https://www.gazeta.uz/media/img/2026/11/jknth4gski6i4F4l5X617954473205752_211499_og.webp?r=1795451394",
+      "ts": 1795451444.9635873
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795447838.3495734,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 19
+    "count": 20
   }
 }

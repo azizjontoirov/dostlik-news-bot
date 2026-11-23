@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795402854.5371416,
+  "last_post_ts": 1795404634.625028,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda uch yilda sinovga kirgan pedagoglarning 37,7 foizi sertifikat oldi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795399241.6186907,
+    "last_ad_ts": 1795404634.6232479,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 119,
@@ -260,12 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 17
+      "ad_chinor_job": 18
     },
     "permanent_index": 2,
     "day": "2026-11-23",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_chinor_job": 1
     },
     "last_shown": {
       "ad_flour": 1795366844.2372353,
@@ -279,7 +280,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795361436.4209056
+      "ad_chinor_job": 1795404634.6232452
     },
     "morning_ad_date": "2026-11-23"
   },

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795437035.9587429,
+  "last_post_ts": 1795438854.9527516,
   "recent_posts": [
-    {
-      "source_title": "Ipak yo‘lining unutilgan megapolisi: qadimgi Marv tarixi",
-      "headline": "Ipak yo'lining unutilgan megapolisi – qadimgi Marv tarixi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/21/7db369171d51157cd37c6f64305d80145bf31d20d274838d6501e82617269c16.webp",
-      "ts": 1795266051.780478
-    },
     {
       "source_title": "Ўзбекистон Австралия меҳнат бозорига мутахассислар юбориш бўйича музокаралар бошлади",
       "headline": "z O'zbekiston Avstraliya mehnat bozoriga mutaxassislar yuborish bo'yicha muzokaralar boshlandi",
@@ -240,11 +234,17 @@
       "headline": "Oltiariq tumaniga yangi hokim tayinlandi 🏛️",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/d96044938f5fb775f99d72797d3b9734421cdfe767b489ff917be94121545a8f.webp",
       "ts": 1795435250.590998
+    },
+    {
+      "source_title": "«Туронбанк» банк раҳбари қўлга олингани ҳақидаги хабарларга изоҳ берди",
+      "headline": "Turonbank rahbari qo'lga olingani haqida izoh 🏦🔍",
+      "image": "https://www.gazeta.uz/media/img/2026/11/drkclpqf1qn48acV3Ud17954370839289_211485_og.webp?r=1795438591",
+      "ts": 1795438852.9477296
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795437035.9564328,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 14
+    "count": 15
   }
 }

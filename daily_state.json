@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795442447.8175938,
+  "last_post_ts": 1795444249.7756848,
   "recent_posts": [
-    {
-      "source_title": "Gazlaştirilmagan hududlardagi aholi uçun elektr energiyasining bazaviy meyori 350 kVt·soatga oşirildi",
-      "headline": "Elektr energiyasi bazaviy meyori 350 kVt·soatga oshirildi",
-      "image": "https://storage.kun.uz/source/1/yDYLz06ndm9aa7P9N3LT0LAI-PLpmwky.webp",
-      "ts": 1795271452.123301
-    },
     {
       "source_title": "OTMlarning milliy reytingini yuritish tartibiga o‘zgartirishlar kiritildi",
       "headline": "OTMlarning milliy reytingini yuritish tartibiga o'zgartirishlar kiritildi 📚",
@@ -240,11 +234,17 @@
       "headline": "O'zbekfilm milliy kinokompaniyasi tashkil etildi",
       "image": "https://cdnpresona.kundalik.xyz/2026/11/12/07/28/k7iXX06N7eCXjXF0nA.png",
       "ts": 1795440645.2211084
+    },
+    {
+      "source_title": "O‘zbekiston va Rossiya terma jamoalari o‘rtasida javob uchrashuvi o‘tkazilishi mumkin",
+      "headline": "O'zbekiston va Rossiya terma jamoalari o'rtasida javob uchrashuvi rejalashtirilmoqda",
+      "image": "https://gocdn.daryo.uz/large/2026/11/23/fe984b23e9a58362379ee1a29fcce71d48253ad83f1725701c06d4b1fbaf5ec2.webp",
+      "ts": 1795444247.7711325
     }
   ],
   "morning_sent_date": "2026-11-23",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795442447.8155422,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-23",
-    "count": 16
+    "count": 17
   }
 }

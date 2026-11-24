@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795509049.1295216,
+  "last_post_ts": 1795510853.756038,
   "recent_posts": [
-    {
-      "source_title": "Shirinlikka ruju qo‘yish, uyqusizlik va kamharakatlik: immunitetga xavf soluvchi odatlar",
-      "headline": "Shirinlikka ruju qo'yish, uyqusizlik va kamharakatlik – immunitetga xavf! 🍭🛌",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/8626abb83ac29120add6577f6d3198aa31ea8af0e5750c853b7563692fd7a828.webp",
-      "ts": 1795338062.615859
-    },
     {
       "source_title": "O‘zbekistonda ChatGPT, Gemini va Claude ham yangi alifboga moslashtiriladi",
       "headline": "ChatGPT, Gemini, Claude yangi alifboga moslashadi 🤖📚",
@@ -240,11 +234,17 @@
       "headline": "Surxondaryoda hokim yordamchisi ayolga “ikkinchi xotin” taklif qilib, shilqimlik qildi – 5 kun qamaldi",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/1c8148d7933884410008944ae270fa7edeb0e4f0481d4c1d2c807c633fd304a2.webp",
       "ts": 1795509047.1246781
+    },
+    {
+      "source_title": "Toshkent avtobuslarida yoʻl haqini toʻlamaganlardan 3,6 mlrd soʻmdan ortiq jarima undirildi",
+      "headline": "Toshkent avtobuslarida yo'lovchilarga 3,6 mlrd so'mdan ortiq jarima!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/bc527baedad10d9d1369c58a19baa815e713c42321dd13aa61fbabce2daea7cb.webp",
+      "ts": 1795510851.7517548
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795507257.5866878,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 9
+    "count": 10
   }
 }

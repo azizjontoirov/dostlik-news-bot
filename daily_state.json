@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795518047.3880827,
+  "last_post_ts": 1795519846.0079827,
   "recent_posts": [
-    {
-      "source_title": "Yangi banknot va tangalar haqida oldindan xabar beriladi – Markaziy bank",
-      "headline": "Yangi banknot va tangalar haqida e'lon 📢",
-      "image": "https://storage.kun.uz/source/1/ImAiFo5vCxu-WmRbxOrZCREkyLsi35wm.jpg",
-      "ts": 1795347045.484904
-    },
     {
       "source_title": "O‘zbekistonda tadbirkorlarni anonim murojaatlar asosida tekshirish taqiqlanadi",
       "headline": "Tadbirkorlik nazorati anonim murojaatlar asosida taqiqlanadi",
@@ -240,11 +234,17 @@
       "headline": "To'shkent‑Istanbul reysi ob‑havo tufayli Anqaraga yo'ndirildi",
       "image": "https://storage.kun.uz/source/1/gIPenXwTqMPAOykAyF5w1qA5P2dtbeLD.png",
       "ts": 1795516242.3906236
+    },
+    {
+      "source_title": "Toshkent shahri va Toshkent viloyatini bog‘lovchi yangi avtobus yo‘nalishi ishga tushirildi",
+      "headline": "Toshkent‑Yunusobod yangi avtobus yo'nalishi ishga tushdi!",
+      "image": "https://gocdn.daryo.uz/large/2026/10/27/3ada56151bd7a722f6a4d5d2f1fa711dd8452b4b3ca08bae8d7e86f934cf68c0.webp",
+      "ts": 1795519844.0033646
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795518047.3855176,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 12
+    "count": 13
   }
 }

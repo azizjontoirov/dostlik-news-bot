@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795507257.5887651,
+  "last_post_ts": 1795509049.1295216,
   "recent_posts": [
-    {
-      "source_title": "Birinchi sinflar 2027/2028-oʻquv yilidan yangi alifboda oʻqishi kutilmoqda",
-      "headline": "Yangi alifboda birinchi sinflar o'qishi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/c8bf0f2cf30309fe7538865eca7ea527c68b5b5203ba2e636faa5bf05e0d060a.webp",
-      "ts": 1795336250.310233
-    },
     {
       "source_title": "Shirinlikka ruju qo‘yish, uyqusizlik va kamharakatlik: immunitetga xavf soluvchi odatlar",
       "headline": "Shirinlikka ruju qo'yish, uyqusizlik va kamharakatlik – immunitetga xavf! 🍭🛌",
@@ -240,11 +234,17 @@
       "headline": "Maktabga bir yillik majburiy tayyorlov qonun loyihasi Senatga yuborildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/3ed0c05840b2ef368e184c9e3ba19ec0287de8766bef82047de2cec6ad75525b.webp",
       "ts": 1795505456.2524257
+    },
+    {
+      "source_title": "Surxondaryoda ayolga ikkinchi xotin bo‘lishni taklif etib, shilqimlik qilgan hokim yordamchisi 5 sutkaga qamaldi",
+      "headline": "Surxondaryoda hokim yordamchisi ayolga “ikkinchi xotin” taklif qilib, shilqimlik qildi – 5 kun qamaldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/1c8148d7933884410008944ae270fa7edeb0e4f0481d4c1d2c807c633fd304a2.webp",
+      "ts": 1795509047.1246781
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795507257.5866878,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 8
+    "count": 9
   }
 }

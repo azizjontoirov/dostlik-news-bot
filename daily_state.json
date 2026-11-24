@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795500051.56804,
+  "last_post_ts": 1795501837.4858508,
   "recent_posts": [
     {
       "source_title": "Yangilangan alifbo sabab pasport va boshqa hujjatlar almashtiriladimi?",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795496454.0708785,
+    "last_ad_ts": 1795501837.4807158,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 123,
+      "ad_flour": 124,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 122,
@@ -265,12 +265,12 @@
     "permanent_index": 2,
     "day": "2026-11-24",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_chinor_job": 1,
       "ad_water": 1
     },
     "last_shown": {
-      "ad_flour": 1795485649.5992064,
+      "ad_flour": 1795501837.4807134,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795496454.0708766,

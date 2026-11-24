@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795491035.263315,
+  "last_post_ts": 1795492853.7722015,
   "recent_posts": [
-    {
-      "source_title": "Qarshidagi uyda gaz portlab, ikki kishi jarohatlandi",
-      "headline": "Qarshi shahrida gaz portlashi – ikki kishi jarohatlandi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/f9e8ba1b1b4cb224f6749dee22390550738735bde3292a2a2c116bf27167e75e.webp",
-      "ts": 1795320051.232927
-    },
     {
       "source_title": "Xalqaro qidiruvda bo‘lgan sobiq davlat xodimi Turkiyadan Oʻzbekistonga qaytarildi",
       "headline": "Sobiq davlat xodimi Turkiyadan O'zbekistonga qaytarildi",
@@ -240,11 +234,17 @@
       "headline": "Namangandagi maktabda janjal: o'qituvchi oyligining 30% jarimaga tortildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/23/503050e245fab14c6f8c9d2bb23552452bcf0cc9b84e66ec093c7de14b5732aa.webp",
       "ts": 1795489251.8005812
+    },
+    {
+      "source_title": "Тоғ-кон саноати ва геология вазирига янги ўринбосар тайинланди",
+      "headline": "To'g'kon sanoati va geologiya vazirining o'rinbosari tayinlandi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/e7cmsrkp77nn8CJeMkA17954927485636_211504_og.webp?r=1795492831",
+      "ts": 1795492851.7677865
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795491035.2430885,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 2
+    "count": 3
   }
 }

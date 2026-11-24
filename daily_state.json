@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795496454.0728385,
+  "last_post_ts": 1795498242.6735692,
   "recent_posts": [
-    {
-      "source_title": "Фарғона водийсига электр энергияси узатувчи 500 кВли «Л-503» тармоғидаги авария бартараф этилди",
-      "headline": "Farxona vodiyasida 500 kV “L‑503” liniyasidagi avariya bartaraf etildi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/apa088p08v7i7k9vNke17953246668351_211381_og.webp?r=1795325087",
-      "ts": 1795325450.623796
-    },
     {
       "source_title": "Doimiy holsizlik va jigardagi muammolar o‘rtasida qanday bog‘liqlik bor?",
       "headline": "Doimiy holsizlik va jigardagi muammolar o'rtasidagi bog'liqlik 🩺⚡️",
@@ -240,11 +234,17 @@
       "headline": "Çexiyada “Tinçlik volontyorlari” guruhi tuzildi 🤝",
       "image": "https://storage.kun.uz/source/1/ttdlZrpJSeQiddxCZle_06VJKKrbs2Vi.webp",
       "ts": 1795494642.173058
+    },
+    {
+      "source_title": "“O‘zgidromet” 25-noyabrda qanday ob-havo bo‘lishini ma’lum qildi",
+      "headline": "25‑noyabr ob‑havo prognozi – “O'zgidromet”",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/19cb8e4fcd16c22a77bd0f16a56752c2478f88d1e396f4fadf0cca5e4ebe6853.webp",
+      "ts": 1795498240.6690607
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795496454.0708785,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 4
+    "count": 5
   }
 }

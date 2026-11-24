@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795492853.7722015,
+  "last_post_ts": 1795494644.1780462,
   "recent_posts": [
-    {
-      "source_title": "Xalqaro qidiruvda bo‘lgan sobiq davlat xodimi Turkiyadan Oʻzbekistonga qaytarildi",
-      "headline": "Sobiq davlat xodimi Turkiyadan O'zbekistonga qaytarildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/63c5749260248912c61c94bcfd40317fee51e9c75b3be87e8fe108cee8b1eed5.webp",
-      "ts": 1795321841.8305347
-    },
     {
       "source_title": "Фарғона водийсига электр энергияси узатувчи 500 кВли «Л-503» тармоғидаги авария бартараф этилди",
       "headline": "Farxona vodiyasida 500 kV “L‑503” liniyasidagi avariya bartaraf etildi",
@@ -240,11 +234,17 @@
       "headline": "To'g'kon sanoati va geologiya vazirining o'rinbosari tayinlandi",
       "image": "https://www.gazeta.uz/media/img/2026/11/e7cmsrkp77nn8CJeMkA17954927485636_211504_og.webp?r=1795492831",
       "ts": 1795492851.7677865
+    },
+    {
+      "source_title": "Çexiyada özbekistonlik «Tinçlik volontyorlari» guruhi tuzildi",
+      "headline": "Çexiyada “Tinçlik volontyorlari” guruhi tuzildi 🤝",
+      "image": "https://storage.kun.uz/source/1/ttdlZrpJSeQiddxCZle_06VJKKrbs2Vi.webp",
+      "ts": 1795494642.173058
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795491035.2430885,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 3
+    "count": 4
   }
 }

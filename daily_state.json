@@ -247,10 +247,10 @@
     "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795453253.438769,
+    "last_ad_ts": 1795485649.5992095,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 122,
+      "ad_flour": 123,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 121,
@@ -263,14 +263,12 @@
       "ad_chinor_job": 21
     },
     "permanent_index": 2,
-    "day": "2026-11-23",
+    "day": "2026-11-24",
     "today": {
-      "ad_water": 4,
-      "ad_chinor_job": 4,
-      "ad_flour": 3
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1795437035.9564304,
+      "ad_flour": 1795485649.5992064,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795453253.4387662,
@@ -283,7 +281,7 @@
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795447838.3495708
     },
-    "morning_ad_date": "2026-11-23"
+    "morning_ad_date": "2026-11-24"
   },
   "tg_update_offset": 652091514,
   "news_stats": {

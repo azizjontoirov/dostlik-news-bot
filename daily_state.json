@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795523444.0223446,
+  "last_post_ts": 1795525256.6698558,
   "recent_posts": [
-    {
-      "source_title": "Farg‘onada qariyb 15 kilo narkotik bilan qo‘lga olingan shaxs 11 yilga qamaldi",
-      "headline": "Farg'onada 15 kg narkotik bilan qo'lga olingan shaxs 11 yilga qamaldi 🚔",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/d3b41902f623cebd441e1592cc134344f816281bfbe7d889c35ebe13e6dd7f2e.webp",
-      "ts": 1795352453.057184
-    },
     {
       "source_title": "Bugun jahon şaxmat toji uçun Sindorov-Dommaraju bellaşuvining rasmiy oçiliş marosimi bölib ötadi",
       "headline": "Jahon shaxmat chempionati: Sindorov‑Dommaraju rasmiy ochilish marosimi 🇺🇿🤝🇮🇳",
@@ -240,11 +234,17 @@
       "headline": "Чилонзорда yangi sayilgoh! 🌳",
       "image": "https://www.gazeta.uz/media/img/2026/11/8531sla1bkc2cr323ay17955208707389_211558_og.webp?r=1795521065",
       "ts": 1795521650.544338
+    },
+    {
+      "source_title": "Şavkat Mirziyoyev va Iordaniya podşohi oliy davlat mukofotlari bilan taqdirlandi",
+      "headline": "Prezident Shavkat Mirziyoyev va Iordaniya podshohi Abdulla II oliy davlat mukofotlari bilan taqdirlandi",
+      "image": "https://storage.kun.uz/source/1/-Mq4u1tQArba4tH9jqXvd7XRxj-eyQsW.jpg",
+      "ts": 1795525254.6656125
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795523444.0199497,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 14
+    "count": 15
   }
 }

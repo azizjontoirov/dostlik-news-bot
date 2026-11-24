@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795453253.4410799,
+  "last_post_ts": 1795487447.4264586,
   "recent_posts": [
-    {
-      "source_title": "Samarqandda yigit ijara uyda tanish qizni bo‘g‘ib o‘ldirdi",
-      "headline": "Samarqandda ijarada bo'lg'an qotillik",
-      "image": "https://gocdn.daryo.uz/large/2026/11/21/21f70852404710a67178389f26c2d8f092a815ac0404050ebedc9aec73ef0d2a.webp",
-      "ts": 1795314642.0534928
-    },
     {
       "source_title": "Messi 2030-yilgi JCHda Argentina tarkibida bo‘ladimi?",
       "headline": "Messi 2030‑yilgi JCHda Argentina shtabida bo'ladimi? ⚽️🤔",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyevning nevaraiga maxsus xat! ✉️🇺🇿",
       "image": "https://www.gazeta.uz/media/img/2026/11/jknth4gski6i4F4l5X617954473205752_211499_og.webp?r=1795451394",
       "ts": 1795451444.9635873
+    },
+    {
+      "source_title": "Turkiya chempionati. Shomurodov gol urgan bahsda “Bashakshehir” kambek evaziga g‘alaba qozondi",
+      "headline": "Turkiya Superligasida Shomurodovning hat-trik g'ali!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/054c7e75edf0bcea2aa0f9fc53ee4e353d41f0515b46c37cdf5baa5ee299d6b2.webp",
+      "ts": 1795487445.4219751
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795485649.5992095,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-23",
-    "count": 20
+    "day": "2026-11-24",
+    "count": 1
   }
 }

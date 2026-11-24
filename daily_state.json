@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795498242.6735692,
+  "last_post_ts": 1795500051.56804,
   "recent_posts": [
-    {
-      "source_title": "Doimiy holsizlik va jigardagi muammolar o‘rtasida qanday bog‘liqlik bor?",
-      "headline": "Doimiy holsizlik va jigardagi muammolar o'rtasidagi bog'liqlik 🩺⚡️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/4f298b3aa12695dd0819126986987378f754893640f32c30b30ab23a6fd01c12.webp",
-      "ts": 1795327251.1155262
-    },
     {
       "source_title": "Yangilangan alifbo sabab pasport va boshqa hujjatlar almashtiriladimi?",
       "headline": "Alifbo yangilanishi: pasport va hujjatlarda o'zgarishlar kutilmoqda",
@@ -240,11 +234,17 @@
       "headline": "25‑noyabr ob‑havo prognozi – “O'zgidromet”",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/19cb8e4fcd16c22a77bd0f16a56752c2478f88d1e396f4fadf0cca5e4ebe6853.webp",
       "ts": 1795498240.6690607
+    },
+    {
+      "source_title": "Тошкент туманидаги Кенсой қўрғонини Юнусобод билан боғловчи янги автобус йўналиши ишга туширилди",
+      "headline": "Tashkentda yangi avtobus yo'nalishi ishga tushdi!",
+      "image": "https://www.gazeta.uz/media/img/2026/11/h6516hveg3d80WNGLRK17954993067561_211518_og.webp?r=1795499971",
+      "ts": 1795500049.5646987
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795496454.0708785,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 5
+    "count": 6
   }
 }

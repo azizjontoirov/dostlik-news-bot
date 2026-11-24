@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795536053.550622,
+  "last_post_ts": 1795537843.1579206,
   "recent_posts": [
-    {
-      "source_title": "Özbekistonda 1,3 milliondan ortiq köçmas mulkka bölgan huquq davlat röyxatidan ötkazildi",
-      "headline": "1,3 milliondan ortiq ko'chmas mulk davlat ro'yxatidan o'tkazildi",
-      "image": "https://storage.kun.uz/source/1/uAbE68RRV0nUHgosD4gEVrJz8mJaV8Nm.jpg",
-      "ts": 1795365043.8126981
-    },
     {
       "source_title": "Ўзбекистон шаҳарлари кўчаларида жорий этиш мақсадга мувофиқ бўлмаган тажриба",
       "headline": "Toshkentda “innovatsion” poyezdli piyodalar yo'li sinovi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston‑Iordaniya o'rtasida bojxona bojlari pasaytiriladi",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/b44a166ca94b6435d1c49a8a432837558a12695f5b77a7e2921629f3cbf96873.webp",
       "ts": 1795536051.5464616
+    },
+    {
+      "source_title": "Shavkat Mirziyoyev Iordaniyaga davlat tashrifini yakunlab, Toshkentga joʻnab ketdi",
+      "headline": "Shavkat Mirziyoyev Iordaniyaga davlat tashrifini yakunlab, Toshkentga jo'nab ketdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/03a613bd24230efd8890a60f0eeea1c1703a3111ba9c87ff5da32aa07ec8a8bd.webp",
+      "ts": 1795537841.152969
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795534237.236501,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 19
+    "count": 20
   }
 }

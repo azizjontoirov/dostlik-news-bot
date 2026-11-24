@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795519846.0079827,
+  "last_post_ts": 1795521652.5478168,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda tadbirkorlarni anonim murojaatlar asosida tekshirish taqiqlanadi",
-      "headline": "Tadbirkorlik nazorati anonim murojaatlar asosida taqiqlanadi",
-      "image": "https://gocdn.daryo.uz/large/2026/10/06/e020c4ae9c68b57fd5e38091d097892fae2ec4fd64811da44aae239a2a5cdc45.webp",
-      "ts": 1795348851.3862922
-    },
     {
       "source_title": "Farg‘onada qariyb 15 kilo narkotik bilan qo‘lga olingan shaxs 11 yilga qamaldi",
       "headline": "Farg'onada 15 kg narkotik bilan qo'lga olingan shaxs 11 yilga qamaldi 🚔",
@@ -240,11 +234,17 @@
       "headline": "Toshkent‑Yunusobod yangi avtobus yo'nalishi ishga tushdi!",
       "image": "https://gocdn.daryo.uz/large/2026/10/27/3ada56151bd7a722f6a4d5d2f1fa711dd8452b4b3ca08bae8d7e86f934cf68c0.webp",
       "ts": 1795519844.0033646
+    },
+    {
+      "source_title": "Чилонзордаги Анҳор каналининг 1,7 километрлик қисмида янги сайилгоҳ ташкил этилади",
+      "headline": "Чилонзорда yangi sayilgoh! 🌳",
+      "image": "https://www.gazeta.uz/media/img/2026/11/8531sla1bkc2cr323ay17955208707389_211558_og.webp?r=1795521065",
+      "ts": 1795521650.544338
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795518047.3855176,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 13
+    "count": 14
   }
 }

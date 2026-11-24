@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795532457.4770534,
+  "last_post_ts": 1795534237.2404122,
   "recent_posts": [
     {
       "source_title": "Ekologiya qo‘mitasi Toshkentda havo sifati yomonlashishidan ogohlantirdi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795528858.2683282,
+    "last_ad_ts": 1795534237.236501,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 125,
@@ -260,13 +260,13 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 24
+      "ad_chinor_job": 25
     },
     "permanent_index": 2,
     "day": "2026-11-24",
     "today": {
       "ad_flour": 3,
-      "ad_chinor_job": 3,
+      "ad_chinor_job": 4,
       "ad_water": 3
     },
     "last_shown": {
@@ -281,7 +281,7 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795528858.2683258
+      "ad_chinor_job": 1795534237.2364988
     },
     "morning_ad_date": "2026-11-24"
   },

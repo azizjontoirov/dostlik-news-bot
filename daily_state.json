@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795534237.2404122,
+  "last_post_ts": 1795536053.550622,
   "recent_posts": [
-    {
-      "source_title": "Ekologiya qo‘mitasi Toshkentda havo sifati yomonlashishidan ogohlantirdi",
-      "headline": "Toshkentda havo sifati yomonlashadi – ehtiyot bo'ling! 🌫️",
-      "image": "https://gocdn.daryo.uz/large/2026/10/23/37eec67ae9314b2722e8d29c376ac808b22945880ccebdcbafa9fb1f70a23332.webp",
-      "ts": 1795363260.082171
-    },
     {
       "source_title": "Özbekistonda 1,3 milliondan ortiq köçmas mulkka bölgan huquq davlat röyxatidan ötkazildi",
       "headline": "1,3 milliondan ortiq ko'chmas mulk davlat ro'yxatidan o'tkazildi",
@@ -240,11 +234,17 @@
       "headline": "Prezident O'zbekiston—Iordaniya ko'rgazmasi bilan tanishdi 🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/1a9d83bf5b0327d5b2de374d2239d82220b2b6fb6b0fb8852391e650b0926496.webp",
       "ts": 1795532455.4739013
+    },
+    {
+      "source_title": "O‘zbekiston va Iordaniya o‘rtasida 300 turdagi tovar uchun bojxona bojlari pasaytiriladi",
+      "headline": "O'zbekiston‑Iordaniya o'rtasida bojxona bojlari pasaytiriladi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/b44a166ca94b6435d1c49a8a432837558a12695f5b77a7e2921629f3cbf96873.webp",
+      "ts": 1795536051.5464616
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795534237.236501,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 18
+    "count": 19
   }
 }

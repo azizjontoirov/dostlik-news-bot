@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795503664.8635745,
+  "last_post_ts": 1795505458.2554922,
   "recent_posts": [
-    {
-      "source_title": "Andijonda bank xodimi mijozlarning 3,2 mlrd söm pulini onlayn qimorga tikib, yutqazib qöydi",
-      "headline": "Andijonda bank xodimi mijozlarning 3,2 mlrd so'm pulini onlayn qimorga tikib, yutqazdi 🎲🚨",
-      "image": "https://storage.kun.uz/source/1/HInZydl4pP5rJvSpGeYnoMGaDuLyRcg0.png",
-      "ts": 1795332638.8178706
-    },
     {
       "source_title": "Birinchi sinflar 2027/2028-oʻquv yilidan yangi alifboda oʻqishi kutilmoqda",
       "headline": "Yangi alifboda birinchi sinflar o'qishi!",
@@ -240,11 +234,17 @@
       "headline": "Urganch, Qoshkopir, Oltiariq va Zarbdor tumanlariga yangi hokimlar tayinlandi",
       "image": "https://www.gazeta.uz/media/img/2024/06/k3W7RA17173284212890_b.jpg",
       "ts": 1795503662.8605728
+    },
+    {
+      "source_title": "Maktabga bir yillik majburiy tayyorlovga oid qonun loyihasi Senatga yuborildi",
+      "headline": "Maktabga bir yillik majburiy tayyorlov qonun loyihasi Senatga yuborildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/3ed0c05840b2ef368e184c9e3ba19ec0287de8766bef82047de2cec6ad75525b.webp",
+      "ts": 1795505456.2524257
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795501837.4807158,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 7
+    "count": 8
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795514450.2358246,
+  "last_post_ts": 1795516244.395022,
   "recent_posts": [
-    {
-      "source_title": "Shavkat Mirziyoyev 23-noyabr kuni Iordaniyaga tashrif buyuradi",
-      "headline": "Shavkat Mirziyoyev Iordaniyaga tashrif buyuradi 🇺🇿🤝🇯🇴",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/9b6d3ee9ed9a9ddc3145ad1014e819283ebb1ac777803d1531ecc9433a77a52d.webp",
-      "ts": 1795343441.1971097
-    },
     {
       "source_title": "Yangi banknot va tangalar haqida oldindan xabar beriladi – Markaziy bank",
       "headline": "Yangi banknot va tangalar haqida e'lon 📢",
@@ -240,11 +234,17 @@
       "headline": "Fayzullayevning maydonga qaytishi hali noma'lum",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/b73bdc5556865e0ddbe0b960fdeeede2eae95926aa4b0ba8734e70ca13981e29.webp",
       "ts": 1795514448.2311265
+    },
+    {
+      "source_title": "Toşkent – Istanbul reysi ob-havo tufayli Anqaraga qöndi",
+      "headline": "To'shkent‑Istanbul reysi ob‑havo tufayli Anqaraga yo'ndirildi",
+      "image": "https://storage.kun.uz/source/1/gIPenXwTqMPAOykAyF5w1qA5P2dtbeLD.png",
+      "ts": 1795516242.3906236
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795512639.587347,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 11
+    "count": 12
   }
 }

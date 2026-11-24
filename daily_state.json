@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795530647.063894,
+  "last_post_ts": 1795532457.4770534,
   "recent_posts": [
-    {
-      "source_title": "Qozoğistondan Toşkentga çang massalari kirib kelayotgani kuzatilmoqda – Özgidromet",
-      "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda",
-      "image": "https://storage.kun.uz/source/1/mAvB-gL2A60_Z9gKxWfuFO4WEMo1Ge_7.jpg",
-      "ts": 1795359653.3302684
-    },
     {
       "source_title": "Ekologiya qo‘mitasi Toshkentda havo sifati yomonlashishidan ogohlantirdi",
       "headline": "Toshkentda havo sifati yomonlashadi – ehtiyot bo'ling! 🌫️",
@@ -240,11 +234,17 @@
       "headline": "Ziroat Mirziyoyeva Jordan River Designs shourumida 🇯🇴",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/9e7d49fa197e1847d1315c49790a9004576d3ca6f11e6c79217fe25e90201ab0.webp",
       "ts": 1795530645.0603685
+    },
+    {
+      "source_title": "Prezident Oʻzbekiston—Iordaniya koʻrgazmasi bilan tanishdi",
+      "headline": "Prezident O'zbekiston—Iordaniya ko'rgazmasi bilan tanishdi 🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/1a9d83bf5b0327d5b2de374d2239d82220b2b6fb6b0fb8852391e650b0926496.webp",
+      "ts": 1795532455.4739013
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795528858.2683282,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 17
+    "count": 18
   }
 }

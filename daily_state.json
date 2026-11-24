@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795528858.2703521,
+  "last_post_ts": 1795530647.063894,
   "recent_posts": [
-    {
-      "source_title": "Qozog‘istondan Toshkentga chang massalari kirib kelayotgani kuzatilmoqda — “O‘zgidromet”",
-      "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda 🌬️🟡",
-      "image": "https://gocdn.daryo.uz/large/2026/11/22/f2b5010173b9a674fb9f724ae4335c95988b8247fdb673cb3d8e3ac837ff33e9.webp",
-      "ts": 1795357846.133558
-    },
     {
       "source_title": "Qozoğistondan Toşkentga çang massalari kirib kelayotgani kuzatilmoqda – Özgidromet",
       "headline": "Qozog'istondan Toshkentga chang massalari kirib kelmoqda",
@@ -240,11 +234,17 @@
       "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan muzokara o'tkazdi",
       "image": "https://storage.kun.uz/source/1/AIwqZ7iBIq8hg4ivaejr1K_Glz0bfswq.jpg",
       "ts": 1795527041.5023367
+    },
+    {
+      "source_title": "Ziroat Mirziyoyeva Jordan River Designs hunarmandchilik shourumiga tashrif buyurdi",
+      "headline": "Ziroat Mirziyoyeva Jordan River Designs shourumida 🇯🇴",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/9e7d49fa197e1847d1315c49790a9004576d3ca6f11e6c79217fe25e90201ab0.webp",
+      "ts": 1795530645.0603685
     }
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795528858.2683282,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-24",
-    "count": 16
+    "count": 17
   }
 }

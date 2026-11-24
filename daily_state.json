@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795516244.395022,
+  "last_post_ts": 1795518047.3880827,
   "recent_posts": [
     {
       "source_title": "Yangi banknot va tangalar haqida oldindan xabar beriladi – Markaziy bank",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-24",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795512639.587347,
+    "last_ad_ts": 1795518047.3855176,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 124,
+      "ad_flour": 125,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 123,
@@ -265,12 +265,12 @@
     "permanent_index": 2,
     "day": "2026-11-24",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_chinor_job": 2,
       "ad_water": 2
     },
     "last_shown": {
-      "ad_flour": 1795501837.4807134,
+      "ad_flour": 1795518047.3855152,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795512639.5873444,

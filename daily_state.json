@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795615262.0711596,
+  "last_post_ts": 1795617046.8053775,
   "recent_posts": [
-    {
-      "source_title": "Özbekiston ösmirlari Yamaykani mağlub etib, guruhdan çiqiş imkoniyatini saqlab qoldi",
-      "headline": "Uzbekistan U17 jamoasi Yamaykani mag'lub etdi! 🏆",
-      "image": "https://storage.kun.uz/source/1/5mvRPbY9Cn_DjxlqOl-KSYA7tX_p_ALq.jpg",
-      "ts": 1795446056.7243626
-    },
     {
       "source_title": "Bel og‘rig‘i oyoqlargacha tarqalsa, uvishish va kuchsizlik kuzatilsa, bu “grija” belgisi bo‘lishi mumkin — vertebrolog Rasuljon Rahimov bilan suhbat (video)",
       "headline": "Bel og'rig'i oyoqlargacha tarqaladi? “Grija” belgisi bo'lishi mumkin! 🩺⚡",
@@ -240,11 +234,17 @@
       "headline": "Poyabzallarga raqamli markirovka kiritiladi",
       "image": "https://storage.kun.uz/source/1/FWGvqW2IynKjE-_H78QToo0ExNGDwoiy.webp",
       "ts": 1795615260.0668623
+    },
+    {
+      "source_title": "O‘zbekistonda 2017-yildan buyon 11 mln nafar aholi kambagʻallikdan chiqarildi",
+      "headline": "O'zbekistonda 2017‑yildan beri 11 mln nafar aholi kambag'allikdan chiqarildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/82df477cccb2d793f37b391652360d0e893fbb7c221b6468a3286194c06c28e4.webp",
+      "ts": 1795617044.8008356
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 3,
+    "posts_since_ad": 4,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 17
+    "count": 18
   }
 }

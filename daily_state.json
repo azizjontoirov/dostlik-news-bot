@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795539657.403469,
+  "last_post_ts": 1795573844.5273762,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон шаҳарлари кўчаларида жорий этиш мақсадга мувофиқ бўлмаган тажриба",
-      "headline": "Toshkentda “innovatsion” poyezdli piyodalar yo'li sinovi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/vf1susiqujdrfPtgZcv17953694914048_211408_og.webp?r=1795373574",
-      "ts": 1795401043.3317573
-    },
     {
       "source_title": "Ўзбекистонда 23−29 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
       "headline": "23‑29 noyabrda ob‑havo prognozi 🌡️❄️",
@@ -240,11 +234,17 @@
       "headline": "Shavkat Mirziyoyev Iordaniyaga davlat tashrifini yakunlab, Toshkentga jo'nab ketdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/03a613bd24230efd8890a60f0eeea1c1703a3111ba9c87ff5da32aa07ec8a8bd.webp",
       "ts": 1795537841.152969
+    },
+    {
+      "source_title": "Тўқимачилик, кимё саноати, минераллар ва аграр соҳа: Аммандаги бизнес форумда нималар муҳокама қилинди?",
+      "headline": "Amman biznes forumida yangi hamkorlik yo'nalishlari! 🌍",
+      "image": "https://www.gazeta.uz/media/img/2026/11/lnbatvd08c6mfH7XtRO17955377403055_211600_og.webp?r=1795546638",
+      "ts": 1795573842.5210521
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795572043.3060036,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-24",
-    "count": 20
+    "day": "2026-11-25",
+    "count": 1
   }
 }

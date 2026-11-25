@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795577438.6614666,
+  "last_post_ts": 1795579254.025249,
   "recent_posts": [
-    {
-      "source_title": "Toşkentda yölga çizilmaydigan «zebra» paydo böldi",
-      "headline": "Yorug'lik bilan chizilmaydigan “zebra” Toshkentda sinovdan o'tkazildi",
-      "image": "https://storage.kun.uz/source/1/j1HtM_J3rYvrR2NbkFsQAUmq2gcVvQMy.jpg",
-      "ts": 1795406446.7031007
-    },
     {
       "source_title": "Андижонда банк ходими мижозларнинг 3,2 млрд сўмдан ортиқ пулини онлайн қиморга тикиб юборгани аниқланди",
       "headline": "Andijonda bank xodimi mijozlarning 3,2 mlrd so'mdan ortiq pulini onlayn qimorga tikdi",
@@ -240,11 +234,17 @@
       "headline": "Ziroat Mirziyoyeva Iordaniyadagi “Uyqudagi yetti yosh g'ori” majmuasiga tashrif buyurdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/24/e99cbe7f502b7e09ed3ce559c1e30873a20d1ee5d4f5c81a723b75c18da86882.webp",
       "ts": 1795575656.4701183
+    },
+    {
+      "source_title": "Ohangaronda Cobalt’ning daraxtga urilişi uç kişi hayotiga zomin böldi",
+      "headline": "Ohangaron tumanida Cobalt avtomobili daraxtga urildi",
+      "image": "https://storage.kun.uz/source/1/raKFV9fGpwhewOPWJ_M63nEX2tNNiQKi.jpg",
+      "ts": 1795579252.0209541
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795577438.658787,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 2
+    "count": 3
   }
 }

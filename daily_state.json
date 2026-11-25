@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795595444.8628204,
+  "last_post_ts": 1795597267.3453202,
   "recent_posts": [
-    {
-      "source_title": "24-noyabr kuni Toşkent viloyatining qator hududlarida sel kuzatilişi mumkin",
-      "headline": "24‑noyabrda To'shkentda sel xavfi ⚠️",
-      "image": "https://storage.kun.uz/source/1/uE4sNIoPBdyT3ePDSkD8k08RkmZ8fBIA.jpg",
-      "ts": 1795424454.8813233
-    },
     {
       "source_title": "O‘zbekistonda bu hafta havo harorati keskin o‘zgarishi mumkin",
       "headline": "Bu hafta O'zbekistonda havo harorati keskin o'zgaradi",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston 2027 yilda sayohat uchun eng xavfsiz mamlakatlardan biri! 🌍",
       "image": "https://www.gazeta.uz/media/img/2026/11/1uuk8qho044iaM7b5y117955942391595_211650_og.webp?r=1795595413",
       "ts": 1795595442.8582487
+    },
+    {
+      "source_title": "«Issiqlik elektr stansiyalari»ga yangi rais tayinlandi",
+      "headline": "Issiqlik elektr stansiyalari AJ yangi raisi tayinlandi",
+      "image": "https://storage.kun.uz/source/1/E234AHi5-m4SnmhajfaoOFuxH0hKJf1S.jpg",
+      "ts": 1795597265.341881
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795593647.0097625,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 9
+    "count": 10
   }
 }

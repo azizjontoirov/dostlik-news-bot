@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795590053.997614,
+  "last_post_ts": 1795591841.0254653,
   "recent_posts": [
-    {
-      "source_title": "Солиқ қўмитаси кешбэк ваъда қилувчи сохта Telegram канал ва ботлардан огоҳлантирди",
-      "headline": "Soliq qo'mitasidan soxta Telegram kanallarga ogohlantirish ⚠️",
-      "image": "https://www.gazeta.uz/media/img/2022/05/hVH6yr16521980849487_b.jpg",
-      "ts": 1795419053.811638
-    },
     {
       "source_title": "Шахмат тожи учун кураш. Синдаров ва Гукеш Женевадаги тарихий матч олдидан нималар деди?",
       "headline": "Shaxmat toji uchun kurash – Sindorov va Gukesh Genevada! 🇺🇿🤝🇮🇳",
@@ -240,11 +234,17 @@
       "headline": "Sog'liqni saqlash vazirligi poliklinikalarda elektron navbatlarni to'xtatishga qarshi chiqdi",
       "image": "https://www.gazeta.uz/media/img/2026/11/renl6fbg5dlo6q8txNr17955866792032_211638_og.webp?r=1795589225",
       "ts": 1795590051.9930732
+    },
+    {
+      "source_title": "“Yangi O‘zbekistonda duv-duv gap” badiiy filmi suratga olinadi",
+      "headline": "Yangi O'zbekistonda duv‑duv gap – 2027‑yil Mustaqillik bayrami arafasida prem'yerasi bo'ladigan badiiy film",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/8d8d23e5ba341bea3846dc22806aa9f674db7d6c4b4b767a91176dffd72981cd.webp",
+      "ts": 1795591839.0210009
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795588235.9507797,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 7
+    "count": 8
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795573844.5273762,
+  "last_post_ts": 1795575658.473448,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда 23−29 ноябрь кунлари об-ҳаво қандай бўлади? Gazeta шарҳи",
-      "headline": "23‑29 noyabrda ob‑havo prognozi 🌡️❄️",
-      "image": "https://www.gazeta.uz/media/img/2026/10/jnq79pmcjq083qjwk4a17923885072930_211410_og.webp?r=1795373068",
-      "ts": 1795402852.5324984
-    },
     {
       "source_title": "Toşkentda yölga çizilmaydigan «zebra» paydo böldi",
       "headline": "Yorug'lik bilan chizilmaydigan “zebra” Toshkentda sinovdan o'tkazildi",
@@ -240,11 +234,17 @@
       "headline": "Amman biznes forumida yangi hamkorlik yo'nalishlari! 🌍",
       "image": "https://www.gazeta.uz/media/img/2026/11/lnbatvd08c6mfH7XtRO17955377403055_211600_og.webp?r=1795546638",
       "ts": 1795573842.5210521
+    },
+    {
+      "source_title": "Ziroat Mirziyoyeva Iordaniyadagi “Uyqudagi yetti yosh g‘ori” majmuasiga tashrif buyurdi",
+      "headline": "Ziroat Mirziyoyeva Iordaniyadagi “Uyqudagi yetti yosh g'ori” majmuasiga tashrif buyurdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/24/e99cbe7f502b7e09ed3ce559c1e30873a20d1ee5d4f5c81a723b75c18da86882.webp",
+      "ts": 1795575656.4701183
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795572043.3060036,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 1
+    "count": 2
   }
 }

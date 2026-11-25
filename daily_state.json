@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795575658.473448,
+  "last_post_ts": 1795577438.6614666,
   "recent_posts": [
     {
       "source_title": "Toşkentda yölga çizilmaydigan «zebra» paydo böldi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795572043.3060036,
+    "last_ad_ts": 1795577438.658787,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 126,
+      "ad_flour": 127,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 125,
@@ -265,10 +265,11 @@
     "permanent_index": 2,
     "day": "2026-11-25",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1795539657.4015718,
+      "ad_flour": 1795577438.6587846,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795572043.306001,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795604455.500907,
+  "last_post_ts": 1795606250.6986992,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda korrupsiyaga oid jinoyatlar uchun sudlanganlarga ayrim cheklovlar qo‘llanadi",
-      "headline": "Korrupsiya jinoyatlari uchun elektron reyestr joriy etiladi 📋",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/02b476c237bdb46d8c8ab040d280fd515a573993e17232dd7ebf3f4294c5d4d4.webp",
-      "ts": 1795433447.6701224
-    },
     {
       "source_title": "Oltiariq tumaniga yangi hokim tayinlandi",
       "headline": "Oltiariq tumaniga yangi hokim tayinlandi 🏛️",
@@ -240,11 +234,17 @@
       "headline": "Oqqush – Futbol yulduzining so'nggi sahifasi",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/8fe248801ea7018266ccda6be03f1a05d267e24ba26eb8ab8cc25ea1a26008ad.webp",
       "ts": 1795602644.774271
+    },
+    {
+      "source_title": "Mikromoliya bozorida banklarning uluşi sezilarli kamaydi",
+      "headline": "Mikromoliya bozorida banklarning ulushi keskin kamaydi 📉",
+      "image": "https://storage.kun.uz/source/1/n5s8vPRoe-NLtOkH2RZWF9Nzr4zU-mXv.webp",
+      "ts": 1795606248.6952055
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795604455.4987967,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 12
+    "count": 13
   }
 }

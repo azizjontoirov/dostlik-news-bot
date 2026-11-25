@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795608054.2123618,
+  "last_post_ts": 1795609842.2202692,
   "recent_posts": [
     {
       "source_title": "«Туронбанк» банк раҳбари қўлга олингани ҳақидаги хабарларга изоҳ берди",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795604455.4987967,
+    "last_ad_ts": 1795609842.0051243,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 129,
+      "ad_flour": 130,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 128,
@@ -266,10 +266,10 @@
     "day": "2026-11-25",
     "today": {
       "ad_water": 4,
-      "ad_flour": 3
+      "ad_flour": 4
     },
     "last_shown": {
-      "ad_flour": 1795599041.047075,
+      "ad_flour": 1795609842.0051227,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795604455.4987943,

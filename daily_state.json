@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795593647.0130348,
+  "last_post_ts": 1795595444.8628204,
   "recent_posts": [
-    {
-      "source_title": "Шахмат тожи учун кураш. Синдаров ва Гукеш Женевадаги тарихий матч олдидан нималар деди?",
-      "headline": "Shaxmat toji uchun kurash – Sindorov va Gukesh Genevada! 🇺🇿🤝🇮🇳",
-      "image": "https://www.gazeta.uz/media/img/2026/11/1mlj6669u6i367A2bRE17953743901474_211456_og.webp?r=1795422135",
-      "ts": 1795422643.3935492
-    },
     {
       "source_title": "24-noyabr kuni Toşkent viloyatining qator hududlarida sel kuzatilişi mumkin",
       "headline": "24‑noyabrda To'shkentda sel xavfi ⚠️",
@@ -240,11 +234,17 @@
       "headline": "Yangi O'zbekistonda duv‑duv gap – 2027‑yil Mustaqillik bayrami arafasida prem'yerasi bo'ladigan badiiy film",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/8d8d23e5ba341bea3846dc22806aa9f674db7d6c4b4b767a91176dffd72981cd.webp",
       "ts": 1795591839.0210009
+    },
+    {
+      "source_title": "Ўзбекистон 2027 йилда саёҳат қилиш учун энг хавфсиз мамлакатлардан бири деб топилди",
+      "headline": "O'zbekiston 2027 yilda sayohat uchun eng xavfsiz mamlakatlardan biri! 🌍",
+      "image": "https://www.gazeta.uz/media/img/2026/11/1uuk8qho044iaM7b5y117955942391595_211650_og.webp?r=1795595413",
+      "ts": 1795595442.8582487
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795593647.0097625,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 8
+    "count": 9
   }
 }

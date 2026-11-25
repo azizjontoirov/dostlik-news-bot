@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795613455.141299,
+  "last_post_ts": 1795615262.0711596,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston va Rossiya terma jamoalari o‘rtasida javob uchrashuvi o‘tkazilishi mumkin",
-      "headline": "O'zbekiston va Rossiya terma jamoalari o'rtasida javob uchrashuvi rejalashtirilmoqda",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/fe984b23e9a58362379ee1a29fcce71d48253ad83f1725701c06d4b1fbaf5ec2.webp",
-      "ts": 1795444247.7711325
-    },
     {
       "source_title": "Özbekiston ösmirlari Yamaykani mağlub etib, guruhdan çiqiş imkoniyatini saqlab qoldi",
       "headline": "Uzbekistan U17 jamoasi Yamaykani mag'lub etdi! 🏆",
@@ -240,11 +234,17 @@
       "headline": "Oila a'zolari uchun bepul dori olish tartibi kengaytirildi! 💊",
       "image": "https://www.gazeta.uz/media/img/2026/11/vh8eg74a7ucqazAJ6Xu17955320771137_211687_og.webp?r=1795612430",
       "ts": 1795613453.1338315
+    },
+    {
+      "source_title": "Özbekistonda poyabzallar ham markirovka qilinişi mumkin",
+      "headline": "Poyabzallarga raqamli markirovka kiritiladi",
+      "image": "https://storage.kun.uz/source/1/FWGvqW2IynKjE-_H78QToo0ExNGDwoiy.webp",
+      "ts": 1795615260.0668623
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 3,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 16
+    "count": 17
   }
 }

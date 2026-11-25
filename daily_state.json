@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795611658.37514,
+  "last_post_ts": 1795613455.141299,
   "recent_posts": [
-    {
-      "source_title": "«O‘zbekfilm» milliy kinokompaniyasi taşkil etiladi",
-      "headline": "O'zbekfilm milliy kinokompaniyasi tashkil etildi",
-      "image": "https://cdnpresona.kundalik.xyz/2026/11/12/07/28/k7iXX06N7eCXjXF0nA.png",
-      "ts": 1795440645.2211084
-    },
     {
       "source_title": "O‘zbekiston va Rossiya terma jamoalari o‘rtasida javob uchrashuvi o‘tkazilishi mumkin",
       "headline": "O'zbekiston va Rossiya terma jamoalari o'rtasida javob uchrashuvi rejalashtirilmoqda",
@@ -240,11 +234,17 @@
       "headline": "12‑yillik ta'lim qonuni Senatga yuborildi",
       "image": "https://storage.kun.uz/source/1/uwIPTp-aqqTLBPZz1V11oCb2lvDIj352.jpg",
       "ts": 1795611656.3700082
+    },
+    {
+      "source_title": "Ўзбекистонда бемор қайси дориларни бепул олиши қандай аниқланади?",
+      "headline": "Oila a'zolari uchun bepul dori olish tartibi kengaytirildi! 💊",
+      "image": "https://www.gazeta.uz/media/img/2026/11/vh8eg74a7ucqazAJ6Xu17955320771137_211687_og.webp?r=1795612430",
+      "ts": 1795613453.1338315
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 15
+    "count": 16
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795620665.890672,
+  "last_post_ts": 1795622682.1327255,
   "recent_posts": [
-    {
-      "source_title": "Turkiya chempionati. Shomurodov gol urgan bahsda “Bashakshehir” kambek evaziga g‘alaba qozondi",
-      "headline": "Turkiya Superligasida Shomurodovning hat-trik g'ali!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/054c7e75edf0bcea2aa0f9fc53ee4e353d41f0515b46c37cdf5baa5ee299d6b2.webp",
-      "ts": 1795487445.4219751
-    },
     {
       "source_title": "Namangandagi maktabda janjal: o‘qituvchi oyligining 30 foizi miqdorida jarimaga tortildi",
       "headline": "Namangandagi maktabda janjal: o'qituvchi oyligining 30% jarimaga tortildi",
@@ -240,11 +234,17 @@
       "headline": "Gulnora Karimovaning 252 mln dollarlik mablag'i va yangi uy xaridorlariga qulayliklar",
       "image": "https://storage.kun.uz/source/1/ccT329wYwANLixgQMdEqlvAMmuZSszM5.jpg",
       "ts": 1795620663.8877156
+    },
+    {
+      "source_title": "Qashqadaryoda aholining chorva uchun ozuqa xarid qilish xarajatlarining 10 foizi qoplab berilishi mumkin",
+      "headline": "Qashqadaryoda chorva ozuqasi xarajatlarining 10% qoplamasi! 🐄💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/480ac8c445f1de91ecb43d7c3329a0c3363d3b0e4d063b23c54203bfdbc4b47f.webp",
+      "ts": 1795622680.127368
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 6,
+    "posts_since_ad": 7,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 20
+    "count": 21
   }
 }

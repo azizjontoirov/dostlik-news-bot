@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795599041.0490358,
+  "last_post_ts": 1795600861.6740294,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda bu hafta havo harorati keskin o‘zgarishi mumkin",
-      "headline": "Bu hafta O'zbekistonda havo harorati keskin o'zgaradi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/474c9c975874d2c8ef223665791d6e1d7e85bea8bfe199d71193a372147d5fbb.webp",
-      "ts": 1795428057.0809226
-    },
     {
       "source_title": "Ўзбекистонда поездлар ва маҳаллий авиарейслар жадвали туристлар манфаатидан келиб чиқиб қайта кўриб чиқилади",
       "headline": "Poezd va aviayollarning yangi jadvali – turistlarga qulaylik!",
@@ -240,11 +234,17 @@
       "headline": "Issiqlik elektr stansiyalari AJ yangi raisi tayinlandi",
       "image": "https://storage.kun.uz/source/1/E234AHi5-m4SnmhajfaoOFuxH0hKJf1S.jpg",
       "ts": 1795597265.341881
+    },
+    {
+      "source_title": "UZCARD'dan “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o‘yin g‘oliblari aniqlandi",
+      "headline": "UZCARD “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o'yin g'oliblari aniqlandi 🎉📱",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/ecbc0f96937df922c2669a58ce32376c2923ded6d2f0fa7ed360b414a187d314.webp",
+      "ts": 1795600859.6699777
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795599041.047077,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 10
+    "count": 11
   }
 }

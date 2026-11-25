@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795579254.025249,
+  "last_post_ts": 1795581046.9072583,
   "recent_posts": [
-    {
-      "source_title": "Андижонда банк ходими мижозларнинг 3,2 млрд сўмдан ортиқ пулини онлайн қиморга тикиб юборгани аниқланди",
-      "headline": "Andijonda bank xodimi mijozlarning 3,2 mlrd so'mdan ortiq pulini onlayn qimorga tikdi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/pgph5rse9cp328xBIOj17954078648474_211417_og.webp?r=1795408054",
-      "ts": 1795408242.6376643
-    },
     {
       "source_title": "O‘zLiDePning navbatdagi Kongressiga tayyorgarlik boshlandi",
       "headline": "O'zLiDePning navbatdagi Kongressi tayyorlanmoqda 🗳️📅",
@@ -240,11 +234,17 @@
       "headline": "Ohangaron tumanida Cobalt avtomobili daraxtga urildi",
       "image": "https://storage.kun.uz/source/1/raKFV9fGpwhewOPWJ_M63nEX2tNNiQKi.jpg",
       "ts": 1795579252.0209541
+    },
+    {
+      "source_title": "Bahodir Jo‘rayev “Oʻzbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo‘ldi",
+      "headline": "Bahodir Jo'rayev “O'zbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo'ldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/d920ba20d9d0ead0a0f65770c5e16fa5fb3b8f324d9ae769db4676b0d4ad16de.webp",
+      "ts": 1795581044.902996
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795577438.658787,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 3
+    "count": 4
   }
 }

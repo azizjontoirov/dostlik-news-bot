@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795624250.6184447,
+  "last_post_ts": 1795626058.4309604,
   "recent_posts": [
-    {
-      "source_title": "Тоғ-кон саноати ва геология вазирига янги ўринбосар тайинланди",
-      "headline": "To'g'kon sanoati va geologiya vazirining o'rinbosari tayinlandi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/e7cmsrkp77nn8CJeMkA17954927485636_211504_og.webp?r=1795492831",
-      "ts": 1795492851.7677865
-    },
     {
       "source_title": "Çexiyada özbekistonlik «Tinçlik volontyorlari» guruhi tuzildi",
       "headline": "Çexiyada “Tinçlik volontyorlari” guruhi tuzildi 🤝",
@@ -240,11 +234,17 @@
       "headline": "Javohir Sindorov va Gukesh Dommaraju ikkinchi partiyada durangga erishdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/aae7666f0669e51b433dfab64505a790690944af76e9e8ea716c31357bd86076.webp",
       "ts": 1795624248.6138883
+    },
+    {
+      "source_title": "Prezident huzurida 2027-yilda bölib ötadigan yirik xalqaro tadbirlarga tayyorgarlik köriş masalalari muhokama qilindi",
+      "headline": "Prezident huzurida 2027‑yil yirik xalqaro tadbirlar tayyorligi muhokama qilindi",
+      "image": "https://storage.kun.uz/source/1/FqHgozKzBg8EckGa6CXktA6c-8Pr3wIO.jpg",
+      "ts": 1795626056.4268303
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 8,
+    "posts_since_ad": 9,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 22
+    "count": 23
   }
 }

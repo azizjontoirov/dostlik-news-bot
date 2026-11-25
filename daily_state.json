@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795617046.8053775,
+  "last_post_ts": 1795618866.0989,
   "recent_posts": [
-    {
-      "source_title": "Bel og‘rig‘i oyoqlargacha tarqalsa, uvishish va kuchsizlik kuzatilsa, bu “grija” belgisi bo‘lishi mumkin — vertebrolog Rasuljon Rahimov bilan suhbat (video)",
-      "headline": "Bel og'rig'i oyoqlargacha tarqaladi? “Grija” belgisi bo'lishi mumkin! 🩺⚡",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/fd35164628f74fab0c87726f235c460be7c17750ed62cb8595f98df179dfaff6.webp",
-      "ts": 1795449649.5793834
-    },
     {
       "source_title": "Шавкат Мирзиёев неварасига хат ёзди. Мактуб унинг бобо сифатидаги қиёфасини очиб беради",
       "headline": "Shavkat Mirziyoyevning nevaraiga maxsus xat! ✉️🇺🇿",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonda 2017‑yildan beri 11 mln nafar aholi kambag'allikdan chiqarildi",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/82df477cccb2d793f37b391652360d0e893fbb7c221b6468a3286194c06c28e4.webp",
       "ts": 1795617044.8008356
+    },
+    {
+      "source_title": "Toshkent viloyatida Bo‘zsuv kanaliga zararli oqova suvlar tashlanayotgani aniqlandi",
+      "headline": "Toshkentda Bo'zsuv kanaliga zararli oqova suvlar tushmoqda",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/977411e65a5c5b2debee71b87dc2673e9b181ed26769da4cf0805720fd0b788b.webp",
+      "ts": 1795618864.0955539
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 4,
+    "posts_since_ad": 5,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 18
+    "count": 19
   }
 }

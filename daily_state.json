@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795600861.6740294,
+  "last_post_ts": 1795602646.778913,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда поездлар ва маҳаллий авиарейслар жадвали туристлар манфаатидан келиб чиқиб қайта кўриб чиқилади",
-      "headline": "Poezd va aviayollarning yangi jadvali – turistlarga qulaylik!",
-      "image": "https://www.gazeta.uz/media/img/2026/07/4lnu7jlea80d3thFlrH17841976068425_211463_og.webp?r=1795429223",
-      "ts": 1795429843.9102588
-    },
     {
       "source_title": "O‘zbekistonda korrupsiyaga oid jinoyatlar uchun sudlanganlarga ayrim cheklovlar qo‘llanadi",
       "headline": "Korrupsiya jinoyatlari uchun elektron reyestr joriy etiladi 📋",
@@ -240,11 +234,17 @@
       "headline": "UZCARD “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o'yin g'oliblari aniqlandi 🎉📱",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/ecbc0f96937df922c2669a58ce32376c2923ded6d2f0fa7ed360b414a187d314.webp",
       "ts": 1795600859.6699777
+    },
+    {
+      "source_title": "“Oqqush”. Xirosima qahramoni haqida",
+      "headline": "Oqqush – Futbol yulduzining so'nggi sahifasi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/8fe248801ea7018266ccda6be03f1a05d267e24ba26eb8ab8cc25ea1a26008ad.webp",
+      "ts": 1795602644.774271
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795599041.047077,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 11
+    "count": 12
   }
 }

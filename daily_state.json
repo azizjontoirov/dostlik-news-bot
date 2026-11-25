@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795582854.8752353,
+  "last_post_ts": 1795584654.9681566,
   "recent_posts": [
-    {
-      "source_title": "O‘zLiDePning navbatdagi Kongressiga tayyorgarlik boshlandi",
-      "headline": "O'zLiDePning navbatdagi Kongressi tayyorlanmoqda 🗳️📅",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/a480d13dd1daba862c22c4acb1010b03122263eeb433a2265d3994739fab0390.webp",
-      "ts": 1795411843.462274
-    },
     {
       "source_title": "Alifbo o‘zgarishi sabab qo‘ldagi naqd pulni ham almashtirish kerakmi?",
       "headline": "Alifbo o'zgarishi qo'ldagi naqd pulga ta'sir qiladimi? 🤔💰",
@@ -240,11 +234,17 @@
       "headline": "Bahodir Jo'rayev “O'zbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo'ldi",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/d920ba20d9d0ead0a0f65770c5e16fa5fb3b8f324d9ae769db4676b0d4ad16de.webp",
       "ts": 1795581044.902996
+    },
+    {
+      "source_title": "Кинематография агентлиги тугатилади, кинотеатрлар ягона чипта тизимига уланади, 37 та ташкилот фильм молиялаштиради",
+      "headline": "Kino sohasida yirik islohot!",
+      "image": "https://www.gazeta.uz/media/img/2025/12/c0c71scl2ic06DvEcFv17657999709015_211623_og.webp?r=1795584265",
+      "ts": 1795584652.9645245
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795582854.873288,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 4
+    "count": 5
   }
 }

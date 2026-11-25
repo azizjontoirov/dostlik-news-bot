@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795618866.0989,
+  "last_post_ts": 1795620665.890672,
   "recent_posts": [
-    {
-      "source_title": "Шавкат Мирзиёев неварасига хат ёзди. Мактуб унинг бобо сифатидаги қиёфасини очиб беради",
-      "headline": "Shavkat Mirziyoyevning nevaraiga maxsus xat! ✉️🇺🇿",
-      "image": "https://www.gazeta.uz/media/img/2026/11/jknth4gski6i4F4l5X617954473205752_211499_og.webp?r=1795451394",
-      "ts": 1795451444.9635873
-    },
     {
       "source_title": "Turkiya chempionati. Shomurodov gol urgan bahsda “Bashakshehir” kambek evaziga g‘alaba qozondi",
       "headline": "Turkiya Superligasida Shomurodovning hat-trik g'ali!",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda Bo'zsuv kanaliga zararli oqova suvlar tushmoqda",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/977411e65a5c5b2debee71b87dc2673e9b181ed26769da4cf0805720fd0b788b.webp",
       "ts": 1795618864.0955539
+    },
+    {
+      "source_title": "Gulnora Karimovaning 252 mln dollari va yangi uy xaridorlariga qulaylik - mahalliy dayjest",
+      "headline": "Gulnora Karimovaning 252 mln dollarlik mablag'i va yangi uy xaridorlariga qulayliklar",
+      "image": "https://storage.kun.uz/source/1/ccT329wYwANLixgQMdEqlvAMmuZSszM5.jpg",
+      "ts": 1795620663.8877156
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 5,
+    "posts_since_ad": 6,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 19
+    "count": 20
   }
 }

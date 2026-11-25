@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795588235.9534185,
+  "last_post_ts": 1795590053.997614,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонлик тиббиёт ходимлари Венгрияга ишга жалб қилиниши мумкин",
-      "headline": "Uzbekistanlik tibbiyat xodimlari Vengriyada ishga jalb qilinishi mumkin 🏥",
-      "image": "https://www.gazeta.uz/media/img/2026/11/oahgguacjkohdlgYwEV17954165309145_211442_og.webp?r=1795416617",
-      "ts": 1795417252.9672134
-    },
     {
       "source_title": "Солиқ қўмитаси кешбэк ваъда қилувчи сохта Telegram канал ва ботлардан огоҳлантирди",
       "headline": "Soliq qo'mitasidan soxta Telegram kanallarga ogohlantirish ⚠️",
@@ -240,11 +234,17 @@
       "headline": "Sun'iy intellekt asosida yangi kino asarlari! 🎬",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/886139940c8ca64742e7d7cdf4cf5e3bef89096dd5c96b4cdbfc178ba9746269.webp",
       "ts": 1795586447.1335268
+    },
+    {
+      "source_title": "ССВ поликлиникаларда электрон навбатлар фаолиятини тўхтатиб туришга қарши чиқди",
+      "headline": "Sog'liqni saqlash vazirligi poliklinikalarda elektron navbatlarni to'xtatishga qarshi chiqdi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/renl6fbg5dlo6q8txNr17955866792032_211638_og.webp?r=1795589225",
+      "ts": 1795590051.9930732
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795588235.9507797,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 6
+    "count": 7
   }
 }

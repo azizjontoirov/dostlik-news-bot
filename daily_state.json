@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795586449.137041,
+  "last_post_ts": 1795588235.9534185,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонлик тиббиёт ходимлари Венгрияга ишга жалб қилиниши мумкин",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795582854.873288,
+    "last_ad_ts": 1795588235.9507797,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 127,
+      "ad_flour": 128,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 126,
@@ -266,10 +266,10 @@
     "day": "2026-11-25",
     "today": {
       "ad_water": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1795577438.6587846,
+      "ad_flour": 1795588235.9507775,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795582854.8732855,

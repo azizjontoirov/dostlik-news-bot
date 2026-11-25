@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795622682.1327255,
+  "last_post_ts": 1795624250.6184447,
   "recent_posts": [
-    {
-      "source_title": "Namangandagi maktabda janjal: o‘qituvchi oyligining 30 foizi miqdorida jarimaga tortildi",
-      "headline": "Namangandagi maktabda janjal: o'qituvchi oyligining 30% jarimaga tortildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/503050e245fab14c6f8c9d2bb23552452bcf0cc9b84e66ec093c7de14b5732aa.webp",
-      "ts": 1795489251.8005812
-    },
     {
       "source_title": "Тоғ-кон саноати ва геология вазирига янги ўринбосар тайинланди",
       "headline": "To'g'kon sanoati va geologiya vazirining o'rinbosari tayinlandi",
@@ -240,11 +234,17 @@
       "headline": "Qashqadaryoda chorva ozuqasi xarajatlarining 10% qoplamasi! 🐄💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/480ac8c445f1de91ecb43d7c3329a0c3363d3b0e4d063b23c54203bfdbc4b47f.webp",
       "ts": 1795622680.127368
+    },
+    {
+      "source_title": "Javohir Sindorov va Gukesh Dommaraju o‘rtasida ikkinchi partiya ham durang bilan tugadi",
+      "headline": "Javohir Sindorov va Gukesh Dommaraju ikkinchi partiyada durangga erishdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/aae7666f0669e51b433dfab64505a790690944af76e9e8ea716c31357bd86076.webp",
+      "ts": 1795624248.6138883
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 7,
+    "posts_since_ad": 8,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795609842.0051243,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 21
+    "count": 22
   }
 }

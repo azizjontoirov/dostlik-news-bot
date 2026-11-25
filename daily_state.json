@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795606250.6986992,
+  "last_post_ts": 1795608054.2123618,
   "recent_posts": [
-    {
-      "source_title": "Oltiariq tumaniga yangi hokim tayinlandi",
-      "headline": "Oltiariq tumaniga yangi hokim tayinlandi 🏛️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/d96044938f5fb775f99d72797d3b9734421cdfe767b489ff917be94121545a8f.webp",
-      "ts": 1795435250.590998
-    },
     {
       "source_title": "«Туронбанк» банк раҳбари қўлга олингани ҳақидаги хабарларга изоҳ берди",
       "headline": "Turonbank rahbari qo'lga olingani haqida izoh 🏦🔍",
@@ -240,11 +234,17 @@
       "headline": "Mikromoliya bozorida banklarning ulushi keskin kamaydi 📉",
       "image": "https://storage.kun.uz/source/1/n5s8vPRoe-NLtOkH2RZWF9Nzr4zU-mXv.webp",
       "ts": 1795606248.6952055
+    },
+    {
+      "source_title": "Депутатлар Ўзбекистонда 12 йиллик таълимни жорий этиш тўғрисидаги қонунни қабул қилди",
+      "headline": "12‑yillik ta'lim qonuni qabul qilindi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/44g5tf0h2ki9f5bNf6b17955149721242_211676_og.webp?r=1795607278",
+      "ts": 1795608052.2088463
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795604455.4987967,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 13
+    "count": 14
   }
 }

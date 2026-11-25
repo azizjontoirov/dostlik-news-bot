@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795584654.9681566,
+  "last_post_ts": 1795586449.137041,
   "recent_posts": [
-    {
-      "source_title": "Alifbo o‘zgarishi sabab qo‘ldagi naqd pulni ham almashtirish kerakmi?",
-      "headline": "Alifbo o'zgarishi qo'ldagi naqd pulga ta'sir qiladimi? 🤔💰",
-      "image": "https://gocdn.daryo.uz/large/2026/11/23/af4ccdb4fce7f29f9dfbdb40870b7fd758276c0dc857a715db594888f22ddc88.webp",
-      "ts": 1795413658.2668114
-    },
     {
       "source_title": "Ўзбекистонлик тиббиёт ходимлари Венгрияга ишга жалб қилиниши мумкин",
       "headline": "Uzbekistanlik tibbiyat xodimlari Vengriyada ishga jalb qilinishi mumkin 🏥",
@@ -240,11 +234,17 @@
       "headline": "Kino sohasida yirik islohot!",
       "image": "https://www.gazeta.uz/media/img/2025/12/c0c71scl2ic06DvEcFv17657999709015_211623_og.webp?r=1795584265",
       "ts": 1795584652.9645245
+    },
+    {
+      "source_title": "O‘zbekistonda sunʼiy intellekt texnologiyalari asosida filmlar yaratiladi",
+      "headline": "Sun'iy intellekt asosida yangi kino asarlari! 🎬",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/886139940c8ca64742e7d7cdf4cf5e3bef89096dd5c96b4cdbfc178ba9746269.webp",
+      "ts": 1795586447.1335268
     }
   ],
   "morning_sent_date": "2026-11-25",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795582854.873288,
@@ -287,6 +287,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-25",
-    "count": 5
+    "count": 6
   }
 }

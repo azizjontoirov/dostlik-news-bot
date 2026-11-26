@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795674641.0471196,
+  "last_post_ts": 1795676456.837049,
   "recent_posts": [
-    {
-      "source_title": "Toshkent avtobuslarida yoʻl haqini toʻlamaganlardan 3,6 mlrd soʻmdan ortiq jarima undirildi",
-      "headline": "Toshkent avtobuslarida yo'lovchilarga 3,6 mlrd so'mdan ortiq jarima!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/bc527baedad10d9d1369c58a19baa815e713c42321dd13aa61fbabce2daea7cb.webp",
-      "ts": 1795510851.7517548
-    },
     {
       "source_title": "Fayzullayev qachon maydonga qaytishi ma’lum bo‘ldi",
       "headline": "Fayzullayevning maydonga qaytishi hali noma'lum",
@@ -240,11 +234,17 @@
       "headline": "O'zbek shou‑biznesidagi yangiliklar! 🌟",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/82eec093bb321f227e5d5cc324151b98c85dc0b3efa0385870abe2427c4d6202.webp",
       "ts": 1795672853.1413984
+    },
+    {
+      "source_title": "Toshkent shahri, viloyati va vodiyda 27-noyabr kuni yomgʻir yogʻishi mumkin",
+      "headline": "27‑Noyabrda Toshkent va viloyatlarda yomg'ir kutilmoqda",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/7c88f28121546fee9ad97bed9d293b6bc5269c6166c7c88e35e09f2e913b881f.webp",
+      "ts": 1795676454.8341296
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795674641.0445936,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 6
+    "count": 7
   }
 }

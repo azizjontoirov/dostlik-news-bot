@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795665662.1937325,
+  "last_post_ts": 1795667446.72476,
   "recent_posts": [
-    {
-      "source_title": "Урганч шаҳри ва Қўшкўпир, Олтиариқ ҳамда Зарбдор туманларига янги ҳокимлар тайинланди",
-      "headline": "Urganch, Qoshkopir, Oltiariq va Zarbdor tumanlariga yangi hokimlar tayinlandi",
-      "image": "https://www.gazeta.uz/media/img/2024/06/k3W7RA17173284212890_b.jpg",
-      "ts": 1795503662.8605728
-    },
     {
       "source_title": "Maktabga bir yillik majburiy tayyorlovga oid qonun loyihasi Senatga yuborildi",
       "headline": "Maktabga bir yillik majburiy tayyorlov qonun loyihasi Senatga yuborildi",
@@ -240,11 +234,17 @@
       "headline": "Buxoro markaziy dehqon bozori vaqtincha yopildi 🚧",
       "image": "https://storage.kun.uz/source/1/U8FbJvVsWUr13Jfeb7sD5vlczogslLhw.jpg",
       "ts": 1795665660.1905475
+    },
+    {
+      "source_title": "Ўзбекистонда тадбиркорликни қўллаб-қувватлаш ва кредитлашнинг янги механизмлари жорий этилади",
+      "headline": "Yangi mexanizm: tadbirkorlikni qo'llab‑quvvatlash va kreditlash! 🚀",
+      "image": "https://www.gazeta.uz/media/img/2026/11/aea5gk5fg6h60k54tMy17956669153105_211719_og.webp?r=1795666993",
+      "ts": 1795667444.7220254
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795663838.4331522,
@@ -289,6 +289,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 3
+    "count": 4
   }
 }

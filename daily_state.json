@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795626058.4309604,
+  "last_post_ts": 1795660250.6255436,
   "recent_posts": [
-    {
-      "source_title": "Çexiyada özbekistonlik «Tinçlik volontyorlari» guruhi tuzildi",
-      "headline": "Çexiyada “Tinçlik volontyorlari” guruhi tuzildi 🤝",
-      "image": "https://storage.kun.uz/source/1/ttdlZrpJSeQiddxCZle_06VJKKrbs2Vi.webp",
-      "ts": 1795494642.173058
-    },
     {
       "source_title": "“O‘zgidromet” 25-noyabrda qanday ob-havo bo‘lishini ma’lum qildi",
       "headline": "25‑noyabr ob‑havo prognozi – “O'zgidromet”",
@@ -240,11 +234,17 @@
       "headline": "Prezident huzurida 2027‑yil yirik xalqaro tadbirlar tayyorligi muhokama qilindi",
       "image": "https://storage.kun.uz/source/1/FqHgozKzBg8EckGa6CXktA6c-8Pr3wIO.jpg",
       "ts": 1795626056.4268303
+    },
+    {
+      "source_title": "O‘zbekiston Parij bitimi doirasida Janubiy Koreya bilan hamkorlik uchun 8,5 mln dollar grant oldi",
+      "headline": "O'zbekiston‑Koreya hamkorligi uchun 8,5 mln $ grant olindi 🌱🤝",
+      "image": "https://gocdn.daryo.uz/large/2026/11/25/5d8952492aa74e3bbed4e3189c95a260618552f5bf91943d731c7f216962f9bd.webp",
+      "ts": 1795660248.621188
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795658455.6665556,
@@ -285,7 +285,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-25",
-    "count": 23
+    "day": "2026-11-26",
+    "count": 1
   }
 }

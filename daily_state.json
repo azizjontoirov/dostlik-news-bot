@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795687255.9096482,
+  "last_post_ts": 1795689046.8974607,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev va Iordaniya podşohi oliy davlat mukofotlari bilan taqdirlandi",
-      "headline": "Prezident Shavkat Mirziyoyev va Iordaniya podshohi Abdulla II oliy davlat mukofotlari bilan taqdirlandi",
-      "image": "https://storage.kun.uz/source/1/-Mq4u1tQArba4tH9jqXvd7XRxj-eyQsW.jpg",
-      "ts": 1795525254.6656125
-    },
     {
       "source_title": "Şavkat Mirziyoyev Iordaniya podşohi Abdulla II bilan muzokara ötkazdi",
       "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan muzokara o'tkazdi",
@@ -240,11 +234,17 @@
       "headline": "Qatar‑2026: U‑17 guruhdan chiqish imkoniyati?",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/ba56545ac51a22b6f43837a9f03982f08d3938a2369dbf2ed9749552a6c70f17.webp",
       "ts": 1795687253.9048173
+    },
+    {
+      "source_title": "Валюта курсининг ўзгариши октябрда инфляцион кутилмаларнинг асосий омили бўлди",
+      "headline": "Valyuta kursining o'zgarishi inflyatsiya kutilmalariga ta'sir ko'rsatdi",
+      "image": "https://www.gazeta.uz/media/img/2025/02/tJE1dW17387413472200_b.jpg",
+      "ts": 1795689044.8932223
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795685441.125718,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 11
+    "count": 12
   }
 }

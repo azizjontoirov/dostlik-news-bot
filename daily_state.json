@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795692651.133509,
+  "last_post_ts": 1795694460.3186197,
   "recent_posts": [
-    {
-      "source_title": "Ziroat Mirziyoyeva Jordan River Designs hunarmandchilik shourumiga tashrif buyurdi",
-      "headline": "Ziroat Mirziyoyeva Jordan River Designs shourumida 🇯🇴",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/9e7d49fa197e1847d1315c49790a9004576d3ca6f11e6c79217fe25e90201ab0.webp",
-      "ts": 1795530645.0603685
-    },
     {
       "source_title": "Prezident Oʻzbekiston—Iordaniya koʻrgazmasi bilan tanishdi",
       "headline": "Prezident O'zbekiston—Iordaniya ko'rgazmasi bilan tanishdi 🤝",
@@ -240,11 +234,17 @@
       "headline": "1-dekabrda O'zbekistonda muhim o'zgarishlar!",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/067575486beb4f55e2dd3b52e2136cec9e1667f748f6a71bf0644053aee81b53.webp",
       "ts": 1795692649.1294498
+    },
+    {
+      "source_title": "O‘zbekistonda zo‘ravonlik va boshqa huquqbuzarlik holatlari haqida xabar berish tartibi belgilandi",
+      "headline": "Zo'ravonlik va huquqbuzarlik holatlari haqida xabar berish tartibi belgilandi 📞⚖️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/8f14a6f51128529938a2698d7873c3ffea1c4af46c63273af978351ddc12f0cf.webp",
+      "ts": 1795694458.3155687
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795690856.4277,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 13
+    "count": 14
   }
 }

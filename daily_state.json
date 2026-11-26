@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795681859.259078,
+  "last_post_ts": 1795683652.4055824,
   "recent_posts": [
-    {
-      "source_title": "Toshkent shahri va Toshkent viloyatini bog‘lovchi yangi avtobus yo‘nalishi ishga tushirildi",
-      "headline": "Toshkent‑Yunusobod yangi avtobus yo'nalishi ishga tushdi!",
-      "image": "https://gocdn.daryo.uz/large/2026/10/27/3ada56151bd7a722f6a4d5d2f1fa711dd8452b4b3ca08bae8d7e86f934cf68c0.webp",
-      "ts": 1795519844.0033646
-    },
     {
       "source_title": "Чилонзордаги Анҳор каналининг 1,7 километрлик қисмида янги сайилгоҳ ташкил этилади",
       "headline": "Чилонзорда yangi sayilgoh! 🌳",
@@ -240,11 +234,17 @@
       "headline": "Ochiq sud majlislarini kuzatish bo'yicha jamoat vakillari tayyorlanmoqda",
       "image": "https://www.gazeta.uz/media/img/2026/11/jnnd40ub9dg0ay0Fcra17956222998614_211747_og.webp?r=1795680978",
       "ts": 1795681857.2555902
+    },
+    {
+      "source_title": "Infarkt to‘satdan yuz bermaydi: olimlar kasallikning simptomlari qachon paydo bo‘lishini aniqladi",
+      "headline": "Infarkt oldini olish mumkin! 🫀🔎",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/6445e5ebc099fc697f0d3f65a30a30047393c059821c0471688aa22278649e23.webp",
+      "ts": 1795683650.4014916
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795680043.5637846,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 9
+    "count": 10
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795705257.791224,
+  "last_post_ts": 1795707042.2279017,
   "recent_posts": [
     {
       "source_title": "Ziroat Mirziyoyeva Iordaniyadagi “Uyqudagi yetti yosh g‘ori” majmuasiga tashrif buyurdi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795701648.7020776,
+    "last_ad_ts": 1795707042.225495,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 133,
@@ -261,13 +261,13 @@
       "ad_moto": 1,
       "ad_home2": 4,
       "ad_chinor_job": 25,
-      "ad_jcb": 3
+      "ad_jcb": 4
     },
     "permanent_index": 2,
     "day": "2026-11-26",
     "today": {
       "ad_water": 3,
-      "ad_jcb": 3,
+      "ad_jcb": 4,
       "ad_flour": 3
     },
     "last_shown": {
@@ -283,7 +283,7 @@
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795534237.2364988,
-      "ad_jcb": 1795701648.7020745
+      "ad_jcb": 1795707042.225493
     },
     "morning_ad_date": "2026-11-26"
   },

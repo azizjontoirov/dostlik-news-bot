@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795703449.4748333,
+  "last_post_ts": 1795705257.791224,
   "recent_posts": [
-    {
-      "source_title": "Тўқимачилик, кимё саноати, минераллар ва аграр соҳа: Аммандаги бизнес форумда нималар муҳокама қилинди?",
-      "headline": "Amman biznes forumida yangi hamkorlik yo'nalishlari! 🌍",
-      "image": "https://www.gazeta.uz/media/img/2026/11/lnbatvd08c6mfH7XtRO17955377403055_211600_og.webp?r=1795546638",
-      "ts": 1795573842.5210521
-    },
     {
       "source_title": "Ziroat Mirziyoyeva Iordaniyadagi “Uyqudagi yetti yosh g‘ori” majmuasiga tashrif buyurdi",
       "headline": "Ziroat Mirziyoyeva Iordaniyadagi “Uyqudagi yetti yosh g'ori” majmuasiga tashrif buyurdi",
@@ -240,11 +234,17 @@
       "headline": "Chirchiqda “samosud” guruhiga qarshi tezkor choralar",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/117e981605d96ea46786d98ebb05c532446bf2523382f3bd8e732e5394e7256c.webp",
       "ts": 1795703447.4704986
+    },
+    {
+      "source_title": "Toshkentda uyiga mulk huquqi bekor qilingan ayolning shikoyati qayta ko‘rib chiqiladigan bo‘ldi",
+      "headline": "Toshkentda uyiga mulk huquqi bekor qilingan ayolning shikoyati qayta ko'rib chiqilmoqda 🏠⚖️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/ce23e92cb7b5f3b20823ae94ea83baa3ee92b57ac94717fe13d3545322e1f4b8.webp",
+      "ts": 1795705255.786814
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795701648.7020776,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 17
+    "count": 18
   }
 }

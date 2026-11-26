@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795696243.7760947,
+  "last_post_ts": 1795698052.4489346,
   "recent_posts": [
-    {
-      "source_title": "Prezident Oʻzbekiston—Iordaniya koʻrgazmasi bilan tanishdi",
-      "headline": "Prezident O'zbekiston—Iordaniya ko'rgazmasi bilan tanishdi 🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/1a9d83bf5b0327d5b2de374d2239d82220b2b6fb6b0fb8852391e650b0926496.webp",
-      "ts": 1795532455.4739013
-    },
     {
       "source_title": "O‘zbekiston va Iordaniya o‘rtasida 300 turdagi tovar uchun bojxona bojlari pasaytiriladi",
       "headline": "O'zbekiston‑Iordaniya o'rtasida bojxona bojlari pasaytiriladi",
@@ -240,11 +234,17 @@
       "headline": "Zo'ravonlik va huquqbuzarlik holatlari haqida xabar berish tartibi belgilandi 📞⚖️",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/8f14a6f51128529938a2698d7873c3ffea1c4af46c63273af978351ddc12f0cf.webp",
       "ts": 1795694458.3155687
+    },
+    {
+      "source_title": "Toshkent shahridagi Vebster universitetida Javohir Sindarov o‘yinlari uchun fanzona tashkil etildi",
+      "headline": "Javohir Sindarov shaxmat fanzonasi Toshkentda! ♟️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/19a7cb97a82cb763d11482b226e79b18a68d6e2a19925abf051d3bbe153ee56a.webp",
+      "ts": 1795698050.445219
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795696243.7734737,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 14
+    "count": 15
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795671046.647584,
+  "last_post_ts": 1795672855.1547177,
   "recent_posts": [
-    {
-      "source_title": "Surxondaryoda ayolga ikkinchi xotin bo‘lishni taklif etib, shilqimlik qilgan hokim yordamchisi 5 sutkaga qamaldi",
-      "headline": "Surxondaryoda hokim yordamchisi ayolga “ikkinchi xotin” taklif qilib, shilqimlik qildi – 5 kun qamaldi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/1c8148d7933884410008944ae270fa7edeb0e4f0481d4c1d2c807c633fd304a2.webp",
-      "ts": 1795509047.1246781
-    },
     {
       "source_title": "Toshkent avtobuslarida yoʻl haqini toʻlamaganlardan 3,6 mlrd soʻmdan ortiq jarima undirildi",
       "headline": "Toshkent avtobuslarida yo'lovchilarga 3,6 mlrd so'mdan ortiq jarima!",
@@ -240,11 +234,17 @@
       "headline": "Ўмон, Иордания ва Туркия билан “yo'l xaritalari” tuzilmoqda",
       "image": "https://www.gazeta.uz/media/img/2026/11/canlsc29m45perQ1fY517956701766126_211730_og.webp?r=1795670239",
       "ts": 1795671044.6441576
+    },
+    {
+      "source_title": "Instagram: Keksa muxlisiga sovg‘a bergan Avaz Oxun, farzand kutayotgan aktrisa, og‘ir judolikka uchragan Avazbek Alimov",
+      "headline": "O'zbek shou‑biznesidagi yangiliklar! 🌟",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/82eec093bb321f227e5d5cc324151b98c85dc0b3efa0385870abe2427c4d6202.webp",
+      "ts": 1795672853.1413984
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795669255.4113786,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 5
+    "count": 6
   }
 }

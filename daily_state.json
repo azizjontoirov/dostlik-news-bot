@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795690856.4292822,
+  "last_post_ts": 1795692651.133509,
   "recent_posts": [
-    {
-      "source_title": "Şavkat Mirziyoyev Iordaniya podşohi Abdulla II bilan muzokara ötkazdi",
-      "headline": "Prezident Shavkat Mirziyoyev Iordaniya podshohi Abdulla II bilan muzokara o'tkazdi",
-      "image": "https://storage.kun.uz/source/1/AIwqZ7iBIq8hg4ivaejr1K_Glz0bfswq.jpg",
-      "ts": 1795527041.5023367
-    },
     {
       "source_title": "Ziroat Mirziyoyeva Jordan River Designs hunarmandchilik shourumiga tashrif buyurdi",
       "headline": "Ziroat Mirziyoyeva Jordan River Designs shourumida 🇯🇴",
@@ -240,11 +234,17 @@
       "headline": "Valyuta kursining o'zgarishi inflyatsiya kutilmalariga ta'sir ko'rsatdi",
       "image": "https://www.gazeta.uz/media/img/2025/02/tJE1dW17387413472200_b.jpg",
       "ts": 1795689044.8932223
+    },
+    {
+      "source_title": "O‘zbekistonda 1-dekabrdan nimalar o‘zgaradi?",
+      "headline": "1-dekabrda O'zbekistonda muhim o'zgarishlar!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/067575486beb4f55e2dd3b52e2136cec9e1667f748f6a71bf0644053aee81b53.webp",
+      "ts": 1795692649.1294498
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795690856.4277,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 12
+    "count": 13
   }
 }

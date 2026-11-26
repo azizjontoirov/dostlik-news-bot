@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795683652.4055824,
+  "last_post_ts": 1795685441.1361146,
   "recent_posts": [
     {
       "source_title": "Чилонзордаги Анҳор каналининг 1,7 километрлик қисмида янги сайилгоҳ ташкил этилади",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795680043.5637846,
+    "last_ad_ts": 1795685441.125718,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 131,
+      "ad_flour": 132,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 130,
@@ -268,10 +268,10 @@
     "today": {
       "ad_water": 2,
       "ad_jcb": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1795669255.4113765,
+      "ad_flour": 1795685441.1257164,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795674641.0445917,

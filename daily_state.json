@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795678252.5563123,
+  "last_post_ts": 1795680043.5666168,
   "recent_posts": [
     {
       "source_title": "Toşkent – Istanbul reysi ob-havo tufayli Anqaraga qöndi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795674641.0445936,
+    "last_ad_ts": 1795680043.5637846,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 131,
@@ -261,13 +261,13 @@
       "ad_moto": 1,
       "ad_home2": 4,
       "ad_chinor_job": 25,
-      "ad_jcb": 1
+      "ad_jcb": 2
     },
     "permanent_index": 2,
     "day": "2026-11-26",
     "today": {
       "ad_water": 2,
-      "ad_jcb": 1,
+      "ad_jcb": 2,
       "ad_flour": 1
     },
     "last_shown": {
@@ -283,7 +283,7 @@
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795534237.2364988,
-      "ad_jcb": 1795663838.4331498
+      "ad_jcb": 1795680043.5637825
     },
     "morning_ad_date": "2026-11-26"
   },

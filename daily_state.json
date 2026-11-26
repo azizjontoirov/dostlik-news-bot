@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795708858.1721869,
+  "last_post_ts": 1795710647.8455396,
   "recent_posts": [
-    {
-      "source_title": "Ohangaronda Cobalt’ning daraxtga urilişi uç kişi hayotiga zomin böldi",
-      "headline": "Ohangaron tumanida Cobalt avtomobili daraxtga urildi",
-      "image": "https://storage.kun.uz/source/1/raKFV9fGpwhewOPWJ_M63nEX2tNNiQKi.jpg",
-      "ts": 1795579252.0209541
-    },
     {
       "source_title": "Bahodir Jo‘rayev “Oʻzbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo‘ldi",
       "headline": "Bahodir Jo'rayev “O'zbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo'ldi",
@@ -240,11 +234,17 @@
       "headline": "U‑17 Jahon chempionati: O'zbekiston Italiyaga mag'lub bo'ldi ⚽️",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/0e8ebb4547d5ae6600d65b9eb3f5764b7127ec4b6c841ac1c28a6a3037e4e9b2.webp",
       "ts": 1795708856.1681614
+    },
+    {
+      "source_title": "Пойабзал ва трансформаторларни мажбурий маркировкалашни 2028 йилдан жорий этиш таклиф қилинмоқда",
+      "headline": "Poyabzal va transformatorlarni raqamli belgilash 2028 yildan majburiy!",
+      "image": "https://www.gazeta.uz/media/img/2021/04/I2q54l16178023030414_b.jpg",
+      "ts": 1795710645.840584
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795707042.225495,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 19
+    "count": 20
   }
 }

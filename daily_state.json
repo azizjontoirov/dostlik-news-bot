@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795680043.5666168,
+  "last_post_ts": 1795681859.259078,
   "recent_posts": [
-    {
-      "source_title": "Toşkent – Istanbul reysi ob-havo tufayli Anqaraga qöndi",
-      "headline": "To'shkent‑Istanbul reysi ob‑havo tufayli Anqaraga yo'ndirildi",
-      "image": "https://storage.kun.uz/source/1/gIPenXwTqMPAOykAyF5w1qA5P2dtbeLD.png",
-      "ts": 1795516242.3906236
-    },
     {
       "source_title": "Toshkent shahri va Toshkent viloyatini bog‘lovchi yangi avtobus yo‘nalishi ishga tushirildi",
       "headline": "Toshkent‑Yunusobod yangi avtobus yo'nalishi ishga tushdi!",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda Bo'zsuv kanali bo'yida yangi ekotematik bog' 🌿🚴‍♂️",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/bfbf4999ed097b9fb59d3b5b1e2479f662d7abd14e9423ab93fdb2c4bc1a8e10.webp",
       "ts": 1795678250.5516086
+    },
+    {
+      "source_title": "Ўзбекистонда суд мажлисларини кузатувчи жамоатчилик вакиллари тайёрланмоқда",
+      "headline": "Ochiq sud majlislarini kuzatish bo'yicha jamoat vakillari tayyorlanmoqda",
+      "image": "https://www.gazeta.uz/media/img/2026/11/jnnd40ub9dg0ay0Fcra17956222998614_211747_og.webp?r=1795680978",
+      "ts": 1795681857.2555902
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795680043.5637846,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 8
+    "count": 9
   }
 }

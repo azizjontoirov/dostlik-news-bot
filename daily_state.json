@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795685441.1361146,
+  "last_post_ts": 1795687255.9096482,
   "recent_posts": [
-    {
-      "source_title": "Чилонзордаги Анҳор каналининг 1,7 километрлик қисмида янги сайилгоҳ ташкил этилади",
-      "headline": "Чилонзорда yangi sayilgoh! 🌳",
-      "image": "https://www.gazeta.uz/media/img/2026/11/8531sla1bkc2cr323ay17955208707389_211558_og.webp?r=1795521065",
-      "ts": 1795521650.544338
-    },
     {
       "source_title": "Şavkat Mirziyoyev va Iordaniya podşohi oliy davlat mukofotlari bilan taqdirlandi",
       "headline": "Prezident Shavkat Mirziyoyev va Iordaniya podshohi Abdulla II oliy davlat mukofotlari bilan taqdirlandi",
@@ -240,11 +234,17 @@
       "headline": "Infarkt oldini olish mumkin! 🫀🔎",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/6445e5ebc099fc697f0d3f65a30a30047393c059821c0471688aa22278649e23.webp",
       "ts": 1795683650.4014916
+    },
+    {
+      "source_title": "Qatar-2026. Oʻzbekiston U-17 guruhdan chiqish imkoniyati qanday?",
+      "headline": "Qatar‑2026: U‑17 guruhdan chiqish imkoniyati?",
+      "image": "https://gocdn.daryo.uz/large/2026/11/26/ba56545ac51a22b6f43837a9f03982f08d3938a2369dbf2ed9749552a6c70f17.webp",
+      "ts": 1795687253.9048173
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795685441.125718,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 10
+    "count": 11
   }
 }

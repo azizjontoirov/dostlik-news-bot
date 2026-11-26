@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795669255.413512,
+  "last_post_ts": 1795671046.647584,
   "recent_posts": [
-    {
-      "source_title": "Maktabga bir yillik majburiy tayyorlovga oid qonun loyihasi Senatga yuborildi",
-      "headline": "Maktabga bir yillik majburiy tayyorlov qonun loyihasi Senatga yuborildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/3ed0c05840b2ef368e184c9e3ba19ec0287de8766bef82047de2cec6ad75525b.webp",
-      "ts": 1795505456.2524257
-    },
     {
       "source_title": "Surxondaryoda ayolga ikkinchi xotin bo‘lishni taklif etib, shilqimlik qilgan hokim yordamchisi 5 sutkaga qamaldi",
       "headline": "Surxondaryoda hokim yordamchisi ayolga “ikkinchi xotin” taklif qilib, shilqimlik qildi – 5 kun qamaldi",
@@ -240,11 +234,17 @@
       "headline": "Yangi mexanizm: tadbirkorlikni qo'llab‑quvvatlash va kreditlash! 🚀",
       "image": "https://www.gazeta.uz/media/img/2026/11/aea5gk5fg6h60k54tMy17956669153105_211719_og.webp?r=1795666993",
       "ts": 1795667444.7220254
+    },
+    {
+      "source_title": "Ўмон билан 5 млрд, Туркия билан 11,2 млрд долларлик лойиҳалар ижроси учун «йўл хариталари» тузилади",
+      "headline": "Ўмон, Иордания ва Туркия билан “yo'l xaritalari” tuzilmoqda",
+      "image": "https://www.gazeta.uz/media/img/2026/11/canlsc29m45perQ1fY517956701766126_211730_og.webp?r=1795670239",
+      "ts": 1795671044.6441576
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795669255.4113786,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 4
+    "count": 5
   }
 }

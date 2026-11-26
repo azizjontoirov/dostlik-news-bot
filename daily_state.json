@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795662061.462295,
+  "last_post_ts": 1795663838.4375536,
   "recent_posts": [
     {
       "source_title": "Тошкент туманидаги Кенсой қўрғонини Юнусобод билан боғловчи янги автобус йўналиши ишга туширилди",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795658455.6665556,
+    "last_ad_ts": 1795663838.4331522,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 130,
@@ -260,12 +260,14 @@
       "ad_wedding": 5,
       "ad_moto": 1,
       "ad_home2": 4,
-      "ad_chinor_job": 25
+      "ad_chinor_job": 25,
+      "ad_jcb": 1
     },
     "permanent_index": 2,
     "day": "2026-11-26",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_jcb": 1
     },
     "last_shown": {
       "ad_flour": 1795609842.0051227,
@@ -279,7 +281,8 @@
       "ad_wedding": 1794497442.8322148,
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
-      "ad_chinor_job": 1795534237.2364988
+      "ad_chinor_job": 1795534237.2364988,
+      "ad_jcb": 1795663838.4331498
     },
     "morning_ad_date": "2026-11-26"
   },

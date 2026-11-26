@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795660250.6255436,
+  "last_post_ts": 1795662061.462295,
   "recent_posts": [
-    {
-      "source_title": "“O‘zgidromet” 25-noyabrda qanday ob-havo bo‘lishini ma’lum qildi",
-      "headline": "25‑noyabr ob‑havo prognozi – “O'zgidromet”",
-      "image": "https://gocdn.daryo.uz/large/2026/11/24/19cb8e4fcd16c22a77bd0f16a56752c2478f88d1e396f4fadf0cca5e4ebe6853.webp",
-      "ts": 1795498240.6690607
-    },
     {
       "source_title": "Тошкент туманидаги Кенсой қўрғонини Юнусобод билан боғловчи янги автобус йўналиши ишга туширилди",
       "headline": "Tashkentda yangi avtobus yo'nalishi ishga tushdi!",
@@ -240,11 +234,17 @@
       "headline": "O'zbekiston‑Koreya hamkorligi uchun 8,5 mln $ grant olindi 🌱🤝",
       "image": "https://gocdn.daryo.uz/large/2026/11/25/5d8952492aa74e3bbed4e3189c95a260618552f5bf91943d731c7f216962f9bd.webp",
       "ts": 1795660248.621188
+    },
+    {
+      "source_title": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим — ҳуқуқ ҳимоячилари",
+      "headline": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим",
+      "image": "https://www.gazeta.uz/media/img/2026/11/o7sfv1pl0k9g8GYbgBU17956280259736_211713_og.webp?r=1795630954",
+      "ts": 1795662059.459051
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795658455.6665556,
@@ -286,6 +286,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 1
+    "count": 2
   }
 }

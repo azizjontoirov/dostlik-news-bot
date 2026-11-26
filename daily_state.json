@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795667446.72476,
+  "last_post_ts": 1795669255.413512,
   "recent_posts": [
     {
       "source_title": "Maktabga bir yillik majburiy tayyorlovga oid qonun loyihasi Senatga yuborildi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795663838.4331522,
+    "last_ad_ts": 1795669255.4113786,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 130,
+      "ad_flour": 131,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 129,
@@ -267,10 +267,11 @@
     "day": "2026-11-26",
     "today": {
       "ad_water": 1,
-      "ad_jcb": 1
+      "ad_jcb": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1795609842.0051227,
+      "ad_flour": 1795669255.4113765,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795658455.6665535,

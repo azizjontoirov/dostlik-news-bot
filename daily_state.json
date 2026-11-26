@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795663838.4375536,
+  "last_post_ts": 1795665662.1937325,
   "recent_posts": [
-    {
-      "source_title": "Тошкент туманидаги Кенсой қўрғонини Юнусобод билан боғловчи янги автобус йўналиши ишга туширилди",
-      "headline": "Tashkentda yangi avtobus yo'nalishi ishga tushdi!",
-      "image": "https://www.gazeta.uz/media/img/2026/11/h6516hveg3d80WNGLRK17954993067561_211518_og.webp?r=1795499971",
-      "ts": 1795500049.5646987
-    },
     {
       "source_title": "Урганч шаҳри ва Қўшкўпир, Олтиариқ ҳамда Зарбдор туманларига янги ҳокимлар тайинланди",
       "headline": "Urganch, Qoshkopir, Oltiariq va Zarbdor tumanlariga yangi hokimlar tayinlandi",
@@ -240,11 +234,17 @@
       "headline": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим",
       "image": "https://www.gazeta.uz/media/img/2026/11/o7sfv1pl0k9g8GYbgBU17956280259736_211713_og.webp?r=1795630954",
       "ts": 1795662059.459051
+    },
+    {
+      "source_title": "Buxoro markaziy dehqon bozori vaqtinça yopildi",
+      "headline": "Buxoro markaziy dehqon bozori vaqtincha yopildi 🚧",
+      "image": "https://storage.kun.uz/source/1/U8FbJvVsWUr13Jfeb7sD5vlczogslLhw.jpg",
+      "ts": 1795665660.1905475
     }
   ],
   "morning_sent_date": "2026-11-26",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795663838.4331522,
@@ -289,6 +289,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-26",
-    "count": 2
+    "count": 3
   }
 }

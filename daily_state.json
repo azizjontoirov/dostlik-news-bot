@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795759257.4129257,
+  "last_post_ts": 1795761039.6048827,
   "recent_posts": [
     {
       "source_title": "«Issiqlik elektr stansiyalari»ga yangi rais tayinlandi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795755648.7483585,
+    "last_ad_ts": 1795761039.6022716,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 134,
+      "ad_flour": 135,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 133,
@@ -266,12 +266,12 @@
     "permanent_index": 2,
     "day": "2026-11-27",
     "today": {
-      "ad_flour": 1,
+      "ad_flour": 2,
       "ad_jcb": 1,
       "ad_water": 1
     },
     "last_shown": {
-      "ad_flour": 1795744845.7829535,
+      "ad_flour": 1795761039.6022687,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795755648.7483563,

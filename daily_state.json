@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795748453.0120003,
+  "last_post_ts": 1795750247.6229753,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda sunʼiy intellekt texnologiyalari asosida filmlar yaratiladi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795744845.7829564,
+    "last_ad_ts": 1795750247.6209912,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 134,
@@ -261,12 +261,13 @@
       "ad_moto": 1,
       "ad_home2": 4,
       "ad_chinor_job": 25,
-      "ad_jcb": 4
+      "ad_jcb": 5
     },
     "permanent_index": 2,
     "day": "2026-11-27",
     "today": {
-      "ad_flour": 1
+      "ad_flour": 1,
+      "ad_jcb": 1
     },
     "last_shown": {
       "ad_flour": 1795744845.7829535,
@@ -281,7 +282,7 @@
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795534237.2364988,
-      "ad_jcb": 1795707042.225493
+      "ad_jcb": 1795750247.6209884
     },
     "morning_ad_date": "2026-11-27"
   },

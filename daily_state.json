@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795712450.9001052,
+  "last_post_ts": 1795746645.674343,
   "recent_posts": [
-    {
-      "source_title": "Bahodir Jo‘rayev “Oʻzbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo‘ldi",
-      "headline": "Bahodir Jo'rayev “O'zbekiston milliy elektr tarmoqlari” AJ boshqaruvi raisi bo'ldi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/d920ba20d9d0ead0a0f65770c5e16fa5fb3b8f324d9ae769db4676b0d4ad16de.webp",
-      "ts": 1795581044.902996
-    },
     {
       "source_title": "Кинематография агентлиги тугатилади, кинотеатрлар ягона чипта тизимига уланади, 37 та ташкилот фильм молиялаштиради",
       "headline": "Kino sohasida yirik islohot!",
@@ -240,11 +234,17 @@
       "headline": "Poyabzal va transformatorlarni raqamli belgilash 2028 yildan majburiy!",
       "image": "https://www.gazeta.uz/media/img/2021/04/I2q54l16178023030414_b.jpg",
       "ts": 1795710645.840584
+    },
+    {
+      "source_title": "Gukeş - Sindarov: uçinçi partiya ham durang bilan yakunlandi, hisob - 1,5:1,5",
+      "headline": "Javohir Sindarov va Gukeş Dommaraju o'rtasida uchinchi partiya durang bilan yakunlandi ♟️",
+      "image": "https://storage.kun.uz/source/1/aOVABmRx4QQBxnJz0Gi3-I89Gp7IetWA.jpg",
+      "ts": 1795746643.6704736
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795744845.7829564,
@@ -287,7 +287,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-26",
-    "count": 20
+    "day": "2026-11-27",
+    "count": 1
   }
 }

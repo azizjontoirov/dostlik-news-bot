@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795752061.2886522,
+  "last_post_ts": 1795753845.9378,
   "recent_posts": [
-    {
-      "source_title": "ССВ поликлиникаларда электрон навбатлар фаолиятини тўхтатиб туришга қарши чиқди",
-      "headline": "Sog'liqni saqlash vazirligi poliklinikalarda elektron navbatlarni to'xtatishga qarshi chiqdi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/renl6fbg5dlo6q8txNr17955866792032_211638_og.webp?r=1795589225",
-      "ts": 1795590051.9930732
-    },
     {
       "source_title": "“Yangi O‘zbekistonda duv-duv gap” badiiy filmi suratga olinadi",
       "headline": "Yangi O'zbekistonda duv‑duv gap – 2027‑yil Mustaqillik bayrami arafasida prem'yerasi bo'ladigan badiiy film",
@@ -240,11 +234,17 @@
       "headline": "Firibgarlar aqlli hisoblagichlar bilan yangi nayrangni ishga solmoqda",
       "image": "https://storage.kun.uz/source/1/b-O4lZmOgp49qie9PA-0FMPXqcfF1apj.webp",
       "ts": 1795752059.2853968
+    },
+    {
+      "source_title": "Ўзбекистон ҳукумати аҳоли даромадларини ошириш учун 2027 йилда фавқулодда ҳолатда ишлашни кўзда тутмоқда",
+      "headline": "2027‑yil – aholi daromadlarini oshirish uchun favqulodda ish yiliga e'lon qilindi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/07i5ejch2obu2zSLTBR17957020105944_211792_og.webp?r=1795753330",
+      "ts": 1795753843.933747
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795750247.6209912,
@@ -289,6 +289,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 3
+    "count": 4
   }
 }

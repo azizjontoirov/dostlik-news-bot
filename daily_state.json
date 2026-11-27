@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795780856.1672242,
+  "last_post_ts": 1795782640.5541732,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda 2017-yildan buyon 11 mln nafar aholi kambagʻallikdan chiqarildi",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795777248.8130133,
+    "last_ad_ts": 1795782640.5516746,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 136,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 134,
+      "ad_water": 135,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -268,13 +268,13 @@
     "today": {
       "ad_flour": 3,
       "ad_jcb": 2,
-      "ad_water": 2
+      "ad_water": 3
     },
     "last_shown": {
       "ad_flour": 1795777248.813011,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1795771837.773422,
+      "ad_water": 1795782640.5516717,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

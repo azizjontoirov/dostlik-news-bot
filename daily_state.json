@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795750247.6229753,
+  "last_post_ts": 1795752061.2886522,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda sunʼiy intellekt texnologiyalari asosida filmlar yaratiladi",
-      "headline": "Sun'iy intellekt asosida yangi kino asarlari! 🎬",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/886139940c8ca64742e7d7cdf4cf5e3bef89096dd5c96b4cdbfc178ba9746269.webp",
-      "ts": 1795586447.1335268
-    },
     {
       "source_title": "ССВ поликлиникаларда электрон навбатлар фаолиятини тўхтатиб туришга қарши чиқди",
       "headline": "Sog'liqni saqlash vazirligi poliklinikalarda elektron navbatlarni to'xtatishga qarshi chiqdi",
@@ -240,11 +234,17 @@
       "headline": "Buxoroga Xitoydan 25 ta yangi Zhongtong avtobus keldi 🚍",
       "image": "https://gocdn.daryo.uz/large/2026/11/26/a7e9d31f906716132a432397cb28dfa332efabfa363cca4ac6cc120e2a90feaf.webp",
       "ts": 1795748451.007665
+    },
+    {
+      "source_title": "Toşkentda firibgarlarning aqlli hisoblagiçlar bilan boğliq yangi nayrangi paydo böldi",
+      "headline": "Firibgarlar aqlli hisoblagichlar bilan yangi nayrangni ishga solmoqda",
+      "image": "https://storage.kun.uz/source/1/b-O4lZmOgp49qie9PA-0FMPXqcfF1apj.webp",
+      "ts": 1795752059.2853968
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795750247.6209912,
@@ -289,6 +289,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 2
+    "count": 3
   }
 }

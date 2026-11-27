@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795782640.5541732,
+  "last_post_ts": 1795784462.0528684,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda 2017-yildan buyon 11 mln nafar aholi kambagʻallikdan chiqarildi",
-      "headline": "O'zbekistonda 2017‑yildan beri 11 mln nafar aholi kambag'allikdan chiqarildi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/82df477cccb2d793f37b391652360d0e893fbb7c221b6468a3286194c06c28e4.webp",
-      "ts": 1795617044.8008356
-    },
     {
       "source_title": "Toshkent viloyatida Bo‘zsuv kanaliga zararli oqova suvlar tashlanayotgani aniqlandi",
       "headline": "Toshkentda Bo'zsuv kanaliga zararli oqova suvlar tushmoqda",
@@ -240,11 +234,17 @@
       "headline": "Saida Mirziyoyeva Sirdayoga tashrif buyurdi 🚗💼",
       "image": "https://www.gazeta.uz/media/img/2026/11/m7gg07nfrmnoaWkST7a17957780625029_211889_og.webp?r=1795779680",
       "ts": 1795780854.1631498
+    },
+    {
+      "source_title": "BYD Finance Oʻzbekistonda 0 foizli maxsus moliyalashtirish dasturini boshlaydi",
+      "headline": "BYD Finance O'zbekistonda 0% maxsus moliyalashtirish dasturini boshladi 🚗💰",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/681cecf7f2d90c663cc314a692d729bdb8dd4559a44878d42fa7630b9da0a803.webp",
+      "ts": 1795784460.049763
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795782640.5516746,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 14
+    "count": 15
   }
 }

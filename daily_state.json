@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795773660.3593655,
+  "last_post_ts": 1795775264.0220757,
   "recent_posts": [
-    {
-      "source_title": "12 yillik taʼlimni joriy etiş töğrisidagi qonun Senatga yuborildi",
-      "headline": "12‑yillik ta'lim qonuni Senatga yuborildi",
-      "image": "https://storage.kun.uz/source/1/uwIPTp-aqqTLBPZz1V11oCb2lvDIj352.jpg",
-      "ts": 1795611656.3700082
-    },
     {
       "source_title": "Ўзбекистонда бемор қайси дориларни бепул олиши қандай аниқланади?",
       "headline": "Oila a'zolari uchun bepul dori olish tartibi kengaytirildi! 💊",
@@ -240,11 +234,17 @@
       "headline": "Karimovga xotiralar: Bahodir Umrzoqovning sobiq amaldorlik yillari 📚",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/7110298b6f92c524573cb8d8f5e600eb5c975dfe48e9278d9e98eb23d893490b.webp",
       "ts": 1795773658.3561316
+    },
+    {
+      "source_title": "Daniyaning Oʻzbekistondagi yangi elchisi tayinlandi",
+      "headline": "Daniyaning O'zbekistondagi yangi elchisi tayinlandi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/b2e520ab85dfb1cfd88d691c10fcad7f0082966289435be9f7639a9198a6879e.webp",
+      "ts": 1795775262.0171034
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795771837.7734249,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 11
+    "count": 12
   }
 }

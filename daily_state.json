@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795789848.5099642,
+  "last_post_ts": 1795791662.2905414,
   "recent_posts": [
-    {
-      "source_title": "Qashqadaryoda aholining chorva uchun ozuqa xarid qilish xarajatlarining 10 foizi qoplab berilishi mumkin",
-      "headline": "Qashqadaryoda chorva ozuqasi xarajatlarining 10% qoplamasi! 🐄💰",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/480ac8c445f1de91ecb43d7c3329a0c3363d3b0e4d063b23c54203bfdbc4b47f.webp",
-      "ts": 1795622680.127368
-    },
     {
       "source_title": "Javohir Sindorov va Gukesh Dommaraju o‘rtasida ikkinchi partiya ham durang bilan tugadi",
       "headline": "Javohir Sindorov va Gukesh Dommaraju ikkinchi partiyada durangga erishdi",
@@ -240,11 +234,17 @@
       "headline": "Ohangaron tumanida Lacetti avtomobili piyodani urib vafot etdi",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/39402405e904e35644267c8f3d2c5967431c32c6d128e71c66821c7cdfab8a5e.webp",
       "ts": 1795789846.506659
+    },
+    {
+      "source_title": "Xazon tutuni saraton xavfini oshiradi: shifokor jiddiy ogohlantirish bilan chiqdi",
+      "headline": "Xazon tutuni saraton xavfini oshiradi!",
+      "image": "https://gocdn.daryo.uz/large/2026/11/03/00909a7dee0bc860dd4936eb847822145938d0356ea008a1bed64dd2094e0812.webp",
+      "ts": 1795791660.2874835
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795788042.59136,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 17
+    "count": 18
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795797047.7975035,
+  "last_post_ts": 1795798849.380807,
   "recent_posts": [
     {
       "source_title": "O‘zbekiston Parij bitimi doirasida Janubiy Koreya bilan hamkorlik uchun 8,5 mln dollar grant oldi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795793436.1137846,
+    "last_ad_ts": 1795798849.3395245,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 136,
+      "ad_flour": 137,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 135,
@@ -266,12 +266,12 @@
     "permanent_index": 2,
     "day": "2026-11-27",
     "today": {
-      "ad_flour": 3,
+      "ad_flour": 4,
       "ad_jcb": 4,
       "ad_water": 3
     },
     "last_shown": {
-      "ad_flour": 1795777248.813011,
+      "ad_flour": 1795798849.3395228,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795782640.5516717,

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795762854.27347,
+  "last_post_ts": 1795764646.8398983,
   "recent_posts": [
-    {
-      "source_title": "UZCARD'dan “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o‘yin g‘oliblari aniqlandi",
-      "headline": "UZCARD “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o'yin g'oliblari aniqlandi 🎉📱",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/ecbc0f96937df922c2669a58ce32376c2923ded6d2f0fa7ed360b414a187d314.webp",
-      "ts": 1795600859.6699777
-    },
     {
       "source_title": "“Oqqush”. Xirosima qahramoni haqida",
       "headline": "Oqqush – Futbol yulduzining so'nggi sahifasi",
@@ -240,11 +234,17 @@
       "headline": "Dam olish kunlari ob-havo prognozi",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/ba8503b5a7ba3975b82d7c73348550f9e7e17b6f113d2ba4232cb8abdb4112b4.webp",
       "ts": 1795762852.2691174
+    },
+    {
+      "source_title": "Toshkentdagi yangi xalqaro aeroport yonida 5 mlrd dollarlik Aerocity loyihasi amalga oshiriladi",
+      "headline": "Toshkentda 5 mlrd dollarlik “Aerocity” loyihasi boshlanadi ✈️🏙️",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/b2f72c4926ce7efb39a87674c8cfbbf33a70014e817164c9885aa327d3c52b44.webp",
+      "ts": 1795764644.835403
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795761039.6022716,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 7
+    "count": 8
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795786245.0619328,
+  "last_post_ts": 1795788042.5933156,
   "recent_posts": [
     {
       "source_title": "Gulnora Karimovaning 252 mln dollari va yangi uy xaridorlariga qulaylik - mahalliy dayjest",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795782640.5516746,
+    "last_ad_ts": 1795788042.59136,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 136,
@@ -261,13 +261,13 @@
       "ad_moto": 1,
       "ad_home2": 4,
       "ad_chinor_job": 25,
-      "ad_jcb": 6
+      "ad_jcb": 7
     },
     "permanent_index": 2,
     "day": "2026-11-27",
     "today": {
       "ad_flour": 3,
-      "ad_jcb": 2,
+      "ad_jcb": 3,
       "ad_water": 3
     },
     "last_shown": {
@@ -283,7 +283,7 @@
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795534237.2364988,
-      "ad_jcb": 1795766447.7491455
+      "ad_jcb": 1795788042.5913563
     },
     "morning_ad_date": "2026-11-27"
   },

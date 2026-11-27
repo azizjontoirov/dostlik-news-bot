@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795788042.5933156,
+  "last_post_ts": 1795789848.5099642,
   "recent_posts": [
-    {
-      "source_title": "Gulnora Karimovaning 252 mln dollari va yangi uy xaridorlariga qulaylik - mahalliy dayjest",
-      "headline": "Gulnora Karimovaning 252 mln dollarlik mablag'i va yangi uy xaridorlariga qulayliklar",
-      "image": "https://storage.kun.uz/source/1/ccT329wYwANLixgQMdEqlvAMmuZSszM5.jpg",
-      "ts": 1795620663.8877156
-    },
     {
       "source_title": "Qashqadaryoda aholining chorva uchun ozuqa xarid qilish xarajatlarining 10 foizi qoplab berilishi mumkin",
       "headline": "Qashqadaryoda chorva ozuqasi xarajatlarining 10% qoplamasi! 🐄💰",
@@ -240,11 +234,17 @@
       "headline": "Senat xorijlik fuqarolarni taqdirlash uchun ikki yangi orden ta'sis etilishini ma'qulladi 🏅🌍",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/a4f29055d965f73b27592d0ca012e419a271ff0979c22cb461f886337299adc7.webp",
       "ts": 1795786243.0583825
+    },
+    {
+      "source_title": "Ohangaronda Lacetti urib yuborgan piyoda vafot etdi",
+      "headline": "Ohangaron tumanida Lacetti avtomobili piyodani urib vafot etdi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/39402405e904e35644267c8f3d2c5967431c32c6d128e71c66821c7cdfab8a5e.webp",
+      "ts": 1795789846.506659
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795788042.59136,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 16
+    "count": 17
   }
 }

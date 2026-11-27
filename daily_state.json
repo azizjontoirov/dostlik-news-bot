@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795775264.0220757,
+  "last_post_ts": 1795777248.815368,
   "recent_posts": [
     {
       "source_title": "Ўзбекистонда бемор қайси дориларни бепул олиши қандай аниқланади?",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795771837.7734249,
+    "last_ad_ts": 1795777248.8130133,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 135,
+      "ad_flour": 136,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 134,
@@ -266,12 +266,12 @@
     "permanent_index": 2,
     "day": "2026-11-27",
     "today": {
-      "ad_flour": 2,
+      "ad_flour": 3,
       "ad_jcb": 2,
       "ad_water": 2
     },
     "last_shown": {
-      "ad_flour": 1795761039.6022687,
+      "ad_flour": 1795777248.813011,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795771837.773422,

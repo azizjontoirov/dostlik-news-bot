@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795761039.6048827,
+  "last_post_ts": 1795762854.27347,
   "recent_posts": [
-    {
-      "source_title": "«Issiqlik elektr stansiyalari»ga yangi rais tayinlandi",
-      "headline": "Issiqlik elektr stansiyalari AJ yangi raisi tayinlandi",
-      "image": "https://storage.kun.uz/source/1/E234AHi5-m4SnmhajfaoOFuxH0hKJf1S.jpg",
-      "ts": 1795597265.341881
-    },
     {
       "source_title": "UZCARD'dan “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o‘yin g‘oliblari aniqlandi",
       "headline": "UZCARD “Omad mavsumi 2.0”: noyabr oyining birinchi oraliq sovrinli o'yin g'oliblari aniqlandi 🎉📱",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda “Kurchatov instituti” filialining ochilishi 🇺🇿🔬",
       "image": "https://www.gazeta.uz/media/img/2026/11/8amncsj5nks41WO9Fcn17957585876872_211820_og.webp?r=1795758685",
       "ts": 1795759255.4088151
+    },
+    {
+      "source_title": "O‘zbekistonda dam olish kunlari qanday ob-havo bo‘lishi ma’lum qilindi",
+      "headline": "Dam olish kunlari ob-havo prognozi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/ba8503b5a7ba3975b82d7c73348550f9e7e17b6f113d2ba4232cb8abdb4112b4.webp",
+      "ts": 1795762852.2691174
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795761039.6022716,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 6
+    "count": 7
   }
 }

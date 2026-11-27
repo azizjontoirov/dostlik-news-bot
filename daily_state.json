@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795784462.0528684,
+  "last_post_ts": 1795786245.0619328,
   "recent_posts": [
-    {
-      "source_title": "Toshkent viloyatida Bo‘zsuv kanaliga zararli oqova suvlar tashlanayotgani aniqlandi",
-      "headline": "Toshkentda Bo'zsuv kanaliga zararli oqova suvlar tushmoqda",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/977411e65a5c5b2debee71b87dc2673e9b181ed26769da4cf0805720fd0b788b.webp",
-      "ts": 1795618864.0955539
-    },
     {
       "source_title": "Gulnora Karimovaning 252 mln dollari va yangi uy xaridorlariga qulaylik - mahalliy dayjest",
       "headline": "Gulnora Karimovaning 252 mln dollarlik mablag'i va yangi uy xaridorlariga qulayliklar",
@@ -240,11 +234,17 @@
       "headline": "BYD Finance O'zbekistonda 0% maxsus moliyalashtirish dasturini boshladi 🚗💰",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/681cecf7f2d90c663cc314a692d729bdb8dd4559a44878d42fa7630b9da0a803.webp",
       "ts": 1795784460.049763
+    },
+    {
+      "source_title": "Senat xorijlik fuqarolarni taqdirlash uchun ikkita yangi orden ta’sis etilishini ma’qulladi",
+      "headline": "Senat xorijlik fuqarolarni taqdirlash uchun ikki yangi orden ta'sis etilishini ma'qulladi 🏅🌍",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/a4f29055d965f73b27592d0ca012e419a271ff0979c22cb461f886337299adc7.webp",
+      "ts": 1795786243.0583825
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795782640.5516746,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 15
+    "count": 16
   }
 }

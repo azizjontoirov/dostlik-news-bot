@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795755648.7529085,
+  "last_post_ts": 1795757440.9932523,
   "recent_posts": [
-    {
-      "source_title": "“Yangi O‘zbekistonda duv-duv gap” badiiy filmi suratga olinadi",
-      "headline": "Yangi O'zbekistonda duv‑duv gap – 2027‑yil Mustaqillik bayrami arafasida prem'yerasi bo'ladigan badiiy film",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/8d8d23e5ba341bea3846dc22806aa9f674db7d6c4b4b767a91176dffd72981cd.webp",
-      "ts": 1795591839.0210009
-    },
     {
       "source_title": "Ўзбекистон 2027 йилда саёҳат қилиш учун энг хавфсиз мамлакатлардан бири деб топилди",
       "headline": "O'zbekiston 2027 yilda sayohat uchun eng xavfsiz mamlakatlardan biri! 🌍",
@@ -240,11 +234,17 @@
       "headline": "2027‑yil – aholi daromadlarini oshirish uchun favqulodda ish yiliga e'lon qilindi",
       "image": "https://www.gazeta.uz/media/img/2026/11/07i5ejch2obu2zSLTBR17957020105944_211792_og.webp?r=1795753330",
       "ts": 1795753843.933747
+    },
+    {
+      "source_title": "Toşkent - Astraxan poyezd qatnovini boşlaş sanasi maʼlum qilindi",
+      "headline": "Tashkent – Astrakhan poyezd qatnovi boshlanishi ma'lum qilindi",
+      "image": "https://storage.kun.uz/source/1/Bq9ESsKjf-6AIPSXKSOqlhTuoZCnxmk6.webp",
+      "ts": 1795757438.990819
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795755648.7483585,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 4
+    "count": 5
   }
 }

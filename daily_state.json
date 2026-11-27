@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795757440.9932523,
+  "last_post_ts": 1795759257.4129257,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистон 2027 йилда саёҳат қилиш учун энг хавфсиз мамлакатлардан бири деб топилди",
-      "headline": "O'zbekiston 2027 yilda sayohat uchun eng xavfsiz mamlakatlardan biri! 🌍",
-      "image": "https://www.gazeta.uz/media/img/2026/11/1uuk8qho044iaM7b5y117955942391595_211650_og.webp?r=1795595413",
-      "ts": 1795595442.8582487
-    },
     {
       "source_title": "«Issiqlik elektr stansiyalari»ga yangi rais tayinlandi",
       "headline": "Issiqlik elektr stansiyalari AJ yangi raisi tayinlandi",
@@ -240,11 +234,17 @@
       "headline": "Tashkent – Astrakhan poyezd qatnovi boshlanishi ma'lum qilindi",
       "image": "https://storage.kun.uz/source/1/Bq9ESsKjf-6AIPSXKSOqlhTuoZCnxmk6.webp",
       "ts": 1795757438.990819
+    },
+    {
+      "source_title": "Тошкентда Россиянинг «Курчатов институти» филиали ташкил этилади",
+      "headline": "Toshkentda “Kurchatov instituti” filialining ochilishi 🇺🇿🔬",
+      "image": "https://www.gazeta.uz/media/img/2026/11/8amncsj5nks41WO9Fcn17957585876872_211820_og.webp?r=1795758685",
+      "ts": 1795759255.4088151
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795755648.7483585,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 5
+    "count": 6
   }
 }

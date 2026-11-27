@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795766447.7519345,
+  "last_post_ts": 1795768251.2360532,
   "recent_posts": [
-    {
-      "source_title": "“Oqqush”. Xirosima qahramoni haqida",
-      "headline": "Oqqush – Futbol yulduzining so'nggi sahifasi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/8fe248801ea7018266ccda6be03f1a05d267e24ba26eb8ab8cc25ea1a26008ad.webp",
-      "ts": 1795602644.774271
-    },
     {
       "source_title": "Mikromoliya bozorida banklarning uluşi sezilarli kamaydi",
       "headline": "Mikromoliya bozorida banklarning ulushi keskin kamaydi 📉",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda 5 mlrd dollarlik “Aerocity” loyihasi boshlanadi ✈️🏙️",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/b2f72c4926ce7efb39a87674c8cfbbf33a70014e817164c9885aa327d3c52b44.webp",
       "ts": 1795764644.835403
+    },
+    {
+      "source_title": "«Агар биринчи кундан ерусти метросини қурмаганимизда, ҳозир Тошкентда коллапс бўлар эди» — Шавкат Мирзиёев",
+      "headline": "Toshkent metrosi haqida Shavkat Mirziyoyevning ogohlantirishi",
+      "image": "https://www.gazeta.uz/media/img/2026/11/c165oevj4hneaIVaQag17957680318143_211847_og.webp?r=1795768166",
+      "ts": 1795768249.2317204
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795766447.749148,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 8
+    "count": 9
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795771837.775289,
+  "last_post_ts": 1795773660.3593655,
   "recent_posts": [
-    {
-      "source_title": "Депутатлар Ўзбекистонда 12 йиллик таълимни жорий этиш тўғрисидаги қонунни қабул қилди",
-      "headline": "12‑yillik ta'lim qonuni qabul qilindi",
-      "image": "https://www.gazeta.uz/media/img/2026/11/44g5tf0h2ki9f5bNf6b17955149721242_211676_og.webp?r=1795607278",
-      "ts": 1795608052.2088463
-    },
     {
       "source_title": "12 yillik taʼlimni joriy etiş töğrisidagi qonun Senatga yuborildi",
       "headline": "12‑yillik ta'lim qonuni Senatga yuborildi",
@@ -240,11 +234,17 @@
       "headline": "Maldiv orollariga maxsus taklif! 🌴✈️",
       "image": "https://storage.kun.uz/source/1/W54W8Tbe4e85hEf4-tvw-YhYZExsmGlM.jpg",
       "ts": 1795770053.038667
+    },
+    {
+      "source_title": "“Karimov Gdlyanni topshirishni so‘rab Armanistonga murojaat qilgan” — sobiq amaldor",
+      "headline": "Karimovga xotiralar: Bahodir Umrzoqovning sobiq amaldorlik yillari 📚",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/7110298b6f92c524573cb8d8f5e600eb5c975dfe48e9278d9e98eb23d893490b.webp",
+      "ts": 1795773658.3561316
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795771837.7734249,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 10
+    "count": 11
   }
 }

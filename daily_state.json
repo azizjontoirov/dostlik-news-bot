@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795793436.1155405,
+  "last_post_ts": 1795795270.5081992,
   "recent_posts": [
-    {
-      "source_title": "Javohir Sindorov va Gukesh Dommaraju o‘rtasida ikkinchi partiya ham durang bilan tugadi",
-      "headline": "Javohir Sindorov va Gukesh Dommaraju ikkinchi partiyada durangga erishdi",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/aae7666f0669e51b433dfab64505a790690944af76e9e8ea716c31357bd86076.webp",
-      "ts": 1795624248.6138883
-    },
     {
       "source_title": "Prezident huzurida 2027-yilda bölib ötadigan yirik xalqaro tadbirlarga tayyorgarlik köriş masalalari muhokama qilindi",
       "headline": "Prezident huzurida 2027‑yil yirik xalqaro tadbirlar tayyorligi muhokama qilindi",
@@ -240,11 +234,17 @@
       "headline": "Xazon tutuni saraton xavfini oshiradi!",
       "image": "https://gocdn.daryo.uz/large/2026/11/03/00909a7dee0bc860dd4936eb847822145938d0356ea008a1bed64dd2094e0812.webp",
       "ts": 1795791660.2874835
+    },
+    {
+      "source_title": "Harbiy atamalarning 30 ta özbekça muqobili tasdiqlandi",
+      "headline": "Harbiy atamalarning 30 ta o'zbekcha muqobili tasdiqlandi 🇺🇿",
+      "image": "https://storage.kun.uz/source/1/AMRcoUVyrsN6XS7qR5RqIDYgwCWXnYKR.webp",
+      "ts": 1795795268.5051653
     }
   ],
   "morning_sent_date": "2026-11-27",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795793436.1137846,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-27",
-    "count": 18
+    "count": 19
   }
 }

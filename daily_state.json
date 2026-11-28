@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795852845.7904747,
+  "last_post_ts": 1795854646.719975,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда суд мажлисларини кузатувчи жамоатчилик вакиллари тайёрланмоқда",
-      "headline": "Ochiq sud majlislarini kuzatish bo'yicha jamoat vakillari tayyorlanmoqda",
-      "image": "https://www.gazeta.uz/media/img/2026/11/jnnd40ub9dg0ay0Fcra17956222998614_211747_og.webp?r=1795680978",
-      "ts": 1795681857.2555902
-    },
     {
       "source_title": "Infarkt to‘satdan yuz bermaydi: olimlar kasallikning simptomlari qachon paydo bo‘lishini aniqladi",
       "headline": "Infarkt oldini olish mumkin! 🫀🔎",
@@ -240,11 +234,17 @@
       "headline": "DXX generali G'ayratulla Yoziyev 15 yilga qamaldi",
       "image": "https://gocdn.daryo.uz/large/2026/11/28/88b1a95bb929a68900fb8c7b5f768f20b162b67a3d3bc83dcff6d7d7620b6868.webp",
       "ts": 1795851043.994266
+    },
+    {
+      "source_title": "Ўзбекистоннинг Мозори-Шарифдаги консулхонаси бош консулхона этиб қайта ташкил этилади",
+      "headline": "Mозори‑Шарифда konsulxona bosh konsulxona bo'ldi 🇺🇿🛂",
+      "image": "https://www.gazeta.uz/media/img/2026/11/hj932fo1n1v48FkXsY417958536879382_211923_og.webp?r=1795853994",
+      "ts": 1795854644.7154677
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795852845.7331727,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 8
+    "count": 9
   }
 }

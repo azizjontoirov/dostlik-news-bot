@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795872640.0937533,
+  "last_post_ts": 1795874442.7458386,
   "recent_posts": [
     {
       "source_title": "Chirchiqda fuqarolarni buyurtma asosida “samosud” qilib kelgan guruh ushlandi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795869039.9368858,
+    "last_ad_ts": 1795874442.7438743,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 140,
@@ -261,13 +261,13 @@
       "ad_moto": 1,
       "ad_home2": 4,
       "ad_chinor_job": 25,
-      "ad_jcb": 10
+      "ad_jcb": 11
     },
     "permanent_index": 2,
     "day": "2026-11-28",
     "today": {
       "ad_water": 3,
-      "ad_jcb": 2,
+      "ad_jcb": 3,
       "ad_flour": 3
     },
     "last_shown": {
@@ -283,7 +283,7 @@
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795534237.2364988,
-      "ad_jcb": 1795852845.7331696
+      "ad_jcb": 1795874442.743872
     },
     "morning_ad_date": "2026-11-28"
   },

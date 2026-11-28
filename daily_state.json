@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795854646.719975,
+  "last_post_ts": 1795856455.6815338,
   "recent_posts": [
-    {
-      "source_title": "Infarkt to‘satdan yuz bermaydi: olimlar kasallikning simptomlari qachon paydo bo‘lishini aniqladi",
-      "headline": "Infarkt oldini olish mumkin! 🫀🔎",
-      "image": "https://gocdn.daryo.uz/large/2026/11/26/6445e5ebc099fc697f0d3f65a30a30047393c059821c0471688aa22278649e23.webp",
-      "ts": 1795683650.4014916
-    },
     {
       "source_title": "Qatar-2026. Oʻzbekiston U-17 guruhdan chiqish imkoniyati qanday?",
       "headline": "Qatar‑2026: U‑17 guruhdan chiqish imkoniyati?",
@@ -240,11 +234,17 @@
       "headline": "Mозори‑Шарифда konsulxona bosh konsulxona bo'ldi 🇺🇿🛂",
       "image": "https://www.gazeta.uz/media/img/2026/11/hj932fo1n1v48FkXsY417958536879382_211923_og.webp?r=1795853994",
       "ts": 1795854644.7154677
+    },
+    {
+      "source_title": "Nega ayrim kasalliklar qishda avj oladi va ulardan qanday himoyalanish mumkin?",
+      "headline": "Nega ayrim kasalliklar qishda avj oladi? ❄️🩺",
+      "image": "https://gocdn.daryo.uz/large/2026/11/28/d2eece078d0a300e5c2ab1ccd7b49408e4a005db3060456c93c19fcc24c47f5f.webp",
+      "ts": 1795856453.6773884
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795852845.7331727,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 9
+    "count": 10
   }
 }

@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795858237.425916,
+  "last_post_ts": 1795860062.7080243,
   "recent_posts": [
-    {
-      "source_title": "Qatar-2026. Oʻzbekiston U-17 guruhdan chiqish imkoniyati qanday?",
-      "headline": "Qatar‑2026: U‑17 guruhdan chiqish imkoniyati?",
-      "image": "https://gocdn.daryo.uz/large/2026/11/26/ba56545ac51a22b6f43837a9f03982f08d3938a2369dbf2ed9749552a6c70f17.webp",
-      "ts": 1795687253.9048173
-    },
     {
       "source_title": "Валюта курсининг ўзгариши октябрда инфляцион кутилмаларнинг асосий омили бўлди",
       "headline": "Valyuta kursining o'zgarishi inflyatsiya kutilmalariga ta'sir ko'rsatdi",
@@ -240,11 +234,17 @@
       "headline": "Nega ayrim kasalliklar qishda avj oladi? ❄️🩺",
       "image": "https://gocdn.daryo.uz/large/2026/11/28/d2eece078d0a300e5c2ab1ccd7b49408e4a005db3060456c93c19fcc24c47f5f.webp",
       "ts": 1795856453.6773884
+    },
+    {
+      "source_title": "O‘zbekistonning Mozori Sharifdagi konsulxonasi 1-dekabrdan Bosh konsulxonaga aylantiriladi",
+      "headline": "Mozori‑Sharif konsulxonasi bosh konsulxonaga aylandi 🏢🇺🇿",
+      "image": "https://gocdn.daryo.uz/large/2026/11/28/8787786dca3be68a77416bda61a0acd281d2c55aadb655c5413d354e3dc91587.webp",
+      "ts": 1795860060.7050073
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795858237.4227602,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 10
+    "count": 11
   }
 }

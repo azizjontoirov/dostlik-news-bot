@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795833069.0304298,
+  "last_post_ts": 1795834854.1687543,
   "recent_posts": [
-    {
-      "source_title": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим — ҳуқуқ ҳимоячилари",
-      "headline": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим",
-      "image": "https://www.gazeta.uz/media/img/2026/11/o7sfv1pl0k9g8GYbgBU17956280259736_211713_og.webp?r=1795630954",
-      "ts": 1795662059.459051
-    },
     {
       "source_title": "Buxoro markaziy dehqon bozori vaqtinça yopildi",
       "headline": "Buxoro markaziy dehqon bozori vaqtincha yopildi 🚧",
@@ -240,11 +234,17 @@
       "headline": "Ozuqa tanqisligi va go'sht narxlari",
       "image": "https://www.gazeta.uz/media/img/2025/04/WDmpcM17435795456574_211911_og.webp?r=1795819882",
       "ts": 1795833067.026637
+    },
+    {
+      "source_title": "O‘zbekistonlik bokschilarning Jahon kubogidagi raqiblari ma’lum bo‘ldi",
+      "headline": "O'zbekistonlik bokschilarning Jahon kubogidagi raqiblari ma'lum bo'ldi 🥊",
+      "image": "https://gocdn.daryo.uz/large/2026/11/27/e5cbc501c31a4c8c649c2607561f01c5b215429cfe598a46f42e24a252e59588.webp",
+      "ts": 1795834852.1646957
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795831243.350634,
@@ -288,6 +288,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 1
+    "count": 2
   }
 }

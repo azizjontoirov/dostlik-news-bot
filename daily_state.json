@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795838452.4870727,
+  "last_post_ts": 1795840243.2427728,
   "recent_posts": [
-    {
-      "source_title": "Ўзбекистонда тадбиркорликни қўллаб-қувватлаш ва кредитлашнинг янги механизмлари жорий этилади",
-      "headline": "Yangi mexanizm: tadbirkorlikni qo'llab‑quvvatlash va kreditlash! 🚀",
-      "image": "https://www.gazeta.uz/media/img/2026/11/aea5gk5fg6h60k54tMy17956669153105_211719_og.webp?r=1795666993",
-      "ts": 1795667444.7220254
-    },
     {
       "source_title": "Ўмон билан 5 млрд, Туркия билан 11,2 млрд долларлик лойиҳалар ижроси учун «йўл хариталари» тузилади",
       "headline": "Ўмон, Иордания ва Туркия билан “yo'l xaritalari” tuzilmoqda",
@@ -240,11 +234,17 @@
       "headline": "Toshkentda xorijlik ishtirokidagi firibgarlik tarmog'i fosh etildi ⚠️",
       "image": "https://storage.kun.uz/source/1/mt_p5yLQAxp5onM2jpp-PhvUTzIuQVD2.webp",
       "ts": 1795838450.4825373
+    },
+    {
+      "source_title": "Toşkentda 9 ta avtobus yönalişiga yangi bekatlar qöşildi",
+      "headline": "Tashkentda 9 ta avtobus yo'nalishiga yangi bekatlar qo'shildi",
+      "image": "https://storage.kun.uz/source/1/pqrbhzZXOSxV6_IQbHed42pu77hrUtTs.jpg",
+      "ts": 1795840241.2390654
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795836636.5208838,
@@ -289,6 +289,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 3
+    "count": 4
   }
 }

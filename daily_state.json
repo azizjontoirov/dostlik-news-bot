@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795798849.380807,
+  "last_post_ts": 1795833069.0304298,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekiston Parij bitimi doirasida Janubiy Koreya bilan hamkorlik uchun 8,5 mln dollar grant oldi",
-      "headline": "O'zbekiston‑Koreya hamkorligi uchun 8,5 mln $ grant olindi 🌱🤝",
-      "image": "https://gocdn.daryo.uz/large/2026/11/25/5d8952492aa74e3bbed4e3189c95a260618552f5bf91943d731c7f216962f9bd.webp",
-      "ts": 1795660248.621188
-    },
     {
       "source_title": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим — ҳуқуқ ҳимоячилари",
       "headline": "Зўравонликдан жабрланганлар учун аёл адвокатни танлаш имконияти муҳим",
@@ -240,11 +234,17 @@
       "headline": "Jizzaxda suv qarzdorligini yo'q qilish va'da qilgan mutaxassis ushlangani 🚨",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/504abd40fd61c890b92978dd65c019728c6855e2e69a116d4092bcac6eede2ef.webp",
       "ts": 1795797045.7935479
+    },
+    {
+      "source_title": "Озуқа танқислиги ва гўшт нархлари. Ўзбекистон гўшт етиштиришни 400 минг тоннага қандай оширмоқчи?",
+      "headline": "Ozuqa tanqisligi va go'sht narxlari",
+      "image": "https://www.gazeta.uz/media/img/2025/04/WDmpcM17435795456574_211911_og.webp?r=1795819882",
+      "ts": 1795833067.026637
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795831243.350634,
@@ -287,7 +287,7 @@
   },
   "tg_update_offset": 652091514,
   "news_stats": {
-    "day": "2026-11-27",
-    "count": 20
+    "day": "2026-11-28",
+    "count": 1
   }
 }

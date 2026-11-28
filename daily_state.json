@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795861866.807104,
+  "last_post_ts": 1795863655.7651074,
   "recent_posts": [
     {
       "source_title": "O‘zbekistonda 1-dekabrdan nimalar o‘zgaradi?",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795858237.4227602,
+    "last_ad_ts": 1795863655.7629428,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 139,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 137,
+      "ad_water": 138,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -266,7 +266,7 @@
     "permanent_index": 2,
     "day": "2026-11-28",
     "today": {
-      "ad_water": 2,
+      "ad_water": 3,
       "ad_jcb": 2,
       "ad_flour": 2
     },
@@ -274,7 +274,7 @@
       "ad_flour": 1795858237.422758,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1795847446.4520755,
+      "ad_water": 1795863655.76294,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

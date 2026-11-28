@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795834854.1687543,
+  "last_post_ts": 1795836636.5265572,
   "recent_posts": [
     {
       "source_title": "Buxoro markaziy dehqon bozori vaqtinça yopildi",
@@ -244,10 +244,10 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795831243.350634,
+    "last_ad_ts": 1795836636.5208838,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 137,
@@ -261,12 +261,13 @@
       "ad_moto": 1,
       "ad_home2": 4,
       "ad_chinor_job": 25,
-      "ad_jcb": 8
+      "ad_jcb": 9
     },
     "permanent_index": 2,
     "day": "2026-11-28",
     "today": {
-      "ad_water": 1
+      "ad_water": 1,
+      "ad_jcb": 1
     },
     "last_shown": {
       "ad_flour": 1795798849.3395228,
@@ -281,7 +282,7 @@
       "ad_moto": 1794328239.7406266,
       "ad_home2": 1794492045.8405488,
       "ad_chinor_job": 1795534237.2364988,
-      "ad_jcb": 1795793436.113782
+      "ad_jcb": 1795836636.5208817
     },
     "morning_ad_date": "2026-11-28"
   },

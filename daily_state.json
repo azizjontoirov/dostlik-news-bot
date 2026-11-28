@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795876244.0688612,
+  "last_post_ts": 1795878055.729034,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda uyiga mulk huquqi bekor qilingan ayolning shikoyati qayta ko‘rib chiqiladigan bo‘ldi",
-      "headline": "Toshkentda uyiga mulk huquqi bekor qilingan ayolning shikoyati qayta ko'rib chiqilmoqda 🏠⚖️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/26/ce23e92cb7b5f3b20823ae94ea83baa3ee92b57ac94717fe13d3545322e1f4b8.webp",
-      "ts": 1795705255.786814
-    },
     {
       "source_title": "U-17 Jahon chempionati. O‘zbekiston Italiyaga mag‘lub bo‘ldi",
       "headline": "U‑17 Jahon chempionati: O'zbekiston Italiyaga mag'lub bo'ldi ⚽️",
@@ -240,11 +234,17 @@
       "headline": "Yangi Toshkentga ko'chish boshlanadi 🚚🏙️",
       "image": "https://gocdn.daryo.uz/2026/11/28/6cce989900f9e419cf1eaa5005895a6e43e3a3d007229786d5df28e23f5a8f43.jpg",
       "ts": 1795876242.065122
+    },
+    {
+      "source_title": "Toshkent viloyatida sifatsiz benzin sotgan AYQSH faoliyati to‘xtatildi",
+      "headline": "Sifatsiz benzin sotgan AYQSH faoliyati to'xtatildi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/28/376bd56f95de055d3d1cacff6faeb3d874d4c08f538f549a9d2b1a9c7bf1c293.webp",
+      "ts": 1795878053.7244601
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795874442.7438743,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 17
+    "count": 18
   }
 }

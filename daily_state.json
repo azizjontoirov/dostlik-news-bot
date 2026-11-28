@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795881660.3175797,
+  "last_post_ts": 1795883447.7495399,
   "recent_posts": [
-    {
-      "source_title": "Пойабзал ва трансформаторларни мажбурий маркировкалашни 2028 йилдан жорий этиш таклиф қилинмоқда",
-      "headline": "Poyabzal va transformatorlarni raqamli belgilash 2028 yildan majburiy!",
-      "image": "https://www.gazeta.uz/media/img/2021/04/I2q54l16178023030414_b.jpg",
-      "ts": 1795710645.840584
-    },
     {
       "source_title": "Gukeş - Sindarov: uçinçi partiya ham durang bilan yakunlandi, hisob - 1,5:1,5",
       "headline": "Javohir Sindarov va Gukeş Dommaraju o'rtasida uchinchi partiya durang bilan yakunlandi ♟️",
@@ -240,11 +234,17 @@
       "headline": "Polshadan topilgan merosxo'r: Toshkentda kvartira sotib olgan ayol qanday qilib tuzoqqa tushdi?",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/dbd0cb102d5f17108acb7abea89a732d71b762a36cc9ba5d8ad6dfadcb265e1d.webp",
       "ts": 1795881658.3128433
+    },
+    {
+      "source_title": "Tuman to‘rlaridan filtrlargacha: qurg‘oqchil hududlarda odamlarni suv bilan ta’minlashga yordam beradigan yetti texnologiya",
+      "headline": "Tuman to'rlaridan filtrlargacha: qurg'oqchil hududlarda suv bilan ta'minlashga yordam beradigan yetti texnologiya 🌱💧",
+      "image": "https://gocdn.daryo.uz/large/2026/11/28/d9a0f11f4160eb6378947f2200b556c3050409fec0adbebbf15066e02f62def8.webp",
+      "ts": 1795883445.74524
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795879836.128497,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 19
+    "count": 20
   }
 }

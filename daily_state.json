@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795870853.9404507,
+  "last_post_ts": 1795872640.0937533,
   "recent_posts": [
-    {
-      "source_title": "O‘zbekistonda har bir tuman va shahardagi kamida bitta maktabda voleybol klubi tashkil etiladi",
-      "headline": "Har bir tuman va shaharda voleybol klubi tashkil etiladi!",
-      "image": "https://gocdn.daryo.uz/large/2026/11/26/296b6a2cc58c04e423b5a58e168b2f001dbb6baaba955edb9a2ebe5fc7a7e5c0.webp",
-      "ts": 1795699845.3425674
-    },
     {
       "source_title": "Chirchiqda fuqarolarni buyurtma asosida “samosud” qilib kelgan guruh ushlandi",
       "headline": "Chirchiqda “samosud” guruhiga qarshi tezkor choralar",
@@ -240,11 +234,17 @@
       "headline": "NRG‑BI va Kapitalbank yangi “Biznes Aktiv” kredit mahsuloti 🚀",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/f7857abdd1b04d43b68d5e05232d56d9754bf2962888f04201be733248c4d0ec.webp",
       "ts": 1795870851.9357507
+    },
+    {
+      "source_title": "Ўзбекистонда божхона божларини тўлашдан қасддан бўйин товлаганлик учун жиноий жавобгарлик белгиланмоқда",
+      "headline": "Bojxona bojlarini qasddan to'lamaslik jinoyati joriy etildi",
+      "image": "https://www.gazeta.uz/media/img/2021/07/GynY3o16271300188909_b.jpg",
+      "ts": 1795872638.0895529
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795869039.9368858,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 15
+    "count": 16
   }
 }

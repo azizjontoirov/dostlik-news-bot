@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795867258.4828415,
+  "last_post_ts": 1795869039.939568,
   "recent_posts": [
     {
       "source_title": "Toshkent shahridagi Vebster universitetida Javohir Sindarov o‘yinlari uchun fanzona tashkil etildi",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795863655.7629428,
+    "last_ad_ts": 1795869039.9368858,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 139,
+      "ad_flour": 140,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 138,
@@ -268,10 +268,10 @@
     "today": {
       "ad_water": 3,
       "ad_jcb": 2,
-      "ad_flour": 2
+      "ad_flour": 3
     },
     "last_shown": {
-      "ad_flour": 1795858237.422758,
+      "ad_flour": 1795869039.9368834,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795863655.76294,

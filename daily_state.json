@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795856455.6815338,
+  "last_post_ts": 1795858237.425916,
   "recent_posts": [
     {
       "source_title": "Qatar-2026. Oʻzbekiston U-17 guruhdan chiqish imkoniyati qanday?",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795852845.7331727,
+    "last_ad_ts": 1795858237.4227602,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 138,
+      "ad_flour": 139,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 137,
@@ -268,10 +268,10 @@
     "today": {
       "ad_water": 2,
       "ad_jcb": 2,
-      "ad_flour": 1
+      "ad_flour": 2
     },
     "last_shown": {
-      "ad_flour": 1795842046.9088566,
+      "ad_flour": 1795858237.422758,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795847446.4520755,

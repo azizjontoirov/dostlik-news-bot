@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795860062.7080243,
+  "last_post_ts": 1795861866.807104,
   "recent_posts": [
-    {
-      "source_title": "Валюта курсининг ўзгариши октябрда инфляцион кутилмаларнинг асосий омили бўлди",
-      "headline": "Valyuta kursining o'zgarishi inflyatsiya kutilmalariga ta'sir ko'rsatdi",
-      "image": "https://www.gazeta.uz/media/img/2025/02/tJE1dW17387413472200_b.jpg",
-      "ts": 1795689044.8932223
-    },
     {
       "source_title": "O‘zbekistonda 1-dekabrdan nimalar o‘zgaradi?",
       "headline": "1-dekabrda O'zbekistonda muhim o'zgarishlar!",
@@ -240,11 +234,17 @@
       "headline": "Mozori‑Sharif konsulxonasi bosh konsulxonaga aylandi 🏢🇺🇿",
       "image": "https://gocdn.daryo.uz/large/2026/11/28/8787786dca3be68a77416bda61a0acd281d2c55aadb655c5413d354e3dc91587.webp",
       "ts": 1795860060.7050073
+    },
+    {
+      "source_title": "Mubaşşir Ahmad işi kassatsiya tartibida köriladi",
+      "headline": "Mubaşşir Ahmad ishi kassatsiya tartibida ko'rib chiqiladi",
+      "image": "",
+      "ts": 1795861864.803377
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795858237.4227602,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 11
+    "count": 12
   }
 }

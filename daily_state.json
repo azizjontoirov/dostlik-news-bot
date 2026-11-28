@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795836636.5265572,
+  "last_post_ts": 1795838452.4870727,
   "recent_posts": [
-    {
-      "source_title": "Buxoro markaziy dehqon bozori vaqtinça yopildi",
-      "headline": "Buxoro markaziy dehqon bozori vaqtincha yopildi 🚧",
-      "image": "https://storage.kun.uz/source/1/U8FbJvVsWUr13Jfeb7sD5vlczogslLhw.jpg",
-      "ts": 1795665660.1905475
-    },
     {
       "source_title": "Ўзбекистонда тадбиркорликни қўллаб-қувватлаш ва кредитлашнинг янги механизмлари жорий этилади",
       "headline": "Yangi mexanizm: tadbirkorlikni qo'llab‑quvvatlash va kreditlash! 🚀",
@@ -240,11 +234,17 @@
       "headline": "O'zbekistonlik bokschilarning Jahon kubogidagi raqiblari ma'lum bo'ldi 🥊",
       "image": "https://gocdn.daryo.uz/large/2026/11/27/e5cbc501c31a4c8c649c2607561f01c5b215429cfe598a46f42e24a252e59588.webp",
       "ts": 1795834852.1646957
+    },
+    {
+      "source_title": "Toşkentda 122 nafar xorijlik iştirokidagi firibgarlik tarmoği foş etildi",
+      "headline": "Toshkentda xorijlik ishtirokidagi firibgarlik tarmog'i fosh etildi ⚠️",
+      "image": "https://storage.kun.uz/source/1/mt_p5yLQAxp5onM2jpp-PhvUTzIuQVD2.webp",
+      "ts": 1795838450.4825373
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795836636.5208838,
@@ -289,6 +289,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 2
+    "count": 3
   }
 }

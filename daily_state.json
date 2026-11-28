@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795840243.2427728,
+  "last_post_ts": 1795842046.9111924,
   "recent_posts": [
     {
       "source_title": "Ўмон билан 5 млрд, Туркия билан 11,2 млрд долларлик лойиҳалар ижроси учун «йўл хариталари» тузилади",
@@ -244,13 +244,13 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795836636.5208838,
+    "last_ad_ts": 1795842046.9088595,
     "shown": {
       "logoped_gulshan": 15,
-      "ad_flour": 137,
+      "ad_flour": 138,
       "gilam_eag": 14,
       "ad_job": 50,
       "ad_water": 136,
@@ -267,10 +267,11 @@
     "day": "2026-11-28",
     "today": {
       "ad_water": 1,
-      "ad_jcb": 1
+      "ad_jcb": 1,
+      "ad_flour": 1
     },
     "last_shown": {
-      "ad_flour": 1795798849.3395228,
+      "ad_flour": 1795842046.9088566,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
       "ad_water": 1795831243.3506312,

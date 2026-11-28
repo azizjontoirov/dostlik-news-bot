@@ -1,5 +1,5 @@
 {
-  "last_post_ts": 1795845654.449806,
+  "last_post_ts": 1795847446.4541163,
   "recent_posts": [
     {
       "source_title": "Toshkent shahri, viloyati va vodiyda 27-noyabr kuni yomgʻir yogʻishi mumkin",
@@ -244,16 +244,16 @@
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 2,
+    "posts_since_ad": 0,
     "paid_index": 2,
     "slot_no": 4,
-    "last_ad_ts": 1795842046.9088595,
+    "last_ad_ts": 1795847446.4520779,
     "shown": {
       "logoped_gulshan": 15,
       "ad_flour": 138,
       "gilam_eag": 14,
       "ad_job": 50,
-      "ad_water": 136,
+      "ad_water": 137,
       "home": 9,
       "home_dom": 8,
       "uchastka_sale": 3,
@@ -266,7 +266,7 @@
     "permanent_index": 2,
     "day": "2026-11-28",
     "today": {
-      "ad_water": 1,
+      "ad_water": 2,
       "ad_jcb": 1,
       "ad_flour": 1
     },
@@ -274,7 +274,7 @@
       "ad_flour": 1795842046.9088566,
       "ad_job": 1793811647.7072773,
       "logoped_gulshan": 1792769439.4865992,
-      "ad_water": 1795831243.3506312,
+      "ad_water": 1795847446.4520755,
       "gilam_eag": 1792764054.4116373,
       "home": 1793806237.8342073,
       "home_dom": 1793800848.7919803,

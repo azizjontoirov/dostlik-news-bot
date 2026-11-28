@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795849257.1502807,
+  "last_post_ts": 1795851045.9981678,
   "recent_posts": [
-    {
-      "source_title": "Toshkentda Bo‘zsuv kanali bo‘yida yangi ekotematik bog‘ tashkil etilmoqda",
-      "headline": "Toshkentda Bo'zsuv kanali bo'yida yangi ekotematik bog' 🌿🚴‍♂️",
-      "image": "https://gocdn.daryo.uz/large/2026/11/26/bfbf4999ed097b9fb59d3b5b1e2479f662d7abd14e9423ab93fdb2c4bc1a8e10.webp",
-      "ts": 1795678250.5516086
-    },
     {
       "source_title": "Ўзбекистонда суд мажлисларини кузатувчи жамоатчилик вакиллари тайёрланмоқда",
       "headline": "Ochiq sud majlislarini kuzatish bo'yicha jamoat vakillari tayyorlanmoqda",
@@ -240,11 +234,17 @@
       "headline": "Google Pay endi Octobank kartalari bilan! 📱💳",
       "image": "https://gocdn.daryo.uz/large/2026/11/28/7b7ea8834f901cd141258e820f81ea29f13dd42eafa25fbab54d87e4a2a1e01f.webp",
       "ts": 1795849255.1458812
+    },
+    {
+      "source_title": "DXX generali Gʻayratulla Yoziyev 15 yilga qamaldi",
+      "headline": "DXX generali G'ayratulla Yoziyev 15 yilga qamaldi",
+      "image": "https://gocdn.daryo.uz/large/2026/11/28/88b1a95bb929a68900fb8c7b5f768f20b162b67a3d3bc83dcff6d7d7620b6868.webp",
+      "ts": 1795851043.994266
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 1,
+    "posts_since_ad": 2,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795847446.4520779,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 7
+    "count": 8
   }
 }

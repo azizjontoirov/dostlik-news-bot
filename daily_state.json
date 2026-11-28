@@ -1,12 +1,6 @@
 {
-  "last_post_ts": 1795842046.9111924,
+  "last_post_ts": 1795843846.5370948,
   "recent_posts": [
-    {
-      "source_title": "Ўмон билан 5 млрд, Туркия билан 11,2 млрд долларлик лойиҳалар ижроси учун «йўл хариталари» тузилади",
-      "headline": "Ўмон, Иордания ва Туркия билан “yo'l xaritalari” tuzilmoqda",
-      "image": "https://www.gazeta.uz/media/img/2026/11/canlsc29m45perQ1fY517956701766126_211730_og.webp?r=1795670239",
-      "ts": 1795671044.6441576
-    },
     {
       "source_title": "Instagram: Keksa muxlisiga sovg‘a bergan Avaz Oxun, farzand kutayotgan aktrisa, og‘ir judolikka uchragan Avazbek Alimov",
       "headline": "O'zbek shou‑biznesidagi yangiliklar! 🌟",
@@ -240,11 +234,17 @@
       "headline": "Tashkentda 9 ta avtobus yo'nalishiga yangi bekatlar qo'shildi",
       "image": "https://storage.kun.uz/source/1/pqrbhzZXOSxV6_IQbHed42pu77hrUtTs.jpg",
       "ts": 1795840241.2390654
+    },
+    {
+      "source_title": "Özbekiston Suvayş kanali hududida öz sanoat zonasini oçişi mumkin",
+      "headline": "Özbekiston Suvayş kanali hududida sanoat zonasi ochilishi mumkin 🏭🌍",
+      "image": "https://storage.kun.uz/source/1/shmiWZn_Noca2fTpCMpGNLL7xNGe5bJi.webp",
+      "ts": 1795843844.5331643
     }
   ],
   "morning_sent_date": "2026-11-28",
   "ads_state": {
-    "posts_since_ad": 0,
+    "posts_since_ad": 1,
     "paid_index": 2,
     "slot_no": 4,
     "last_ad_ts": 1795842046.9088595,
@@ -290,6 +290,6 @@
   "tg_update_offset": 652091514,
   "news_stats": {
     "day": "2026-11-28",
-    "count": 4
+    "count": 5
   }
 }
